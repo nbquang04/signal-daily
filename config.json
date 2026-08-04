@@ -1,0 +1,36 @@
+{
+  "timezone": "Asia/Ho_Chi_Minh",
+  "frontend_dir": "web",
+  "storage": {
+    "database": "data/daily_news.db",
+    "archive_dir": "data/archives"
+  },
+  "feeds": [
+    {"name": "Hacker News", "url": "https://hnrss.org/frontpage", "category": "technology", "market": "global"},
+    {"name": "TechCrunch", "url": "https://techcrunch.com/feed/", "category": "technology", "market": "global"},
+    {"name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/", "category": "technology", "market": "global"},
+    {"name": "VnExpress Số hóa", "url": "https://vnexpress.net/rss/so-hoa.rss", "category": "technology", "market": "vietnam"},
+    {"name": "VnExpress Kinh doanh", "url": "https://vnexpress.net/rss/kinh-doanh.rss", "category": "finance", "market": "vietnam"},
+    {"name": "Google News Reuters Finance", "url": "https://news.google.com/rss/search?q=finance+markets+when:1d+source:Reuters&hl=en-US&gl=US&ceid=US:en", "category": "finance", "market": "global"},
+    {"name": "Google News Social Needs", "url": "https://news.google.com/rss/search?q=(employment+OR+energy+OR+healthcare+OR+education+OR+digitalization)+when:1d&hl=en-US&gl=US&ceid=US:en", "category": "society", "market": "global"},
+    {"name": "Google News Nhu cầu Việt Nam", "url": "https://news.google.com/rss/search?q=(việc+làm+OR+năng+lượng+OR+y+tế+OR+giáo+dục+OR+chuyển+đổi+số)+when:1d&hl=vi&gl=VN&ceid=VN:vi", "category": "society", "market": "vietnam"}
+  ],
+  "github": {
+    "lookback_days": 14,
+    "min_stars": 30,
+    "languages": ["Python", "TypeScript", "Rust", "Go"],
+    "limit": 10
+  },
+  "finance": {
+    "symbols": {
+      "S&P 500": "^GSPC",
+      "NASDAQ": "^IXIC",
+      "Gold": "GC=F",
+      "Crude Oil": "CL=F",
+      "Bitcoin": "BTC-USD",
+      "USD/VND": "VND=X"
+    }
+  },
+  "limits": {"technology": 8, "finance": 8, "society": 8},
+  "openai": {"model": "gpt-4.1-mini", "batch_size": 12}
+}

@@ -1,0 +1,6 @@
+/* Long source URLs may appear in RSS descriptions; keep them inside the story column. */
+.story h3,
+.story p {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
