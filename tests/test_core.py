@@ -1,7 +1,9 @@
 import unittest
+from datetime import datetime, timezone
 
 from daily_news.collectors import clean_html, rank_and_dedupe
 from daily_news.models import Item
+from daily_news.pipeline import local_today
 
 
 class CoreTests(unittest.TestCase):
@@ -17,7 +19,10 @@ class CoreTests(unittest.TestCase):
         result = rank_and_dedupe(items, {"technology": 2})
         self.assertEqual([x.title for x in result], ["Other", "Same title"])
 
+    def test_report_date_uses_vietnam_timezone_not_runner_utc(self):
+        runner_time = datetime(2026, 8, 4, 21, 34, tzinfo=timezone.utc)
+        self.assertEqual(local_today("Asia/Ho_Chi_Minh", runner_time).isoformat(), "2026-08-05")
+
 
 if __name__ == "__main__":
     unittest.main()
-

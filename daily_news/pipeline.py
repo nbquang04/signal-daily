@@ -1,13 +1,22 @@
 import argparse
 import json
 import sys
-from datetime import date
+from datetime import date, datetime, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 from .collectors import collect_feed, collect_finance, collect_github, rank_and_dedupe
 from .enrich import enrich_bilingual
 from .render import render_all
 from .storage import archive_completed_months, save_report
+
+
+def local_today(timezone_name: str, now: datetime | None = None) -> date:
+    """Return the calendar date in the configured market timezone."""
+    instant = now or datetime.now(timezone.utc)
+    if instant.tzinfo is None:
+        instant = instant.replace(tzinfo=timezone.utc)
+    return instant.astimezone(ZoneInfo(timezone_name)).date()
 
 
 def run(config_path: Path, output_dir: Path, run_date: date) -> dict:
@@ -39,8 +48,11 @@ def main() -> None:
     parser = argparse.ArgumentParser(description="Generate a bilingual daily technology and finance brief")
     parser.add_argument("--config", type=Path, default=Path("config.json"))
     parser.add_argument("--output", type=Path, default=Path("output"))
-    parser.add_argument("--date", type=date.fromisoformat, default=date.today())
+    parser.add_argument("--date", type=date.fromisoformat, help="Override report date (YYYY-MM-DD)")
     args = parser.parse_args()
+    if args.date is None:
+        config = json.loads(args.config.read_text(encoding="utf-8"))
+        args.date = local_today(config.get("timezone", "Asia/Ho_Chi_Minh"))
     result = run(args.config, args.output, args.date)
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
