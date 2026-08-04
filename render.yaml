@@ -2,15 +2,10 @@ services:
   - type: web
     name: signal-daily
     runtime: docker
-    plan: starter
+    plan: free
     healthCheckPath: /api/health
     envVars:
       - key: OPENAI_API_KEY
         sync: false
       - key: OPENAI_MODEL
         value: gpt-4.1-mini
-    disk:
-      name: signal-daily-data
-      mountPath: /app/data
-      sizeGB: 1
-

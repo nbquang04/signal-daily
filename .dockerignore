@@ -3,9 +3,6 @@
 __pycache__
 *.py[cod]
 .venv
-data
-output
 tests
 design-system
 .env
-

@@ -45,7 +45,9 @@ Khi backend khởi động, pipeline chạy một lượt ngay trong background 
 docker compose up -d --build
 ```
 
-Volume `signal-daily-data` giữ SQLite và archive qua các lần cập nhật container. `render.yaml` cấu hình sẵn Render Web Service với persistent disk; gói Render có disk được yêu cầu để không mất lịch sử.
+Volume `signal-daily-data` giữ SQLite và archive khi chạy Docker trên máy cá nhân.
+
+Trên Render Free, container chỉ đọc snapshot database được đóng gói từ repository. GitHub Actions chạy khoảng 5 giờ/lần, cập nhật SQLite/archive, commit lên `main`, và Render tự deploy snapshot mới. Cách này không cần thẻ hoặc persistent disk. Render Free có thể ngủ khi ít truy cập nên request đầu tiên sau thời gian nghỉ có thể chậm.
 
 ### Lưu trữ theo tháng
 

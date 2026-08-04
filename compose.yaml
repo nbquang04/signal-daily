@@ -1,6 +1,7 @@
 services:
   signal-daily:
     build: .
+    command: ["python", "-m", "daily_news.server", "--host", "0.0.0.0", "--port", "8000", "--refresh-hours", "5"]
     restart: unless-stopped
     ports:
       - "8000:8000"
@@ -17,4 +18,3 @@ services:
 
 volumes:
   signal-daily-data:
-
