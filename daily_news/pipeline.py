@@ -7,6 +7,7 @@ from zoneinfo import ZoneInfo
 
 from .collectors import collect_feed, collect_finance, collect_github, rank_and_dedupe
 from .enrich import enrich_bilingual
+from .gemini import analyze_opportunities
 from .render import render_all
 from .storage import archive_completed_months, save_report
 
@@ -34,7 +35,17 @@ def run(config_path: Path, output_dir: Path, run_date: date) -> dict:
     selected = rank_and_dedupe(items, {**config.get("limits", {}), "github": config.get("github", {}).get("limit", 10)})
     enrich_bilingual(selected, config.get("openai", {}), warnings)
     markets = collect_finance(config.get("finance", {}).get("symbols", {}))
-    paths = render_all(output_dir, run_date, selected, markets, warnings, Path(config.get("frontend_dir", "web")))
+    insights = analyze_opportunities(selected, markets, run_date, warnings)
+    existing_json = output_dir / f"{run_date.isoformat()}.json"
+    if insights.get("status") != "ready" and existing_json.exists():
+        try:
+            previous_insights = json.loads(existing_json.read_text(encoding="utf-8")).get("insights", {})
+            if previous_insights.get("status") == "ready":
+                insights = previous_insights
+                warnings.append("Gemini quota unavailable; preserved the last successful opportunity analysis.")
+        except (OSError, ValueError):
+            pass
+    paths = render_all(output_dir, run_date, selected, markets, warnings, Path(config.get("frontend_dir", "web")), insights)
     storage = config.get("storage", {})
     database = Path(storage.get("database", "data/daily_news.db"))
     archive_dir = Path(storage.get("archive_dir", "data/archives"))

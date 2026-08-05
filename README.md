@@ -97,6 +97,10 @@ Workflow `.github/workflows/daily-news.yml` chạy khoảng **5 giờ một lầ
 
 AI không tham gia vào việc tải RSS/API, khử trùng lặp, chấm điểm, lưu SQLite hay archive tháng. Không có API key, hệ thống vẫn vận hành đầy đủ và dùng dịch máy miễn phí; OpenAI chỉ giúp phần tóm tắt và dịch tự nhiên hơn.
 
+## Gemini Opportunity Analyst
+
+Đặt `NVIDIA_API_KEY` ở backend để bật phân tích cơ hội SaaS và chatbot có dẫn nguồn qua NVIDIA OpenAI-compatible API. Mặc định dùng `AI_BASE_URL=https://integrate.api.nvidia.com/v1` và `AI_MODEL=z-ai/glm-5.2`. Gemini vẫn là fallback khi đặt `AI_PROVIDER=gemini`. Pipeline gọi AI một lần mỗi lượt để tạo tối đa 5 cơ hội; API `/api/chat` truy xuất các bài liên quan và giới hạn 10 câu hỏi/IP/giờ. Key không được đưa xuống frontend hoặc commit vào repository.
+
 ## Cấu trúc
 
 ```text

@@ -5,6 +5,18 @@ services:
     plan: free
     healthCheckPath: /api/health
     envVars:
+      - key: NVIDIA_API_KEY
+        sync: false
+      - key: AI_PROVIDER
+        value: nvidia
+      - key: AI_BASE_URL
+        value: https://integrate.api.nvidia.com/v1
+      - key: AI_MODEL
+        value: z-ai/glm-5.2
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: GEMINI_MODEL
+        value: gemini-3.5-flash
       - key: OPENAI_API_KEY
         sync: false
       - key: OPENAI_MODEL

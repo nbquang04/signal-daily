@@ -8,6 +8,12 @@ services:
     environment:
       OPENAI_API_KEY: ${OPENAI_API_KEY:-}
       OPENAI_MODEL: ${OPENAI_MODEL:-gpt-4.1-mini}
+      GEMINI_API_KEY: ${GEMINI_API_KEY:-}
+      GEMINI_MODEL: ${GEMINI_MODEL:-gemini-3.5-flash}
+      NVIDIA_API_KEY: ${NVIDIA_API_KEY:-}
+      AI_PROVIDER: ${AI_PROVIDER:-nvidia}
+      AI_BASE_URL: ${AI_BASE_URL:-https://integrate.api.nvidia.com/v1}
+      AI_MODEL: ${AI_MODEL:-z-ai/glm-5.2}
     volumes:
       - signal-daily-data:/app/data
     healthcheck:

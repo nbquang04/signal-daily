@@ -7,11 +7,14 @@ import re
 import subprocess
 import sys
 import threading
+import time
+from collections import defaultdict, deque
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from urllib.parse import urlparse
 
 from .storage import archive_dates, database_dates, get_archived_report, get_database_report, list_archives
+from .gemini import answer_question
 
 
 class NewsHandler(BaseHTTPRequestHandler):
@@ -19,6 +22,7 @@ class NewsHandler(BaseHTTPRequestHandler):
     archive_dir = Path("data/archives")
     web_dir = Path("web")
     refresh_hours = 5.0
+    chat_requests = defaultdict(deque)
 
     def _json(self, payload, status=200):
         body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
@@ -63,6 +67,41 @@ class NewsHandler(BaseHTTPRequestHandler):
         if path.startswith("/api/"):
             return self._json({"error": "not found"}, 404)
         return self._static(path)
+
+    def do_POST(self):
+        path = urlparse(self.path).path.rstrip("/")
+        if path != "/api/chat":
+            return self._json({"error": "not found"}, 404)
+        now = time.time()
+        client = self.client_address[0]
+        history = self.chat_requests[client]
+        while history and history[0] < now - 3600:
+            history.popleft()
+        if len(history) >= 10:
+            return self._json({"error": "Hourly chat limit reached. Please try again later."}, 429)
+        try:
+            length = int(self.headers.get("Content-Length", "0"))
+            if length <= 0 or length > 4096:
+                return self._json({"error": "invalid request size"}, 400)
+            body = json.loads(self.rfile.read(length).decode("utf-8"))
+            question = str(body.get("question", "")).strip()
+            language = "en" if body.get("language") == "en" else "vi"
+            if len(question) < 3 or len(question) > 800:
+                return self._json({"error": "question must be between 3 and 800 characters"}, 400)
+            dates = database_dates(self.database)
+            report_date = str(body.get("date") or (dates[0] if dates else ""))
+            report = get_database_report(self.database, report_date) or get_archived_report(self.archive_dir, report_date)
+            if not report:
+                return self._json({"error": "edition not found"}, 404)
+            history.append(now)
+            return self._json(answer_question(report, question, language))
+        except RuntimeError as exc:
+            return self._json({"error": str(exc)}, 503)
+        except (ValueError, json.JSONDecodeError):
+            return self._json({"error": "invalid JSON request"}, 400)
+        except Exception as exc:
+            print(f"Chat request failed: {type(exc).__name__}")
+            return self._json({"error": "AI service temporarily unavailable"}, 502)
 
     def log_message(self, fmt, *args):
         print(f"{self.address_string()} - {fmt % args}")

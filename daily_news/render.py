@@ -30,7 +30,7 @@ def _markdown_section(items: list[Item], language: str) -> str:
     return "\n".join(chunks)
 
 
-def render_all(output_dir: Path, run_date: date, items: list[Item], markets: list[dict], warnings: list[str], web_dir: Path | None = None) -> dict[str, Path]:
+def render_all(output_dir: Path, run_date: date, items: list[Item], markets: list[dict], warnings: list[str], web_dir: Path | None = None, insights: dict | None = None) -> dict[str, Path]:
     output_dir.mkdir(parents=True, exist_ok=True)
     stem = run_date.isoformat()
     disclaimer_vi = "> Dữ liệu tài chính chỉ mang tính tham khảo, không phải lời khuyên đầu tư."
@@ -41,7 +41,7 @@ def render_all(output_dir: Path, run_date: date, items: list[Item], markets: lis
     vi_path, en_path, json_path, html_path = [output_dir / f"{stem}.{ext}" for ext in ("vi.md", "en.md", "json", "html")]
     vi_path.write_text(vi, encoding="utf-8")
     en_path.write_text(en, encoding="utf-8")
-    payload = {"date": stem, "generated_at": datetime.now(timezone.utc).isoformat(), "markets": markets, "items": [x.to_dict() for x in items], "warnings": warnings}
+    payload = {"date": stem, "generated_at": datetime.now(timezone.utc).isoformat(), "markets": markets, "items": [x.to_dict() for x in items], "insights": insights or {"status": "unavailable", "opportunities": []}, "warnings": warnings}
     json_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     if web_dir is not None:
         data_dir = web_dir / "data"
