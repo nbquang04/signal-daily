@@ -14,7 +14,7 @@ from typing import Any
 from .models import Item
 
 
-def _generate_nvidia(prompt: str, *, json_mode: bool = False) -> str:
+def _generate_nvidia(prompt: str, *, json_mode: bool = False, max_tokens: int = 6000) -> str:
     api_key = os.getenv("NVIDIA_API_KEY")
     if not api_key:
         raise RuntimeError("NVIDIA_API_KEY is not configured")
@@ -25,7 +25,7 @@ def _generate_nvidia(prompt: str, *, json_mode: bool = False) -> str:
         "messages": [{"role": "user", "content": prompt}],
         "temperature": 0.3,
         "top_p": 0.9,
-        "max_tokens": 6000,
+        "max_tokens": max_tokens,
         "stream": False,
     }
     if json_mode:
@@ -36,7 +36,7 @@ def _generate_nvidia(prompt: str, *, json_mode: bool = False) -> str:
         method="POST",
         headers={"Content-Type": "application/json", "Authorization": f"Bearer {api_key}", "User-Agent": "SignalDaily/0.3"},
     )
-    with urllib.request.urlopen(request, timeout=120) as response:
+    with urllib.request.urlopen(request, timeout=180) as response:
         payload = json.loads(response.read().decode("utf-8"))
     choices = payload.get("choices") or []
     if not choices:
@@ -44,14 +44,14 @@ def _generate_nvidia(prompt: str, *, json_mode: bool = False) -> str:
     return str(choices[0].get("message", {}).get("content") or "").strip()
 
 
-def _generate_gemini(prompt: str, *, json_mode: bool = False) -> str:
+def _generate_gemini(prompt: str, *, json_mode: bool = False, max_tokens: int = 6000) -> str:
     api_key = os.getenv("GEMINI_API_KEY")
     if not api_key:
         raise RuntimeError("GEMINI_API_KEY is not configured")
     model = os.getenv("GEMINI_MODEL", "gemini-3.5-flash")
     body: dict[str, Any] = {
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.3, "maxOutputTokens": 6000},
+        "generationConfig": {"temperature": 0.3, "maxOutputTokens": max_tokens},
     }
     if json_mode:
         body["generationConfig"]["responseMimeType"] = "application/json"
@@ -69,12 +69,12 @@ def _generate_gemini(prompt: str, *, json_mode: bool = False) -> str:
     return "".join(part.get("text", "") for part in candidates[0]["content"].get("parts", [])).strip()
 
 
-def _generate(prompt: str, *, json_mode: bool = False) -> str:
+def _generate(prompt: str, *, json_mode: bool = False, max_tokens: int = 6000) -> str:
     provider = os.getenv("AI_PROVIDER", "nvidia" if os.getenv("NVIDIA_API_KEY") else "gemini").lower()
     if provider == "nvidia":
-        return _generate_nvidia(prompt, json_mode=json_mode)
+        return _generate_nvidia(prompt, json_mode=json_mode, max_tokens=max_tokens)
     if provider == "gemini":
-        return _generate_gemini(prompt, json_mode=json_mode)
+        return _generate_gemini(prompt, json_mode=json_mode, max_tokens=max_tokens)
     raise RuntimeError(f"Unsupported AI_PROVIDER: {provider}")
 
 
@@ -144,6 +144,6 @@ QUESTION: {question}
 REPORT DATE: {report.get('date')}
 OPPORTUNITY ANALYSIS: {json.dumps(report.get('insights', {}), ensure_ascii=False)}
 EVIDENCE: {json.dumps(context, ensure_ascii=False)}"""
-    answer = _generate(prompt)
+    answer = _generate(prompt, max_tokens=1600)
     sources = [{"id": i + 1, "title": row["title"], "url": row["url"], "source": row["source"]} for i, row in enumerate(context)]
     return {"answer": answer, "sources": sources, "date": report.get("date")}
