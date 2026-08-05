@@ -14,7 +14,8 @@ from typing import Any
 from .models import Item
 
 
-def _generate_nvidia(prompt: str, *, json_mode: bool = False, max_tokens: int = 6000) -> str:
+def _generate_nvidia(prompt: str, *, json_mode: bool = False, max_tokens: int = 6000,
+                     thinking: bool = True) -> str:
     api_key = os.getenv("NVIDIA_API_KEY")
     if not api_key:
         raise RuntimeError("NVIDIA_API_KEY is not configured")
@@ -30,6 +31,8 @@ def _generate_nvidia(prompt: str, *, json_mode: bool = False, max_tokens: int = 
     }
     if json_mode:
         body["response_format"] = {"type": "json_object"}
+    if not thinking:
+        body["chat_template_kwargs"] = {"enable_thinking": False}
     request = urllib.request.Request(
         f"{base_url}/chat/completions",
         data=json.dumps(body, ensure_ascii=False).encode("utf-8"),
@@ -69,10 +72,11 @@ def _generate_gemini(prompt: str, *, json_mode: bool = False, max_tokens: int = 
     return "".join(part.get("text", "") for part in candidates[0]["content"].get("parts", [])).strip()
 
 
-def _generate(prompt: str, *, json_mode: bool = False, max_tokens: int = 6000) -> str:
+def _generate(prompt: str, *, json_mode: bool = False, max_tokens: int = 6000,
+              thinking: bool = True) -> str:
     provider = os.getenv("AI_PROVIDER", "nvidia" if os.getenv("NVIDIA_API_KEY") else "gemini").lower()
     if provider == "nvidia":
-        return _generate_nvidia(prompt, json_mode=json_mode, max_tokens=max_tokens)
+        return _generate_nvidia(prompt, json_mode=json_mode, max_tokens=max_tokens, thinking=thinking)
     if provider == "gemini":
         return _generate_gemini(prompt, json_mode=json_mode, max_tokens=max_tokens)
     raise RuntimeError(f"Unsupported AI_PROVIDER: {provider}")
@@ -120,7 +124,7 @@ INPUT: {json.dumps({'news': evidence, 'markets': markets}, ensure_ascii=False)}"
         return {"status": "error", "opportunities": []}
 
 
-def _relevant_items(report: dict[str, Any], question: str, limit: int = 12) -> list[dict[str, Any]]:
+def _relevant_items(report: dict[str, Any], question: str, limit: int = 6) -> list[dict[str, Any]]:
     words = set(re.findall(r"[\wÀ-ỹ]{3,}", question.lower()))
     scored = []
     for item in report.get("items", []):
@@ -128,7 +132,7 @@ def _relevant_items(report: dict[str, Any], question: str, limit: int = 12) -> l
         score = sum(1 for word in words if word in haystack)
         scored.append((score, item))
     scored.sort(key=lambda pair: pair[0], reverse=True)
-    return [item for score, item in scored[:limit] if score > 0] or [item for _, item in scored[:8]]
+    return [item for score, item in scored[:limit] if score > 0] or [item for _, item in scored[:limit]]
 
 
 def answer_question(report: dict[str, Any], question: str, language: str = "vi") -> dict[str, Any]:
@@ -139,11 +143,11 @@ def answer_question(report: dict[str, Any], question: str, language: str = "vi")
     prompt = f"""You are Signal Daily's SaaS Opportunity Analyst. Answer in {'Vietnamese' if language == 'vi' else 'English'}.
 Use ONLY the supplied daily report and opportunity analysis. Separate facts from inference. Cite evidence inline as [1], [2].
 Focus on pain points, target users, willingness to pay, solution gaps, MVP validation, technology and finance implications.
-Never give personalized investment instructions; state uncertainty and challenge weak assumptions. Keep the answer under 700 words.
+Never give personalized investment instructions; state uncertainty and challenge weak assumptions. Keep the answer under 350 words.
 QUESTION: {question}
 REPORT DATE: {report.get('date')}
 OPPORTUNITY ANALYSIS: {json.dumps(report.get('insights', {}), ensure_ascii=False)}
 EVIDENCE: {json.dumps(context, ensure_ascii=False)}"""
-    answer = _generate(prompt, max_tokens=1600)
+    answer = _generate(prompt, max_tokens=700, thinking=False)
     sources = [{"id": i + 1, "title": row["title"], "url": row["url"], "source": row["source"]} for i, row in enumerate(context)]
     return {"answer": answer, "sources": sources, "date": report.get("date")}
