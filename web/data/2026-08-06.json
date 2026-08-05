@@ -1,0 +1,559 @@
+{
+  "date": "2026-08-06",
+  "generated_at": "2026-08-05T21:33:42.555337+00:00",
+  "markets": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7723.5498,
+      "change_pct": -0.17,
+      "currency": "USD"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "price": 26363.4395,
+      "change_pct": -0.83,
+      "currency": "USD"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "price": 4308.0,
+      "change_pct": 5.19,
+      "currency": "USD"
+    },
+    {
+      "name": "Crude Oil",
+      "symbol": "CL=F",
+      "price": 75.08,
+      "change_pct": -0.91,
+      "currency": "USD"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC-USD",
+      "price": 64687.7617,
+      "change_pct": 0.99,
+      "currency": "USD"
+    },
+    {
+      "name": "USD/VND",
+      "symbol": "VND=X",
+      "price": 26249.0,
+      "change_pct": -0.04,
+      "currency": "VND"
+    }
+  ],
+  "items": [
+    {
+      "title": "Nikita Bier steps down as X’s head of product",
+      "url": "https://techcrunch.com/2026/08/05/nikita-bier-steps-down-as-xs-head-of-product/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 21:30:50 +0000",
+      "description": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
+      "score": 0.0,
+      "title_vi": "Nikita Bier từ chức giám đốc sản phẩm của X",
+      "title_en": "Nikita Bier steps down as X’s head of product",
+      "summary_vi": "Doanh nhân nối tiếp này sẽ từ chức hơn một năm sau khi nhận \"công việc 24/7\" giám sát X.",
+      "summary_en": "The serial entrepreneur is stepping down a little over a year after taking the \"24/7 job\" of overseeing X.",
+      "meta": {}
+    },
+    {
+      "title": "Christ Health Center, The Salvation Army break ground on new healthcare facility - abc3340.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3M2VkMwakh6NFhidUhCN3p2Ty1vcXNnbXliSkNBaWRBLVhmWFJXd0tuTHl1czBFTU9ldmxMajRzT2xNeGRUakcyaS1Eb2wtOHBsQzR0aFVtTV9tRy1pQzEwRm1WNUhrWnhZSVNFUFExemtRWTRobmRPb3BZNWVpeVcxTFppeDlFNUx2UGRad0FDSWZuVUxKXy1ELU41cjk1SXpKTUowUm9NemdVeXZj?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 21:28:06 GMT",
+      "description": "Christ Health Center, The Salvation Army break ground on new healthcare facility abc3340.com",
+      "score": 0.0,
+      "title_vi": "Christ Health Center, The Salvation Army khởi công cơ sở chăm sóc sức khỏe mới - abc3340.com",
+      "title_en": "Christ Health Center, The Salvation Army break ground on new healthcare facility - abc3340.com",
+      "summary_vi": "Christ Health Center, The Salvation Army khởi công cơ sở chăm sóc sức khỏe mới abc3340.com",
+      "summary_en": "Christ Health Center, The Salvation Army break ground on new healthcare facility abc3340.com",
+      "meta": {}
+    },
+    {
+      "title": "Duke Energy Progress reaches agreement with North Carolina Public Staff and other stakeholders to deliver a lower-cost path to power North Carolina's future - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOU0FKVE9wOG9PWkt5bkxEeUJJQWF6VVJoQTNucFJ6SmlocXM2dHhQQTAwREFvYlp3MHpCaVlGNTZsTUxKREVrTEZXUUpUQmdDN04xS1Z1YWs0aW82UzBRQS1DMG1IUm45TzZFYk83ODlSdDRhUFE4OUdOc2RaWXU4ckdkRE5Tc1ZIMi1rOVU5alVFWUVOTU9DM2ZHNHBRZjZ5RzV3eXlERWxxMEw1eW5mZnVIcDlPY20yMjMxekZRbmROVkRxa1Vfcm05N2tfVWthNDFBcUdzcW04NmZybzMwamdUQUhSLUpuUHBBT3ltcms2bmdwS200bV81RXlhMkxiMmdud2hvQmIxcWVVZHJrbnFUZTdKTjljakFEbi1fTFFvdzZrWnBwTFduUVJQa3dnZnJsRkR3?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 21:27:00 GMT",
+      "description": "Duke Energy Progress reaches agreement with North Carolina Public Staff and other stakeholders to deliver a lower-cost path to power North Carolina's future PR Newswire",
+      "score": 0.0,
+      "title_vi": "Duke Energy Progress đạt được thỏa thuận với Nhân viên Công cộng Bắc Carolina và các bên liên quan khác để đưa ra con đường chi phí thấp hơn nhằm cung cấp năng lượng cho tương lai của Bắc Carolina - PR Newswire",
+      "title_en": "Duke Energy Progress reaches agreement with North Carolina Public Staff and other stakeholders to deliver a lower-cost path to power North Carolina's future - PR Newswire",
+      "summary_vi": "Duke Energy Progress đạt được thỏa thuận với Nhân viên Công cộng Bắc Carolina và các bên liên quan khác để đưa ra con đường chi phí thấp hơn để cung cấp năng lượng cho PR Newswire trong tương lai của Bắc Carolina",
+      "summary_en": "Duke Energy Progress reaches agreement with North Carolina Public Staff and other stakeholders to deliver a lower-cost path to power North Carolina's future PR Newswire",
+      "meta": {}
+    },
+    {
+      "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+      "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 21:26:40 +0000",
+      "description": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.",
+      "score": 0.0,
+      "title_vi": "Công ty khởi nghiệp về robot Atoms của Travis Kalanick bổ nhiệm cựu giám đốc tài chính Uber làm CFO",
+      "title_en": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+      "summary_vi": "Kalanick tiếp tục tập hợp ban nhạc trở lại sau khi mua lại công ty khởi nghiệp tự chủ của Anthony Levandowski và thậm chí còn thu hút đầu tư từ chính Uber.",
+      "summary_en": "Kalanick continues to get the band back together, after acquiring Anthony Levandowski's autonomy startup, and even soliciting investment from Uber itself.",
+      "meta": {}
+    },
+    {
+      "title": "JPMorgan Chase hires Lissauer for activism defense - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdm9NVGFjUXFXb2ZyNVloZ0FGdEh5bVZ1eTlkelpDOUk3aW9vX3Bta0g3ZHBqYklNUVNXU1NUMkxBREQ3RWRxNFNpVGI1RTF5UjZLVTM3X3dEYWNXY1JOR3Y2dnU2SVFJZDhNdHJ0Nm1jZ0xFWTlTRWxxVU0weHpxd194Q3FOeFNHR0thaDFIeG1mc05TbzJfVER3R0t6a0FM?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 21:22:14 GMT",
+      "description": "JPMorgan Chase hires Lissauer for activism defense Reuters",
+      "score": 0.0,
+      "title_vi": "JPMorgan Chase thuê Lissauer để bảo vệ hoạt động tích cực - Reuters",
+      "title_en": "JPMorgan Chase hires Lissauer for activism defense - Reuters",
+      "summary_vi": "JPMorgan Chase thuê Lissauer để bảo vệ hoạt động tích cực Reuters",
+      "summary_en": "JPMorgan Chase hires Lissauer for activism defense Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 21:21:28 +0000",
+      "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "score": 0.0,
+      "title_vi": "Meta ra mắt Muse Code, tác nhân AI cho các cơ sở mã lớn",
+      "title_en": "Meta launches Muse Code, an AI agent for large code bases",
+      "summary_vi": "Meta đã mở rộng các dịch vụ mã hóa AI của mình với một tác nhân mới mà nó hứa hẹn có thể xử lý các tác vụ phức tạp bằng phần mềm phức tạp.",
+      "summary_en": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "meta": {}
+    },
+    {
+      "title": "Connecticut issues new guidance on use of personal and purposeful tech in schools - fox61.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZkNZcDJEeGpFS0htT1hiNGE2ZVRselJPZmpvLXNUbDZDUVRSUVJjS0RxdGxQdmgydDR5bTEyeng4VUhmWjRZcDNVZXI2ZXVfbXlLTkd6d0dIX3hUMnFlYm9NLUI4VkFTRGluNDZhSE5GdkFaVkNWNzBNTHZxcVRZRzdOQW50alhoZjdaRWlfclBKT0lXMXQzTDVjaFNPYUdfVVI4czd1ZDIydW9Ca2NBWE1ILWxNVlFuT1Y3Z0dlV0FKX0o2SUhUOUEtcXJrRlBQaGFrX0VfMGhXWndlTXhHVjZCVEE1SHNiUlZHWjJWWUFpd2dBZUpz?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 21:18:00 GMT",
+      "description": "Connecticut issues new guidance on use of personal and purposeful tech in schools fox61.com",
+      "score": 0.0,
+      "title_vi": "Connecticut ban hành hướng dẫn mới về việc sử dụng công nghệ cá nhân và có mục đích trong trường học - fox61.com",
+      "title_en": "Connecticut issues new guidance on use of personal and purposeful tech in schools - fox61.com",
+      "summary_vi": "Connecticut ban hành hướng dẫn mới về việc sử dụng công nghệ cá nhân và có mục đích trong trường học fox61.com",
+      "summary_en": "Connecticut issues new guidance on use of personal and purposeful tech in schools fox61.com",
+      "meta": {}
+    },
+    {
+      "title": "Oklahoma education turnaround is key to state's economy, panel says - The Oklahoman",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQUFTMURuZkRVNFJ1WkN5YTg2Mjdrc2ZxU216TzZyTDRiRm00NDNPSy1uS1ZFYVJTTmhHTS1NbzFzOUJERGVJdEtVUjBhLVVxNDRqVXdoRVlNalBEcHQzREZXZExDb1pzM2pPQUloRTR4YUlETHd2YlZ5d0Q5NW53OFo1anU3OXNVMlpFaGkzZ0FFSHdwYzZKWlNYTi1wZ2lTd3RWOTNvb0ZWYW9NNTRhaXotaGF0Qk1JU1NralBCWXF6MjU1WnVGQTZrUHFFWmo4VGg0?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 21:15:00 GMT",
+      "description": "Oklahoma education turnaround is key to state's economy, panel says The Oklahoman",
+      "score": 0.0,
+      "title_vi": "Hội thảo cho biết sự thay đổi giáo dục ở Oklahoma là chìa khóa cho nền kinh tế của bang - The Oklahoman",
+      "title_en": "Oklahoma education turnaround is key to state's economy, panel says - The Oklahoman",
+      "summary_vi": "Hội thảo cho biết sự thay đổi giáo dục ở Oklahoma là chìa khóa cho nền kinh tế của bang",
+      "summary_en": "Oklahoma education turnaround is key to state's economy, panel says The Oklahoman",
+      "meta": {}
+    },
+    {
+      "title": "Mike Miles defends special education overhaul as HISD faces federal probe - Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRnYzZF81eGF1VGhWbUJZUU9SS19TblEwb0VYT1Ryelpzb1d5dVFHOXJyWEJvczVuNzZDa0xFbzZYamk1UGYtR3UzRFJZQnJaNFBGTXFLUzh0SVJaTXAteXhXR3BUUl9aSlpSYzF1VVoxYzdwbVFUM2J4UmdScTFRZGZjblYyOWV4STRfV3JOT0drRjlIUGV2cjZJRTl4MmR0TXJKNWZxbmJkLW9GSGRTb1d1TDY1bF9ZajlDX3dPS0s?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 21:12:27 GMT",
+      "description": "Mike Miles defends special education overhaul as HISD faces federal probe Houston Chronicle",
+      "score": 0.0,
+      "title_vi": "Mike Miles bảo vệ việc cải tổ giáo dục đặc biệt khi HISD đối mặt với cuộc điều tra liên bang - Houston Chronicle",
+      "title_en": "Mike Miles defends special education overhaul as HISD faces federal probe - Houston Chronicle",
+      "summary_vi": "Mike Miles bảo vệ việc cải tổ giáo dục đặc biệt khi HISD đối mặt với cuộc điều tra liên bang Houston Chronicle",
+      "summary_en": "Mike Miles defends special education overhaul as HISD faces federal probe Houston Chronicle",
+      "meta": {}
+    },
+    {
+      "title": "Children's Healthcare of Atlanta patients pose for the camera on Family Portrait Day - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdVRlZ1ZTOWRXaHN2Y1pJNWZJd1RjV3pacFVxc21rTzRYdGZJeF9KamhGcmxlUGk1a1ZERDdWMHMzeU5NV0RYZzVkTjdJdDdtbHZQT0FaYldyZ3JKSVllbEVUcDlfclVmNkcwSTFnVEJCZmp6Sk1LeXFJcFVFdFQ3YWxqUGZsaVNQWk1WRGRKQjNHWnhNaFY1ZHd5YldqTVY2NHJGaWtoRUYxeFFHOUs2S3ZXNUkwRHQ3ZEhkSkVkQQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 21:10:00 GMT",
+      "description": "Children's Healthcare of Atlanta patients pose for the camera on Family Portrait Day CBS News",
+      "score": 0.0,
+      "title_vi": "Cơ quan chăm sóc sức khỏe trẻ em của bệnh nhân Atlanta tạo dáng trước ống kính trong Ngày chân dung gia đình - CBS News",
+      "title_en": "Children's Healthcare of Atlanta patients pose for the camera on Family Portrait Day - CBS News",
+      "summary_vi": "Cơ quan chăm sóc sức khỏe trẻ em của bệnh nhân Atlanta tạo dáng trước ống kính trong Ngày chân dung gia đình CBS News",
+      "summary_en": "Children's Healthcare of Atlanta patients pose for the camera on Family Portrait Day CBS News",
+      "meta": {}
+    },
+    {
+      "title": "202608-new-mexico-energy-transition-climate-change - Yale Climate Connections",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQXzktWElMZGZsODI1bHRfalVYMW10US11NWYzY3dpRmVjRjgxM0lLMHhZUWJpUjVVNUlFUjk5alBFZVZ6ZlN3VFVua0E4TG9HZFJRSkw0QnptdzFCWGdMeml3Z3I3UTg2YmpfbWZidWRpS3htZWw4MlRvU2MyaTluMEZ6Y3ppSE40SEExTG9lbnBOaE1fWmV4enFxcVNJUG40UzM4Z2tiTlpQbXRnWGMzbjZhYUZoMDdpRkFLWGtLTHQxcmVEOGV6SnlwcUIwRmwzeVE?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 21:06:12 GMT",
+      "description": "202608-new-mexico-energy-transition-climate-change Yale Climate Connections",
+      "score": 0.0,
+      "title_vi": "202608-new-mexico-năng lượng-chuyển đổi-khí hậu-biến đổi - Yale Climate Connections",
+      "title_en": "202608-new-mexico-energy-transition-climate-change - Yale Climate Connections",
+      "summary_vi": "202608-new-mexico-năng lượng-chuyển đổi-khí hậu-thay đổi kết nối khí hậu Yale",
+      "summary_en": "202608-new-mexico-energy-transition-climate-change Yale Climate Connections",
+      "meta": {}
+    },
+    {
+      "title": "Braun extends gas tax holiday, citing new energy emergency - WFYI",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONmFmM2lERkNUeHltcHh1YjZfVDBpZXMxMjRGLUt4VWlIVFBCSGFoc3FiTnlsT0g1OHBfQngwQ2NVdTZMbm1lWWhtdkQwWkhTQ3dCdTc4MnNPVFRRdnI4dVVFa3V5XzU2WWdnNzVIbTNTVnF1OW56Z0hMWnB4X0oyMDZlWHF0REdBSGRDR2VxWVY2OGhDblJLLW9aZE91ampo?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 21:06:00 GMT",
+      "description": "Braun extends gas tax holiday, citing new energy emergency WFYI",
+      "score": 0.0,
+      "title_vi": "Braun kéo dài thời gian miễn thuế xăng dầu, trích dẫn tình trạng khẩn cấp về năng lượng mới - WFYI",
+      "title_en": "Braun extends gas tax holiday, citing new energy emergency - WFYI",
+      "summary_vi": "Braun gia hạn thời gian miễn thuế xăng dầu, trích dẫn tình trạng khẩn cấp về năng lượng mới WFYI",
+      "summary_en": "Braun extends gas tax holiday, citing new energy emergency WFYI",
+      "meta": {}
+    },
+    {
+      "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+      "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 21:05:37 +0000",
+      "description": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
+      "score": 0.0,
+      "title_vi": "DOJ của Trump giành được quyền giám sát việc tài trợ cho nhân viên thẻ xanh của OpenAI",
+      "title_en": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+      "summary_vi": "DOJ cáo buộc rằng OpenAI đã không cố gắng thuê công dân Hoa Kỳ trước khi tìm kiếm nơi thường trú cho nhân viên có Visa.",
+      "summary_en": "The DOJ alleged that OpenAI did not meaningful attempt to hire U.S. citizens before seeking permanent residence for Visa-holding employees.",
+      "meta": {}
+    },
+    {
+      "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+      "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 20:50:45 +0000",
+      "description": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
+      "score": 0.0,
+      "title_vi": "Moove huy động được 250 triệu USD để trở thành trụ cột của ngành công nghiệp robotaxi",
+      "title_en": "Moove raises $250M to become the backbone of the robotaxi industry",
+      "summary_vi": "Moove đang mở rộng quy mô quản lý đội xe tự lái trong hoạt động kinh doanh của mình và lên kế hoạch một ngày nào đó sẽ sở hữu chứ không chỉ quản lý Waymo robotaxis.",
+      "summary_en": "Moove is scaling up the autonomous vehicle fleet management side of its business and plans to someday own, not just manage, Waymo robotaxis.",
+      "meta": {}
+    },
+    {
+      "title": "How Lightspeed found its newest hire … via Instagram DM",
+      "url": "https://techcrunch.com/2026/08/05/how-lightspeed-found-its-newest-hire-via-instagram-dm/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 20:48:56 +0000",
+      "description": "Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity studio to talk about the strategies behind their growing social media presence and their podcast, Lightwork.",
+      "score": 0.0,
+      "title_vi": "Làm thế nào Lightspeed tìm được nhân viên mới nhất… qua Instagram DM",
+      "title_en": "How Lightspeed found its newest hire … via Instagram DM",
+      "summary_vi": "Các đối tác của Lightspeed, Josh Machiz và Claire Zau đã ghé qua studio Equity để nói về các chiến lược đằng sau sự hiện diện ngày càng tăng trên mạng xã hội và podcast của họ, Lightwork.",
+      "summary_en": "Lightspeed partners Josh Machiz and Claire Zau stopped by the Equity studio to talk about the strategies behind their growing social media presence and their podcast, Lightwork.",
+      "meta": {}
+    },
+    {
+      "title": "Why Lightspeed is going all-in on creator-led venture capital",
+      "url": "https://techcrunch.com/video/why-lightspeed-is-going-all-in-on-creator-led-venture-capital/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 20:48:54 +0000",
+      "description": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written. It’s a trend that’s been building with a16z’s acquisition of Erik Torenberg’s Turpentine podcast and OpenAI’s acquisition of TBPN. Lightspeed Venture Partners just made its own notable hire in that vein, bringing on Claire Zau, a seed investor with a major following on Instagram and […]",
+      "score": 0.0,
+      "title_vi": "Tại sao Lightspeed lại dốc toàn lực vào vốn đầu tư mạo hiểm do người sáng tạo lãnh đạo",
+      "title_en": "Why Lightspeed is going all-in on creator-led venture capital",
+      "summary_vi": "Các công ty liên doanh đang hướng tới những người sáng tạo để xây dựng niềm tin với thế hệ sáng lập tiếp theo trước khi séc được viết. Đó là một xu hướng đang được hình thành với việc a16z mua lại podcast Turpentine của Erik Torenberg và việc mua lại TBPN của OpenAI. Lightspeed Venture Partners vừa thực hiện thành công việc tuyển dụng đáng chú ý của riêng mình trong lĩnh vực đó, thu hút Claire Zau, một nhà đầu tư hạt giống có lượng người theo dõi lớn trên Instagram và […]",
+      "summary_en": "Venture firms are turning to creators to build trust with the next generation of founders before a check is ever written. It’s a trend that’s been building with a16z’s acquisition of Erik Torenberg’s Turpentine podcast and OpenAI’s acquisition of TBPN. Lightspeed Venture Partners just made its own notable hire in that vein, bringing on Claire Zau, a seed investor with a major following on Instagram and […]",
+      "meta": {}
+    },
+    {
+      "title": "Major Wall Street firms targeted in attempted cyberattacks, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORTh0MGxWX1RCZWdvU0lqaUZVczZzdDJaYlNDVlM5aURvZlVLWUpXaTJPZjRvOXpjQ2c2eUwwbDkzaTZBc3dRaHhyYkViSGdMV25VdWpvWVB6OXphVlZmOXl1OFRXV0pQZ2VxRkZtX1psOTN4UnRQeV9nNllHUzdadnB2Z3M4bTR1NG9HQW1pTVlYNzJBcXJZU0JYcmhEZVNIcWF2RmF6b1pucFFxWFpKWmtMbm10QXd4Vy1CT2V4dWI5NmUycW1fUw?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 20:37:45 GMT",
+      "description": "Major Wall Street firms targeted in attempted cyberattacks, sources say Reuters",
+      "score": 0.0,
+      "title_vi": "Các nguồn tin cho biết các công ty lớn ở Phố Wall là mục tiêu cố gắng tấn công mạng - Reuters",
+      "title_en": "Major Wall Street firms targeted in attempted cyberattacks, sources say - Reuters",
+      "summary_vi": "Các nguồn tin cho biết các công ty lớn ở Phố Wall là mục tiêu của các cuộc tấn công mạng",
+      "summary_en": "Major Wall Street firms targeted in attempted cyberattacks, sources say Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Chime lifts 2026 revenue forecast on robust demand, CFO to step down - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZEZ1THdyRC1EWDFWd1lRX0tITllEbXFiSzhlTlRIWUViMGJBbG5HY2VaeG9Wb0xWYndYSFhkOXVSUWhkazlYZDlCMFI3RzdwbENwWVdsa1NoT3BuaHBBWWt6Z0lVTVctRVJVWWJrdGlodDNSc3Y1b3lvaU5lWjA0TWRiTU9MandUdURKVnB6dXhQczFBQlNVNFE1OWM2SUp0SFFhX29qN0lraDhiN1psUFBUcko?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 20:10:13 GMT",
+      "description": "Chime lifts 2026 revenue forecast on robust demand, CFO to step down Reuters",
+      "score": 0.0,
+      "title_vi": "Chime nâng dự báo doanh thu năm 2026 do nhu cầu mạnh mẽ, CFO từ chức - Reuters",
+      "title_en": "Chime lifts 2026 revenue forecast on robust demand, CFO to step down - Reuters",
+      "summary_vi": "Chime nâng dự báo doanh thu năm 2026 do nhu cầu mạnh mẽ, CFO từ chức",
+      "summary_en": "Chime lifts 2026 revenue forecast on robust demand, CFO to step down Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 20:05:00 +0000",
+      "description": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "score": 0.0,
+      "title_vi": "Klaviyo mua lại Đại lý của Elias Torres trong cuộc hội ngộ toàn diện dành cho các nhà sáng lập công nghệ",
+      "title_en": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "summary_vi": "Doanh nhân nối tiếp gia nhập công ty thương mại điện tử với tư cách là CPO để lãnh đạo các đại lý AI của công ty.",
+      "summary_en": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "meta": {}
+    },
+    {
+      "title": "Trump Administration to Impose 15% Tariff on Polysilicon Imports - Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRDlJN21aNmVZN1BxUHFmYkg2VWtlMVZTWHRsVXdickhFUTExSTRzZDlXbDcyZXFSWkFITzJtYm4zSDdtZXl2VTh0R3BzRklLcWZCNWJzbUNpT2ZjZTBxNjdwS1NWbUYtV3Y2cC1wQ3BhdkJhZGphT3VwMGZSQmhqdHBJY2I2SmVpSUFPNGduWEVZMGpsMVJnX2dGbWliWEU?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 20:02:12 GMT",
+      "description": "Trump Administration to Impose 15% Tariff on Polysilicon Imports Global Banking & Finance Review",
+      "score": 0.0,
+      "title_vi": "Chính quyền Trump áp thuế 15% đối với hàng nhập khẩu Polysilicon - Tạp chí Tài chính & Ngân hàng Toàn cầu",
+      "title_en": "Trump Administration to Impose 15% Tariff on Polysilicon Imports - Global Banking & Finance Review",
+      "summary_vi": "Chính quyền Trump áp thuế 15% đối với hàng nhập khẩu Polysilicon Global Banking & Finance Review",
+      "summary_en": "Trump Administration to Impose 15% Tariff on Polysilicon Imports Global Banking & Finance Review",
+      "meta": {}
+    },
+    {
+      "title": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdklHVUNCN0JQTDlLR0piZnVyYXRkNkU1akFlU3dWWFRoQTUyVUFxTXVtbnU2V3pTY2QwZ3pXRUw3eTFZeG1IbDAzM0Q5eEJPd0VSRldTckFHb1dBYXUtQ2tocm44b2p1SE5EbGhCNUJyMG9SX0RhZTlRZjFFbURfWmhPbnN2YmNSTlF3NFFZbG5yNmFzWTNiZFBOTlFfOWp1cmZIMkxicE50d2tJWkVXOVZQRmFxc21qN01jaDR6RQ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 20:02:10 GMT",
+      "description": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq Reuters",
+      "score": 0.0,
+      "title_vi": "Dow đóng cửa ở mức kỷ lục nhờ sự lạc quan ở Trung Đông; SpaceX, AMD kéo Nasdaq - Reuters",
+      "title_en": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq - Reuters",
+      "summary_vi": "Dow đóng cửa ở mức kỷ lục nhờ sự lạc quan ở Trung Đông; SpaceX, AMD lôi kéo Nasdaq Reuters",
+      "summary_en": "Dow closes at record on Mideast optimism; SpaceX, AMD drag Nasdaq Reuters",
+      "meta": {}
+    },
+    {
+      "title": "CPI | AstraZeneca, Bristol Myers Dismiss Merger Talk Speculation - PYMNTS.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZEVkMlJyTFo5X2xhVTdZdjhpWGtJMFFoLWIxWTFlTnlIVVRnbkFKTS0xYXoxTFVqdWRZN0h2SFdvTFlmNjhBamhlQ2VmaXV5bkp2V0U2Y1BhTnM3dTlfaWJGRkVTV2p6cEtaOXVIQXdVV0IyMDJLcHkxMHBBcG1zOFVKQWlHYjJEUkJmaWlVdG5BOEpnNlE?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 19:00:21 GMT",
+      "description": "CPI | AstraZeneca, Bristol Myers Dismiss Merger Talk Speculation PYMNTS.com",
+      "score": 0.0,
+      "title_vi": "CPI | AstraZeneca, Bristol Myers bác bỏ suy đoán về cuộc đàm phán sáp nhập - PYMNTS.com",
+      "title_en": "CPI | AstraZeneca, Bristol Myers Dismiss Merger Talk Speculation - PYMNTS.com",
+      "summary_vi": "CPI | AstraZeneca, Bristol Myers bác bỏ suy đoán về cuộc thảo luận sáp nhập PYMNTS.com",
+      "summary_en": "CPI | AstraZeneca, Bristol Myers Dismiss Merger Talk Speculation PYMNTS.com",
+      "meta": {}
+    },
+    {
+      "title": "EXCLUSIVE: India may charge gas users to fund planned $42 billion fuel reserves, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0pqbWloUzBFS3l6TFRQWDlXdFFLX00xUTdNMkRGRTZ3NlRhQTBfN0dpd1RyR1ZxclBBNXE1b3duNHZQSlFwOHQ4MmthRU9jeFBmZTZRdUpyemt6X2pOVjZxQ3F0ZmNpYy1VSzZQMXRqSWlBOEhxZ2xOOFlmYzRyNmpNTHhManEzZHl0c19CemNJUW1Id2pBbWhiMjFIRkdVOGVhVWNkT3NGOXVpZHd3TGtNNVFHS3BvcWpzbVVFOG9FUDF6bHlB?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 18:14:48 GMT",
+      "description": "EXCLUSIVE: India may charge gas users to fund planned $42 billion fuel reserves, sources say Reuters",
+      "score": 0.0,
+      "title_vi": "ĐỘC QUYỀN: Ấn Độ có thể tính phí người sử dụng khí đốt để tài trợ cho dự trữ nhiên liệu trị giá 42 tỷ USD, các nguồn tin cho biết - Reuters",
+      "title_en": "EXCLUSIVE: India may charge gas users to fund planned $42 billion fuel reserves, sources say - Reuters",
+      "summary_vi": "ĐỘC QUYỀN: Ấn Độ có thể tính phí người sử dụng khí đốt để tài trợ cho dự trữ nhiên liệu trị giá 42 tỷ USD, các nguồn tin cho biết Reuters",
+      "summary_en": "EXCLUSIVE: India may charge gas users to fund planned $42 billion fuel reserves, sources say Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Two regional Fed banks to launch pilot survey of private credit market - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNU2E5eDcwMVVyWTR2UWtLa2pKdzVJQ29MbEZlVER5RWJRd1RpZE4yTURjcTdCSFgwY2UxUXdmeXRQUmc2NW9TUWJjRjhHOUN1U09jeERHdmZCd3AyV00zdVVaUmdjcEtaR2dveDdPYUJQNF8xOFhPTjFGLXB3UjhDSVVIR0ktakhIS0ZfZVlKQnhxTm1pMEZjSk5wcmRvVGZvSTZOUkREZFY2Zw?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 18:10:39 GMT",
+      "description": "Two regional Fed banks to launch pilot survey of private credit market Reuters",
+      "score": 0.0,
+      "title_vi": "Hai ngân hàng Fed khu vực triển khai khảo sát thí điểm thị trường tín dụng tư nhân - Reuters",
+      "title_en": "Two regional Fed banks to launch pilot survey of private credit market - Reuters",
+      "summary_vi": "Hai ngân hàng Fed khu vực triển khai khảo sát thí điểm thị trường tín dụng tư nhân",
+      "summary_en": "Two regional Fed banks to launch pilot survey of private credit market Reuters",
+      "meta": {}
+    }
+  ],
+  "insights": {
+    "status": "ready",
+    "model": "z-ai/glm-5.2",
+    "daily_thesis_vi": "Tin tức ngày 6/8/2026 cho thấy sự chuyển dịch mạnh mẽ sang tự động hóa (robotaxi, AI code), an ninh mạng tài chính, và tối ưu hóa năng lượng, tạo ra các cơ hội SaaS B2B cấp thiết.",
+    "daily_thesis_en": "Aug 6, 2026 news highlights a strong shift toward automation (robotaxis, AI code), financial cybersecurity, and energy optimization, creating urgent B2B SaaS opportunities.",
+    "opportunities": [
+      {
+        "name_vi": "Nền tảng Quản lý Đội xe Robotaxi",
+        "name_en": "Robotaxi Fleet Management Platform",
+        "pain_vi": "Sự bùng nổ của xe tự lái đòi hỏi hệ thống quản lý đội xe, tài chính và bảo trì chuyên dụng mà các phần mềm truyền thống chưa đáp ứng được.",
+        "pain_en": "The autonomous vehicle boom requires specialized fleet management, financing, and maintenance software that traditional systems lack.",
+        "audience_vi": "Các công ty vận hành xe tự lái và đối tác tài chính.",
+        "audience_en": "Autonomous vehicle operators and financial partners.",
+        "mvp_vi": "Phần mềm theo dõi vị trí, quản lý chi phí và bảo trì dự đoán cho đội xe tự lái.",
+        "mvp_en": "Software for tracking location, managing costs, and predictive maintenance for autonomous fleets.",
+        "scope": "global",
+        "score": 85,
+        "evidence_ids": [
+          4,
+          14
+        ],
+        "risks_vi": "Cạnh tranh từ các công ty ô tô lớn và rủi ro về quy định pháp lý.",
+        "risks_en": "Competition from large automakers and regulatory risks.",
+        "sources": [
+          {
+            "title": "Travis Kalanick’s robotics startup Atoms taps former Uber finance chief as CFO",
+            "url": "https://techcrunch.com/2026/08/05/travis-kalanicks-robotics-startup-atoms-taps-former-uber-finance-chief-as-cfo/",
+            "source": "TechCrunch"
+          },
+          {
+            "title": "Moove raises $250M to become the backbone of the robotaxi industry",
+            "url": "https://techcrunch.com/2026/08/05/moove-raises-250m-to-become-the-backbone-of-the-robotaxi-industry/",
+            "source": "TechCrunch"
+          }
+        ]
+      },
+      {
+        "name_vi": "Tự động hóa Tuân thủ Visa Làm việc",
+        "name_en": "Work Visa Compliance Automation",
+        "pain_vi": "Các công ty công nghệ đối mặt với sự giám sát chặt chẽ của chính phủ về quy trình thuê nhân lực nước ngoài và bảo lãnh thẻ xanh.",
+        "pain_en": "Tech companies face strict government scrutiny over hiring foreign workers and green card sponsorship processes.",
+        "audience_vi": "Phòng nhân sự và pháp lý của các công ty công nghệ đa quốc gia.",
+        "audience_en": "HR and legal departments of multinational tech companies.",
+        "mvp_vi": "Hệ thống tự động hóa quy trình tuyển dụng công dân Mỹ và theo dõi hồ sơ visa.",
+        "mvp_en": "System to automate US citizen recruitment tracking and visa documentation workflows.",
+        "scope": "global",
+        "score": 78,
+        "evidence_ids": [
+          13
+        ],
+        "risks_vi": "Thay đổi chính sách nhập cư đột ngột và yêu cầu pháp lý phức tạp.",
+        "risks_en": "Sudden immigration policy changes and complex legal requirements.",
+        "sources": [
+          {
+            "title": "Trump’s DOJ gains oversight of OpenAI’s green-card employee sponsorships",
+            "url": "https://techcrunch.com/2026/08/05/trumps-doj-gains-oversight-of-openais-green-card-employee-sponsorships/",
+            "source": "TechCrunch"
+          }
+        ]
+      },
+      {
+        "name_vi": "Agent AI Quản lý Mã nguồn Lớn",
+        "name_en": "Large Codebase AI Agent Manager",
+        "pain_vi": "Doanh nghiệp khó khăn trong việc tích hợp các AI agent xử lý tác vụ phức tạp vào hệ thống phần mềm khổng lồ và cũ.",
+        "pain_en": "Businesses struggle to integrate AI agents handling complex tasks into massive, legacy software systems.",
+        "audience_vi": "Các đội ngũ kỹ sư phần mềm cấp doanh nghiệp.",
+        "audience_en": "Enterprise software engineering teams.",
+        "mvp_vi": "Công cụ wrap API để kết nối AI agent với kho mã nguồn nội bộ và theo dõi hiệu suất.",
+        "mvp_en": "API wrapper tool to connect AI agents with internal codebases and track performance.",
+        "scope": "global",
+        "score": 82,
+        "evidence_ids": [
+          6,
+          19
+        ],
+        "risks_vi": "Lỗi bảo mật dữ liệu và sự phụ thuộc vào các nhà cung cấp AI lớn.",
+        "risks_en": "Data security breaches and dependency on major AI providers.",
+        "sources": [
+          {
+            "title": "Meta launches Muse Code, an AI agent for large code bases",
+            "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+            "source": "TechCrunch"
+          },
+          {
+            "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+            "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+            "source": "TechCrunch"
+          }
+        ]
+      },
+      {
+        "name_vi": "SaaS Phòng thủ Chống Chủ nghĩa Cổ đông",
+        "name_en": "Shareholder Activism Defense SaaS",
+        "pain_vi": "Các tập đoàn tài chính lớn cần công cụ theo dõi và phòng thủ chủ động trước các cuộc tấn công từ cổ đông kích động.",
+        "pain_en": "Major financial corporations need proactive monitoring and defense tools against activist shareholder attacks.",
+        "audience_vi": "Ban giám đốc và phòng quan hệ cổ đông của các tập đoàn lớn.",
+        "audience_en": "Board members and shareholder relations departments of large corporations.",
+        "mvp_vi": "Nền tảng theo dõi sở hữu cổ phiếu và dự báo các chiến dịch kích động.",
+        "mvp_en": "Platform tracking stock ownership and forecasting activist campaigns.",
+        "scope": "global",
+        "score": 75,
+        "evidence_ids": [
+          5
+        ],
+        "risks_vi": "Thị trường ngách và yêu cầu độ chính xác dữ liệu cực cao.",
+        "risks_en": "Niche market and extremely high data accuracy requirements.",
+        "sources": [
+          {
+            "title": "JPMorgan Chase hires Lissauer for activism defense - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdm9NVGFjUXFXb2ZyNVloZ0FGdEh5bVZ1eTlkelpDOUk3aW9vX3Bta0g3ZHBqYklNUVNXU1NUMkxBREQ3RWRxNFNpVGI1RTF5UjZLVTM3X3dEYWNXY1JOR3Y2dnU2SVFJZDhNdHJ0Nm1jZ0xFWTlTRWxxVU0weHpxd194Q3FOeFNHR0thaDFIeG1mc05TbzJfVER3R0t6a0FM?oc=5",
+            "source": "Google News Reuters Finance"
+          }
+        ]
+      },
+      {
+        "name_vi": "Công cụ Tối ưu hóa Chi phí Năng lượng",
+        "name_en": "Energy Cost Optimization Tool",
+        "pain_vi": "Các khu vực công nghiệp chịu áp lực từ tình trạng khẩn cấp năng lượng và thuế khí đốt, cần giải pháp tối ưu hóa chi phí ngay lập tức.",
+        "pain_en": "Industrial regions face pressure from energy emergencies and gas taxes, needing immediate cost optimization solutions.",
+        "audience_vi": "Các nhà máy sản xuất và chuỗi cung ứng tiêu thụ năng lượng lớn.",
+        "audience_en": "Manufacturing plants and energy-intensive supply chains.",
+        "mvp_vi": "Dashboard phân tích dữ liệu tiêu thụ năng lượng và đề xuất tiết kiệm chi phí theo thời gian thực.",
+        "mvp_en": "Dashboard analyzing energy consumption data and suggesting real-time cost savings.",
+        "scope": "global",
+        "score": 72,
+        "evidence_ids": [
+          3,
+          12
+        ],
+        "risks_en": "Fluctuating energy policies and high hardware integration costs.",
+        "risks_vi": "Chính sách năng lượng biến động và chi phí tích hợp phần cứng cao.",
+        "sources": [
+          {
+            "title": "Duke Energy Progress reaches agreement with North Carolina Public Staff and other stakeholders to deliver a lower-cost path to power North Carolina's future - PR Newswire",
+            "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOU0FKVE9wOG9PWkt5bkxEeUJJQWF6VVJoQTNucFJ6SmlocXM2dHhQQTAwREFvYlp3MHpCaVlGNTZsTUxKREVrTEZXUUpUQmdDN04xS1Z1YWs0aW82UzBRQS1DMG1IUm45TzZFYk83ODlSdDRhUFE4OUdOc2RaWXU4ckdkRE5Tc1ZIMi1rOVU5alVFWUVOTU9DM2ZHNHBRZjZ5RzV3eXlERWxxMEw1eW5mZnVIcDlPY20yMjMxekZRbmROVkRxa1Vfcm05N2tfVWthNDFBcUdzcW04NmZybzMwamdUQUhSLUpuUHBBT3ltcms2bmdwS200bV81RXlhMkxiMmdud2hvQmIxcWVVZHJrbnFUZTdKTjljakFEbi1fTFFvdzZrWnBwTFduUVJQa3dnZnJsRkR3?oc=5",
+            "source": "Google News Social Needs"
+          },
+          {
+            "title": "Braun extends gas tax holiday, citing new energy emergency - WFYI",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONmFmM2lERkNUeHltcHh1YjZfVDBpZXMxMjRGLUt4VWlIVFBCSGFoc3FiTnlsT0g1OHBfQngwQ2NVdTZMbm1lWWhtdkQwWkhTQ3dCdTc4MnNPVFRRdnI4dVVFa3V5XzU2WWdnNzVIbTNTVnF1OW56Z0hMWnB4X0oyMDZlWHF0REdBSGRDR2VxWVY2OGhDblJLLW9aZE91ampo?oc=5",
+            "source": "Google News Social Needs"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": [
+    "GitHub collection failed: HTTPError"
+  ]
+}
