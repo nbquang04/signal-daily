@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated_at": "2026-08-04T23:47:01.363215+00:00",
+  "generated_at": "2026-08-05T00:47:40.751612+00:00",
   "markets": [
     {
       "name": "S&P 500",
@@ -19,22 +19,22 @@
     {
       "name": "Gold",
       "symbol": "GC=F",
-      "price": 4125.0,
-      "change_pct": 2.26,
+      "price": 4138.1001,
+      "change_pct": 2.59,
       "currency": "USD"
     },
     {
       "name": "Crude Oil",
       "symbol": "CL=F",
-      "price": 75.23,
-      "change_pct": -6.36,
+      "price": 75.42,
+      "change_pct": -6.12,
       "currency": "USD"
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 64156.6094,
-      "change_pct": 1.1,
+      "price": 63996.8086,
+      "change_pct": 0.84,
       "currency": "USD"
     },
     {
@@ -54,16 +54,16 @@
       "market": "global",
       "published": "2026-07-29T20:03:08Z",
       "description": "Multiplayer agent harness for work",
-      "score": 1681.02,
+      "score": 1685.19,
       "title_vi": "phần mềm yc/m2",
       "title_en": "yc software/sqm",
       "summary_vi": "Khai thác tác nhân nhiều người chơi cho công việc",
       "summary_en": "Multiplayer agent harness for work",
       "meta": {
-        "stars": 11115,
-        "forks": 1206,
+        "stars": 11144,
+        "forks": 1211,
         "language": "TypeScript",
-        "stars_per_day": 1587.9
+        "stars_per_day": 1592.0
       }
     },
     {
@@ -74,16 +74,16 @@
       "market": "global",
       "published": "2026-07-31T21:38:51Z",
       "description": "An open-source, agentic-first CRM.",
-      "score": 1010.2,
+      "score": 1017.88,
       "title_vi": "thửcompai/crm",
       "title_en": "trycompai/crm",
       "summary_vi": "Một CRM mã nguồn mở, ưu tiên tác nhân.",
       "summary_en": "An open-source, agentic-first CRM.",
       "meta": {
-        "stars": 4629,
-        "forks": 488,
+        "stars": 4667,
+        "forks": 489,
         "language": "TypeScript",
-        "stars_per_day": 925.8
+        "stars_per_day": 933.4
       }
     },
     {
@@ -94,16 +94,16 @@
       "market": "global",
       "published": "2026-07-30T18:17:54Z",
       "description": "",
-      "score": 839.86,
+      "score": 841.21,
       "title_vi": "bashalarmistalt/decimen-quang-chuyển",
       "title_en": "bashalarmistalt/decimen-optical-transfer",
       "summary_vi": "bashalarmistalt/decimen-quang-chuyển",
       "summary_en": "bashalarmistalt/decimen-optical-transfer",
       "meta": {
-        "stars": 4534,
-        "forks": 550,
+        "stars": 4542,
+        "forks": 551,
         "language": "TypeScript",
-        "stars_per_day": 755.7
+        "stars_per_day": 757.0
       }
     },
     {
@@ -114,16 +114,16 @@
       "market": "global",
       "published": "2026-08-03T16:36:14Z",
       "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "score": 736.94,
+      "score": 798.31,
       "title_vi": "firecrawl/anydoc",
       "title_en": "firecrawl/anydoc",
       "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
       "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
       "meta": {
-        "stars": 1330,
-        "forks": 52,
+        "stars": 1451,
+        "forks": 58,
         "language": "Rust",
-        "stars_per_day": 665.0
+        "stars_per_day": 725.5
       }
     },
     {
@@ -134,16 +134,16 @@
       "market": "global",
       "published": "2026-08-02T11:15:16Z",
       "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "score": 470.57,
+      "score": 475.35,
       "title_vi": "thebuggeddev/anatomy",
       "title_en": "thebuggeddev/anatomy",
       "summary_vi": "Trình khám phá giải phẫu người 3D tương tác được xây dựng bằng bajs với GPT 5.6 Sol",
       "summary_en": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
       "meta": {
-        "stars": 1199,
-        "forks": 327,
+        "stars": 1213,
+        "forks": 332,
         "language": "TypeScript",
-        "stars_per_day": 399.7
+        "stars_per_day": 404.3
       }
     },
     {
@@ -154,14 +154,14 @@
       "market": "global",
       "published": "2026-07-23T14:53:51Z",
       "description": "",
-      "score": 346.61,
+      "score": 346.69,
       "title_vi": "slvDev/esp32-ai",
       "title_en": "slvDev/esp32-ai",
       "summary_vi": "slvDev/esp32-ai",
       "summary_en": "slvDev/esp32-ai",
       "meta": {
-        "stars": 3447,
-        "forks": 433,
+        "stars": 3448,
+        "forks": 434,
         "language": "Python",
         "stars_per_day": 265.2
       }
@@ -174,16 +174,16 @@
       "market": "global",
       "published": "2026-07-31T09:40:58Z",
       "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "score": 333.16,
+      "score": 337.52,
       "title_vi": "genspark-ai/genoffice",
       "title_en": "genspark-ai/genoffice",
       "summary_vi": "Bộ ứng dụng văn phòng gốc AI dành cho macOS và Windows: trình xử lý văn bản, bảng tính, bản trình bày và PDF.",
       "summary_en": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
       "meta": {
-        "stars": 1307,
-        "forks": 202,
+        "stars": 1328,
+        "forks": 204,
         "language": "TypeScript",
-        "stars_per_day": 261.4
+        "stars_per_day": 265.6
       }
     },
     {
@@ -194,16 +194,16 @@
       "market": "global",
       "published": "2026-07-29T18:16:14Z",
       "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-      "score": 326.61,
+      "score": 327.35,
       "title_vi": "microsoft/skill-ghi",
       "title_en": "microsoft/skill-recorder",
       "summary_vi": "Ứng dụng dành cho máy tính để bàn ghi lại phiên làm việc trên màn hình của bạn và sử dụng GitHub Copilot CLI để xây dựng lại phiên làm việc đó dưới dạng ý định + các bước được sắp xếp, sau đó xây dựng Kỹ năng hoặc Tự động hóa có thể sử dụng lại cho Microsoft Scout, Microsoft Copilot Cowork hoặc Copilot Studio.",
       "summary_en": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
       "meta": {
-        "stars": 1763,
-        "forks": 178,
+        "stars": 1768,
+        "forks": 179,
         "language": "TypeScript",
-        "stars_per_day": 251.9
+        "stars_per_day": 252.6
       }
     },
     {
@@ -214,16 +214,16 @@
       "market": "global",
       "published": "2026-07-23T02:48:07Z",
       "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
-      "score": 300.47,
+      "score": 300.55,
       "title_vi": "kvcache-ai/AgentENV",
       "title_en": "kvcache-ai/AgentENV",
       "summary_vi": "AgentENV (AENV) là một nền tảng phân tán để chạy các môi trường tác nhân trên quy mô lớn.",
       "summary_en": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
       "meta": {
-        "stars": 2871,
+        "stars": 2872,
         "forks": 227,
         "language": "Rust",
-        "stars_per_day": 220.8
+        "stars_per_day": 220.9
       }
     },
     {
@@ -234,17 +234,152 @@
       "market": "global",
       "published": "2026-07-22T23:04:54Z",
       "description": "TypeScript-to-Native Compiler",
-      "score": 284.17,
+      "score": 284.25,
       "title_vi": "vercel-labs/scriptc",
       "title_en": "vercel-labs/scriptc",
       "summary_vi": "Trình biên dịch TypeScript-to-Native",
       "summary_en": "TypeScript-to-Native Compiler",
       "meta": {
-        "stars": 2864,
+        "stars": 2865,
         "forks": 66,
         "language": "TypeScript",
         "stars_per_day": 204.6
       }
+    },
+    {
+      "title": "11 dấu hiệu cảnh báo sớm ngân hàng mất thanh khoản",
+      "url": "https://vnexpress.net/11-dau-hieu-canh-bao-som-ngan-hang-mat-thanh-khoan-5105047.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Wed, 05 Aug 2026 07:36:35 +0700",
+      "description": "15/15 ngân hàng từng gặp sự cố về thanh khoản, theo FiinRatings, đều xuất hiện dấu hiệu mất cân đối tài sản, tín dụng, tiền gửi từ trước.",
+      "score": 0.0,
+      "title_vi": "11 dấu hiệu cảnh báo sớm ngân hàng mất thanh khoản",
+      "title_en": "11 early warning signs of bank loss of liquidity",
+      "summary_vi": "15/15 ngân hàng từng gặp sự cố về thanh khoản, theo FiinRatings, đều xuất hiện dấu hiệu mất cân đối tài sản, tín dụng, tiền gửi từ trước.",
+      "summary_en": "15/15 banks have had liquidity problems, according to FiinRatings, all showing signs of imbalance in assets, credit, and deposits from before.",
+      "meta": {}
+    },
+    {
+      "title": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+      "url": "https://arxiv.org/abs/2603.04221",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 00:10:37 +0000",
+      "description": "Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 5 # Comments: 1",
+      "score": 0.0,
+      "title_vi": "Zigbee so với vấn đề về chủ đề: Tìm hiểu hiệu suất giao thức IoT trong thực tế",
+      "title_en": "Zigbee vs. Matter over Thread:Understanding IoT Protocol Performance in Practice",
+      "summary_vi": "URL bài viết: https://arxiv.org/abs/2603.04221 URL bình luận: https://news.ycombinator.com/item?id=49176983 Điểm: 5 # Bình luận: 1",
+      "summary_en": "Article URL: https://arxiv.org/abs/2603.04221 Comments URL: https://news.ycombinator.com/item?id=49176983 Points: 5 # Comments: 1",
+      "meta": {}
+    },
+    {
+      "title": "Bugtraq Is Back",
+      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 00:05:49 +0000",
+      "description": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ Comments URL: https://news.ycombinator.com/item?id=49176947 Points: 4 # Comments: 1",
+      "score": 0.0,
+      "title_vi": "Bugtraq đã trở lại",
+      "title_en": "Bugtraq Is Back",
+      "summary_vi": "URL bài viết: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ URL nhận xét: https://news.ycombinator.com/item?id=49176947 Điểm: 4 # Nhận xét: 1",
+      "summary_en": "Article URL: https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/ Comments URL: https://news.ycombinator.com/item?id=49176947 Points: 4 # Comments: 1",
+      "meta": {}
+    },
+    {
+      "title": "New UEH Publications Alert (Tuần 5 – Tháng 07/2026): Đột phá liên ngành từ đổi mới công nghệ đến phát triển bền vững - Đại học Kinh tế TP. Hồ Chí Minh",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVXdMeWNlNkZFWHlPRzBaNDVOZUhoeFgyZ0Uzc3VPZGpYZjdvVUliSUdaR21Da0FYNVNDVXJGUUdJc085VTVzOXBQbTNpbmlXNWpMR3BnXy12alJ6QjNRcXUzSE5GdUdWZkJhN21Ld1VDX0dOckZzVW9ZUEFyX1BVVWZfQ2VBUHlkTmZwZzl2N3pPbjVMdUZDQTdaamVHX1BDRkZNS213VmJsRHdxRXp3NmJ5VjNvODRRcTJYX09BNkJ6VnhaRjAxaDVzY1NYaGNaMDVkdzlNOTJEcmZSclhINUZCcw?oc=5",
+      "source": "Google News Nhu cầu Việt Nam",
+      "category": "society",
+      "market": "vietnam",
+      "published": "Wed, 05 Aug 2026 00:03:36 GMT",
+      "description": "New UEH Publications Alert (Tuần 5 – Tháng 07/2026): Đột phá liên ngành từ đổi mới công nghệ đến phát triển bền vững Đại học Kinh tế TP. Hồ Chí Minh",
+      "score": 0.0,
+      "title_vi": "New UEH Publications Alert (Tuần 5 – Tháng 07/2026): Đột phá liên ngành từ đổi mới công nghệ đến phát triển bền vững - Đại học Kinh tế TP. Hồ Chí Minh",
+      "title_en": "New UEH Publications Alert (Week 5 – July 2026): Interdisciplinary breakthroughs from technological innovation to sustainable development - City University of Economics. Ho Chi Minh",
+      "summary_vi": "New UEH Publications Alert (Tuần 5 – Tháng 07/2026): Đột phá liên ngành từ đổi mới công nghệ đến phát triển bền vững Đại học Kinh tế TP. Hồ Chí Minh",
+      "summary_en": "New UEH Publications Alert (Week 5 - July 2026): Interdisciplinary breakthroughs from technological innovation to sustainable development Ho Chi Minh City University of Economics. Ho Chi Minh",
+      "meta": {}
+    },
+    {
+      "title": "Flowise Is Shutting Down",
+      "url": "https://flowiseai.com/sunset",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 00:02:40 +0000",
+      "description": "Article URL: https://flowiseai.com/sunset Comments URL: https://news.ycombinator.com/item?id=49176920 Points: 4 # Comments: 1",
+      "score": 0.0,
+      "title_vi": "Flowise đang tắt",
+      "title_en": "Flowise Is Shutting Down",
+      "summary_vi": "URL bài viết: https://flowiseai.com/sunset URL bình luận: https://news.ycombinator.com/item?id=49176920 Điểm: 4 # Bình luận: 1",
+      "summary_en": "Article URL: https://flowiseai.com/sunset Comments URL: https://news.ycombinator.com/item?id=49176920 Points: 4 # Comments: 1",
+      "meta": {}
+    },
+    {
+      "title": "Energy Secretary Chris Wright visits Port of Brownsville for investment talks - KRGV",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTHdRWWRxUG0tVGJMOG5hYVdyYnNDQ0EzRHVTbXVTMnpLOERKZTA0OWp4R2xYTXJSWUFfSHBKY0hQVUlEZ0duWDZ3d3VmRy1ySHZjNTNaU0ZmcUNxRXlfWkdTN1BXakN2M2VHdnJKSWU2RWZNVElOY3FrampXaTdORnhIRGVONTZRSDM1U0otS0c1Rm5HX2VyRXdzMVJrLS1hd2tyME4zQQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 05 Aug 2026 00:02:26 GMT",
+      "description": "Energy Secretary Chris Wright visits Port of Brownsville for investment talks KRGV",
+      "score": 0.0,
+      "title_vi": "Bộ trưởng Năng lượng Chris Wright thăm Cảng Brownsville để đàm phán đầu tư - KRGV",
+      "title_en": "Energy Secretary Chris Wright visits Port of Brownsville for investment talks - KRGV",
+      "summary_vi": "Bộ trưởng Năng lượng Chris Wright thăm Cảng Brownsville để đàm phán đầu tư KRGV",
+      "summary_en": "Energy Secretary Chris Wright visits Port of Brownsville for investment talks KRGV",
+      "meta": {}
+    },
+    {
+      "title": "bp announces plans to sell biogas company Archaea Energy - Biomass Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUFdKeUhYOVhiMTg1UDZlUGc0M01yQmJJRW5NSTRiVFdPZm91YXJvMmFhaHM2YktsMlQ2S0Z0T2p3VXNVMlNUSmxNdGlUVjN1eTFRX3FpWTdaaUl4UnFHTk1oNnRwVFpaMU52WnJCb3BfTGNiWUtOejZmZGQ1b21GcGJsbjh4UDJyMnpINUdkV2pzOFE2YTg4Tg?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 04 Aug 2026 23:57:51 GMT",
+      "description": "bp announces plans to sell biogas company Archaea Energy Biomass Magazine",
+      "score": 0.0,
+      "title_vi": "bp công bố kế hoạch bán công ty khí sinh học Archaea Energy - Tạp chí sinh khối",
+      "title_en": "bp announces plans to sell biogas company Archaea Energy - Biomass Magazine",
+      "summary_vi": "bp công bố kế hoạch bán công ty khí sinh học Archaea Energy Biomass Magazine",
+      "summary_en": "bp announces plans to sell biogas company Archaea Energy Biomass Magazine",
+      "meta": {}
+    },
+    {
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 04 Aug 2026 23:50:52 +0000",
+      "description": "Article URL: https://queue.acm.org/detail.cfm?id=3807963 Comments URL: https://news.ycombinator.com/item?id=49176830 Points: 16 # Comments: 2",
+      "score": 0.0,
+      "title_vi": "Tám lầm tưởng về Kỹ thuật phần mềm và GenAI",
+      "title_en": "Eight Myths on Software Engineering and GenAI",
+      "summary_vi": "URL bài viết: https://queue.acm.org/detail.cfm?id=3807963 URL bình luận: https://news.ycombinator.com/item?id=49176830 Điểm: 16 # Bình luận: 2",
+      "summary_en": "Article URL: https://queue.acm.org/detail.cfm?id=3807963 Comments URL: https://news.ycombinator.com/item?id=49176830 Points: 16 # Comments: 2",
+      "meta": {}
+    },
+    {
+      "title": "McMahon’s ‘National Call to Action’ Draws Measured Response From Higher Education - U.S. News & World Report",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYVVZcFUyVm9CSDFCbUdpMm4tam9pb3M1SEFraF83ZE1Tenc3YzkzRkFkV2ljV2lLNzN3MThZQ1AxZW5fMkppeHdYU2hPRnJ0TUlxVnFiYUpNUzJwQ1psSGNobVZPQUNvV3BrYzFGaTRlWUc5aVBBd3Z6YlU0WThfM0xkRFdKRFJQX1lENVROVmpuNzB3Y1V4QlZzZGN5am9XUXFVenctQ0E5ZFpiMkRuTW15UF82TEF1a0d6dzNXaWR5Nk1Da1hmU1BrZUpkLXV1cDFLMTBpRQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 04 Aug 2026 23:50:00 GMT",
+      "description": "McMahon’s ‘National Call to Action’ Draws Measured Response From Higher Education U.S. News & World Report",
+      "score": 0.0,
+      "title_vi": "'Lời kêu gọi hành động quốc gia' của McMahon thu hút phản hồi có tính toán từ giáo dục đại học - US News & World Report",
+      "title_en": "McMahon’s ‘National Call to Action’ Draws Measured Response From Higher Education - U.S. News & World Report",
+      "summary_vi": "'Lời kêu gọi hành động quốc gia' của McMahon thu hút phản hồi có tính toán từ giáo dục đại học US News & World Report",
+      "summary_en": "McMahon’s ‘National Call to Action’ Draws Measured Response From Higher Education U.S. News & World Report",
+      "meta": {}
     },
     {
       "title": "Giám đốc Sở GD&ĐT Khánh Hòa: Sau hơn 1 năm sáp nhập, giáo dục tỉnh có nhiều chuyển biến tích cực - Giáo dục Việt Nam",
@@ -277,6 +412,51 @@
       "meta": {}
     },
     {
+      "title": "2026 Monster Energy AMA National Motocross Championship at Loretta Lynn's - FloRacing",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQklmZjFPZDB1T2szRWczUGtlTW50UEpiSG1DdWJJbEk2eWY2Qm5GQmNoZ3dhcnp3emJ0QW5qWmlsSDdtbDBfZ29RODExV0QxQi1Pa1NCV3p3UlBPVVFKT1hYMTZEd2c5MTlsd2ZfYkNzSWh4eTRvWHVER2ZhSldieTJvbWszOGpXWUI1d09PS0xnSF9CRWNhWDFLS2Y4OGx1bzdtVjczWU44cHBnM3BueGRnREo1eEJnai16RlFidDZyMk1GN3FNWEVXQ3R5UWw3NGRNSw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 04 Aug 2026 23:35:27 GMT",
+      "description": "2026 Monster Energy AMA National Motocross Championship at Loretta Lynn's FloRacing",
+      "score": 0.0,
+      "title_vi": "Giải vô địch đua xe mô tô quốc gia AMA Monster Energy 2026 tại Loretta Lynn's - FloRacing",
+      "title_en": "2026 Monster Energy AMA National Motocross Championship at Loretta Lynn's - FloRacing",
+      "summary_vi": "Giải vô địch đua xe mô tô quốc gia AMA Monster Energy 2026 tại Loretta Lynn's FloRacing",
+      "summary_en": "2026 Monster Energy AMA National Motocross Championship at Loretta Lynn's FloRacing",
+      "meta": {}
+    },
+    {
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 04 Aug 2026 23:31:46 +0000",
+      "description": "Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/ Comments URL: https://news.ycombinator.com/item?id=49176697 Points: 21 # Comments: 2",
+      "score": 0.0,
+      "title_vi": "Rò rỉ IP và DNS trong WebKit ảnh hưởng đến trình duyệt proxy và chuyển tiếp riêng tư iCloud",
+      "title_en": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "summary_vi": "URL bài viết: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/ URL bình luận: https://news.ycombinator.com/item?id=49176697 Điểm: 21 # Bình luận: 2",
+      "summary_en": "Article URL: https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/ Comments URL: https://news.ycombinator.com/item?id=49176697 Points: 21 # Comments: 2",
+      "meta": {}
+    },
+    {
+      "title": "US yen intervention signals perfect storm rising in FX and bond markets - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOVhFamJnNjNYd1piUGFvMUR6WV9tSWVOdkdaa1lsYmd2UEp3blppbXVKYnZma2E5YjBHQWV1MlJoQjNSZFlQMW04RWRMSEQ3Ykl6Um9DNzJOTFBvSkxuMTVNSC1xWlpzbmtJZFpRMm5NWkxSUFZZRGlpcmpXYjBrNmJHR19UendSQUJzRElnZEtBal94dUUtVlhjN1pacWZNZE10Vlp3Qjk3ZTZzd3ZlZG5FWDROSkUybHNUZE1LamlkYm1heFFFNEhTVEF4UQ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 04 Aug 2026 23:30:25 GMT",
+      "description": "US yen intervention signals perfect storm rising in FX and bond markets Reuters",
+      "score": 0.0,
+      "title_vi": "Sự can thiệp của đồng yên Mỹ báo hiệu cơn bão hoàn hảo đang gia tăng trên thị trường ngoại hối và trái phiếu - Reuters",
+      "title_en": "US yen intervention signals perfect storm rising in FX and bond markets - Reuters",
+      "summary_vi": "Sự can thiệp của đồng yên Mỹ báo hiệu cơn bão hoàn hảo đang gia tăng trên thị trường ngoại hối và trái phiếu",
+      "summary_en": "US yen intervention signals perfect storm rising in FX and bond markets Reuters",
+      "meta": {}
+    },
+    {
       "title": "Evansville Rotary panel addresses data center questions on energy, water and jobs - WFIE | 14 News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzg1NFNjb0t0M1FJdU45RVJWaVd6ZG8zV1Zhb3JWYnAwNHZNSmJ4NEVRQk1XMXM0eVBTZ2VJTU54b1R1VEVNWjhZRmxMY1VnVjBtWU5pakd2VFhWWnprOTRSOThGWGpSaXV3OUJmX1lWalZDUXUxSGdFcjZNRUdjZE9VMGxMTkVEaFFrb1RpbWRuYXVlV21QUFlGbkRSUGFia21oanB6M2NqOFBV?oc=5",
       "source": "Google News Social Needs",
@@ -292,48 +472,33 @@
       "meta": {}
     },
     {
-      "title": "Theo dấu cuộc chiến chống lao ở xứ Nghệ (kỳ cuối): \"Săn\" mầm bệnh từ bản làng - Báo Sức khỏe & Đời sống",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYzcteVE3cnpPdHdsU291M1hwZlVXcHZRek9hbnAzTnl1M1NPc20tUFNQbXJ1UG1QOTN5ejVDMnMzTlczdU1CVzh0ZTljYkVRNER6R3NtekJiUVZQM3pyWUo1eHRVTzZnMTg0ZWwwRFJlTmYxdkZPRnFhazRZT19BemhCWU5qQnFKbDNHTGNnRWMxMVVHa1IwVk9DX3dmNTNRWDdCUENVVlhDMUpaeE1NWW5Nd3VFZmZuOEgxMzZR?oc=5",
-      "source": "Google News Nhu cầu Việt Nam",
-      "category": "society",
-      "market": "vietnam",
-      "published": "Tue, 04 Aug 2026 23:24:00 GMT",
-      "description": "Theo dấu cuộc chiến chống lao ở xứ Nghệ (kỳ cuối): \"Săn\" mầm bệnh từ bản làng Báo Sức khỏe & Đời sống",
+      "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 04 Aug 2026 23:22:37 +0000",
+      "description": "Article URL: https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/ Comments URL: https://news.ycombinator.com/item?id=49176644 Points: 26 # Comments: 16",
       "score": 0.0,
-      "title_vi": "Theo dấu cuộc chiến chống lao ở xứ Nghệ (kỳ cuối): \"Săn\" mầm bệnh từ bản làng - Báo Sức khỏe & Đời sống",
-      "title_en": "Tracing the fight against tuberculosis in Nghe An (final period): \"Hunting\" pathogens from the village - Health & Life Newspaper",
-      "summary_vi": "Theo dấu cuộc chiến chống lao ở xứ Nghệ (kỳ cuối): \"Săn\" mầm bệnh từ bản làng Báo Sức khỏe & Đời sống",
-      "summary_en": "Tracing the fight against tuberculosis in Nghe An (final period): \"Hunting\" pathogens from the village Health & Life Newspaper",
+      "title_vi": "Truyền mật khẩu: Bề mặt tấn công mới trong xác thực không mật khẩu",
+      "title_en": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "summary_vi": "URL bài viết: https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/ URL nhận xét: https://news.ycombinator.com/item?id=49176644 Điểm: 26 # Nhận xét: 16",
+      "summary_en": "Article URL: https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/ Comments URL: https://news.ycombinator.com/item?id=49176644 Points: 26 # Comments: 16",
       "meta": {}
     },
     {
-      "title": "‘Taxation through electricity prices’: Abbott takes aim at city-owned utilities like CPS Energy - San Antonio Report",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVcyU1QwWTlUUk1VcUdVYnI1M3lKdHNmb1VOYzNucUduUUlUcFlETEtqX2J0UXcyclp5eVRoSjhaV3JtNHdIU1NtQWF3V25DY0RyTW1kdXdLRWJ3VHFuSERTY3M2SDdJaXprMER1dmFBRUJEUWN0RlZHcVA2YnZqYzgxaTNaUHBIenB1NXRVRllXY2Fxa3c?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
+      "title": "FIPS 140-3 is not a security guarantee, and auditors know it",
+      "url": "https://808bits.com/articles/fips-140-3-not-a-security-guarantee/",
+      "source": "Hacker News",
+      "category": "technology",
       "market": "global",
-      "published": "Tue, 04 Aug 2026 23:22:09 GMT",
-      "description": "‘Taxation through electricity prices’: Abbott takes aim at city-owned utilities like CPS Energy San Antonio Report",
+      "published": "Tue, 04 Aug 2026 23:21:33 +0000",
+      "description": "Article URL: https://808bits.com/articles/fips-140-3-not-a-security-guarantee/ Comments URL: https://news.ycombinator.com/item?id=49176634 Points: 16 # Comments: 6",
       "score": 0.0,
-      "title_vi": "'Đánh thuế thông qua giá điện': Abbott nhắm đến các tiện ích thuộc sở hữu của thành phố như CPS Energy - San Antonio Report",
-      "title_en": "‘Taxation through electricity prices’: Abbott takes aim at city-owned utilities like CPS Energy - San Antonio Report",
-      "summary_vi": "'Đánh thuế thông qua giá điện': Abbott nhắm đến các tiện ích thuộc sở hữu của thành phố như CPS Energy San Antonio Report",
-      "summary_en": "‘Taxation through electricity prices’: Abbott takes aim at city-owned utilities like CPS Energy San Antonio Report",
-      "meta": {}
-    },
-    {
-      "title": "US Energy Secretary Chris Wright says Brownsville reflects Trump priorities - MyRGV.com",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPand4dl94NTN6ZnhmQ0dJdW5XZGg0N1BBdmI4a3Q5b0V5aWF6RzNHdEFFTHFSd3NMZ1cwcTNuenhUMWlXb3I5dUxPQ213T3Bmbzg0a29Uc0hkY0tDazg3LXp3anBIZXJzbUNsQW5UYWpMODFXVW1EUklvODdVUnl0VkRLTENwYjVhSnhKZ3FEM25KamYxRC04cjliM0d0TWJNRHFLMmxHUUZnLXNyY3ZpLXpycWZITW8?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Tue, 04 Aug 2026 23:21:24 GMT",
-      "description": "US Energy Secretary Chris Wright says Brownsville reflects Trump priorities MyRGV.com",
-      "score": 0.0,
-      "title_vi": "Bộ trưởng Năng lượng Hoa Kỳ Chris Wright nói rằng Brownsville phản ánh các ưu tiên của Trump",
-      "title_en": "US Energy Secretary Chris Wright says Brownsville reflects Trump priorities - MyRGV.com",
-      "summary_vi": "Bộ trưởng Năng lượng Hoa Kỳ Chris Wright nói rằng Brownsville phản ánh các ưu tiên của Trump MyRGV.com",
-      "summary_en": "US Energy Secretary Chris Wright says Brownsville reflects Trump priorities MyRGV.com",
+      "title_vi": "FIPS 140-3 không phải là sự đảm bảo an ninh và kiểm toán viên biết điều đó",
+      "title_en": "FIPS 140-3 is not a security guarantee, and auditors know it",
+      "summary_vi": "URL bài viết: https://808bits.com/articles/fips-140-3-not-a-security-guarantee/ URL bình luận: https://news.ycombinator.com/item?id=49176634 Điểm: 16 # Bình luận: 6",
+      "summary_en": "Article URL: https://808bits.com/articles/fips-140-3-not-a-security-guarantee/ Comments URL: https://news.ycombinator.com/item?id=49176634 Points: 16 # Comments: 6",
       "meta": {}
     },
     {
@@ -343,42 +508,12 @@
       "category": "technology",
       "market": "global",
       "published": "Tue, 04 Aug 2026 23:18:12 +0000",
-      "description": "Article URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/ Comments URL: https://news.ycombinator.com/item?id=49176606 Points: 10 # Comments: 0",
+      "description": "Article URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/ Comments URL: https://news.ycombinator.com/item?id=49176606 Points: 80 # Comments: 3",
       "score": 0.0,
       "title_vi": "libexpat hiện được Thành phố Munich tài trợ trong tối đa 6 tháng",
       "title_en": "libexpat now funded by the City of Munich for up to 6 months",
-      "summary_vi": "URL bài viết: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/ URL bình luận: https://news.ycombinator.com/item?id=49176606 Điểm: 10 # Bình luận: 0",
-      "summary_en": "Article URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/ Comments URL: https://news.ycombinator.com/item?id=49176606 Points: 10 # Comments: 0",
-      "meta": {}
-    },
-    {
-      "title": "Shell invests in next phase of Arrow Energy's Surat Gas Project - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQThTTWNYQXJRMlMyQ01KT3hVOEJDeTNCdUtReUFVSjRvSERhTlpyQ0V3ZW92eU8wdUpyd3otM2NiejFTV2pRQW1HSEx0R045amltQjhsVDk3bVVuWklCa0FUdEo0TEtMSTZFcncycVczMGdHOUM5Uks4Q2VPRTJPclRDV2hlOWtRay1BdmJzbTN3SUlGbWhDdUxxeGxvSVRrMERleFVrTnZqN051?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Tue, 04 Aug 2026 23:17:48 GMT",
-      "description": "Shell invests in next phase of Arrow Energy's Surat Gas Project Reuters",
-      "score": 0.0,
-      "title_vi": "Shell đầu tư vào giai đoạn tiếp theo của Dự án khí Surat của Arrow Energy - Reuters",
-      "title_en": "Shell invests in next phase of Arrow Energy's Surat Gas Project - Reuters",
-      "summary_vi": "Shell đầu tư vào giai đoạn tiếp theo của Dự án Khí Surat của Arrow Energy",
-      "summary_en": "Shell invests in next phase of Arrow Energy's Surat Gas Project Reuters",
-      "meta": {}
-    },
-    {
-      "title": "Lao động chăm sóc không lương và bất bình đẳng giới - Phụ nữ Mới",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOE9ZbXphQTM1cFBSTnZyeVdrODktTzNLNVlTcEZEV1YxOXhBOG9XSHFVYlR0T0J0WUtYclptUkVmSUFoa04zMDJycVhySDBUeFljUmlMc0tUNDJQXzF0alhubXF6N2ktNXl2SE42emFkTlRGSW1abjlFelN1WGhZRk9ZeXRIMXhuQjNqUi1weXYzTGM1UzhrVUxjRQ?oc=5",
-      "source": "Google News Nhu cầu Việt Nam",
-      "category": "society",
-      "market": "vietnam",
-      "published": "Tue, 04 Aug 2026 23:15:00 GMT",
-      "description": "Lao động chăm sóc không lương và bất bình đẳng giới Phụ nữ Mới",
-      "score": 0.0,
-      "title_vi": "Lao động chăm sóc không lương và bất bình đẳng giới - Phụ nữ Mới",
-      "title_en": "Unpaid care labor and gender inequality - New Women",
-      "summary_vi": "Lao động chăm sóc không lương và bất bình đẳng giới Phụ nữ Mới",
-      "summary_en": "Unpaid care labor and gender inequality New Women",
+      "summary_vi": "URL bài viết: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/ URL bình luận: https://news.ycombinator.com/item?id=49176606 Điểm: 80 # Bình luận: 3",
+      "summary_en": "Article URL: https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/ Comments URL: https://news.ycombinator.com/item?id=49176606 Points: 80 # Comments: 3",
       "meta": {}
     },
     {
@@ -397,93 +532,18 @@
       "meta": {}
     },
     {
-      "title": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
-      "url": "https://techcrunch.com/2026/08/04/elon-musk-repeatedly-one-upped-his-execs-on-spacexs-first-earnings-call/",
-      "source": "TechCrunch",
-      "category": "technology",
+      "title": "Russian forces attack Ukrainian capital Kyiv with ballistic missiles, trigger fires - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZEp4Rk5HakNGTG56VGc2SnNSOEx0WGxlR0lJc3RoZnRsU1lVbThpcXRndkRDQXdtMFNESDBpVWsySXZ5T3VEZ0F3aDVoZG9PZl9CUzVhem16NlBQMVpManl1SXFKT1VWUHQ2SllTRGVSOW5xX1NYZm9XWlNndktTM0ZteVMtdHo5SXZyNTVSVFpJUU1KZ0Zqc3dDSGRJbXA1WTJtckEzTExkSi1aQkQwSFdITFBZeUM5OHhETy1oMnhtRVNIV3lR?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
       "market": "global",
-      "published": "Tue, 04 Aug 2026 22:30:58 +0000",
-      "description": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
+      "published": "Tue, 04 Aug 2026 22:50:13 GMT",
+      "description": "Russian forces attack Ukrainian capital Kyiv with ballistic missiles, trigger fires Reuters",
       "score": 0.0,
-      "title_vi": "Elon Musk liên tục ủng hộ các giám đốc điều hành của mình trong cuộc gọi báo cáo thu nhập đầu tiên của SpaceX",
-      "title_en": "Elon Musk repeatedly one-upped his execs on SpaceX’s first earnings call",
-      "summary_vi": "Musk tiếp tục thổi phồng những lời hứa vốn đã rất lớn của Giám đốc tài chính SpaceX Bret Johnsen và Gwynne Shotwell trong cuộc gọi đầu tiên của công ty.",
-      "summary_en": "Musk kept inflating the already-big promises being made by SpaceX CFO Bret Johnsen and Gwynne Shotwell on the company's first call.",
-      "meta": {}
-    },
-    {
-      "title": "We finally learned to center a div, then browsers added sidebars",
-      "url": "https://seg6.space/posts/center-div/",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Tue, 04 Aug 2026 22:24:00 +0000",
-      "description": "Article URL: https://seg6.space/posts/center-div/ Comments URL: https://news.ycombinator.com/item?id=49176055 Points: 13 # Comments: 7",
-      "score": 0.0,
-      "title_vi": "Cuối cùng chúng tôi đã học được cách căn giữa div, sau đó trình duyệt đã thêm thanh bên",
-      "title_en": "We finally learned to center a div, then browsers added sidebars",
-      "summary_vi": "URL bài viết: https://seg6.space/posts/center-div/ URL bình luận: https://news.ycombinator.com/item?id=49176055 Điểm: 13 # Bình luận: 7",
-      "summary_en": "Article URL: https://seg6.space/posts/center-div/ Comments URL: https://news.ycombinator.com/item?id=49176055 Points: 13 # Comments: 7",
-      "meta": {}
-    },
-    {
-      "title": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
-      "url": "https://techcrunch.com/2026/08/04/lucids-turnaround-plan-hinges-on-1-4b-in-cash-savings-robotaxis/",
-      "source": "TechCrunch",
-      "category": "technology",
-      "market": "global",
-      "published": "Tue, 04 Aug 2026 22:24:00 +0000",
-      "description": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
-      "score": 0.0,
-      "title_vi": "Kế hoạch quay vòng của Lucid phụ thuộc vào khoản tiết kiệm tiền mặt 1,4 tỷ USD và robotaxis",
-      "title_en": "Lucid’s turnaround plan hinges on $1.4B in cash savings, robotaxis",
-      "summary_vi": "Giám đốc điều hành mới của Lucid, Silvio Napoli, đã liệt kê bốn ưu tiên cần phải thắng, bao gồm việc ra mắt thành công mẫu xe điện cỡ trung, hoàn thiện một nhà máy ở Ả Rập Saudi, cắt giảm chi phí và robotaxis.",
-      "summary_en": "Lucid's new CEO Silvio Napoli listed four must-win priorities, including the successful launch of its midsize EV, finishing a factory in Saudi Arabia, cutting expenses, and robotaxis.",
-      "meta": {}
-    },
-    {
-      "title": "Pi's Minimalism Is Its Advantage",
-      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Tue, 04 Aug 2026 22:22:12 +0000",
-      "description": "Article URL: https://earendil.com/posts/pi-autoresearch-and-databricks/ Comments URL: https://news.ycombinator.com/item?id=49176038 Points: 5 # Comments: 0",
-      "score": 0.0,
-      "title_vi": "Chủ nghĩa tối giản của Pi là lợi thế của nó",
-      "title_en": "Pi's Minimalism Is Its Advantage",
-      "summary_vi": "URL bài viết: https://earendil.com/posts/pi-autoresearch-and-databricks/ URL bình luận: https://news.ycombinator.com/item?id=49176038 Điểm: 5 # Bình luận: 0",
-      "summary_en": "Article URL: https://earendil.com/posts/pi-autoresearch-and-databricks/ Comments URL: https://news.ycombinator.com/item?id=49176038 Points: 5 # Comments: 0",
-      "meta": {}
-    },
-    {
-      "title": "How to get the best hotel deals for TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/08/04/how-to-get-the-best-hotel-deals-for-techcrunch-disrupt-2026/",
-      "source": "TechCrunch",
-      "category": "technology",
-      "market": "global",
-      "published": "Tue, 04 Aug 2026 22:18:30 +0000",
-      "description": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
-      "score": 0.0,
-      "title_vi": "Cách nhận ưu đãi khách sạn tốt nhất cho TechCrunch Disrupt 2026",
-      "title_en": "How to get the best hotel deals for TechCrunch Disrupt 2026",
-      "summary_vi": "Chúng tôi đã hợp tác với các khách sạn xung quanh Moscone West trong thời gian Disrupt, diễn ra từ ngày 13 đến ngày 15 tháng 10, để đảm bảo mức giá tốt nhất dành cho người tham dự.",
-      "summary_en": "We’ve partnered with hotels around Moscone West during Disrupt, taking place October 13 to 15, to secure the best prices available for attendees.",
-      "meta": {}
-    },
-    {
-      "title": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-      "url": "https://techascent.com/blog/just-ducking-around.html",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Tue, 04 Aug 2026 22:09:43 +0000",
-      "description": "Article URL: https://techascent.com/blog/just-ducking-around.html Comments URL: https://news.ycombinator.com/item?id=49175924 Points: 18 # Comments: 0",
-      "score": 0.0,
-      "title_vi": "DuckDB – Công cụ cung cấp dữ liệu cho máy tính xách tay của bạn, hiện có trong Clojure (2023)",
-      "title_en": "DuckDB – Data power tools for your laptop, now in Clojure (2023)",
-      "summary_vi": "URL bài viết: https://techascent.com/blog/just-ducking-around.html URL bình luận: https://news.ycombinator.com/item?id=49175924 Điểm: 18 # Bình luận: 0",
-      "summary_en": "Article URL: https://techascent.com/blog/just-ducking-around.html Comments URL: https://news.ycombinator.com/item?id=49175924 Points: 18 # Comments: 0",
+      "title_vi": "Lực lượng Nga tấn công thủ đô Kyiv của Ukraine bằng tên lửa đạn đạo, gây hỏa hoạn - Reuters",
+      "title_en": "Russian forces attack Ukrainian capital Kyiv with ballistic missiles, trigger fires - Reuters",
+      "summary_vi": "Lực lượng Nga tấn công thủ đô Kyiv của Ukraine bằng tên lửa đạn đạo, gây ra hỏa hoạn",
+      "summary_en": "Russian forces attack Ukrainian capital Kyiv with ballistic missiles, trigger fires Reuters",
       "meta": {}
     },
     {
@@ -502,18 +562,18 @@
       "meta": {}
     },
     {
-      "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-      "source": "Hacker News",
-      "category": "technology",
+      "title": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOFVBX00tUENwdEdNdmhkYVVsQTBpekhaZWlQWmMwUzZmalpyNG8zVDVGd01oSHk0LVZIRlVjNEpKa04zSlNHeEZ2OFIyQ0I1enZ0SXdFV2RZUm5tcjFSQXlEX3A4T3RCN3ZDc0I5ZDJaZ3l4RGZCc1hMWkpNNFhlSWNtcko3VlBTSWlSN29IOXFiSmFyTW5NeG51WWFWQ1J2SmJzdkN4S0dzOTNreVF4cUV0QUx5b29VWGlFWWF1TGVlT25DX0F1U3BjVHcySGpoOGQ5S1lqRQ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
       "market": "global",
-      "published": "Tue, 04 Aug 2026 22:01:41 +0000",
-      "description": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 91 # Comments: 43",
+      "published": "Tue, 04 Aug 2026 21:57:19 GMT",
+      "description": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say By Reuters Investing.com",
       "score": 0.0,
-      "title_vi": "AI thúc đẩy hơn một nửa tội phạm mạng ở Châu Phi khi các vụ lừa đảo gia tăng – Interpol",
-      "title_en": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-      "summary_vi": "https://www.interpol.int/Media/Documents/Publications/Cyberc... URL bình luận: https://news.ycombinator.com/item?id=49175826 Điểm: 91 # Bình luận: 43",
-      "summary_en": "https://www.interpol.int/Media/Documents/Publications/Cyberc... Comments URL: https://news.ycombinator.com/item?id=49175826 Points: 91 # Comments: 43",
+      "title_vi": "Các cố vấn của Trump nói với các công ty AI rằng họ sẽ không thử nghiệm an toàn các mẫu xe có trọng lượng mở, các nguồn tin cho biết Theo Reuters - Investing.com",
+      "title_en": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say By Reuters - Investing.com",
+      "summary_vi": "Các cố vấn của Trump nói với các công ty AI rằng họ sẽ không thử nghiệm an toàn các mẫu xe có trọng lượng mở, các nguồn tin cho biết Theo Reuters Investing.com",
+      "summary_en": "Trump advisers tell AI firms they will not safety-test open-weight models, sources say By Reuters Investing.com",
       "meta": {}
     },
     {
@@ -532,80 +592,148 @@
       "meta": {}
     },
     {
-      "title": "AMD forecasts upbeat revenue on strong AI chip demand, but shares fall on lofty expectations - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZVI0Wnk2b3Jpb0tucDcyRzl0Y05zX2RwWTZWRU5CYVhyc3BLSjc5NVJDSlZFSGZNZ1F4S1FTei1saXVaaGFaTzFsUTkyUFFOelE5bEY3eTlyMURpYXlBbmNPUk1IOTJVaVlLcjVwWk82Qlhic3lfNndTa2N1ZnNHMXBLOFFTOVRFdXcwYWF0SWQ2a0hVcUNDeDA1U0hmRXdoMXJOVUpVeW1rbmU5dXhZOVFBaHBhRXlMa2pscWRn?oc=5",
+      "title": "Novo outlook hike falls flat as Wegovy pill sales fail to impress - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdXlQZTlFQVdGcUJLekdBcDJSVHlDeXcwTjdJWFZNWTFSZ083NV90WXFVNkdhVXlRN2JKbHF0c000Y1AxX0VPMDBqeURUaHpfUFcxd2ZFQ1VoQTNBWDVHVkhBZHpWY1oxbnRIU2ZwS3ZONHhmZUF4SVdrNTVkdkdGak1FcFZsdkRwZWlEX0ZOTjRDN3RpOVBZR1hLTEdxSzlRM3lmZ01KYkFOM2c?oc=5",
       "source": "Google News Reuters Finance",
       "category": "finance",
       "market": "global",
-      "published": "Tue, 04 Aug 2026 20:56:52 GMT",
-      "description": "AMD forecasts upbeat revenue on strong AI chip demand, but shares fall on lofty expectations Reuters",
+      "published": "Tue, 04 Aug 2026 21:15:59 GMT",
+      "description": "Novo outlook hike falls flat as Wegovy pill sales fail to impress Reuters",
       "score": 0.0,
-      "title_vi": "AMD dự báo doanh thu lạc quan nhờ nhu cầu chip AI mạnh mẽ, nhưng cổ phiếu giảm do kỳ vọng cao - Reuters",
-      "title_en": "AMD forecasts upbeat revenue on strong AI chip demand, but shares fall on lofty expectations - Reuters",
-      "summary_vi": "AMD dự báo doanh thu lạc quan nhờ nhu cầu chip AI mạnh mẽ, nhưng cổ phiếu giảm do kỳ vọng cao",
-      "summary_en": "AMD forecasts upbeat revenue on strong AI chip demand, but shares fall on lofty expectations Reuters",
-      "meta": {}
-    },
-    {
-      "title": "Japan to announce Tokyo, Washington took joint action on yen, sources say - The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd184Y2lENDNEbGxrOXA3bi00cUhYanVKTFRFcFRrRzMzcUFKU0Z0R09DOG1SU2M1c253WVRqbFk1dG52VEJ3UXpubXI1RzJNdFBWS0dEUndJcndwWjdMeW9FcWZzamFndXpQU3g1RXA4dzVwMnlwdXZaVGxFc09DY29XaC1ETHh2WmRsWDJnQWVlTXFRckRsb2JzZFZTQmlVZHZBWktjMFMydDlpRzBpREpIZldidmZRbnfSAb8BQVVfeXFMTUFObjRkcmpoSmR5SjhHemNxajBmTEFRaklpSTdSZk00RjNMWUZZVVlJNUJtNWJnT203eTVOU2R4Nlc1QWxkTHNZek9EVWVzWmVLcFBEWXE1T3VFc0kxTjA5UktnSmktZ0pLc21saEVkdDJFVjEteVNmV1JSR0VqMUJUT1d4QjQ2QXZRRk1ORGw4Rl9fRmZKMm5HbGhhQktjSGlJUlJiY3pPdHlJQ3hZa2ZQajZScW5MbzByalBneVU?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Tue, 04 Aug 2026 20:56:51 GMT",
-      "description": "Japan to announce Tokyo, Washington took joint action on yen, sources say The Business Standard",
-      "score": 0.0,
-      "title_vi": "Các nguồn tin cho biết Nhật Bản thông báo Tokyo, Washington có hành động chung đối với đồng Yên",
-      "title_en": "Japan to announce Tokyo, Washington took joint action on yen, sources say - The Business Standard",
-      "summary_vi": "Nhật Bản thông báo Tokyo, Washington có hành động chung đối với đồng yên, các nguồn tin cho biết The Business Standard",
-      "summary_en": "Japan to announce Tokyo, Washington took joint action on yen, sources say The Business Standard",
-      "meta": {}
-    },
-    {
-      "title": "Yen holds most gains as intervention keeps speculators on edge - livemint.com",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQemF4Tk9KVU1ra0x3NktyZ1V6V1Mya1FyS19XcUNMZUZDRG9DeFBWVzhKZzZfOXhjbmdueXlGTjh4M0JaY1ZQOVhXb2p1OTVFSDlrQkdiNE4za3R1aUlvWS05ZF9TNld3Q29sbXRleTB4Qi02TUszQVQ2YUxKVWMwUGRZRFI0VGF5M1FXR3djaUZFTjh2QUdteVhJaVBRU3E2MHh2ZHFhTXVtR2tqZ1dGc0RJRTF3MGxVdVHSAboBQVVfeXFMUHpheE5PSlVNa2tMdzZLcmdVeldTMmtRcktfV3FDTGVGQ0RvQ3hQVlc4Smc2Xzl4Y25nbnl5Rk44eDNCWmNWUDlYV29qdTk1RUg5a0JHYjROM2t0dWlJb1ktOWRfUzZXd0NvbG10ZXkweEItNk1LM0FUNmFMSlVjMFBkWURSNFRheTNRV0d3Y2lGRU44dkFHbXlYSWlQUVNxNjB4dmRxYU11bUdramdXRnNESUUxdzBsVXVR?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Tue, 04 Aug 2026 20:10:58 GMT",
-      "description": "Yen holds most gains as intervention keeps speculators on edge livemint.com",
-      "score": 0.0,
-      "title_vi": "Yên nắm giữ hầu hết lợi nhuận khi sự can thiệp khiến các nhà đầu cơ đứng ngoài cuộc - livemint.com",
-      "title_en": "Yen holds most gains as intervention keeps speculators on edge - livemint.com",
-      "summary_vi": "Yên nắm giữ hầu hết lợi nhuận khi sự can thiệp khiến các nhà đầu cơ tiếp tục quan sát livemint.com",
-      "summary_en": "Yen holds most gains as intervention keeps speculators on edge livemint.com",
-      "meta": {}
-    },
-    {
-      "title": "Big investors think it might be time to buy in South Korea - The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEZNby1vNHk1UkZQYkZyQTJzb0xudFV2bjFhaDhoSHNuOUNLMUFqNnUyTVhNSFdLb2c2b1o1VUFLc2JULUJsVDdseWtVRnJhUDlwcWYyMVlpVkFQT3Fzd0JYcEdhRnhsVGxvQXVFSXIxeFVCdzhGOXg2NU51Y0JRNnl0S292eG1Sc2F2WXJzRmpPNTEtWlFsSmwtWmJZR0RjeHFDUjVBLUXSAa4BQVVfeXFMUHRGWmY1TU9QeWI3ckRfN0tkTXBKUGhvc2NSX2NZRVdyY0lKejQ4bW9FU0NBNmNaOW5pdnNkaFVZTGNpazRBZmg2bDRsSTVMX3Y2a1JHWDFybWk5YmZ5OTZRWXpPUkFZVXZ1NUh3VlZldHhZQmJmX0RqQ2dTQU4tR0NnTThFV0xocEhKVHlzWTFTOWxzeVZBd2NzSTY2TU5Fb2tHNzdRVFR4ZzA2TUtR?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Tue, 04 Aug 2026 19:18:07 GMT",
-      "description": "Big investors think it might be time to buy in South Korea The Business Standard",
-      "score": 0.0,
-      "title_vi": "Các nhà đầu tư lớn cho rằng đã đến lúc mua vào Hàn Quốc - The Business Standard",
-      "title_en": "Big investors think it might be time to buy in South Korea - The Business Standard",
-      "summary_vi": "Các nhà đầu tư lớn cho rằng đã đến lúc mua vào Hàn Quốc",
-      "summary_en": "Big investors think it might be time to buy in South Korea The Business Standard",
-      "meta": {}
-    },
-    {
-      "title": "Poly Market targets new funding to strengthen its position in prediction markets - المتداول العربي",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYnI3RURjZGlJY3ZUbFVMcGR4b0s5T3VFQWRkTnZYQnlfV1NtT2FvREhVSURNNml6ck1Lc1lNVlpEaE91QzdFbVc0UzR1YjQ5aVpib1ZGLVY5Qng1dGJNN00tbnlzSnJYbnFGSFI0MnNnamFib0Q5OW1lR05ocVE2RG5PMGdPQjhiY0hNeXJsNFRZaWJsRHAyYklmWXhCRXdVb1ZtdjRFY2hwRVJERGRrSUU3SXdjakhrd1FlYXhleUxHUFpoZEM4TWhiN3B4MlN2Wjkw?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Tue, 04 Aug 2026 18:49:03 GMT",
-      "description": "Poly Market targets new funding to strengthen its position in prediction markets المتداول العربي",
-      "score": 0.0,
-      "title_vi": "Poly Market nhắm đến nguồn tài trợ mới để củng cố vị thế của mình trên các thị trường dự báo - The Arab Trader",
-      "title_en": "Poly Market targets new funding to strengthen its position in forecast markets - The Arab Trader",
-      "summary_vi": "Poly Market nhắm tới nguồn tài trợ mới để củng cố vị thế của mình trên các thị trường dự báo The Arab Trader",
-      "summary_en": "Poly Market targets new funding to strengthen its position in forecast markets The Arab Trader",
+      "title_vi": "Triển vọng của Novo không thay đổi do doanh số bán thuốc Wegovy không gây ấn tượng - Reuters",
+      "title_en": "Novo outlook hike falls flat as Wegovy pill sales fail to impress - Reuters",
+      "summary_vi": "Triển vọng của Novo không thay đổi do doanh số bán thuốc Wegovy không gây ấn tượng với Reuters",
+      "summary_en": "Novo outlook hike falls flat as Wegovy pill sales fail to impress Reuters",
       "meta": {}
     }
   ],
+  "insights": {
+    "status": "ready",
+    "model": "z-ai/glm-5.2",
+    "daily_thesis_vi": "Các rủi ro bảo mật mới và sự thiếu hụt công cụ AI thực tiễn đang thúc đẩy nhu cầu cấp bách về phần mềm tự động hóa và an ninh mạng.",
+    "daily_thesis_en": "Emerging security risks and gaps in practical AI tooling are driving urgent demand for automation and cybersecurity software.",
+    "opportunities": [
+      {
+        "name_vi": "Bảo mật xác thực không mật khẩu",
+        "name_en": "Passwordless Authentication Security",
+        "pain_vi": "Passkey tạo ra bề mặt tấn công mới, khiến doanh nghiệp dễ bị xâm nhập dù đã loại bỏ mật khẩu.",
+        "pain_en": "Passkeys introduce novel attack surfaces, leaving enterprises vulnerable despite removing passwords.",
+        "audience_vi": "Bộ phận IT và bảo mật doanh nghiệp",
+        "audience_en": "Enterprise IT and security teams",
+        "mvp_vi": "Công cụ quét lỗ hổng passkey và giám sát xác thực.",
+        "mvp_en": "Passkey vulnerability scanner and authentication monitor.",
+        "scope": "global",
+        "score": 85,
+        "evidence_ids": [
+          26
+        ],
+        "risks_vi": "Nhiều nhà cung cấp lớn đã tích hợp sẵn bảo mật.",
+        "risks_en": "Large identity providers may bundle security natively.",
+        "sources": [
+          {
+            "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+            "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+            "source": "Hacker News"
+          }
+        ]
+      },
+      {
+        "name_vi": "Chuyển đổi tài liệu sang Markdown",
+        "name_en": "Document to Markdown Conversion",
+        "pain_vi": "Các mô hình AI cần dữ liệu sạch nhưng tài liệu doanh nghiệp đang kẹt ở định dạng phức tạp.",
+        "pain_en": "AI models need clean data but enterprise documents remain trapped in complex formats.",
+        "audience_vi": "Nhà phát triển AI và công ty xử lý dữ liệu",
+        "audience_en": "AI developers and data processing firms",
+        "mvp_vi": "API chuyển đổi PDF, Word sang Markdown siêu tốc.",
+        "mvp_en": "High-speed API converting PDF, Word to Markdown.",
+        "scope": "global",
+        "score": 80,
+        "evidence_ids": [
+          4
+        ],
+        "risks_vi": "Cạnh tranh gay gắt từ các công cụ mã nguồn mở.",
+        "risks_en": "Intense competition from existing open-source tools.",
+        "sources": [
+          {
+            "title": "firecrawl/anydoc",
+            "url": "https://github.com/firecrawl/anydoc",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Tự động hóa quy trình bằng AI",
+        "name_en": "AI Workflow Automation",
+        "pain_vi": "Nhân viên lãng phí thời gian làm thủ công các quy trình có thể tự động hóa bằng AI.",
+        "pain_en": "Workers waste time on manual processes that AI could automate.",
+        "audience_vi": "Nhân viên văn phòng và đội ngũ vận hành",
+        "audience_en": "Office workers and operations teams",
+        "mvp_vi": "Ứng dụng ghi lại thao tác và tạo tự động hóa.",
+        "mvp_en": "App recording screen actions to generate automations.",
+        "scope": "global",
+        "score": 78,
+        "evidence_ids": [
+          8
+        ],
+        "risks_vi": "Khó tích hợp với mọi phần mềm cũ.",
+        "risks_en": "Hard to integrate with all legacy software.",
+        "sources": [
+          {
+            "title": "microsoft/skill-recorder",
+            "url": "https://github.com/microsoft/skill-recorder",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Quản lý rủi ro thanh khoản ngân hàng",
+        "name_en": "Bank Liquidity Risk Management",
+        "pain_vi": "Ngân hàng Việt Nam đối mặt nguy cơ mất thanh khoản do mất cân đối tài sản.",
+        "pain_en": "Vietnamese banks face liquidity risks from asset imbalances.",
+        "audience_vi": "Ngân hàng và định chế tài chính tại Việt Nam",
+        "audience_en": "Banks and financial institutions in Vietnam",
+        "mvp_vi": "Bảng điều khiển cảnh báo sớm mất cân đối tín dụng.",
+        "mvp_en": "Early-warning dashboard for credit imbalance.",
+        "scope": "vietnam",
+        "score": 75,
+        "evidence_ids": [
+          11
+        ],
+        "risks_vi": "Chu kỳ bán hàng B2B ngân hàng rất dài.",
+        "risks_en": "Bank B2B sales cycles are extremely long.",
+        "sources": [
+          {
+            "title": "11 early warning signs of bank loss of liquidity",
+            "url": "https://vnexpress.net/11-dau-hieu-canh-bao-som-ngan-hang-mat-thanh-khoan-5105047.html",
+            "source": "VnExpress Kinh doanh"
+          }
+        ]
+      },
+      {
+        "name_vi": "Bảo vệ rò rỉ IP Proxy",
+        "name_en": "Proxy IP Leak Protection",
+        "pain_vi": "Trình duyệt proxy và iCloud Private Relay bị rò rỉ IP qua WebKit.",
+        "pain_en": "Proxy browsers and iCloud Private Relay leak IP via WebKit.",
+        "audience_vi": "Người dùng quan tâm quyền riêng tư và doanh nghiệp",
+        "audience_en": "Privacy-conscious users and enterprises",
+        "mvp_vi": "Tiện ích mở rộng chặn rò rỉ IP WebKit.",
+        "mvp_en": "Browser extension blocking WebKit IP leaks.",
+        "scope": "global",
+        "score": 72,
+        "evidence_ids": [
+          23
+        ],
+        "risks_vi": "Apple có thể vá lỗi này trong bản cập nhật tiếp theo.",
+        "risks_en": "Apple may patch this in the next update.",
+        "sources": [
+          {
+            "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+            "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+            "source": "Hacker News"
+          }
+        ]
+      }
+    ]
+  },
   "warnings": []
 }
