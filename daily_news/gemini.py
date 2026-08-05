@@ -20,7 +20,8 @@ def _generate_nvidia(prompt: str, *, json_mode: bool = False, max_tokens: int = 
     if not api_key:
         raise RuntimeError("NVIDIA_API_KEY is not configured")
     base_url = os.getenv("AI_BASE_URL", "https://integrate.api.nvidia.com/v1").rstrip("/")
-    model = os.getenv("AI_MODEL", "z-ai/glm-5.2")
+    model = (os.getenv("AI_CHAT_MODEL", "meta/llama-3.1-8b-instruct")
+             if not thinking else os.getenv("AI_MODEL", "z-ai/glm-5.2"))
     body: dict[str, Any] = {
         "model": model,
         "messages": [{"role": "user", "content": prompt}],
@@ -31,7 +32,7 @@ def _generate_nvidia(prompt: str, *, json_mode: bool = False, max_tokens: int = 
     }
     if json_mode:
         body["response_format"] = {"type": "json_object"}
-    if not thinking:
+    if not thinking and model.startswith("z-ai/"):
         body["chat_template_kwargs"] = {"enable_thinking": False}
     request = urllib.request.Request(
         f"{base_url}/chat/completions",

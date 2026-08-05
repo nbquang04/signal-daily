@@ -13,6 +13,8 @@ services:
         value: https://integrate.api.nvidia.com/v1
       - key: AI_MODEL
         value: z-ai/glm-5.2
+      - key: AI_CHAT_MODEL
+        value: meta/llama-3.1-8b-instruct
       - key: GEMINI_API_KEY
         sync: false
       - key: GEMINI_MODEL
