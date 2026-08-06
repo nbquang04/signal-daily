@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="responsive-fix.css">
   <link rel="stylesheet" href="ai.css">
   <link rel="stylesheet" href="market.css">
+  <link rel="stylesheet" href="market-gold.css">
 </head>
 <body>
   <a class="skip-link" href="#stories">Bỏ qua đến nội dung</a>
@@ -53,7 +54,7 @@
         <div class="stream-state" role="status" aria-live="polite"><i id="streamDot"></i><span id="streamLabel">Đang kết nối</span></div>
       </div>
       <div class="market-toolbar" aria-label="Điều khiển biểu đồ">
-        <label><span data-market-vi="Tài sản" data-market-en="Asset">Tài sản</span><select id="marketSymbol"><option value="BTCUSDT">BTC / USDT</option><option value="ETHUSDT">ETH / USDT</option><option value="BNBUSDT">BNB / USDT</option><option value="SOLUSDT">SOL / USDT</option><option value="XRPUSDT">XRP / USDT</option></select></label>
+        <label><span data-market-vi="Tài sản" data-market-en="Asset">Tài sản</span><select id="marketSymbol"><optgroup label="Gold-backed tokens"><option value="PAXGUSDT">PAXG / USDT · Gold</option><option value="XAUTUSDT">XAUT / USDT · Gold</option></optgroup><optgroup label="Crypto"><option value="BTCUSDT">BTC / USDT</option><option value="ETHUSDT">ETH / USDT</option><option value="BNBUSDT">BNB / USDT</option><option value="SOLUSDT">SOL / USDT</option><option value="XRPUSDT">XRP / USDT</option></optgroup></select></label>
         <fieldset><legend data-market-vi="Khung thời gian" data-market-en="Timeframe">Khung thời gian</legend><div id="marketIntervals" class="intervals"><button type="button" data-interval="1m">1m</button><button type="button" data-interval="5m" class="active">5m</button><button type="button" data-interval="15m">15m</button><button type="button" data-interval="1h">1h</button><button type="button" data-interval="4h">4h</button><button type="button" data-interval="1d">1D</button></div></fieldset>
         <button id="streamToggle" class="stream-toggle" type="button" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14M16 5v14"/></svg><span data-market-vi="Tạm dừng" data-market-en="Pause">Tạm dừng</span></button>
       </div>
@@ -63,12 +64,14 @@
         <div><span>24H VOLUME</span><strong id="marketVolume">—</strong></div>
         <div><span data-market-vi="Cập nhật" data-market-en="Updated">Cập nhật</span><strong id="marketUpdated">—</strong></div>
       </div>
+      <div id="instrumentNotice" class="instrument-notice" role="note"></div>
       <div class="chart-shell">
         <div id="marketChart" role="img" aria-label="Biểu đồ nến OHLC trực tiếp"></div>
         <div id="chartLoading" class="chart-loading"><span></span><p data-market-vi="Đang tải dữ liệu OHLC…" data-market-en="Loading OHLC data…">Đang tải dữ liệu OHLC…</p></div>
         <div id="chartError" class="chart-error" hidden><strong data-market-vi="Không thể tải dữ liệu" data-market-en="Unable to load market data">Không thể tải dữ liệu</strong><p id="chartErrorText"></p><button id="chartRetry" type="button" data-market-vi="Thử lại" data-market-en="Retry">Thử lại</button></div>
       </div>
       <details class="ohlc-details"><summary data-market-vi="Xem 10 candle gần nhất dạng bảng" data-market-en="View latest 10 candles as a table">Xem 10 candle gần nhất dạng bảng</summary><div class="ohlc-table-wrap"><table><thead><tr><th>Time</th><th>Open</th><th>High</th><th>Low</th><th>Close</th><th>Volume</th></tr></thead><tbody id="ohlcTable"></tbody></table></div></details>
+      <div class="market-context" aria-labelledby="marketContextTitle"><div class="market-context__heading"><div><p class="result-count">CROSS-MARKET CONTEXT</p><h3 id="marketContextTitle" data-market-vi="Các yếu tố cần theo dõi" data-market-en="Factors to watch">Các yếu tố cần theo dõi</h3></div><p data-market-vi="Snapshot từ pipeline gần nhất" data-market-en="Latest pipeline snapshot">Snapshot từ pipeline gần nhất</p></div><div id="marketContextGrid" class="market-context__grid"></div></div>
       <p class="market-source">Market data: Binance · Charting by <a href="https://www.tradingview.com/" target="_blank" rel="noopener noreferrer">TradingView</a>. <span data-market-vi="Chỉ mang tính tham khảo, không phải lời khuyên đầu tư." data-market-en="For information only, not investment advice.">Chỉ mang tính tham khảo, không phải lời khuyên đầu tư.</span></p>
     </section>
 

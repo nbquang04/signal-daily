@@ -1,0 +1,68 @@
+.instrument-notice {
+  border: 1px solid var(--border);
+  border-bottom: 0;
+  background: color-mix(in srgb, var(--soft) 62%, var(--surface));
+  padding: 11px 18px;
+  color: var(--muted-text);
+  font-size: .78rem;
+}
+.instrument-notice strong { color: var(--text); }
+.market-context {
+  margin-top: 34px;
+  border-top: 1px solid var(--border);
+  padding-top: 24px;
+}
+.market-context__heading {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 14px;
+}
+.market-context__heading h3 {
+  margin: 3px 0 0;
+  font: 600 1.55rem var(--serif);
+}
+.market-context__heading > p {
+  margin: 0;
+  color: var(--muted-text);
+  font-size: .75rem;
+}
+.market-context__grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  border: 1px solid var(--border);
+  background: var(--border);
+  gap: 1px;
+}
+.factor-card { min-width: 0; padding: 15px; background: var(--surface); }
+.factor-card span {
+  display: block;
+  overflow: hidden;
+  color: var(--muted-text);
+  font-size: .67rem;
+  font-weight: 700;
+  letter-spacing: .07em;
+  text-overflow: ellipsis;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.factor-card strong {
+  display: block;
+  margin-top: 6px;
+  font-size: 1rem;
+  font-variant-numeric: tabular-nums;
+}
+.factor-card strong em { margin-left: 5px; font-size: .72rem; font-style: normal; }
+.factor-card small {
+  display: block;
+  margin-top: 5px;
+  color: var(--muted-text);
+  font-size: .68rem;
+  line-height: 1.35;
+}
+@media (max-width: 760px) {
+  .market-context__heading { align-items: flex-start; flex-direction: column; }
+  .market-context__grid { grid-template-columns: 1fr 1fr; }
+  .factor-card:last-child { grid-column: 1 / -1; }
+}

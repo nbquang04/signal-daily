@@ -24,7 +24,7 @@ function renderDates(){
  $('#dateSelect').innerHTML=dates.map(d=>`<option value="${d}" ${d===active?'selected':''}>${dateLabel(d)}</option>`).join('');
  $('#dateList').innerHTML=dates.slice(0,8).map(d=>`<button class="${d===active?'active':''}" data-date="${d}">${dateLabel(d)}</button>`).join('');
 }
-function renderAll(){if(!state.report)return;$('#heroDate').textContent=dateLabel(state.report.date);renderMarkets();renderFilters();renderStories();window.renderAI?.();const warning=state.report.warnings?.length>0;$('#statusDot').classList.toggle('warning',warning);$('#statusText').textContent=copy[state.lang][warning?'warnings':'healthy']}
+function renderAll(){if(!state.report)return;$('#heroDate').textContent=dateLabel(state.report.date);renderMarkets();renderFilters();renderStories();window.renderAI?.();window.marketContextData={rows:state.report.markets||[],lang:state.lang};window.renderMarketContext?.(window.marketContextData.rows,window.marketContextData.lang);const warning=state.report.warnings?.length>0;$('#statusDot').classList.toggle('warning',warning);$('#statusText').textContent=copy[state.lang][warning?'warnings':'healthy']}
 function renderMarkets(){
  const rows=state.report.markets||[];$('#markets').innerHTML=rows.length?rows.map(m=>`<div class="market-card"><span>${esc(m.name)} · ${esc(m.symbol)}</span><strong>${Number(m.price).toLocaleString(state.lang==='vi'?'vi-VN':'en-US',{maximumFractionDigits:4})}</strong><em class="${m.change_pct>=0?'positive':'negative'}">${m.change_pct>=0?'↑':'↓'} ${Math.abs(m.change_pct).toFixed(2)}% ${esc(m.currency)}</em></div>`).join(''):`<div class="market-card"><span>—</span><strong>No data</strong></div>`;
 }

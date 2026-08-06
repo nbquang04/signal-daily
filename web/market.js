@@ -2,7 +2,9 @@
   const api='https://data-api.binance.vision/api/v3';
   const wsBase='wss://data-stream.binance.vision/ws';
   const el=id=>document.getElementById(id);
+  const safe=value=>String(value??'').replace(/[&<>'"]/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[char]));
   const market={symbol:'BTCUSDT',interval:'5m',socket:null,chart:null,candles:null,volume:null,data:[],paused:false,retry:0};
+  const instrumentMeta={PAXGUSDT:{gold:true,name:'PAX Gold'},XAUTUSDT:{gold:true,name:'Tether Gold'},BTCUSDT:{name:'Bitcoin'},ETHUSDT:{name:'Ethereum'},BNBUSDT:{name:'BNB'},SOLUSDT:{name:'Solana'},XRPUSDT:{name:'XRP'}};
   const vi=()=>document.documentElement.lang!=='en';
   const num=(value,digits=2)=>Number(value).toLocaleString(vi()?'vi-VN':'en-US',{maximumFractionDigits:digits});
   const priceDigits=value=>Number(value)>=1000?2:Number(value)>=1?4:6;
@@ -32,8 +34,9 @@
     const precision=priceDigits(market.data.at(-1)?.close||0);market.candles.applyOptions({priceFormat:{type:'price',precision,minMove:10**-precision}});
     market.candles.setData(market.data.map(({time,open,high,low,close})=>({time,open,high,low,close})));
     market.volume.setData(market.data.map(x=>({time:x.time,value:x.volume,color:x.close>=x.open?'rgba(20,145,116,.36)':'rgba(214,71,71,.34)'})));
-    updateKpis(market.data.at(-1));el('marketVolume').textContent=num(ticker.quoteVolume,0)+' USDT';renderTable();
+    updateKpis(market.data.at(-1));el('marketVolume').textContent=num(ticker.quoteVolume,0)+' USDT';renderTable();renderInstrumentNotice();
   }
+  function renderInstrumentNotice(){const meta=instrumentMeta[market.symbol]||{};el('instrumentNotice').innerHTML=meta.gold?(vi()?`<strong>${meta.name}</strong> là token được bảo chứng bằng vàng và giao dịch 24/7. Giá có thể lệch XAU/USD spot do thanh khoản và cung cầu crypto.`:`<strong>${meta.name}</strong> is a gold-backed token trading 24/7. It may diverge from spot XAU/USD because of crypto liquidity and demand.`):(vi()?`<strong>${meta.name||market.symbol}</strong> là tài sản crypto giao dịch 24/7 trên Binance Spot.`:`<strong>${meta.name||market.symbol}</strong> is a crypto asset trading 24/7 on Binance Spot.`)}
   function connect(){
     if(market.paused)return setState('paused');
     market.socket=new WebSocket(`${wsBase}/${market.symbol.toLowerCase()}@kline_${market.interval}`);
@@ -46,7 +49,9 @@
   function renderTable(){el('ohlcTable').innerHTML=market.data.slice(-10).reverse().map(x=>`<tr><td>${new Date(x.time*1000).toLocaleString(vi()?'vi-VN':'en-GB')}</td><td>${num(x.open,priceDigits(x.open))}</td><td>${num(x.high,priceDigits(x.high))}</td><td>${num(x.low,priceDigits(x.low))}</td><td>${num(x.close,priceDigits(x.close))}</td><td>${num(x.volume,2)}</td></tr>`).join('')}
   function setState(state){const box=document.querySelector('.stream-state');box.className=`stream-state ${state}`;el('streamLabel').textContent=state==='live'?(vi()?'Trực tiếp':'Live'):state==='paused'?(vi()?'Đã tạm dừng':'Paused'):(vi()?'Đang kết nối':'Connecting')}
   function showError(message){el('chartLoading').hidden=true;el('chartError').hidden=false;el('chartErrorText').textContent=message;setState('paused')}
-  function translate(){document.querySelectorAll('[data-market-vi]').forEach(x=>x.textContent=x.dataset[vi()?'marketVi':'marketEn']);setState(market.paused?'paused':market.socket?.readyState===1?'live':'connecting');renderTable()}
+  function translate(){document.querySelectorAll('[data-market-vi]').forEach(x=>x.textContent=x.dataset[vi()?'marketVi':'marketEn']);setState(market.paused?'paused':market.socket?.readyState===1?'live':'connecting');renderTable();renderInstrumentNotice()}
+  window.renderMarketContext=(rows,lang)=>{const host=el('marketContextGrid');if(!host)return;const wanted=[['Gold','Vàng phản ứng ngược USD và lợi suất thực.','Gold often reacts inversely to USD and real yields.'],['USD/VND','Tỷ giá ảnh hưởng giá vàng quy đổi tại Việt Nam.','FX affects Vietnam-localized gold prices.'],['Crude Oil','Dầu là tín hiệu lạm phát và kỳ vọng lãi suất.','Oil signals inflation and rate expectations.'],['S&P 500','Risk-on/risk-off có thể dịch chuyển dòng tiền vào vàng.','Risk sentiment can shift flows into gold.'],['Bitcoin','So sánh nhu cầu tài sản khan hiếm và phòng hộ.','Compare scarce-asset and hedge demand.']];const found=wanted.map(([name,viText,enText])=>{const row=rows.find(x=>String(x.name||'').toLowerCase().includes(name.toLowerCase())||String(x.symbol||'').toLowerCase().includes(name.toLowerCase()));return row?{...row,note:lang==='en'?enText:viText}:null}).filter(Boolean);host.innerHTML=found.length?found.map(x=>`<article class="factor-card"><span>${safe(x.name)} · ${safe(x.symbol)}</span><strong>${num(x.price,4)} <em class="${x.change_pct>=0?'positive':'negative'}">${x.change_pct>=0?'+':''}${Number(x.change_pct).toFixed(2)}%</em></strong><small>${safe(x.note)}</small></article>`).join(''):`<article class="factor-card"><span>—</span><strong>${lang==='en'?'No context data':'Chưa có dữ liệu đối chiếu'}</strong></article>`};
+  if(window.marketContextData)window.renderMarketContext(window.marketContextData.rows,window.marketContextData.lang);
   function bind(){
     el('marketSymbol').addEventListener('change',e=>{market.symbol=e.target.value;load()});
     el('marketIntervals').addEventListener('click',e=>{const b=e.target.closest('[data-interval]');if(!b)return;market.interval=b.dataset.interval;document.querySelectorAll('[data-interval]').forEach(x=>x.classList.toggle('active',x===b));load()});
