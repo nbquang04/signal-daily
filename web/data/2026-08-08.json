@@ -1,0 +1,757 @@
+{
+  "date": "2026-08-08",
+  "generated_at": "2026-08-07T20:58:59.047203+00:00",
+  "markets": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7757.6401,
+      "change_pct": 0.62,
+      "currency": "USD"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "price": 26690.6152,
+      "change_pct": 1.3,
+      "currency": "USD"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "price": 4400.7002,
+      "change_pct": 3.74,
+      "currency": "USD"
+    },
+    {
+      "name": "Crude Oil",
+      "symbol": "CL=F",
+      "price": 77.29,
+      "change_pct": 0.0,
+      "currency": "USD"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC-USD",
+      "price": 64939.1406,
+      "change_pct": 1.05,
+      "currency": "USD"
+    },
+    {
+      "name": "USD/VND",
+      "symbol": "VND=X",
+      "price": 26203.0,
+      "change_pct": -0.12,
+      "currency": "VND"
+    }
+  ],
+  "items": [
+    {
+      "title": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-03T16:36:14Z",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "score": 2253.07,
+      "title_vi": "firecrawl/anydoc",
+      "title_en": "firecrawl/anydoc",
+      "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
+      "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "meta": {
+        "stars": 10801,
+        "forks": 503,
+        "language": "Rust",
+        "stars_per_day": 2160.2
+      }
+    },
+    {
+      "title": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-29T20:03:08Z",
+      "description": "Multiplayer agent harness for work",
+      "score": 1320.85,
+      "title_vi": "phần mềm yc/m2",
+      "title_en": "yc software/sqm",
+      "summary_vi": "Khai thác tác nhân nhiều người chơi cho công việc",
+      "summary_en": "Multiplayer agent harness for work",
+      "meta": {
+        "stars": 12267,
+        "forks": 1395,
+        "language": "TypeScript",
+        "stars_per_day": 1226.7
+      }
+    },
+    {
+      "title": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-31T21:38:51Z",
+      "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "score": 1022.05,
+      "title_vi": "thửcompai/crm",
+      "title_en": "trycompai/crm",
+      "summary_vi": "Comp AI CRM là một CRM mã nguồn mở được thiết kế cho các đại lý AI. CRM ưu tiên tác nhân.",
+      "summary_en": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "meta": {
+        "stars": 7463,
+        "forks": 799,
+        "language": "TypeScript",
+        "stars_per_day": 932.9
+      }
+    },
+    {
+      "title": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-05T01:19:41Z",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "score": 697.32,
+      "title_vi": "KKKKhazix/chữ viết của con người",
+      "title_en": "KKKKhazix/human-writing",
+      "summary_vi": "Làm cho tiếng Trung được viết bởi AI đọc giống như một người cụ thể đang nói. Kỹ năng sáng tạo và sửa đổi phổ quát, có sẵn ngay lập tức.",
+      "summary_en": "Make the Chinese written by AI read like a specific person speaking. Universal creation and revision skills, available right out of the box.",
+      "meta": {
+        "stars": 1866,
+        "forks": 165,
+        "language": "Python",
+        "stars_per_day": 622.0
+      }
+    },
+    {
+      "title": "bashalarmistalt/decimen-optical-transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-30T18:17:54Z",
+      "description": "",
+      "score": 656.22,
+      "title_vi": "bashalarmistalt/decimen-quang-chuyển",
+      "title_en": "bashalarmistalt/decimen-optical-transfer",
+      "summary_vi": "bashalarmistalt/decimen-quang-chuyển",
+      "summary_en": "bashalarmistalt/decimen-optical-transfer",
+      "meta": {
+        "stars": 5137,
+        "forks": 625,
+        "language": "TypeScript",
+        "stars_per_day": 570.8
+      }
+    },
+    {
+      "title": "thebuggeddev/anatomy",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-02T11:15:16Z",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "score": 403.85,
+      "title_vi": "thebuggeddev/anatomy",
+      "title_en": "thebuggeddev/anatomy",
+      "summary_vi": "Trình khám phá giải phẫu người 3D tương tác được xây dựng bằng bajs với GPT 5.6 Sol",
+      "summary_en": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "meta": {
+        "stars": 1968,
+        "forks": 567,
+        "language": "TypeScript",
+        "stars_per_day": 328.0
+      }
+    },
+    {
+      "title": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-31T09:40:58Z",
+      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "score": 346.91,
+      "title_vi": "genspark-ai/genoffice",
+      "title_en": "genspark-ai/genoffice",
+      "summary_vi": "Bộ ứng dụng văn phòng gốc AI dành cho macOS và Windows: trình xử lý văn bản, bảng tính, bản trình bày và PDF.",
+      "summary_en": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "meta": {
+        "stars": 2161,
+        "forks": 372,
+        "language": "TypeScript",
+        "stars_per_day": 270.1
+      }
+    },
+    {
+      "title": "microsoft/skill-recorder",
+      "url": "https://github.com/microsoft/skill-recorder",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-29T18:16:14Z",
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "score": 307.62,
+      "title_vi": "microsoft/skill-ghi",
+      "title_en": "microsoft/skill-recorder",
+      "summary_vi": "Ứng dụng dành cho máy tính để bàn ghi lại phiên làm việc trên màn hình của bạn và sử dụng GitHub Copilot CLI để xây dựng lại phiên làm việc đó dưới dạng ý định + các bước được sắp xếp, sau đó xây dựng Kỹ năng hoặc Tự động hóa có thể sử dụng lại cho Microsoft Scout, Microsoft Copilot Cowork hoặc Copilot Studio.",
+      "summary_en": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "meta": {
+        "stars": 2302,
+        "forks": 244,
+        "language": "TypeScript",
+        "stars_per_day": 230.2
+      }
+    },
+    {
+      "title": "guillermolg00/morphicons",
+      "url": "https://github.com/guillermolg00/morphicons",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-01T08:15:09Z",
+      "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+      "score": 189.82,
+      "title_vi": "guillermolg00/morphicons",
+      "title_en": "guillermolg00/morphicons",
+      "summary_vi": "Bất kỳ biểu tượng nào cũng có thể biến đổi thành bất kỳ biểu tượng nào khác — biến hình phổ quát cho các biểu tượng dựa trên nét vẽ với vật lý lò xo. Không phụ thuộc, ~7 KB gzip.",
+      "summary_en": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+      "meta": {
+        "stars": 856,
+        "forks": 14,
+        "language": "TypeScript",
+        "stars_per_day": 122.3
+      }
+    },
+    {
+      "title": "MiniMax-AI/MiniMax-H3",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-30T08:41:09Z",
+      "description": "",
+      "score": 188.05,
+      "title_vi": "MiniMax-AI/MiniMax-H3",
+      "title_en": "MiniMax-AI/MiniMax-H3",
+      "summary_vi": "MiniMax-AI/MiniMax-H3",
+      "summary_en": "MiniMax-AI/MiniMax-H3",
+      "meta": {
+        "stars": 1065,
+        "forks": 55,
+        "language": "Python",
+        "stars_per_day": 118.3
+      }
+    },
+    {
+      "title": "Marker honors healthcare pioneer - farmvilleherald.com",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5WFFpeTJreEhrWHdqZ1pRTVlocHpUN2JodGVFUkY5TGVZY3c0ai0zWGpJcUJsT0hjM0huY3JkMFExcUxaZ19DbWx2cUZKalluc0s5cGhrS0FaS3VwLTZEQ0JGTUZtWXdHejlBZXVSSEJUMkdOVGpUaQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 20:51:30 GMT",
+      "description": "Marker honors healthcare pioneer farmvilleherald.com",
+      "score": 0.0,
+      "title_vi": "Marker vinh danh người tiên phong trong lĩnh vực chăm sóc sức khỏe - farmvilleherald.com",
+      "title_en": "Marker honors healthcare pioneer - farmvilleherald.com",
+      "summary_vi": "Marker vinh danh nhà tiên phong trong lĩnh vực chăm sóc sức khỏe farmvilleherald.com",
+      "summary_en": "Marker honors healthcare pioneer farmvilleherald.com",
+      "meta": {}
+    },
+    {
+      "title": "Oceans Healthcare expands with new Kenner campus - New Orleans CityBusiness",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUHJUclFfbks0MW1QTnhVMTg1bXVVYkRibWVWYko0UUFLNGJkV0FHYkg4aDNEZUZwRG0zMGVzaGpSU2NrSEFTQjMwUDNVdEZVb1pXcXFqZkYzNGdieXhxeGtYZHMyR2RjZ09PYkwtSFQ1ZFZtZWk3UDMyaWozMWNjek9LbG5weGJpYTBxdURmb2E4V3FObnZFcXI5Xzc?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 20:43:31 GMT",
+      "description": "Oceans Healthcare expands with new Kenner campus New Orleans CityBusiness",
+      "score": 0.0,
+      "title_vi": "Oceans Healthcare mở rộng với cơ sở Kenner mới - Thành phố New OrleansDoanh nghiệp",
+      "title_en": "Oceans Healthcare expands with new Kenner campus - New Orleans CityBusiness",
+      "summary_vi": "Oceans Healthcare mở rộng với cơ sở Kenner mới Thành phố New OrleansDoanh nghiệp",
+      "summary_en": "Oceans Healthcare expands with new Kenner campus New Orleans CityBusiness",
+      "meta": {}
+    },
+    {
+      "title": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 20:41:09 GMT",
+      "description": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views Reuters",
+      "score": 0.0,
+      "title_vi": "Dữ liệu lạm phát trước tuần của Wall St để kiểm tra mức kỷ lục của chứng khoán Mỹ, quan điểm về lãi suất của Fed - Reuters",
+      "title_en": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views - Reuters",
+      "summary_vi": "Dữ liệu lạm phát trước tuần của Wall St để kiểm tra mức kỷ lục của chứng khoán Mỹ và quan điểm về lãi suất của Fed",
+      "summary_en": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Experts say healthcare faces cybersecurity crisis: ‘These are patient safety issues’ - Cybersecurity Dive",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbFNTQmtoMXViTzMwNlVRTWV4UFBGZzB3VXJuNmpjTHVMTnRRYU0yUUotZXlkcFdQLTAzTzk0RDhwYVFXVklPbU5MNHVsSHlqU0E0cGZoalJqa2g5Qy0tOWpkaFBLMFRqUi1YTldNSE9IUUtYaTI0c2Q1TE9fU1pFakFoSXUyQ1habGpNTVZBWQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 20:39:15 GMT",
+      "description": "Experts say healthcare faces cybersecurity crisis: ‘These are patient safety issues’ Cybersecurity Dive",
+      "score": 0.0,
+      "title_vi": "Các chuyên gia cho rằng ngành chăm sóc sức khỏe phải đối mặt với khủng hoảng an ninh mạng: ‘Đây là những vấn đề an toàn cho bệnh nhân’ - Cyber ​​​​Security Dive",
+      "title_en": "Experts say healthcare faces cybersecurity crisis: ‘These are patient safety issues’ - Cybersecurity Dive",
+      "summary_vi": "Các chuyên gia cho rằng ngành chăm sóc sức khỏe phải đối mặt với khủng hoảng an ninh mạng: ‘Đây là những vấn đề an toàn cho bệnh nhân’",
+      "summary_en": "Experts say healthcare faces cybersecurity crisis: ‘These are patient safety issues’ Cybersecurity Dive",
+      "meta": {}
+    },
+    {
+      "title": "Why Broxie Pone Is Running for Cumberland County Board of Education - CityView NC",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa0xBVnZ0ZzVVMlo5SVdUMlFrMk9URWxCQWNfaDBvQXlHenFjZG5salJidlc3VWZKUUczUkRLejBOSmZyRXZMTE91YWZJcDdBSnd0LTdZX08ybzdnaTNXUjFNbGxRU3MwRWRUM3pJTjFFbEJDZlMxaTBOTlBxQWRPOEJNdGMwYktRWUdPbUlPMlY1ZkoxTWY3ZEk1dzhuX3hkSHg2MVNB?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 20:38:19 GMT",
+      "description": "Why Broxie Pone Is Running for Cumberland County Board of Education CityView NC",
+      "score": 0.0,
+      "title_vi": "Tại sao Broxie Pone lại tranh cử vào Hội đồng Giáo dục Quận Cumberland - CityView NC",
+      "title_en": "Why Broxie Pone Is Running for Cumberland County Board of Education - CityView NC",
+      "summary_vi": "Tại sao Broxie Pone lại tranh cử vào Hội đồng Giáo dục Quận Cumberland CityView NC",
+      "summary_en": "Why Broxie Pone Is Running for Cumberland County Board of Education CityView NC",
+      "meta": {}
+    },
+    {
+      "title": "Poll: Haitians oppose amnesty for gangs; security, education are top priorities - Miami Herald",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVTY5U1ZMcGQ0NVNrcmNlZUp2T05VUFBtdWRtWG53NUxaT0JUOFhzSjZGVGg5REhsR3B2eGpZOWZWbFhnOUtCVGs3WmdWT0gxNFBXQmxZcXhpekdJWmtvMk5CN0NwQlpLUzVIb1VPN3F5MDR6VnQ1cEVUb0V3ekh1T2tvZ2doM3JXMFZyNEEzZkd2Z9IBkgFBVV95cUxNWXFSaE1IVmdGOWtBNk5DSGllSW0wT2hCRE5IY3lRLWpvSTlGeFJxaFVTeWxRN2VvWHkyazRhcWI0SGw1cFE2V2E0Y1dpYUJ3TC1HOU90V2xpNDJZN1JNRmtDUVhEeWFaTUZCUFdsbVd4c2FIVHhhRFVlNU4xd3k0dlRubXFEOXNGek1icmwwMEh6QQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 20:33:25 GMT",
+      "description": "Poll: Haitians oppose amnesty for gangs; security, education are top priorities Miami Herald",
+      "score": 0.0,
+      "title_vi": "Thăm dò ý kiến: Người Haiti phản đối lệnh ân xá cho các băng đảng; an ninh, giáo dục là ưu tiên hàng đầu - Miami Herald",
+      "title_en": "Poll: Haitians oppose amnesty for gangs; security, education are top priorities - Miami Herald",
+      "summary_vi": "Thăm dò ý kiến: Người Haiti phản đối lệnh ân xá cho các băng đảng; an ninh, giáo dục là ưu tiên hàng đầu Miami Herald",
+      "summary_en": "Poll: Haitians oppose amnesty for gangs; security, education are top priorities Miami Herald",
+      "meta": {}
+    },
+    {
+      "title": "Proposed Legislation Affecting Healthcare Consolidation - Holland & Knight",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVXJHZURGeV8tMEMxRDR3Rm1JNTl3Yk1UVW01ZVNBVkw4dkc2WGJ3RjhCUU56NzBkWXZmU19wYmVuWXdMUllEeWRwU0Z3SVFFWU5LOFRIS3pRcWZiVkZrRnlZTWVNQVdOTHFHbWlXa3RlLXhRSGFTb0lfajV3NzRDVDBVNTBnT0RQSWxZM251U0tpNTEtRXhHd2hqLTRRbWJ6QnA5dEtfejZOQlFmcDVJdTRB?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 20:29:58 GMT",
+      "description": "Proposed Legislation Affecting Healthcare Consolidation Holland & Knight",
+      "score": 0.0,
+      "title_vi": "Đề xuất luật ảnh hưởng đến việc hợp nhất chăm sóc sức khỏe - Holland & Knight",
+      "title_en": "Proposed Legislation Affecting Healthcare Consolidation - Holland & Knight",
+      "summary_vi": "Đề xuất luật ảnh hưởng đến việc hợp nhất chăm sóc sức khỏe Holland & Knight",
+      "summary_en": "Proposed Legislation Affecting Healthcare Consolidation Holland & Knight",
+      "meta": {}
+    },
+    {
+      "title": "Thailand: Education International stands in solidarity with school community devastated by tragic shooting - Education International",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdjd1SWZDSGhiMGFiQnotSC1tODFLSDV4WGFBeXJsZnhxMlJNZUoyV0hSeDgxZy03SFBhbVI0TzViV3Zkb25QRW9HS2tKSV91QkU1VDY3YzFvbTUzNFFUVG1jd0h3ekI4MUVTTkNEX0lHOWM0WXNOM2FlRm9TV09iWHdZc0gzTVRzc29zZ0VqdVlQeDE5NW9iUEtMenJjbjNtS2pQRjgyT1cyVVJPOW1OQkllbEZHby1ST3pzMHBzNWFQenVfYm1MYXJzaXdqemlLU2FESm42VXg?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 20:27:34 GMT",
+      "description": "Thailand: Education International stands in solidarity with school community devastated by tragic shooting Education International",
+      "score": 0.0,
+      "title_vi": "Thái Lan: Tổ chức Giáo dục Quốc tế đoàn kết với cộng đồng trường học bị tàn phá bởi vụ xả súng thảm khốc - Education International",
+      "title_en": "Thailand: Education International stands in solidarity with school community devastated by tragic shooting - Education International",
+      "summary_vi": "Thái Lan: Education International đoàn kết với cộng đồng trường học bị tàn phá bởi vụ xả súng bi thảm Education International",
+      "summary_en": "Thailand: Education International stands in solidarity with school community devastated by tragic shooting Education International",
+      "meta": {}
+    },
+    {
+      "title": "Can Higher Education Govern Itself? The Test Of Compact 2.0 - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT1NXQWlsdVYwZzhLam9EdnpSUE9jMjlMYW4yNS1KTjFkdXlpMU9kZ3pkQ0RsUVFoZ2ZkVjBTRGR4aDdTZTQ3TThPN19DWk40RF9LV1NuVmlqcndMeHB0eTVTQ2ZJaTRDUWg4WkhlMTJFV3NSaFlHN1YtSzJKVHRnNGNWQ1lQWUtqVEJRLVFTelN4X2pnWjVjc05mYjVXUkZZSjhHVVBXcDNERGZRUExad21B?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 20:26:27 GMT",
+      "description": "Can Higher Education Govern Itself? The Test Of Compact 2.0 Forbes",
+      "score": 0.0,
+      "title_vi": "Giáo dục đại học có thể tự quản lý được không? Thử nghiệm của Compact 2.0 - Forbes",
+      "title_en": "Can Higher Education Govern Itself? The Test Of Compact 2.0 - Forbes",
+      "summary_vi": "Giáo dục đại học có thể tự quản lý được không? Thử nghiệm của Forbes 2.0 nhỏ gọn",
+      "summary_en": "Can Higher Education Govern Itself? The Test Of Compact 2.0 Forbes",
+      "meta": {}
+    },
+    {
+      "title": "S&P closes at record high as soft jobs report eases rate-hike concerns - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1d0RTF2VldzYWZCaFg3YzBhd2pEamRMWWU1VWNQOGZBSnFDVXFfZDNlVVowQzFwSmVHUDdObmQ4d1VDQnpZZmlhNS1xLWJabGxUMlNPSHc0NGY2SFptZ2QzOTgxTEZQVkpFblM4ZzI4anFIUkV1amFOZlNrRDRXbTUySWl0c1VMdjdiMWJxVUtNa0RmQXB5V3l6Rnl3aTRJQi1zOW1zTFFaZ1A4YjgxSnp3?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 20:23:03 GMT",
+      "description": "S&P closes at record high as soft jobs report eases rate-hike concerns Reuters",
+      "score": 0.0,
+      "title_vi": "S&P đóng cửa ở mức cao kỷ lục khi báo cáo việc làm giảm bớt lo ngại về việc tăng lãi suất - Reuters",
+      "title_en": "S&P closes at record high as soft jobs report eases rate-hike concerns - Reuters",
+      "summary_vi": "S&P đóng cửa ở mức cao kỷ lục khi báo cáo việc làm giảm bớt lo ngại về việc tăng lãi suất",
+      "summary_en": "S&P closes at record high as soft jobs report eases rate-hike concerns Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support",
+      "url": "https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 19:38:05 +0000",
+      "description": "Article URL: https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support Comments URL: https://news.ycombinator.com/item?id=49215292 Points: 7 # Comments: 0",
+      "score": 0.0,
+      "title_vi": "Mykhailo Fedorov tiết lộ cuộc đấu tranh để bảo đảm tên lửa Patriot và sự hỗ trợ của phương Tây",
+      "title_en": "Mykhailo Fedorov reveals struggle to secure Patriot missiles and Western support",
+      "summary_vi": "URL bài viết: https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support URL bình luận: https://news.ycombinator.com/item?id=49215292 Điểm: 7 # Bình luận: 0",
+      "summary_en": "Article URL: https://www.uawire.org/former-ukrainian-defense-minister-mykhailo-fedorov-reveals-struggles-to-secure-patriot-missiles-and-western-support Comments URL: https://news.ycombinator.com/item?id=49215292 Points: 7 # Comments: 0",
+      "meta": {}
+    },
+    {
+      "title": "App Store Rejection of the Week: Dark Hours",
+      "url": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 18:59:08 +0000",
+      "description": "Article URL: https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours Comments URL: https://news.ycombinator.com/item?id=49214863 Points: 128 # Comments: 42",
+      "score": 0.0,
+      "title_vi": "Sự từ chối trong tuần của App Store: Giờ đen tối",
+      "title_en": "App Store Rejection of the Week: Dark Hours",
+      "summary_vi": "URL bài viết: https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours URL bình luận: https://news.ycombinator.com/item?id=49214863 Điểm: 128 # Bình luận: 42",
+      "summary_en": "Article URL: https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours Comments URL: https://news.ycombinator.com/item?id=49214863 Points: 128 # Comments: 42",
+      "meta": {}
+    },
+    {
+      "title": "Psychological Warfare in Reverse Engineering",
+      "url": "https://github.com/xoreaxeaxeax/repsych",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 18:51:45 +0000",
+      "description": "Article URL: https://github.com/xoreaxeaxeax/repsych Comments URL: https://news.ycombinator.com/item?id=49214775 Points: 17 # Comments: 1",
+      "score": 0.0,
+      "title_vi": "Chiến tranh tâm lý trong kỹ thuật đảo ngược",
+      "title_en": "Psychological Warfare in Reverse Engineering",
+      "summary_vi": "URL bài viết: https://github.com/xoreaxeaxax/repsych URL bình luận: https://news.ycombinator.com/item?id=49214775 Điểm: 17 # Bình luận: 1",
+      "summary_en": "Article URL: https://github.com/xoreaxeaxeax/repsych Comments URL: https://news.ycombinator.com/item?id=49214775 Points: 17 # Comments: 1",
+      "meta": {}
+    },
+    {
+      "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "url": "https://ancientlibrary.net/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 18:51:14 +0000",
+      "description": "Article URL: https://ancientlibrary.net/ Comments URL: https://news.ycombinator.com/item?id=49214770 Points: 47 # Comments: 16",
+      "score": 0.0,
+      "title_vi": "Thư viện cổ - 1.060 văn bản tiếng Hy Lạp/Latin, nhấp vào bất kỳ từ nào để phân tích nó",
+      "title_en": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+      "summary_vi": "URL bài viết: https://ancientlibrary.net/ URL bình luận: https://news.ycombinator.com/item?id=49214770 Điểm: 47 # Bình luận: 16",
+      "summary_en": "Article URL: https://ancientlibrary.net/ Comments URL: https://news.ycombinator.com/item?id=49214770 Points: 47 # Comments: 16",
+      "meta": {}
+    },
+    {
+      "title": "US suffers unexpected job losses in July, markets dial back rate hike expectations - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 18:26:42 GMT",
+      "description": "US suffers unexpected job losses in July, markets dial back rate hike expectations Reuters",
+      "score": 0.0,
+      "title_vi": "Mỹ bất ngờ mất việc làm trong tháng 7, thị trường quay trở lại kỳ vọng tăng lãi suất - Reuters",
+      "title_en": "US suffers unexpected job losses in July, markets dial back rate hike expectations - Reuters",
+      "summary_vi": "Mỹ bất ngờ mất việc làm trong tháng 7, thị trường quay trở lại kỳ vọng tăng lãi suất",
+      "summary_en": "US suffers unexpected job losses in July, markets dial back rate hike expectations Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Databricks drove down AI coding spend 70%",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 18:25:17 +0000",
+      "description": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 100 # Comments: 70",
+      "score": 0.0,
+      "title_vi": "Databricks đã giảm 70% chi tiêu mã hóa AI",
+      "title_en": "Databricks drove down AI coding spend 70%",
+      "summary_vi": "URL bài viết: https://www.databricks.com/blog/managing-ai-coding-costs-scale URL bình luận: https://news.ycombinator.com/item?id=49214468 Điểm: 100 # Bình luận: 70",
+      "summary_en": "Article URL: https://www.databricks.com/blog/managing-ai-coding-costs-scale Comments URL: https://news.ycombinator.com/item?id=49214468 Points: 100 # Comments: 70",
+      "meta": {}
+    },
+    {
+      "title": "U.S. Economy Sheds 23,000 Jobs in July as Unemployment Rate Falls to 4.1%: 16 outlets compared - NewsCord",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd1RubDh1R3hOdm52ZXlJam9iMkEwa0hqcFNmOTA2eEFqUTczTDVPSkZpTng2WU1DSGV3WDhha3g2dUJXd0tZbHp0SEI5cVA5YlZ4NGdubTRkRktuOU1RZlFpOEZuNlpHd09acmdTcHk0Z3EwcHJydldRQ3JZWV9MTW9CRThHUm5lX2phUGEtWFQ5OU8tNEpIc3NIXzkweFNTRndHVXg0dnZ4UUQ2OXpPajcyejJmelBhVWxraFNzaTdTQ1d4VWVhUlVpVVo3MzhZS2ZCV3hVbmV5dw?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 18:18:10 GMT",
+      "description": "U.S. Economy Sheds 23,000 Jobs in July as Unemployment Rate Falls to 4.1%: 16 outlets compared NewsCord",
+      "score": 0.0,
+      "title_vi": "Nền kinh tế Hoa Kỳ mất 23.000 việc làm trong tháng 7 khi tỷ lệ thất nghiệp giảm xuống 4,1%: so sánh 16 cửa hàng - NewsCord",
+      "title_en": "U.S. Economy Sheds 23,000 Jobs in July as Unemployment Rate Falls to 4.1%: 16 outlets compared - NewsCord",
+      "summary_vi": "Nền kinh tế Hoa Kỳ mất 23.000 việc làm trong tháng 7 khi tỷ lệ thất nghiệp giảm xuống 4,1%: 16 cửa hàng so sánh NewsCord",
+      "summary_en": "U.S. Economy Sheds 23,000 Jobs in July as Unemployment Rate Falls to 4.1%: 16 outlets compared NewsCord",
+      "meta": {}
+    },
+    {
+      "title": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 18:11:39 GMT",
+      "description": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening Reuters",
+      "score": 0.0,
+      "title_vi": "Thị trường giảm khả năng Fed tăng lãi suất sau dữ liệu việc làm, nhưng các nhà kinh tế vẫn thấy khả năng thắt chặt - Reuters",
+      "title_en": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening - Reuters",
+      "summary_vi": "Thị trường giảm khả năng Fed tăng lãi suất sau dữ liệu việc làm, nhưng các nhà kinh tế vẫn thấy khả năng thắt chặt",
+      "summary_en": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Assembly Hall of Shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 18:01:30 +0000",
+      "description": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame Comments URL: https://news.ycombinator.com/item?id=49214098 Points: 126 # Comments: 30",
+      "score": 0.0,
+      "title_vi": "Hội trường xấu hổ",
+      "title_en": "Assembly Hall of Shame",
+      "summary_vi": "URL bài viết: https://github.com/xoreaxeaxax/asm-hall-of-shame URL bình luận: https://news.ycombinator.com/item?id=49214098 Điểm: 126 # Bình luận: 30",
+      "summary_en": "Article URL: https://github.com/xoreaxeaxeax/asm-hall-of-shame Comments URL: https://news.ycombinator.com/item?id=49214098 Points: 126 # Comments: 30",
+      "meta": {}
+    },
+    {
+      "title": "DeepSeek V4 Flash 0731",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 17:56:20 +0000",
+      "description": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731 Comments URL: https://news.ycombinator.com/item?id=49214008 Points: 253 # Comments: 157",
+      "score": 0.0,
+      "title_vi": "DeepSeek V4 Flash 0731",
+      "title_en": "DeepSeek V4 Flash 0731",
+      "summary_vi": "URL bài viết: https://arcprize.org/results/deepseek-v4-flash-0731 URL bình luận: https://news.ycombinator.com/item?id=49214008 Điểm: 253 # Bình luận: 157",
+      "summary_en": "Article URL: https://arcprize.org/results/deepseek-v4-flash-0731 Comments URL: https://news.ycombinator.com/item?id=49214008 Points: 253 # Comments: 157",
+      "meta": {}
+    },
+    {
+      "title": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
+      "url": "https://theclaudyssey.com/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 17:55:14 +0000",
+      "description": "Article URL: https://theclaudyssey.com/ Comments URL: https://news.ycombinator.com/item?id=49213985 Points: 28 # Comments: 27",
+      "score": 0.0,
+      "title_vi": "The Claudyssey: Bản dịch từng dòng cuốn Odyssey của Homer của Claude Fable 5",
+      "title_en": "The Claudyssey: A line-for-line translation of Homer's Odyssey by Claude Fable 5",
+      "summary_vi": "URL bài viết: https://theclaudyssey.com/ URL bình luận: https://news.ycombinator.com/item?id=49213985 Điểm: 28 # Bình luận: 27",
+      "summary_en": "Article URL: https://theclaudyssey.com/ Comments URL: https://news.ycombinator.com/item?id=49213985 Points: 28 # Comments: 27",
+      "meta": {}
+    },
+    {
+      "title": "China's July bank lending set to plummet amid subdued demand, seasonal slowdown - Reuters poll - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQakdWODVEb2FwaXpwbWVHRjJ0U20zQTI5MnJvYWFtRnFPX25kZGVNX25sa0NfQWhMbjJmb2t0RXAtSGVpOFh2TjFmSWYya0d1cEFNc1pzVEpYMkthdnMwTmViUzQ4R0RwTzExcUtuOXZESDN6RG94aWJDLWRTLUFzTVNicS1WWHVlSURwNjNZUnFzdGwzeURmVFpDa3NwU2J5VTlXczg2Uy1xWmhfOTNLMDh3N1VidVQ5QjF3Z3UtQW9odjJxOHgwVw?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 17:33:44 GMT",
+      "description": "China's July bank lending set to plummet amid subdued demand, seasonal slowdown - Reuters poll Reuters",
+      "score": 0.0,
+      "title_vi": "Hoạt động cho vay của ngân hàng Trung Quốc trong tháng 7 có thể giảm mạnh trong bối cảnh nhu cầu yếu và suy thoái theo mùa - cuộc thăm dò của Reuters - Reuters",
+      "title_en": "China's July bank lending set to plummet amid subdued demand, seasonal slowdown - Reuters poll - Reuters",
+      "summary_vi": "Cho vay ngân hàng tháng 7 của Trung Quốc có thể giảm mạnh trong bối cảnh nhu cầu yếu và suy thoái theo mùa - cuộc thăm dò của Reuters Reuters",
+      "summary_en": "China's July bank lending set to plummet amid subdued demand, seasonal slowdown - Reuters poll Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Nhà sản xuất 'Anh trai say hi' nửa năm lãi hơn 135 tỷ đồng",
+      "url": "https://vnexpress.net/nha-san-xuat-anh-trai-say-hi-nua-nam-lai-hon-135-ty-dong-5106631.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sat, 08 Aug 2026 00:10:00 +0700",
+      "description": "DatVietVAC - nhà sản xuất chương trình \"Anh trai say hi\" - ghi nhận lãi tăng lên 135 tỷ đồng trong 6 tháng đầu năm, dù doanh thu giảm.",
+      "score": 0.0,
+      "title_vi": "Nhà sản xuất 'Anh trai say hi' nửa năm lãi hơn 135 tỷ đồng",
+      "title_en": "The producer of 'Brother Say Hi' earned more than 135 billion VND in half a year",
+      "summary_vi": "DatVietVAC - nhà sản xuất chương trình \"Anh trai say hi\" - ghi nhận lãi tăng lên 135 tỷ đồng trong 6 tháng đầu năm, dù doanh thu giảm.",
+      "summary_en": "DatVietVAC - producer of the show \"My brother says hi\" - recorded an increase in profit to 135 billion VND in the first 6 months of the year, although revenue decreased.",
+      "meta": {}
+    },
+    {
+      "title": "Ba Lan muốn mua thêm tôm, tiêu từ Việt Nam",
+      "url": "https://vnexpress.net/ba-lan-muon-mua-them-tom-tieu-tu-viet-nam-5106505.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sat, 08 Aug 2026 00:01:00 +0700",
+      "description": "Doanh nghiệp Ba Lan tăng tìm nguồn nông sản, thực phẩm từ Việt Nam, gồm các mặt hàng như tôm và hồ tiêu.",
+      "score": 0.0,
+      "title_vi": "Ba Lan muốn mua thêm tôm, tiêu từ Việt Nam",
+      "title_en": "Poland wants to buy more shrimp and pepper from Vietnam",
+      "summary_vi": "Doanh nghiệp Ba Lan tăng tìm nguồn nông sản, thực phẩm từ Việt Nam, gồm các mặt hàng như tôm và hồ tiêu.",
+      "summary_en": "Polish businesses increasingly source agricultural products and food from Vietnam, including items such as shrimp and pepper.",
+      "meta": {}
+    }
+  ],
+  "insights": {
+    "status": "ready",
+    "model": "z-ai/glm-5.2",
+    "daily_thesis_vi": "Dữ liệu cho thấy sự bùng nổ công cụ AI mã nguồn mở và lo ngại an ninh mạng y tế, trong khi thị trường tài chính biến động mạnh. Cơ hội nằm ở tự động hóa tác vụ và tối ưu chi phí AI.",
+    "daily_thesis_en": "Data shows a surge in open-source AI tools and healthcare cybersecurity fears, alongside volatile financial markets. Opportunities lie in task automation and AI cost optimization.",
+    "opportunities": [
+      {
+        "name_vi": "Tối ưu chi phí AI lập trình",
+        "name_en": "AI Coding Cost Optimizer",
+        "pain_vi": "Chi phí sử dụng AI để lập trình đang tăng vọt, gây áp lực tài chính lên các doanh nghiệp.",
+        "pain_en": "Costs of using AI for coding are skyrocketing, putting financial strain on businesses.",
+        "audience_vi": "Công ty công nghệ, đội ngũ phát triển phần mềm",
+        "audience_en": "Tech companies, software development teams",
+        "mvp_vi": "Bảng điều khiển theo dõi và phân bổ token AI để giảm lãng phí.",
+        "mvp_en": "Dashboard to monitor and allocate AI tokens to reduce waste.",
+        "scope": "global",
+        "score": 85,
+        "evidence_ids": [
+          26
+        ],
+        "risks_vi": "Các nhà cung cấp lớn có thể tích hợp sẵn tính năng này.",
+        "risks_en": "Large providers might integrate this feature natively.",
+        "sources": [
+          {
+            "title": "Databricks drove down AI coding spend 70%",
+            "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+            "source": "Hacker News"
+          }
+        ]
+      },
+      {
+        "name_vi": "Bảo mật y tế tự động",
+        "name_en": "Automated Healthcare Security",
+        "pain_vi": "Ngành y tế đối mặt khủng hoảng an ninh mạng, đe dọa an toàn bệnh nhân.",
+        "pain_en": "Healthcare faces a cybersecurity crisis, threatening patient safety.",
+        "audience_vi": "Bệnh viện, phòng khám, tổ chức y tế",
+        "audience_en": "Hospitals, clinics, healthcare organizations",
+        "mvp_vi": "Công cụ quét lỗ hổng và giám sát mối đe dọa theo thời gian thực.",
+        "mvp_en": "Tool to scan vulnerabilities and monitor threats in real-time.",
+        "scope": "global",
+        "score": 78,
+        "evidence_ids": [
+          14
+        ],
+        "risks_vi": "Chi phí tuân thủ cao và yêu cầu dữ liệu nhạy cảm.",
+        "risks_en": "High compliance costs and sensitive data requirements.",
+        "sources": [
+          {
+            "title": "Experts say healthcare faces cybersecurity crisis: ‘These are patient safety issues’ - Cybersecurity Dive",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbFNTQmtoMXViTzMwNlVRTWV4UFBGZzB3VXJuNmpjTHVMTnRRYU0yUUotZXlkcFdQLTAzTzk0RDhwYVFXVklPbU5MNHVsSHlqU0E0cGZoalJqa2g5Qy0tOWpkaFBLMFRqUi1YTldNSE9IUUtYaTI0c2Q1TE9fU1pFakFoSXUyQ1habGpNTVZBWQ?oc=5",
+            "source": "Google News Social Needs"
+          }
+        ]
+      },
+      {
+        "name_vi": "Chuyển đổi tài liệu Markdown",
+        "name_en": "Markdown Document Conversion",
+        "pain_vi": "Chuyển đổi nhiều định dạng tài liệu phức tạp sang Markdown sạch tốn thời gian.",
+        "pain_en": "Converting complex document formats to clean Markdown is time-consuming.",
+        "audience_vi": "Nhà phát triển, nhà xuất bản nội dung số",
+        "audience_en": "Developers, digital content publishers",
+        "mvp_vi": "API chuyển đổi hàng loạt PDF, Word, Excel sang Markdown.",
+        "mvp_en": "API for batch converting PDF, Word, Excel to Markdown.",
+        "scope": "global",
+        "score": 72,
+        "evidence_ids": [
+          1
+        ],
+        "risks_vi": "Cạnh tranh từ các công cụ mã nguồn mở miễn phí.",
+        "risks_en": "Competition from free open-source tools.",
+        "sources": [
+          {
+            "title": "firecrawl/anydoc",
+            "url": "https://github.com/firecrawl/anydoc",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "CRM cho AI Agent",
+        "name_en": "CRM for AI Agents",
+        "pain_vi": "Hệ thống CRM truyền thống không tối ưu cho quy trình làm việc của AI Agent.",
+        "pain_en": "Traditional CRM systems are not optimized for AI Agent workflows.",
+        "audience_vi": "Doanh nghiệp ứng dụng AI, đội ngũ bán hàng tự động",
+        "audience_en": "AI-driven businesses, automated sales teams",
+        "mvp_vi": "Nền tảng CRM quản lý tác nhân AI và tương tác khách hàng.",
+        "mvp_en": "CRM platform to manage AI agents and customer interactions.",
+        "scope": "global",
+        "score": 68,
+        "evidence_ids": [
+          3
+        ],
+        "risks_vi": "Thị trường CRM đã bão hòa với các ông lớn.",
+        "risks_en": "CRM market is saturated with major incumbents.",
+        "sources": [
+          {
+            "title": "trycompai/crm",
+            "url": "https://github.com/trycompai/crm",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Xác minh thông tin thị trường",
+        "name_en": "Market News Verifier",
+        "pain_vi": "Dữ liệu việc làm và lạm phát gây biến động thị trường, cần lọc tin giả.",
+        "pain_en": "Jobs and inflation data cause market volatility, requiring fake news filtering.",
+        "audience_vi": "Nhà đầu tư cá nhân, nhà giao dịch",
+        "audience_en": "Retail investors, traders",
+        "mvp_vi": "Công cụ tổng hợp và đối chiếu dữ liệu tài chính từ nhiều nguồn.",
+        "mvp_en": "Tool to aggregate and cross-reference financial data from multiple sources.",
+        "scope": "global",
+        "score": 65,
+        "evidence_ids": [
+          13,
+          25,
+          27,
+          28
+        ],
+        "risks_vi": "Độ trễ dữ liệu có thể làm giảm giá trị công cụ.",
+        "risks_en": "Data latency might reduce the tool's value.",
+        "sources": [
+          {
+            "title": "Wall St Week Ahead Inflation data to test record-setting US stocks, Fed rate views - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT2tydC12dWhpUnJJXzhSQXpxNFR2S2VQamVXcTAwMms4YWNSZnVwSnJEeEtMMi1WZW1EQkc2dzJwSEt0V0hBc3N1VUxHODRfZkhodk5teVg0NHBGS2xBNHVTczA2U1NvTE4xR1Y0dlVDVE5mOWpqbnIzczZiZ1drb3d5V3VWX0xOLUgwakItMF9jTXZzR3hhNWZjRXlnaklZcFg4MDZzOGtZd2RaZkhsT1laaXpST3NUR2JtVFlCNEo?oc=5",
+            "source": "Google News Reuters Finance"
+          },
+          {
+            "title": "US suffers unexpected job losses in July, markets dial back rate hike expectations - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv?oc=5",
+            "source": "Google News Reuters Finance"
+          },
+          {
+            "title": "U.S. Economy Sheds 23,000 Jobs in July as Unemployment Rate Falls to 4.1%: 16 outlets compared - NewsCord",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd1RubDh1R3hOdm52ZXlJam9iMkEwa0hqcFNmOTA2eEFqUTczTDVPSkZpTng2WU1DSGV3WDhha3g2dUJXd0tZbHp0SEI5cVA5YlZ4NGdubTRkRktuOU1RZlFpOEZuNlpHd09acmdTcHk0Z3EwcHJydldRQ3JZWV9MTW9CRThHUm5lX2phUGEtWFQ5OU8tNEpIc3NIXzkweFNTRndHVXg0dnZ4UUQ2OXpPajcyejJmelBhVWxraFNzaTdTQ1d4VWVhUlVpVVo3MzhZS2ZCV3hVbmV5dw?oc=5",
+            "source": "Google News Reuters Finance"
+          },
+          {
+            "title": "Market cuts odds of Fed hike after jobs data, but economists still see case for tightening - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc20xOTBqRG9tVV9IUnA4T1JoVHo1dUpfSV85UzZQdzFqeWZPZ0hFb3kzUVZDUTlUcS10b205dzIyWVRaWUpxUmJJa0EtR2tfQ0sxa0tsRl82SkFXMF9BRWFCSzJDSkRpb25EOW5Fd0hUUzdrMU4wMlRDZVNiQTVoazN4dHFpeUhfNjJaUkkyUnVtdWh4V2l0LXlVcWtzM1pqdmZHVnVCT3ZoT3o5?oc=5",
+            "source": "Google News Reuters Finance"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}
