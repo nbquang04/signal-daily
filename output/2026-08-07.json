@@ -1,0 +1,751 @@
+{
+  "date": "2026-08-07",
+  "generated_at": "2026-08-07T00:56:51.543312+00:00",
+  "markets": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7709.96,
+      "change_pct": -0.18,
+      "currency": "USD"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "price": 26348.3516,
+      "change_pct": -0.06,
+      "currency": "USD"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "price": 4294.5,
+      "change_pct": 1.15,
+      "currency": "USD"
+    },
+    {
+      "name": "Crude Oil",
+      "symbol": "CL=F",
+      "price": 78.09,
+      "change_pct": 3.82,
+      "currency": "USD"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC-USD",
+      "price": 64241.6289,
+      "change_pct": -0.55,
+      "currency": "USD"
+    },
+    {
+      "name": "USD/VND",
+      "symbol": "VND=X",
+      "price": 26249.0,
+      "change_pct": -0.04,
+      "currency": "VND"
+    }
+  ],
+  "items": [
+    {
+      "title": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-03T16:36:14Z",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "score": 2185.84,
+      "title_vi": "firecrawl/anydoc",
+      "title_en": "firecrawl/anydoc",
+      "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
+      "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "meta": {
+        "stars": 8382,
+        "forks": 392,
+        "language": "Rust",
+        "stars_per_day": 2095.5
+      }
+    },
+    {
+      "title": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-29T20:03:08Z",
+      "description": "Multiplayer agent harness for work",
+      "score": 1432.07,
+      "title_vi": "phần mềm yc/m2",
+      "title_en": "yc software/sqm",
+      "summary_vi": "Khai thác tác nhân nhiều người chơi cho công việc",
+      "summary_en": "Multiplayer agent harness for work",
+      "meta": {
+        "stars": 12043,
+        "forks": 1353,
+        "language": "TypeScript",
+        "stars_per_day": 1338.1
+      }
+    },
+    {
+      "title": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-31T21:38:51Z",
+      "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "score": 1116.81,
+      "title_vi": "thửcompai/crm",
+      "title_en": "trycompai/crm",
+      "summary_vi": "Comp AI CRM là một CRM mã nguồn mở được thiết kế cho các đại lý AI. CRM ưu tiên tác nhân.",
+      "summary_en": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "meta": {
+        "stars": 7196,
+        "forks": 745,
+        "language": "TypeScript",
+        "stars_per_day": 1028.0
+      }
+    },
+    {
+      "title": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-05T01:19:41Z",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "score": 860.62,
+      "title_vi": "KKKKhazix/chữ viết của con người",
+      "title_en": "KKKKhazix/human-writing",
+      "summary_vi": "Làm cho tiếng Trung được viết bởi AI đọc giống như một người cụ thể đang nói. Kỹ năng sáng tạo và sửa đổi phổ quát, có sẵn ngay lập tức.",
+      "summary_en": "Make the Chinese written by AI read like a specific person speaking. Universal creation and revision skills, available right out of the box.",
+      "meta": {
+        "stars": 1574,
+        "forks": 141,
+        "language": "Python",
+        "stars_per_day": 787.0
+      }
+    },
+    {
+      "title": "Binaryify/open-kimi-ppt-skill",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-05T07:30:56Z",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "score": 740.49,
+      "title_vi": "Nhị phân/open-kimi-ppt-skill",
+      "title_en": "Binaryify/open-kimi-ppt-skill",
+      "summary_vi": "Kỹ năng Kimi Slides không chính thức dành cho tác nhân AI - tạo PPTD + PPTX có thể chỉnh sửa bằng trình chỉnh sửa trình duyệt cục bộ Kỹ năng Kimi Slides không chính thức dành cho tác nhân AI - tạo PPTD + PPTX có thể chỉnh sửa bằng trình chỉnh sửa trình duyệt cục bộ",
+      "summary_en": "Unofficial Kimi Slides Skill for AI agents — generate editable PPTD + PPTX with a local browser editor Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "meta": {
+        "stars": 1337,
+        "forks": 354,
+        "language": "Python",
+        "stars_per_day": 668.5
+      }
+    },
+    {
+      "title": "bashalarmistalt/decimen-optical-transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-30T18:17:54Z",
+      "description": "",
+      "score": 702.43,
+      "title_vi": "bashalarmistalt/decimen-quang-chuyển",
+      "title_en": "bashalarmistalt/decimen-optical-transfer",
+      "summary_vi": "bashalarmistalt/decimen-quang-chuyển",
+      "summary_en": "bashalarmistalt/decimen-optical-transfer",
+      "meta": {
+        "stars": 4939,
+        "forks": 600,
+        "language": "TypeScript",
+        "stars_per_day": 617.4
+      }
+    },
+    {
+      "title": "thebuggeddev/anatomy",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-02T11:15:16Z",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "score": 447.9,
+      "title_vi": "thebuggeddev/anatomy",
+      "title_en": "thebuggeddev/anatomy",
+      "summary_vi": "Trình khám phá giải phẫu người 3D tương tác được xây dựng bằng bajs với GPT 5.6 Sol",
+      "summary_en": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "meta": {
+        "stars": 1863,
+        "forks": 532,
+        "language": "TypeScript",
+        "stars_per_day": 372.6
+      }
+    },
+    {
+      "title": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-31T09:40:58Z",
+      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "score": 368.23,
+      "title_vi": "genspark-ai/genoffice",
+      "title_en": "genspark-ai/genoffice",
+      "summary_vi": "Bộ ứng dụng văn phòng gốc AI dành cho macOS và Windows: trình xử lý văn bản, bảng tính, bản trình bày và PDF.",
+      "summary_en": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "meta": {
+        "stars": 2044,
+        "forks": 340,
+        "language": "TypeScript",
+        "stars_per_day": 292.0
+      }
+    },
+    {
+      "title": "microsoft/skill-recorder",
+      "url": "https://github.com/microsoft/skill-recorder",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-29T18:16:14Z",
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "score": 314.47,
+      "title_vi": "microsoft/skill-ghi",
+      "title_en": "microsoft/skill-recorder",
+      "summary_vi": "Ứng dụng dành cho máy tính để bàn ghi lại phiên làm việc trên màn hình của bạn và sử dụng GitHub Copilot CLI để xây dựng lại phiên làm việc đó dưới dạng ý định + các bước được sắp xếp, sau đó xây dựng Kỹ năng hoặc Tự động hóa có thể sử dụng lại cho Microsoft Scout, Microsoft Copilot Cowork hoặc Copilot Studio.",
+      "summary_en": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "meta": {
+        "stars": 2140,
+        "forks": 222,
+        "language": "TypeScript",
+        "stars_per_day": 237.8
+      }
+    },
+    {
+      "title": "guillermolg00/morphicons",
+      "url": "https://github.com/guillermolg00/morphicons",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-01T08:15:09Z",
+      "description": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+      "score": 202.16,
+      "title_vi": "guillermolg00/morphicons",
+      "title_en": "guillermolg00/morphicons",
+      "summary_vi": "Bất kỳ biểu tượng nào cũng có thể biến đổi thành bất kỳ biểu tượng nào khác — biến hình phổ quát cho các biểu tượng dựa trên nét vẽ với vật lý lò xo. Không phụ thuộc, ~7 KB gzip.",
+      "summary_en": "Any icon morphs into any other — universal morphing for stroke-based icons with spring physics. Zero dependencies, ~7 KB gzip.",
+      "meta": {
+        "stars": 811,
+        "forks": 14,
+        "language": "TypeScript",
+        "stars_per_day": 135.2
+      }
+    },
+    {
+      "title": "Sắp xếp cơ sở giáo dục: Nâng cao chất lượng toàn diện, cơ cấu lại đội ngũ - baotintuc.vn",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSVpUNVZUdXc3dXhCNm1CUjVWUm1Oa29MOFFHS200Y3RtbW00Wjk5WnVfV1Atd0J4VXZMTUNiZm1PN1RZTzhOU0NRY1pRZVU5MlFSdTg3TmtwWGVJZkxESTQ1SWZCNmtHTGktMVUtMTR2QnI2RVlad1VXNkRRYXZYekltQUozZEN4cHFTRDRmT3Q2WENLN0ZZWDlEMTV4MnVjaE1ZbUhIeS0xajBKWk56ZkNaSXhTcFVCY3RXWE9raXA?oc=5",
+      "source": "Google News Nhu cầu Việt Nam",
+      "category": "society",
+      "market": "vietnam",
+      "published": "Fri, 07 Aug 2026 00:46:00 GMT",
+      "description": "Sắp xếp cơ sở giáo dục: Nâng cao chất lượng toàn diện, cơ cấu lại đội ngũ baotintuc.vn",
+      "score": 0.0,
+      "title_vi": "Sắp xếp cơ sở giáo dục: Nâng cao chất lượng toàn diện, cơ cấu lại đội ngũ - baotintuc.vn",
+      "title_en": "Arranging educational facilities: Improving comprehensive quality, restructuring the team - baotintuc.vn",
+      "summary_vi": "Sắp xếp cơ sở giáo dục: Nâng cao chất lượng toàn diện, cơ cấu lại đội ngũ baotintuc.vn",
+      "summary_en": "Arrange educational facilities: Improve comprehensive quality, restructure baotintuc.vn team",
+      "meta": {}
+    },
+    {
+      "title": "National honor for physician wellness program founded by UH faculty - University of Hawaii System",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTUhqeVl3NXlrOWFLakhDY3Bxa2draDExaThxalMxZ1dtLTlOVGdSNHpZY01Kdnk5TnhWYjQtNWtJZGJwV1prMmd3R2hONTdGUFJURUd4RWoxRzBpN044YzdGd21fRXBvZGFUWVp0aHVGNDVLcUV3bEEwd3kwdjBBMjFVOA?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 00:44:16 GMT",
+      "description": "National honor for physician wellness program founded by UH faculty University of Hawaii System",
+      "score": 0.0,
+      "title_vi": "Danh dự quốc gia dành cho chương trình chăm sóc sức khỏe của bác sĩ do giảng viên UH thành lập - Hệ thống Đại học Hawaii",
+      "title_en": "National honor for physician wellness program founded by UH faculty - University of Hawaii System",
+      "summary_vi": "Danh dự quốc gia dành cho chương trình chăm sóc sức khỏe của bác sĩ do giảng viên UH thành lập Hệ thống Đại học Hawaii",
+      "summary_en": "National honor for physician wellness program founded by UH faculty University of Hawaii System",
+      "meta": {}
+    },
+    {
+      "title": "2 Energy Stocks With More Hype Than Fundamentals Right Now - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGpMT2RoOVlDT0RqbFdxUGRmU0hPVm9QZUZIQktQa0pBQnhIZHFuQWh2OUVFcWg4TEg4STh0ZktHbHVEZ2lkbFNaWVVUYW5Zb0d0Y21qWTN0SXhzaFRwS1dNbkROTGpsSUN2MXcwLU1MNGxqdU5yV2JEeXdmZzI0aDdJSmxoTjBnMUx5RWo0S2loNGd3TGRtWQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 00:41:45 GMT",
+      "description": "2 Energy Stocks With More Hype Than Fundamentals Right Now The Motley Fool",
+      "score": 0.0,
+      "title_vi": "2 cổ phiếu năng lượng đang được cường điệu hóa nhiều hơn các yếu tố cơ bản - The Motley Fool",
+      "title_en": "2 Energy Stocks With More Hype Than Fundamentals Right Now - The Motley Fool",
+      "summary_vi": "2 cổ phiếu năng lượng đang được cường điệu hóa nhiều hơn các yếu tố cơ bản",
+      "summary_en": "2 Energy Stocks With More Hype Than Fundamentals Right Now The Motley Fool",
+      "meta": {}
+    },
+    {
+      "title": "Ứng dụng điện toán đám mây giúp doanh nghiệp tối ưu chi phí chuyển đổi số - Giáo dục Việt Nam",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0c3OHVpNjRKRTEwUWd3RDYyZGppMHJYZHdIVklNaTdRMGlnMWcwSmxKN01PXzBVTF9zdU1JZHE3N1phV3NiTzZPTFY1VFBTVnhaRDVGTXJ3TFUtMFB2U0lhWVRnT29Ia3JzMG1Ma0hSNWt0Q1RGLW9NMGg3RlNOQ2ZzdTZLSXlGbE4tQTFCZS0wQzN0dHdHTURFT3l5SzdNQy1QTFZRVUhEUG4waW1N?oc=5",
+      "source": "Google News Nhu cầu Việt Nam",
+      "category": "society",
+      "market": "vietnam",
+      "published": "Fri, 07 Aug 2026 00:40:00 GMT",
+      "description": "Ứng dụng điện toán đám mây giúp doanh nghiệp tối ưu chi phí chuyển đổi số Giáo dục Việt Nam",
+      "score": 0.0,
+      "title_vi": "Ứng dụng điện toán đám mây giúp doanh nghiệp tối ưu chi phí chuyển đổi số - Giáo dục Việt Nam",
+      "title_en": "Cloud computing applications help businesses optimize digital transformation costs - Vietnam Education",
+      "summary_vi": "Ứng dụng điện toán đám mây giúp doanh nghiệp tối ưu chi phí chuyển đổi số Giáo dục Việt Nam",
+      "summary_en": "Cloud computing applications help businesses optimize digital transformation costs Vietnam Education",
+      "meta": {}
+    },
+    {
+      "title": "OCS receives Grissom Award for Innovation in Special Education - pmg-ky1.com",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTlBQOXR1YUhYVy1rQXE4aHR2cGU1MGc3S3VEdEw5QlIzSkZkWl9qeGNZMTR6T3FWWUFrMThCVGE5VXRTckhNN2hsYlZ3bDA4ZmxNajlodU1KdnU5dlE2dEd6Z0dMRUxTRkRfS0FNc3hLZjdMVWNoYUMzLXFGR2xrbTJrd29SSHptMU1QOTUyMnFGMWJmcDNFaUZ1UzdSWkJrYllveGw3WExtS21JRDExa0ZfWlphZThmSk9xbmwxWGZMVVo2YmpsQXhlOHJzWE84WHJOazhpZmRqZEZITHBTR1V6UzZYdUZOZnB6b1EyMTBMNnVsSlE?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 00:35:00 GMT",
+      "description": "OCS receives Grissom Award for Innovation in Special Education pmg-ky1.com",
+      "score": 0.0,
+      "title_vi": "OCS nhận Giải thưởng Grissom về Đổi mới trong Giáo dục Đặc biệt - pmg-ky1.com",
+      "title_en": "OCS receives Grissom Award for Innovation in Special Education - pmg-ky1.com",
+      "summary_vi": "OCS nhận Giải thưởng Grissom về Đổi mới trong Giáo dục Đặc biệt pmg-ky1.com",
+      "summary_en": "OCS receives Grissom Award for Innovation in Special Education pmg-ky1.com",
+      "meta": {}
+    },
+    {
+      "title": "Affordable energy advocates rally in front of Sempra HQ after the company posts ‘strong’ quarterly earnings - KPBS",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOW91ZTN6dXZ0M3hzNmhya3BzU1RRay1rTWxub2lDLTF2RmRLR0ZKdjZlOWUzNzFEaTZkbVNEU0Qzamg1SVNhU1BLSktxdERaVGE0LU9Ibm5ZUDBhVFYtSVRWeUphN3N6RmJCX2M3bGotUkprMVJEamI2RHN2WmlWQV9QX0wwWTRfZTlNdWhvRTdqdGZ5dkozNkk5WDdMNGJPdXNEMWFMMlVFbXh3RlFfSlFjQ3F0UFN6M2RjUklpM01UUnBla3FkUXVSYk1yQ0lSVWV5OFBHZVFYaTNtVWVieTU5MHI?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 00:26:00 GMT",
+      "description": "Affordable energy advocates rally in front of Sempra HQ after the company posts ‘strong’ quarterly earnings KPBS",
+      "score": 0.0,
+      "title_vi": "Những người ủng hộ năng lượng giá cả phải chăng biểu tình trước trụ sở Sempra sau khi công ty công bố thu nhập hàng quý 'mạnh mẽ' - KPBS",
+      "title_en": "Affordable energy advocates rally in front of Sempra HQ after the company posts ‘strong’ quarterly earnings - KPBS",
+      "summary_vi": "Những người ủng hộ năng lượng giá cả phải chăng biểu tình trước trụ sở Sempra sau khi công ty công bố thu nhập hàng quý 'mạnh mẽ' KPBS",
+      "summary_en": "Affordable energy advocates rally in front of Sempra HQ after the company posts ‘strong’ quarterly earnings KPBS",
+      "meta": {}
+    },
+    {
+      "title": "Giáo viên Hà Nội đã sẵn sàng cho những yêu cầu mới sau sắp xếp trường lớp - vov.gov.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3lIOEZRYzk2cW42NkI2c1puazJCd2VhRjY2NDFLNm9FZ1dNRDFGNVFHZk9VSlhleHZEVWlRS0U3TXdlLU5RS25ab1FKa0ktenZrMmFnak5MSmFzQ1NEY1h1di03RmdQUVMySktXbEFwbGxsWFFqWkY5ekhTUTBOS3pwbVNfemtNTzBoWE4tcUJFOC1vWmlIdzRGeXZHQ09IakEzMS1yVFV4UQ?oc=5",
+      "source": "Google News Nhu cầu Việt Nam",
+      "category": "society",
+      "market": "vietnam",
+      "published": "Fri, 07 Aug 2026 00:16:09 GMT",
+      "description": "Giáo viên Hà Nội đã sẵn sàng cho những yêu cầu mới sau sắp xếp trường lớp vov.gov.vn",
+      "score": 0.0,
+      "title_vi": "Giáo viên Hà Nội đã sẵn sàng cho những yêu cầu mới sau sắp xếp trường lớp - vov.gov.vn",
+      "title_en": "Hanoi teachers are ready for new requirements after school arrangement - vov.gov.vn",
+      "summary_vi": "Giáo viên Hà Nội đã sẵn sàng cho những yêu cầu mới sau sắp xếp trường lớp vov.gov.vn",
+      "summary_en": "Hanoi teachers are ready for new requirements after vov.gov.vn school arrangement",
+      "meta": {}
+    },
+    {
+      "title": "PBOC is expected to set the USD/CNY reference rate at 6.7548 – Reuters estimate - investingLive",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSFRPbFJ3eUVpdGFIb3haS3J4NF9yeElROVpxcDJPX0NuX2ExREpjUTlHTWUzODhDS19SZzd2SUJxLVowMFpJMTZHRUx6UDVxdm1rbmVqWWNKbWhBZjh0Qzc5UlhPbUFNZlZ0LWFmZGxvaDdkOEdXMGkyUmdpUUp4SkJoOTRveGJJV2dSN3FRRV85R00xVWpESkJaMV81bEtiQ0Fjem9zd3d4ejRRSmVTeVI4NFNyZC1jbVE?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 00:16:07 GMT",
+      "description": "PBOC is expected to set the USD/CNY reference rate at 6.7548 – Reuters estimate investingLive",
+      "score": 0.0,
+      "title_vi": "PBOC dự kiến ​​sẽ ấn định tỷ giá tham chiếu USD/CNY ở mức 6,7548 - Reuters ước tính - InvestorLive",
+      "title_en": "PBOC is expected to set the USD/CNY reference rate at 6.7548 – Reuters estimate - investingLive",
+      "summary_vi": "PBOC dự kiến ​​sẽ ấn định tỷ giá tham chiếu USD/CNY ở mức 6,7548 - Reuters ước tính đầu tưLive",
+      "summary_en": "PBOC is expected to set the USD/CNY reference rate at 6.7548 – Reuters estimate investingLive",
+      "meta": {}
+    },
+    {
+      "title": "Career & Technical Education celebrates inaugural Excellence Awards - Rutherford County Schools",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZN1U4S0VDdWpLZ3QzcVZ2UlVqZ20yMk16QngtRkk0X1RqWXNhSEk1cFlGNHExQUZaeUtVLVQ1dTlRM2ZscXdDVGJzRlBvX0drQWZF?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 00:11:15 GMT",
+      "description": "Career & Technical Education celebrates inaugural Excellence Awards Rutherford County Schools",
+      "score": 0.0,
+      "title_vi": "Giáo dục Nghề nghiệp & Kỹ thuật tổ chức lễ khai mạc Giải thưởng Xuất sắc - Trường học Quận Rutherford",
+      "title_en": "Career & Technical Education celebrates inaugural Excellence Awards - Rutherford County Schools",
+      "summary_vi": "Giáo dục Hướng nghiệp & Kỹ thuật tổ chức lễ khai mạc Giải thưởng Xuất sắc Trường học Quận Rutherford",
+      "summary_en": "Career & Technical Education celebrates inaugural Excellence Awards Rutherford County Schools",
+      "meta": {}
+    },
+    {
+      "title": "Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds",
+      "url": "https://github.com/Kayvan-Zahiri/asr-age-gap",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 00:10:04 +0000",
+      "description": "Article URL: https://github.com/Kayvan-Zahiri/asr-age-gap Comments URL: https://news.ycombinator.com/item?id=49204388 Points: 7 # Comments: 1",
+      "score": 0.0,
+      "title_vi": "Hiện HN: Thì thầm chép lời người 70 tuổi chính xác hơn người 20 tuổi",
+      "title_en": "Show HN: Whisper transcribes 70-year-olds more accurately than 20-year-olds",
+      "summary_vi": "URL bài viết: https://github.com/Kayvan-Zahiri/asr-age-gap URL nhận xét: https://news.ycombinator.com/item?id=49204388 Điểm: 7 # Nhận xét: 1",
+      "summary_en": "Article URL: https://github.com/Kayvan-Zahiri/asr-age-gap Comments URL: https://news.ycombinator.com/item?id=49204388 Points: 7 # Comments: 1",
+      "meta": {}
+    },
+    {
+      "title": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+      "url": "https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 00:06:28 +0000",
+      "description": "Article URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7 Comments URL: https://news.ycombinator.com/item?id=49204352 Points: 20 # Comments: 3",
+      "score": 0.0,
+      "title_vi": "Meta được lệnh phải trả 942 triệu đô la để giải quyết vấn đề gây hại cho trẻ em từ mạng xã hội",
+      "title_en": "Meta Ordered to Pay $942M to Address Harm to Kids from Social Media",
+      "summary_vi": "URL bài viết: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7 URL bình luận: https://news.ycombinator.com/item?id=49204352 Điểm: 20 # Bình luận: 3",
+      "summary_en": "Article URL: https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7 Comments URL: https://news.ycombinator.com/item?id=49204352 Points: 20 # Comments: 3",
+      "meta": {}
+    },
+    {
+      "title": "SpaceX lockup expiry to test retail’s iron stomach - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVVByRDU4TVRXVWN3ajg0bFVpRDFZNnhxU2tFR2YyckllNnBRMk5kVmctOVB2bE1IdWV2elRfbVNmRExnN2Q3aWJmU05WN2FHSlFnZ0VwMG1jNjA4czlzYnVZQmtPdGxIdUhfRFA3NGc3RDd1SVpJd2ZQQU9iUzN0VE1jY1BkLURCa0JTQVVLVEFPbHdqZDZlM1NHenEycUdFNEszQ1Y1WXIzY2dIVjltVl9CX3hfUQ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 06 Aug 2026 23:30:27 GMT",
+      "description": "SpaceX lockup expiry to test retail’s iron stomach Reuters",
+      "score": 0.0,
+      "title_vi": "SpaceX hết hạn khóa để kiểm tra dạ dày sắt của ngành bán lẻ - Reuters",
+      "title_en": "SpaceX lockup expiry to test retail’s iron stomach - Reuters",
+      "summary_vi": "SpaceX hết hạn khóa để kiểm tra dạ dày sắt của ngành bán lẻ",
+      "summary_en": "SpaceX lockup expiry to test retail’s iron stomach Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Singapore's OCBC raises 2026 loan growth outlook, Q2 profit jumps 22% to quarterly record - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGlabUxWNkswR2dFZlVvWGNoWmhjVHBSOUpoVWhBT2tZUG1PbVVjbl96bDBXR1lqOGluM0l1Vi1EVWY5bUlBWlZ1YmZpSWlVRkZlN0lnT2Nvb3JyVmhRM3J4Tmx4VlpsamE4NUh1bG1NZmd6b1F0QlJKWk9tRVFvbFZheWp5WnBZN3hYalY1Sm1PenhHOTBKUkdIbG03czM1SDA1eWkwUVFvb2RfTXU3bGNrdzUtMHF5YUdRRjJ5VTMtUQ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 06 Aug 2026 23:18:53 GMT",
+      "description": "Singapore's OCBC raises 2026 loan growth outlook, Q2 profit jumps 22% to quarterly record Reuters",
+      "score": 0.0,
+      "title_vi": "OCBC của Singapore nâng triển vọng tăng trưởng cho vay năm 2026, lợi nhuận quý 2 tăng 22% lên kỷ lục hàng quý - Reuters",
+      "title_en": "Singapore's OCBC raises 2026 loan growth outlook, Q2 profit jumps 22% to quarterly record - Reuters",
+      "summary_vi": "OCBC của Singapore nâng triển vọng tăng trưởng cho vay năm 2026, lợi nhuận quý 2 tăng 22% lên kỷ lục hàng quý",
+      "summary_en": "Singapore's OCBC raises 2026 loan growth outlook, Q2 profit jumps 22% to quarterly record Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+      "url": "https://zenodo.org/records/21359923",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 06 Aug 2026 22:50:09 +0000",
+      "description": "Author here. Background, for anyone who hasn't followed this fight: IBM's iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship \"quantum computers are useful for chemistry now\" claims, and a published critique (arXiv:2501.07231) argues the quantum samples never beat classical selected-CI at matched cost. That argument is still live. Both sides have been arguing about energies. Neither measured which electronic state these calculations actually converge to. So I measured it. ⟨S²⟩ comes out between 4.7 and 7.0 depending on the system and the subspace size, where the target these papers name is a singlet at ⟨S²⟩ = 0. Every starting guess I tried lands in the same place, and the error at convergence is about the size of the spin-state ladder itself, which is the physics under dispute. IBM ships a mitigation for this. Run exactly as shipped, using their driver, their recovery loop and their own spin_square() diagnostic, it moves the ground energy by under a nanohartree while maki",
+      "score": 0.0,
+      "title_vi": "Kiểm tra spin các tiêu chuẩn hóa học lượng tử SQD/QSCI trên cụm sắt-lưu huỳnh",
+      "title_en": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+      "summary_vi": "Tác giả đây. Thông tin cơ bản dành cho những ai chưa theo dõi cuộc chiến này: Kết quả SQD sắt-lưu huỳnh của IBM (Sci. Adv. 2025) là một trong những tuyên bố hàng đầu \"máy tính lượng tử hiện hữu ích cho hóa học\" và một bài phê bình đã xuất bản (arXiv:2501.07231) lập luận rằng các mẫu lượng tử không bao giờ đánh bại được CI chọn lọc cổ điển ở mức chi phí phù hợp. Lập luận đó vẫn còn tồn tại. Cả hai bên đều tranh cãi về năng lượng. Cả hai đều không đo được trạng thái điện tử mà các phép tính này thực sự hội tụ đến. Thế là tôi đo nó. ⟨S²⟩ xuất hiện trong khoảng từ 4,7 đến 7,0 tùy thuộc vào hệ thống và kích thước không gian con, trong đó mục tiêu mà tên giấy tờ này là một tập đơn ở ⟨S²⟩ = 0. Mỗi lần đoán ban đầu, tôi đều thử hạ cánh ở cùng một vị trí và gặp lỗi",
+      "summary_en": "Author here. Background, for anyone who hasn't followed this fight: IBM's iron–sulfur SQD results (Sci. Adv. 2025) are one of the flagship \"quantum computers are useful for chemistry now\" claims, and a published critique (arXiv:2501.07231) argues the quantum samples never beat classical selected-CI at matched cost. That argument is still live. Both sides have been arguing about energies. Neither measured which electronic state these calculations actually converge to. So I measured it. ⟨S²⟩ comes out between 4.7 and 7.0 depending on the system and the subspace size, where the target these papers name is a singlet at ⟨S²⟩ = 0. Every starting guess I tried lands in the same place, and the error",
+      "meta": {}
+    },
+    {
+      "title": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 06 Aug 2026 22:43:53 +0000",
+      "description": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+      "score": 0.0,
+      "title_vi": "Loa thông minh AI mới của OpenAI sẽ được bán với giá từ 300 đến 400 USD",
+      "title_en": "OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400",
+      "summary_vi": "Các chi tiết bổ sung về thiết bị AI mới bí ẩn của OpenAI khiến nó trông giống như một chiếc loa thông minh đắt tiền.",
+      "summary_en": "Additional details about OpenAI's mysterious new AI device make it sound like a pricey smart speaker.",
+      "meta": {}
+    },
+    {
+      "title": "US wellness shot brand Dose explores sale, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDVrSllXY2MtdjhWSFMzM3FTZHJFNWRWWHRRVXptazd6UFVubjV6cGNaRHJjeXoxVG1jTWN6VDJrUWdJQVMzSG13ZndsUzk4ZlFIRDlIVmhGSFJQa0RHZW9wRTh3YWlKeFZCVTU4RjN4OEsxRU9vbnJUSkRvc0NXeUZfZy12a0RiMzNfZzlBMERzelhwLVFOd3QwWVFRMzBEUW52ejY4SWt1cDUwaXc?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 06 Aug 2026 22:24:13 GMT",
+      "description": "US wellness shot brand Dose explores sale, sources say Reuters",
+      "score": 0.0,
+      "title_vi": "Các nguồn tin cho biết thương hiệu thuốc bổ sức khỏe Dose của Hoa Kỳ đang khám phá hoạt động bán hàng - Reuters",
+      "title_en": "US wellness shot brand Dose explores sale, sources say - Reuters",
+      "summary_vi": "Các nguồn tin cho biết thương hiệu thuốc bổ sức khỏe Dose của Mỹ đang tìm cách bán hàng",
+      "summary_en": "US wellness shot brand Dose explores sale, sources say Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+      "url": "https://techcrunch.com/2026/08/06/your-table-awaits-exhibit-at-techcrunch-disrupt-2026-to-be-seen-by-thousands/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 06 Aug 2026 22:00:00 +0000",
+      "description": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here’s what $12,500 buys you: Joining fellow exhibitors is the fastest, lowest-lift way for a […]",
+      "score": 0.0,
+      "title_vi": "Bàn của bạn đang chờ: Triển lãm tại TechCrunch Disrupt 2026 để hàng nghìn người xem",
+      "title_en": "Your table awaits: Exhibit at TechCrunch Disrupt 2026 to be seen by thousands",
+      "summary_vi": "Không phải ai cũng cần một vị trí phát biểu quan trọng để gây ồn ào tại TechCrunch Disrupt 2026. Đôi khi, cách tốt nhất để gặp gỡ các nhà đầu tư, khách hàng và đối tác là triển lãm trực tiếp trên sàn Expo Hall ở Moscone West của San Francisco từ ngày 13 đến ngày 15 tháng 10. Đó chính xác là những gì Chương trình Triển lãm của chúng tôi cung cấp và nó vẫn mở để giới thiệu công ty khởi nghiệp của bạn. Đây là những gì mà 12.500 đô la sẽ mang lại cho bạn: Tham gia cùng các nhà triển lãm là cách nhanh nhất, ít tốn kém nhất để có được […]",
+      "summary_en": "Not everyone needs a keynote slot to make noise at TechCrunch Disrupt 2026. Sometimes the best way to meet investors, customers, and partners is by exhibiting directly on the Expo Hall floor at San Francisco’s Moscone West from October 13-15. That’s exactly what our Exhibit Program offers, and it’s still open to showcase your startup. Here’s what $12,500 buys you: Joining fellow exhibitors is the fastest, lowest-lift way for a […]",
+      "meta": {}
+    },
+    {
+      "title": "Có nên mua TV trưng bày, đã qua sử dụng tại siêu thị điện máy?",
+      "url": "https://vnexpress.net/co-nen-mua-tv-trung-bay-da-qua-su-dung-tai-sieu-thi-dien-may-5106079.html",
+      "source": "VnExpress Số hóa",
+      "category": "technology",
+      "market": "vietnam",
+      "published": "Fri, 07 Aug 2026 05:00:00 +0700",
+      "description": "Vào siêu thị điện máy, tôi thấy nhiều TV dán nhãn hàng trưng bày hoặc đã qua sử dụng với giá giảm mạnh, còn bảo hành nên tò mò.",
+      "score": 0.0,
+      "title_vi": "Có nên mua TV trưng bày, đã qua sử dụng tại siêu thị điện máy?",
+      "title_en": "Should I buy a used, display TV at an electronics supermarket?",
+      "summary_vi": "Vào siêu thị điện máy, tôi thấy nhiều TV dán nhãn hàng trưng bày hoặc đã qua sử dụng với giá giảm mạnh, còn bảo hành nên tò mò.",
+      "summary_en": "When I went to the electronics supermarket, I saw many TVs labeled as display products or as used ones with sharply reduced prices and still under warranty, so I was curious.",
+      "meta": {}
+    },
+    {
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 06 Aug 2026 21:52:16 +0000",
+      "description": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/ Comments URL: https://news.ycombinator.com/item?id=49203105 Points: 67 # Comments: 13",
+      "score": 0.0,
+      "title_vi": "Hoan nghênh Chính phủ Nepal giúp tôi được trả nợ",
+      "title_en": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "summary_vi": "URL bài viết: https://www.troyhunt.com/welcoming-the-nepalese- Government-to-have-i-been-pwned/ URL bình luận: https://news.ycombinator.com/item?id=49203105 Điểm: 67 # Bình luận: 13",
+      "summary_en": "Article URL: https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/ Comments URL: https://news.ycombinator.com/item?id=49203105 Points: 67 # Comments: 13",
+      "meta": {}
+    },
+    {
+      "title": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+      "url": "https://github.com/mattdeeds/pokeemerald-rp2350",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 06 Aug 2026 21:49:07 +0000",
+      "description": "Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance's video hardware is reimplemented in software on the second core. Comments URL: https://news.ycombinator.com/item?id=49203059 Points: 36 # Comments: 16",
+      "score": 0.0,
+      "title_vi": "Hiển thị HN: Pokémon Emerald được chuyển sang Raspberry Pi Pico 2",
+      "title_en": "Show HN: Pokémon Emerald Ported to Raspberry Pi Pico 2",
+      "summary_vi": "Pokémon Emerald được chuyển sang bộ vi điều khiển RP2350. Không có trình giả lập, đầu ra HDMI 60 khung hình / giây. Được biên dịch lại từ ARMv4T thành Cortex-M33 và phần cứng video của Game Boy Advance được triển khai lại trong phần mềm trên lõi thứ hai. URL nhận xét: https://news.ycombinator.com/item?id=49203059 Điểm: 36 # Nhận xét: 16",
+      "summary_en": "Pokémon Emerald ported to the RP2350 microcontroller. No emulator, 60 fps HDMI output. Recompiled from ARMv4T to Cortex-M33 and the Game Boy Advance's video hardware is reimplemented in software on the second core. Comments URL: https://news.ycombinator.com/item?id=49203059 Points: 36 # Comments: 16",
+      "meta": {}
+    },
+    {
+      "title": "Big investors think it might be time to buy in South Korea - The Business Standard",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEZNby1vNHk1UkZQYkZyQTJzb0xudFV2bjFhaDhoSHNuOUNLMUFqNnUyTVhNSFdLb2c2b1o1VUFLc2JULUJsVDdseWtVRnJhUDlwcWYyMVlpVkFQT3Fzd0JYcEdhRnhsVGxvQXVFSXIxeFVCdzhGOXg2NU51Y0JRNnl0S292eG1Sc2F2WXJzRmpPNTEtWlFsSmwtWmJZR0RjeHFDUjVBLUXSAa4BQVVfeXFMUHRGWmY1TU9QeWI3ckRfN0tkTXBKUGhvc2NSX2NZRVdyY0lKejQ4bW9FU0NBNmNaOW5pdnNkaFVZTGNpazRBZmg2bDRsSTVMX3Y2a1JHWDFybWk5YmZ5OTZRWXpPUkFZVXZ1NUh3VlZldHhZQmJmX0RqQ2dTQU4tR0NnTThFV0xocEhKVHlzWTFTOWxzeVZBd2NzSTY2TU5Fb2tHNzdRVFR4ZzA2TUtR?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 06 Aug 2026 21:32:02 GMT",
+      "description": "Big investors think it might be time to buy in South Korea The Business Standard",
+      "score": 0.0,
+      "title_vi": "Các nhà đầu tư lớn cho rằng đã đến lúc mua vào Hàn Quốc - The Business Standard",
+      "title_en": "Big investors think it might be time to buy in South Korea - The Business Standard",
+      "summary_vi": "Các nhà đầu tư lớn cho rằng đã đến lúc mua vào Hàn Quốc",
+      "summary_en": "Big investors think it might be time to buy in South Korea The Business Standard",
+      "meta": {}
+    },
+    {
+      "title": "Bomb planted on minibus kills two near Damascus, Syrian officials say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFkyalJWQ2txUksxbXpvMFRkWUJYSkVlNjBGTXVjRnFJOF9ONkJ2ZWUyUG9uMmxWSENpMFpoSUlZdzRwNVJZWU1wY0tHSmxCNy04S2xBQjRvYWtEeVNPb3hpQ0tIY2ZiR3BqRURVazhJSG9uZFBfc1EwTzVGZWs1cHpUUzlYU3hkZ3hJLWVmcGZaSl9ONFdlbzhPajNiYWo3RkQ4T1BqWVY0c2twZlFINFBmZDdOMXJ2cjZMSEhQOGFXMmh5cEEwaXR3?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 06 Aug 2026 21:31:13 GMT",
+      "description": "Bomb planted on minibus kills two near Damascus, Syrian officials say Reuters",
+      "score": 0.0,
+      "title_vi": "Các quan chức Syria cho biết bom cài trên xe buýt nhỏ giết chết hai người gần Damascus - Reuters",
+      "title_en": "Bomb planted on minibus kills two near Damascus, Syrian officials say - Reuters",
+      "summary_vi": "Các quan chức Syria cho biết bom cài trên xe buýt nhỏ giết chết hai người gần Damascus",
+      "summary_en": "Bomb planted on minibus kills two near Damascus, Syrian officials say Reuters",
+      "meta": {}
+    },
+    {
+      "title": "China launches cybersecurity review into Palo Alto Networks products - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmk2ZlcxakRJeFpWc29SY1pVZkw3RkFTbzlDVEJEX2NXUWV2b2VKMnBWd2p1ZFNqQVFobGdSV0dWMmFRZG9iMTVlbGxncXNDQ095WHVTeDJQelRtRF9BZTVJU1JJSkRkbmxEbWlac1pWUnljandfOUtqLXhZSGFJTm05SVBHRmRoeE4yU2JCR1NRSVZQdmZJOENjcWpKZXhaSlpHRDRldHpySWhNZHFwYmxiTl8xWklsZkZpMkVR?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 06 Aug 2026 21:13:38 GMT",
+      "description": "China launches cybersecurity review into Palo Alto Networks products Reuters",
+      "score": 0.0,
+      "title_vi": "Trung Quốc triển khai đánh giá an ninh mạng đối với các sản phẩm của Palo Alto Networks - Reuters",
+      "title_en": "China launches cybersecurity review into Palo Alto Networks products - Reuters",
+      "summary_vi": "Trung Quốc triển khai đánh giá an ninh mạng đối với các sản phẩm của Palo Alto Networks",
+      "summary_en": "China launches cybersecurity review into Palo Alto Networks products Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Trading Day: Pause before jobs - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNi1vM1gxZ3B2TExfZVR0eEFiV0NnQmhvaDE2c1lxU2hLbllaSzJDZ2gyS1QyYVFXcC1DQkFnZUZTZHIzQlRoM2FCdHVyanh4dkNMSGlsR3NBMmtjWEdzTGR6Z1VYLU5VTHo2VjdfeFhyMHlIM2k1NFQ2Vy1KY1ptbmFHanZLN1JMczFkUk5vSGp1VzZ5WWU4S3dJNVFybDdYTG5HcXdB?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 06 Aug 2026 21:05:27 GMT",
+      "description": "Trading Day: Pause before jobs Reuters",
+      "score": 0.0,
+      "title_vi": "Ngày giao dịch: Tạm dừng trước khi làm việc - Reuters",
+      "title_en": "Trading Day: Pause before jobs - Reuters",
+      "summary_vi": "Ngày giao dịch: Tạm dừng trước khi làm việc Reuters",
+      "summary_en": "Trading Day: Pause before jobs Reuters",
+      "meta": {}
+    }
+  ],
+  "insights": {
+    "status": "ready",
+    "model": "z-ai/glm-5.2",
+    "daily_thesis_vi": "Các tổ chức đang tích hợp AI và tối ưu hóa chi phí chuyển đổi số. Điểm nghẽn bao gồm quản lý agent, an ninh mạng và chuyển đổi tài liệu, tạo ra cơ hội SaaS mạnh mẽ.",
+    "daily_thesis_en": "Organizations are integrating AI and optimizing digital transformation costs. Pain points include agent management, cybersecurity, and document conversion, creating strong SaaS opportunities.",
+    "opportunities": [
+      {
+        "name_vi": "CRM dành cho AI Agent",
+        "name_en": "Agentic-first CRM",
+        "pain_vi": "Các doanh nghiệp thiếu hệ thống CRM được thiết kế riêng để quản lý và theo dõi các tác nhân AI.",
+        "pain_en": "Businesses lack CRM systems designed specifically to manage and track AI agents.",
+        "audience_vi": "Các doanh nghiệp đang áp dụng AI toàn cầu.",
+        "audience_en": "Global AI-adopting enterprises.",
+        "mvp_vi": "Phát triển CRM mã nguồn mở quản lý vòng đời và tương tác của agent.",
+        "mvp_en": "Develop an open-source CRM managing agent lifecycles and interactions.",
+        "scope": "global",
+        "score": 82,
+        "evidence_ids": [
+          3
+        ],
+        "risks_vi": "Cạnh tranh cao từ các CRM truyền thống đang tích hợp AI.",
+        "risks_en": "High competition from traditional CRMs integrating AI.",
+        "sources": [
+          {
+            "title": "trycompai/crm",
+            "url": "https://github.com/trycompai/crm",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Chuyển đổi tài liệu sang Markdown",
+        "name_en": "Document to Markdown API",
+        "pain_vi": "Trích xuất dữ liệu từ nhiều định dạng tài liệu phức tạp để huấn luyện AI tốn nhiều thời gian.",
+        "pain_en": "Extracting data from complex document formats for AI training is time-consuming.",
+        "audience_vi": "Các nhà phát triển và công ty AI.",
+        "audience_en": "Developers and AI companies.",
+        "mvp_vi": "API chuyển đổi Word, Excel, PDF sang Markdown sạch nhanh chóng.",
+        "mvp_en": "API converting Word, Excel, PDF to clean Markdown rapidly.",
+        "scope": "global",
+        "score": 88,
+        "evidence_ids": [
+          1
+        ],
+        "risks_vi": "Dễ bị sao chép, biên lợi nhuận thấp nếu không có tính năng độc quyền.",
+        "risks_en": "Easily replicable, low margins without proprietary features.",
+        "sources": [
+          {
+            "title": "firecrawl/anydoc",
+            "url": "https://github.com/firecrawl/anydoc",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Tối ưu hóa chi phí điện toán đám mây",
+        "name_en": "Cloud Cost Optimization",
+        "pain_vi": "Doanh nghiệp Việt Nam gặp khó khăn trong việc tối ưu hóa chi phí chuyển đổi số trên nền tảng đám mây.",
+        "pain_en": "Vietnamese businesses struggle to optimize digital transformation costs on cloud platforms.",
+        "audience_vi": "Doanh nghiệp vừa và nhỏ tại Việt Nam.",
+        "audience_en": "SMEs in Vietnam.",
+        "mvp_vi": "Công cụ SaaS phân tích và tự động giảm chi phí tài nguyên đám mây.",
+        "mvp_en": "SaaS tool analyzing and automatically reducing cloud resource costs.",
+        "scope": "vietnam",
+        "score": 75,
+        "evidence_ids": [
+          14
+        ],
+        "risks_vi": "Thiếu hiểu biết về đám mây cản trở việc khách hàng chấp nhận sản phẩm.",
+        "risks_en": "Lack of cloud understanding hinders customer adoption.",
+        "sources": [
+          {
+            "title": "Cloud computing applications help businesses optimize digital transformation costs - Vietnam Education",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0c3OHVpNjRKRTEwUWd3RDYyZGppMHJYZHdIVklNaTdRMGlnMWcwSmxKN01PXzBVTF9zdU1JZHE3N1phV3NiTzZPTFY1VFBTVnhaRDVGTXJ3TFUtMFB2U0lhWVRnT29Ia3JzMG1Ma0hSNWt0Q1RGLW9NMGg3RlNOQ2ZzdTZLSXlGbE4tQTFCZS0wQzN0dHdHTURFT3l5SzdNQy1QTFZRVUhEUG4waW1N?oc=5",
+            "source": "Google News Nhu cầu Việt Nam"
+          }
+        ]
+      },
+      {
+        "name_vi": "Quản lý an ninh mạng cho chính phủ",
+        "name_en": "Government Cybersecurity Monitoring",
+        "pain_vi": "Các cơ quan chính phủ cần giám sát dữ liệu bị rò rỉ và đảm bảo an toàn thông tin quốc gia.",
+        "pain_en": "Governments need to monitor breached data and ensure national information security.",
+        "audience_vi": "Các cơ quan chính phủ toàn cầu.",
+        "audience_en": "Global government agencies.",
+        "mvp_vi": "Bảng điều khiển cảnh báo rò rỉ dữ liệu và đánh giá lỗ hổng bảo mật.",
+        "mvp_en": "Dashboard alerting on data breaches and assessing security vulnerabilities.",
+        "scope": "global",
+        "score": 70,
+        "evidence_ids": [
+          29,
+          33
+        ],
+        "risks_vi": "Chu kỳ bán hàng chính phủ dài, yêu cầu tuân thủ pháp lý khắt khe.",
+        "risks_en": "Long government sales cycles, strict legal compliance requirements.",
+        "sources": [
+          {
+            "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+            "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+            "source": "Hacker News"
+          },
+          {
+            "title": "China launches cybersecurity review into Palo Alto Networks products - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmk2ZlcxakRJeFpWc29SY1pVZkw3RkFTbzlDVEJEX2NXUWV2b2VKMnBWd2p1ZFNqQVFobGdSV0dWMmFRZG9iMTVlbGxncXNDQ095WHVTeDJQelRtRF9BZTVJU1JJSkRkbmxEbWlac1pWUnljandfOUtqLXhZSGFJTm05SVBHRmRoeE4yU2JCR1NRSVZQdmZJOENjcWpKZXhaSlpHRDRldHpySWhNZHFwYmxiTl8xWklsZkZpMkVR?oc=5",
+            "source": "Google News Reuters Finance"
+          }
+        ]
+      },
+      {
+        "name_vi": "Quản lý sáp nhập cơ sở giáo dục",
+        "name_en": "Educational Facility Merger Management",
+        "pain_vi": "Việc sắp xếp lại các cơ sở giáo dục tại Việt Nam gây ra khó khăn trong quản lý nhân sự và chất lượng.",
+        "pain_en": "Restructuring educational facilities in Vietnam causes difficulties in personnel and quality management.",
+        "audience_vi": "Sở giáo dục và các trường học tại Việt Nam.",
+        "audience_en": "Education departments and schools in Vietnam.",
+        "mvp_vi": "Hệ thống SaaS quản lý dữ liệu nhân sự và tài nguyên khi sáp nhập trường học.",
+        "mvp_en": "SaaS system managing personnel data and resources during school mergers.",
+        "scope": "vietnam",
+        "score": 65,
+        "evidence_ids": [
+          11,
+          17
+        ],
+        "risks_vi": "Ngân sách công hạn hẹp, quy trình phê duyệt mua sắm phức tạp.",
+        "risks_en": "Limited public budgets, complex procurement approval processes.",
+        "sources": [
+          {
+            "title": "Arranging educational facilities: Improving comprehensive quality, restructuring the team - baotintuc.vn",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSVpUNVZUdXc3dXhCNm1CUjVWUm1Oa29MOFFHS200Y3RtbW00Wjk5WnVfV1Atd0J4VXZMTUNiZm1PN1RZTzhOU0NRY1pRZVU5MlFSdTg3TmtwWGVJZkxESTQ1SWZCNmtHTGktMVUtMTR2QnI2RVlad1VXNkRRYXZYekltQUozZEN4cHFTRDRmT3Q2WENLN0ZZWDlEMTV4MnVjaE1ZbUhIeS0xajBKWk56ZkNaSXhTcFVCY3RXWE9raXA?oc=5",
+            "source": "Google News Nhu cầu Việt Nam"
+          },
+          {
+            "title": "Hanoi teachers are ready for new requirements after school arrangement - vov.gov.vn",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc3lIOEZRYzk2cW42NkI2c1puazJCd2VhRjY2NDFLNm9FZ1dNRDFGNVFHZk9VSlhleHZEVWlRS0U3TXdlLU5RS25ab1FKa0ktenZrMmFnak5MSmFzQ1NEY1h1di03RmdQUVMySktXbEFwbGxsWFFqWkY5ekhTUTBOS3pwbVNfemtNTzBoWE4tcUJFOC1vWmlIdzRGeXZHQ09IakEzMS1yVFV4UQ?oc=5",
+            "source": "Google News Nhu cầu Việt Nam"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}
