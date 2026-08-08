@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T05:57:53.878109+00:00",
+  "generated_at": "2026-08-08T10:50:27.034833+00:00",
   "markets": [
     {
       "name": "S&P 500",
@@ -33,8 +33,8 @@
     {
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 64947.4805,
-      "change_pct": 1.07,
+      "price": 64976.3984,
+      "change_pct": 0.15,
       "currency": "USD"
     },
     {
@@ -54,16 +54,16 @@
       "market": "global",
       "published": "2026-08-03T16:36:14Z",
       "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "score": 2354.93,
+      "score": 2430.26,
       "title_vi": "firecrawl/anydoc",
       "title_en": "firecrawl/anydoc",
       "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
       "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
       "meta": {
-        "stars": 11308,
-        "forks": 524,
+        "stars": 11683,
+        "forks": 548,
         "language": "Rust",
-        "stars_per_day": 2261.6
+        "stars_per_day": 2336.6
       }
     },
     {
@@ -74,16 +74,16 @@
       "market": "global",
       "published": "2026-07-29T20:03:08Z",
       "description": "Multiplayer agent harness for work",
-      "score": 1329.82,
+      "score": 1335.16,
       "title_vi": "phần mềm yc/m2",
       "title_en": "yc software/sqm",
       "summary_vi": "Khai thác tác nhân nhiều người chơi cho công việc",
       "summary_en": "Multiplayer agent harness for work",
       "meta": {
-        "stars": 12356,
-        "forks": 1413,
+        "stars": 12409,
+        "forks": 1420,
         "language": "TypeScript",
-        "stars_per_day": 1235.6
+        "stars_per_day": 1240.9
       }
     },
     {
@@ -94,16 +94,16 @@
       "market": "global",
       "published": "2026-07-31T21:38:51Z",
       "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
-      "score": 1031.91,
+      "score": 1040.62,
       "title_vi": "thửcompai/crm",
       "title_en": "trycompai/crm",
       "summary_vi": "Comp AI CRM là một CRM mã nguồn mở được thiết kế cho các đại lý AI. CRM ưu tiên tác nhân.",
       "summary_en": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
       "meta": {
-        "stars": 7541,
-        "forks": 812,
+        "stars": 7610,
+        "forks": 819,
         "language": "TypeScript",
-        "stars_per_day": 942.6
+        "stars_per_day": 951.2
       }
     },
     {
@@ -114,16 +114,16 @@
       "market": "global",
       "published": "2026-08-05T01:19:41Z",
       "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "score": 712.56,
+      "score": 722.38,
       "title_vi": "KKKKhazix/chữ viết của con người",
       "title_en": "KKKKhazix/human-writing",
       "summary_vi": "Làm cho tiếng Trung được viết bởi AI đọc giống như một người cụ thể đang nói. Kỹ năng sáng tạo và sửa đổi phổ quát, có sẵn ngay lập tức.",
       "summary_en": "Make the Chinese written by AI read like a specific person speaking. Universal creation and revision skills, available right out of the box.",
       "meta": {
-        "stars": 1911,
-        "forks": 167,
+        "stars": 1940,
+        "forks": 169,
         "language": "Python",
-        "stars_per_day": 637.0
+        "stars_per_day": 646.7
       }
     },
     {
@@ -134,16 +134,16 @@
       "market": "global",
       "published": "2026-07-30T18:17:54Z",
       "description": "",
-      "score": 660.52,
+      "score": 665.6,
       "title_vi": "bashalarmistalt/decimen-quang-chuyển",
       "title_en": "bashalarmistalt/decimen-optical-transfer",
       "summary_vi": "bashalarmistalt/decimen-quang-chuyển",
       "summary_en": "bashalarmistalt/decimen-optical-transfer",
       "meta": {
-        "stars": 5175,
-        "forks": 632,
+        "stars": 5220,
+        "forks": 635,
         "language": "TypeScript",
-        "stars_per_day": 575.0
+        "stars_per_day": 580.0
       }
     },
     {
@@ -154,16 +154,16 @@
       "market": "global",
       "published": "2026-08-02T11:15:16Z",
       "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "score": 408.49,
+      "score": 410.03,
       "title_vi": "thebuggeddev/anatomy",
       "title_en": "thebuggeddev/anatomy",
       "summary_vi": "Trình khám phá giải phẫu người 3D tương tác được xây dựng bằng bajs với GPT 5.6 Sol",
       "summary_en": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
       "meta": {
-        "stars": 1995,
-        "forks": 573,
+        "stars": 2004,
+        "forks": 579,
         "language": "TypeScript",
-        "stars_per_day": 332.5
+        "stars_per_day": 334.0
       }
     },
     {
@@ -174,16 +174,16 @@
       "market": "global",
       "published": "2026-07-31T09:40:58Z",
       "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "score": 351.84,
+      "score": 353.52,
       "title_vi": "genspark-ai/genoffice",
       "title_en": "genspark-ai/genoffice",
       "summary_vi": "Bộ ứng dụng văn phòng gốc AI dành cho macOS và Windows: trình xử lý văn bản, bảng tính, bản trình bày và PDF.",
       "summary_en": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
       "meta": {
-        "stars": 2199,
-        "forks": 381,
+        "stars": 2212,
+        "forks": 385,
         "language": "TypeScript",
-        "stars_per_day": 274.9
+        "stars_per_day": 276.5
       }
     },
     {
@@ -194,16 +194,16 @@
       "market": "global",
       "published": "2026-08-01T13:56:43Z",
       "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
-      "score": 330.17,
+      "score": 331.96,
       "title_vi": "DannyMac180/sol-cố vấn",
       "title_en": "DannyMac180/sol-advisor",
       "summary_vi": "Sự phối hợp của kiến ​​trúc sư gốc Codex với các làn triển khai Luna và Terra cũng như đánh giá Sol mới bắt buộc.",
       "summary_en": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
       "meta": {
-        "stars": 1787,
-        "forks": 129,
+        "stars": 1799,
+        "forks": 130,
         "language": "TypeScript",
-        "stars_per_day": 255.3
+        "stars_per_day": 257.0
       }
     },
     {
@@ -214,16 +214,16 @@
       "market": "global",
       "published": "2026-07-29T18:16:14Z",
       "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-      "score": 315.34,
+      "score": 323.04,
       "title_vi": "microsoft/skill-ghi",
       "title_en": "microsoft/skill-recorder",
       "summary_vi": "Ứng dụng dành cho máy tính để bàn ghi lại phiên làm việc trên màn hình của bạn và sử dụng GitHub Copilot CLI để xây dựng lại phiên làm việc đó dưới dạng ý định + các bước được sắp xếp, sau đó xây dựng Kỹ năng hoặc Tự động hóa có thể sử dụng lại cho Microsoft Scout, Microsoft Copilot Cowork hoặc Copilot Studio.",
       "summary_en": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
       "meta": {
-        "stars": 2376,
-        "forks": 253,
+        "stars": 2450,
+        "forks": 260,
         "language": "TypeScript",
-        "stars_per_day": 237.6
+        "stars_per_day": 245.0
       }
     },
     {
@@ -234,136 +234,301 @@
       "market": "global",
       "published": "2026-07-30T08:41:09Z",
       "description": "",
-      "score": 198.74,
+      "score": 214.97,
       "title_vi": "MiniMax-AI/MiniMax-H3",
       "title_en": "MiniMax-AI/MiniMax-H3",
       "summary_vi": "MiniMax-AI/MiniMax-H3",
       "summary_en": "MiniMax-AI/MiniMax-H3",
       "meta": {
-        "stars": 1154,
-        "forks": 61,
+        "stars": 1290,
+        "forks": 66,
         "language": "Python",
-        "stars_per_day": 128.2
+        "stars_per_day": 143.3
       }
     },
     {
-      "title": "Chuyên gia Australia: Quan hệ Việt Nam – Australia có độ tin cậy chính trị cao - bnews.vn",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUW01YjJueEVjRWVIV3lwVml2ZnBQZjhYaFFzaGtaSXpKalVFRWpDbW1KTVFiWXBCY1l4RW1BOTFyaXhLTXJBcmJ0WmRqc2Y4Z2VRZ3lDeVlNRFRNNW5pbF9aZXNRUWtTTUR1RHNxMmdGQllrSXM0eE1nazFCQk4tVVAzamppV3pQajdlZTZVVk41a3hya1ZqVlFfdVZwNnVJTG85RE8yVQ?oc=5",
+      "title": "Does NANO Nuclear Energy (NNE) Winning an AFWERX SBIR Deal Validate Its Microreactor Strategy? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSXRaejJ4eEN3SGdwODJMTW5QMFZlRXdUTVpHeVRORFJpRVFlZjkxaUlPLWctb3RjdEZVVGhDclVtWjdlbVE2OEo5Z1ZzektudzNhZDBsY0hwS1hFM0Q1R1B1VUxqV3lPdEVSMlVkSndpdXpabEpyLW8xWU1HcXE5NlZQZVVUbndTa2FrOC0xRVBVM1FWOW1DdjJRSU4taGczTW1PUWRLTkh1TzlPOURKR2lha3N3SnkzT05IdjhjSUMtLVJLT1I2dkJyamVkN1cyUDF3WjlKdWpud9IB3wFBVV95cUxQTHVRaHFUMDFibmdNUFJ2RkU3MnJwRk1DMHViUUlMNmJwTUozVjZhQ3pzMVcwSGpad0x0Q0Z5ZXRKWmFFZHFkS1B6VXZkREd3dVZ2d0tSa3BISW9ocjFmQ1FhRGVKNXNFampfY1VYZEJ5bWhJeXlnY2s1YVVQOTl4dERhMDEzaXdfR0pVdXkyM2FJUVVaaG9SN29FWGJVV0w2VDh1V1hPX1NCVmlGYjU4OGdFQVAyTzJIWExXeVB3ZzQ1dnNQOTF5d2lMTkdQWHBQUjg5dkNMeHo0M0JsZkRB?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sat, 08 Aug 2026 10:47:26 GMT",
+      "description": "Does NANO Nuclear Energy (NNE) Winning an AFWERX SBIR Deal Validate Its Microreactor Strategy? simplywall.st",
+      "score": 0.0,
+      "title_vi": "Năng lượng hạt nhân NANO (NNE) Giành được thỏa thuận AFWERX SBIR có xác thực chiến lược lò phản ứng vi mô của nó không? - đơn giảnwall.st",
+      "title_en": "Does NANO Nuclear Energy (NNE) Winning an AFWERX SBIR Deal Validate Its Microreactor Strategy? - simplywall.st",
+      "summary_vi": "Năng lượng hạt nhân NANO (NNE) Giành được thỏa thuận AFWERX SBIR có xác thực chiến lược lò phản ứng vi mô của nó không? đơn giảnwall.st",
+      "summary_en": "Does NANO Nuclear Energy (NNE) Winning an AFWERX SBIR Deal Validate Its Microreactor Strategy? simplywall.st",
+      "meta": {}
+    },
+    {
+      "title": "When Sex Education Funding Is Taken Away, Young People Lose a Safe Space - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSWg4TEEwbTlmcVQ1M0ZIN09QaldaeE45Qnk0clE1YUxZUDcxOWxkcXV4dWF6SUpQSHNZSEFlajRrcC02T21DcEJXenotYW9RbzZscU9hRjNSS0NIQmc5cjJCOEI1ckluR1JkN29HV0M0UXY0X0JyRElkUVZxTExyZkxaOXJzcnZ3NWFldVFCOTZHNW9KZTM0?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sat, 08 Aug 2026 10:30:00 GMT",
+      "description": "When Sex Education Funding Is Taken Away, Young People Lose a Safe Space Yahoo",
+      "score": 0.0,
+      "title_vi": "Khi nguồn tài trợ cho giáo dục giới tính bị cắt đi, giới trẻ mất đi không gian an toàn - Yahoo",
+      "title_en": "When Sex Education Funding Is Taken Away, Young People Lose a Safe Space - Yahoo",
+      "summary_vi": "Khi nguồn tài trợ cho giáo dục giới tính bị cắt đi, giới trẻ mất đi không gian an toàn Yahoo",
+      "summary_en": "When Sex Education Funding Is Taken Away, Young People Lose a Safe Space Yahoo",
+      "meta": {}
+    },
+    {
+      "title": "Đề xuất ưu tiên hàng hóa xuất xứ Việt Nam trong đấu thầu: Điểm mới đáng chú ý của dự thảo Luật Đấu thầu (sửa đổi) - phapluatphattrien.vn",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbDRSb1Ewc1A4WWtJVG1IRmwzX3NjT210bU1nNkxJQXpBSUZ2RXplQU14WkJ5Y3NCUUtHeXJGS2xXUTRLTEh4T1k4ZnROeHAzQ3A3V2g1R1BMaUlwRUdGTEYzcExqSWFCN1VwbGtwdWJtQlplNnVMUHRMVktlLWV3UXFmaTl2bmtIeUd4MzJacmxBdnFFSjBqdnNlWWxNMHJZWTF5LWFXZ3JINWZ0RG5uclgxU3RtSV9zTXcxQl84MWhCVWMzM0I3SjI5NXJWaDI2dnpSeGY3RXlUR1QzbjRxQ1dPeG8?oc=5",
       "source": "Google News Nhu cầu Việt Nam",
       "category": "society",
       "market": "vietnam",
-      "published": "Sat, 08 Aug 2026 05:53:00 GMT",
-      "description": "Chuyên gia Australia: Quan hệ Việt Nam – Australia có độ tin cậy chính trị cao bnews.vn",
+      "published": "Sat, 08 Aug 2026 10:17:47 GMT",
+      "description": "Đề xuất ưu tiên hàng hóa xuất xứ Việt Nam trong đấu thầu: Điểm mới đáng chú ý của dự thảo Luật Đấu thầu (sửa đổi) phapluatphattrien.vn",
       "score": 0.0,
-      "title_vi": "Chuyên gia Australia: Quan hệ Việt Nam – Australia có độ tin cậy chính trị cao - bnews.vn",
-      "title_en": "Australian expert: Vietnam - Australia relationship has high political trust - bnews.vn",
-      "summary_vi": "Chuyên gia Australia: Quan hệ Việt Nam – Australia có độ tin cậy chính trị cao bnews.vn",
-      "summary_en": "Australian expert: Vietnam - Australia relationship has high political trust bnews.vn",
+      "title_vi": "Đề xuất ưu tiên hàng hóa xuất xứ Việt Nam trong đấu thầu: Điểm mới đáng chú ý của dự thảo Luật Đấu thầu (sửa đổi) - phapluatphattrien.vn",
+      "title_en": "Proposal to prioritize goods of Vietnamese origin in bidding: Notable new points of the draft Law on Bidding (amended) - phapluatphattrien.vn",
+      "summary_vi": "Đề xuất ưu tiên hàng hóa xuất xứ Việt Nam trong đấu thầu: Điểm mới đáng chú ý của dự thảo Luật Đấu thầu (sửa đổi) phapluatphattrien.vn",
+      "summary_en": "Proposal to prioritize goods of Vietnamese origin in bidding: Notable new points of the draft Law on Bidding (amended) phapluatphattrien.vn",
       "meta": {}
     },
     {
-      "title": "Can Centrus Energy (LEU) Justify Its Valuation After The X Energy Fuel Deal? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM1NqZGFIRnJCQ1ZsX1c0cEM5SnRERk9pRGI3S2VobzNmaF8tb201MU5KckNnc240WlpFS3p0LWFXV0ViUHlmWnl3WlZFdHExRTJQWlJsaWJWTkdJRU5TZmFUVmFFUUdiaWdNNU1WN1kwdGZUUXhYWkhVbnJzcFpEcThZVXB3UXY0YjlQLVVTekVsd09tZ2oyekdVc19mcGpFMWEyMlVJaDU1OW9ld1JZR3NlWDhUTjZDX2RzQ1E3N1VaemFMZF840gHMAUFVX3lxTFBUWGZwcXN2Z3kyeE5oVGFBd2ZFRVVZQlVxQ0UtbVdRMFdoWElCc0h6SWtVbWwwbWRRM3d1cmtwRjVpTUdvSzI0WkktQ0syUDRINE5URmRxeHBUQzc0ZFdMRjZpOThrVGljWFc4SnRIUktNY2RQd1dzZDlYZFZjSkVyUG9UMjhtb3ctV01JNjFZZGtjMkp3NkxqMDRkZnBFRzllLXVBbGFLVzNiWkt0VWVkMk5JZVdZVV9YeGNrbmFnTjJ2bWpQUi0yUzMxSQ?oc=5",
+      "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+      "url": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 08 Aug 2026 10:16:01 +0000",
+      "description": "Article URL: https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html Comments URL: https://news.ycombinator.com/item?id=49220390 Points: 4 # Comments: 0",
+      "score": 0.0,
+      "title_vi": "Apple giới thiệu chương trình cho thuê iPhone và các thiết bị khác",
+      "title_en": "Apple Introduces Leasing Program for iPhones and Other Devices",
+      "summary_vi": "URL bài viết: https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html URL bình luận: https://news.ycombinator.com/item?id=49220390 Điểm: 4 # Bình luận: 0",
+      "summary_en": "Article URL: https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html Comments URL: https://news.ycombinator.com/item?id=49220390 Points: 4 # Comments: 0",
+      "meta": {}
+    },
+    {
+      "title": "UCP of Central Florida Celebrates Grand Opening of New Inclusive Education Campus in Kissimmee - Positively Osceola",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUWI0UUlSejVwdWRjOFNLejhPSmdCdE1Gc1JDU0FKMmZYWEphR3hVQ1RpYXQyVHZVak04MG1OLW9JanJzQXpCZHNTSUhjTXZXc2s0Wi1Rb1NiSVdYUFdWbVQwRjZnQjJYQU5SQ00taXNIQzljc2lIRjF5UEU2cHhNd2xOM2VxRG5sdVlvaWlieUNKMlA5ZFh1V3Rob0JpbWNNM1BlNUVNMkdtZmZHU2huQVl1OV9jdXlkdG1za0ZZd0pnb1gtTlJzTw?oc=5",
       "source": "Google News Social Needs",
       "category": "society",
       "market": "global",
-      "published": "Sat, 08 Aug 2026 05:45:45 GMT",
-      "description": "Can Centrus Energy (LEU) Justify Its Valuation After The X Energy Fuel Deal? simplywall.st",
+      "published": "Sat, 08 Aug 2026 10:09:47 GMT",
+      "description": "UCP of Central Florida Celebrates Grand Opening of New Inclusive Education Campus in Kissimmee Positively Osceola",
       "score": 0.0,
-      "title_vi": "Centrus Energy (LEU) có thể biện minh cho việc định giá của mình sau thương vụ nhiên liệu năng lượng X không? - đơn giảnwall.st",
-      "title_en": "Can Centrus Energy (LEU) Justify Its Valuation After The X Energy Fuel Deal? - simplywall.st",
-      "summary_vi": "Centrus Energy (LEU) có thể biện minh cho việc định giá của mình sau thương vụ nhiên liệu năng lượng X không? đơn giảnwall.st",
-      "summary_en": "Can Centrus Energy (LEU) Justify Its Valuation After The X Energy Fuel Deal? simplywall.st",
+      "title_vi": "UCP miền Trung Florida kỷ niệm khai trương cơ sở giáo dục hòa nhập mới ở Kissimmee - Osceola tích cực",
+      "title_en": "UCP of Central Florida Celebrates Grand Opening of New Inclusive Education Campus in Kissimmee - Positively Osceola",
+      "summary_vi": "UCP của miền Trung Florida tổ chức lễ khai trương cơ sở giáo dục hòa nhập mới ở Kissimmee Tích cực Osceola",
+      "summary_en": "UCP of Central Florida Celebrates Grand Opening of New Inclusive Education Campus in Kissimmee Positively Osceola",
       "meta": {}
     },
     {
-      "title": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026 - ABC17NEWS",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcnJGejh6Vk5qb1NMMXlaakgxT0Nzc1Zwdy1oTC1RbUNleGVwRHFOZkxtSnFLdWtYaU90aUNNUjFPLTRZLWU5cTNNYzJ4VGFodnJPLV9ZRGgzUEFxajh6YVNXVzlILUZaYnBqTklJVGhZaWRvTVBaWE1IUi1nekJ6VjhHZl9URU1PVlZXeXBMWHgyTTNHSzhELUhNVlZuSy05MVJPZDZCRnlOaTNQdXoxbXlTMVBVcjl4R2ZfYkRZQk9zZ3hxR2kxMTlSanFoQ3ZLam9ycE41Zm90WllzOXM3cXBB?oc=5",
+      "title": "The Political Recap: Primary recap, data center moratorium, energy merger - WFXRtv",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTnBDMm9lVmV1aks2T1E3bmk2TUNsRGJTbWMxQnA4TXlVbmg2YUUyVE5GQzl1TFlZRno4aDBhNHJJU0pjaHdibjM1TjNmS3RJQWpMcENJOXo5a3lWSmRTWUE4VTBib0RNdUlBTWV5MUo4QkoxelJzcURxMWNueUVuZGFBWTM0MDlBc0FUQXctNEozc05mN0tySklxbHZ0ek1jcnE2OUU1ZWNBbHhDM0E?oc=5",
       "source": "Google News Social Needs",
       "category": "society",
       "market": "global",
-      "published": "Sat, 08 Aug 2026 05:07:36 GMT",
-      "description": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026 ABC17NEWS",
+      "published": "Sat, 08 Aug 2026 10:08:51 GMT",
+      "description": "The Political Recap: Primary recap, data center moratorium, energy merger WFXRtv",
       "score": 0.0,
-      "title_vi": "5 quy định an ninh mạng các tổ chức chăm sóc sức khỏe không thể bỏ qua vào năm 2026 - ABC17NEWS",
-      "title_en": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026 - ABC17NEWS",
-      "summary_vi": "5 quy định an ninh mạng các tổ chức chăm sóc sức khỏe không thể bỏ qua vào năm 2026 ABC17NEWS",
-      "summary_en": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026 ABC17NEWS",
+      "title_vi": "Bản tóm tắt chính trị: Bản tóm tắt chính, lệnh cấm trung tâm dữ liệu, sáp nhập năng lượng - WFXRtv",
+      "title_en": "The Political Recap: Primary recap, data center moratorium, energy merger - WFXRtv",
+      "summary_vi": "Bản tóm tắt chính trị: Bản tóm tắt chính, lệnh cấm trung tâm dữ liệu, sáp nhập năng lượng WFXRtv",
+      "summary_en": "The Political Recap: Primary recap, data center moratorium, energy merger WFXRtv",
       "meta": {}
     },
     {
-      "title": "DRC Targets 2 GW Clean Energy Expansion in Landmark US-Congolese Partnership - pan african visions",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkxjUE9LY2dabUJrbXJfVXdkVXpCT0tGYWNNRjZzUHNrelFHbnU0STBlRTFyVGw5aW41Zmd0Q09xS3I5OEJ5R2FidHJZVHlldFVsUlpxVEctVWJBdzd0QnJ6N0Z1MUdaYVBaMWhDNHgyRWdxRjVXVnMyeGRxeG80VXlpUEtxRExCQzAwSlU1amd6VXdxRVRwRC1ncThaSWQ1VGNQbHcwc0g4WmFIRHB3TjJSX3Zjdw?oc=5",
+      "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+      "url": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 08 Aug 2026 10:07:06 +0000",
+      "description": "Article URL: https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html Comments URL: https://news.ycombinator.com/item?id=49220350 Points: 9 # Comments: 1",
+      "score": 0.0,
+      "title_vi": "Trung tâm dữ liệu mới của Amazon được thiết lập để có nhà máy điện gây ô nhiễm nhất ở Hoa Kỳ",
+      "title_en": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+      "summary_vi": "URL bài viết: https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html URL nhận xét: https://news.ycombinator.com/item?id=49220350 Điểm: 9 # Nhận xét: 1",
+      "summary_en": "Article URL: https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html Comments URL: https://news.ycombinator.com/item?id=49220350 Points: 9 # Comments: 1",
+      "meta": {}
+    },
+    {
+      "title": "‘It wouldn’t be Head Start anymore.’ Providers say HHS proposal guts preschool. - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVFhVUWx3NWY1QU9mTWM1clctTVR4QmY4dFZ0cV9QNjVsOS1vOUpHRUZ6bHlvSnpqOFl3bFhmN1FoYVRCVzdsQlpQbUtTeExvb3ExUkJtRjJyN1d1TGRWXzRPOWYwR0lnZjJPR19vZ1R1UndhSEdSNUpsVzVCTUpyNHZ3NldkN1hkWjUwQzVWQWpubVo0MnlEQU1TQ21Tc2lTYWltZDNyNXJNUXBJTDUxZ1JEQVlIbkIzTUxXUU5rNzJzeFVXcGc?oc=5",
       "source": "Google News Social Needs",
       "category": "society",
       "market": "global",
-      "published": "Sat, 08 Aug 2026 05:04:02 GMT",
-      "description": "DRC Targets 2 GW Clean Energy Expansion in Landmark US-Congolese Partnership pan african visions",
+      "published": "Sat, 08 Aug 2026 10:05:33 GMT",
+      "description": "‘It wouldn’t be Head Start anymore.’ Providers say HHS proposal guts preschool. The Washington Post",
       "score": 0.0,
-      "title_vi": "DRC đặt mục tiêu mở rộng 2 GW năng lượng sạch trong quan hệ đối tác mang tính bước ngoặt giữa Hoa Kỳ và Congo - tầm nhìn toàn châu Phi",
-      "title_en": "DRC Targets 2 GW Clean Energy Expansion in Landmark US-Congolese Partnership - pan african visions",
-      "summary_vi": "DRC đặt mục tiêu mở rộng 2 GW năng lượng sạch trong tầm nhìn xuyên châu Phi về quan hệ đối tác Mỹ-Congo",
-      "summary_en": "DRC Targets 2 GW Clean Energy Expansion in Landmark US-Congolese Partnership pan african visions",
+      "title_vi": "‘Nó sẽ không còn là Head Start nữa.’ Các nhà cung cấp cho biết đề xuất của HHS rất phù hợp với trường mầm non. - Bưu điện Washington",
+      "title_en": "‘It wouldn’t be Head Start anymore.’ Providers say HHS proposal guts preschool. - The Washington Post",
+      "summary_vi": "‘Nó sẽ không còn là Head Start nữa.’ Các nhà cung cấp cho biết đề xuất của HHS rất phù hợp với trường mầm non. Bưu điện Washington",
+      "summary_en": "‘It wouldn’t be Head Start anymore.’ Providers say HHS proposal guts preschool. The Washington Post",
       "meta": {}
     },
     {
-      "title": "Education Meeting - goSkagit",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWFJEenZmaEdlOFltZVVVejJydGJscDBqV09TRmRucTVfcWQ2OXRGa1NZb2UyN1hoRjdkUVI5WnFXMWR5TVFjRElySXhXeEdHbFpqOUxRdkw0UjlDYXV2TDRWQXdINnhYMU5ZM1dzNW94VUI4Y0R0U0RVRHdfemVRNHBBUzA1VFE2amoyOFFnUUY3VE83MldENUJpLUhwM1phSjNzaGp2cVUtQ2c?oc=5",
+      "title": "Democrats plan Trump investigations over impeachment if they win House, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTWl2bmN2bWhrTDhCMERQMHA0cFZaVHpSZFVpZGszY3c2RTNWNi1aNHNyR2ZydXh4ODVtVFN0YzZSa3dCQ3N2OWViYUxRV05ic3ZCSnNEYUVHQkpBWENpRkEzUzVQb015N2NESS1ablUtR1NNR2lnVUVmMmlENUNESDJsdGF0MWhnZW5mQ0FFNzBRd0k0YlI4NzhOUGVUbkt3cng2WDZxMVBRempHVWxrTFdaY2VhZ0lIRkVMOXRGUXgyeEVqUk5uUGwyOA?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sat, 08 Aug 2026 10:04:36 GMT",
+      "description": "Democrats plan Trump investigations over impeachment if they win House, sources say Reuters",
+      "score": 0.0,
+      "title_vi": "Các nguồn tin cho biết đảng Dân chủ lên kế hoạch điều tra luận tội Trump nếu họ thắng Hạ viện",
+      "title_en": "Democrats plan Trump investigations over impeachment if they win House, sources say - Reuters",
+      "summary_vi": "Các nguồn tin cho biết đảng Dân chủ lên kế hoạch điều tra luận tội Trump nếu họ thắng Hạ viện",
+      "summary_en": "Democrats plan Trump investigations over impeachment if they win House, sources say Reuters",
+      "meta": {}
+    },
+    {
+      "title": "US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 08 Aug 2026 10:04:25 +0000",
+      "description": "Article URL: https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide Comments URL: https://news.ycombinator.com/item?id=49220339 Points: 5 # Comments: 0",
+      "score": 0.0,
+      "title_vi": "Đơn vị Chỉ huy Mạng của Quân đội Hoa Kỳ vật lộn với hàng loạt người chết do tự sát",
+      "title_en": "US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide",
+      "summary_vi": "URL bài viết: https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide URL nhận xét: https://news.ycombinator.com/item?id=49220339 Điểm: 5 # Nhận xét: 0",
+      "summary_en": "Article URL: https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide Comments URL: https://news.ycombinator.com/item?id=49220339 Points: 5 # Comments: 0",
+      "meta": {}
+    },
+    {
+      "title": "This BMW-Backed Solar EV Makes More Energy Than It Uses - bmwblog",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOblVEWVd4NzdGdEZIR3ROTFhhVmVXa1I3Vjd4UUlFR0V1a2hQTmRLMFA3bEQ2dEZ6bER2ejlLazM1TlNwRm9hQVM0bVBqOUxGZGlrcnJCUjM2SUdwbXdmdEprZU5QM3JQVkUzenJPZDJkYm1TYXJaZU1zMW5NQ25IWlNyYjM5OERILTcxazBHMA?oc=5",
       "source": "Google News Social Needs",
       "category": "society",
       "market": "global",
-      "published": "Sat, 08 Aug 2026 05:00:00 GMT",
-      "description": "Education Meeting goSkagit",
+      "published": "Sat, 08 Aug 2026 10:03:26 GMT",
+      "description": "This BMW-Backed Solar EV Makes More Energy Than It Uses bmwblog",
       "score": 0.0,
-      "title_vi": "Hội nghị giáo dục - goSkagit",
-      "title_en": "Education Meeting - goSkagit",
-      "summary_vi": "Cuộc họp giáo dục goSkagit",
-      "summary_en": "Education Meeting goSkagit",
+      "title_vi": "Chiếc xe điện năng lượng mặt trời do BMW hậu thuẫn này tạo ra nhiều năng lượng hơn mức nó sử dụng",
+      "title_en": "This BMW-Backed Solar EV Makes More Energy Than It Uses - bmwblog",
+      "summary_vi": "Chiếc xe điện năng lượng mặt trời do BMW hậu thuẫn này tạo ra nhiều năng lượng hơn mức sử dụng",
+      "summary_en": "This BMW-Backed Solar EV Makes More Energy Than It Uses bmwblog",
       "meta": {}
     },
     {
-      "title": "Local school leaders talk goals for this year - The News-Enterprise",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOXzkwZnpOY09WWUJTckw1NmZEYndjTC1PazdYaERnZ3pIRGc3aWZDdWJVaE1GVXp1cmJBX2RadmRUTG45QkdzUlhyZzNxN0lMeXZfZnZaUEZwMGg3WjRKRzFnVURZU1k3ZHZsUHFCVzJ6TFc4d09CamRieEVUQ3pZQ09rVkcycnFmMFJtYUd6WF9vTmRjUXJ0OEJSM09IREU1RkUzZ01tRExMZGVGd1VuMjVhXzR4dkRBSUdobzFQblRELUV2ZVFFOWVCRm83anRRZVk3cWNZXzdieUR6?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
+      "title": "The Week in Breakingviews: A yen for intervention - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORVRLcFNadktJN0FoVzZIX3UxUFNpaTRuSVZoOXhmcXFidTRfS19mdnRiWHdUNXVYYlcxQUVOc3lyN0E4aDhmbWtxTWxNTTlBNjFNWUxQcUhCRjdrX3pMN2pPNmdDQk9MTlZEM2xlZENwTDNSR2pXMVdVLTBLdk1ycEtQWlljN1hhX2tYMThtOWxPOGM?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
       "market": "global",
-      "published": "Sat, 08 Aug 2026 05:00:00 GMT",
-      "description": "Local school leaders talk goals for this year The News-Enterprise",
+      "published": "Sat, 08 Aug 2026 10:02:22 GMT",
+      "description": "The Week in Breakingviews: A yen for intervention Reuters",
       "score": 0.0,
-      "title_vi": "Lãnh đạo trường học địa phương bàn mục tiêu năm nay - The News-Enterprise",
-      "title_en": "Local school leaders talk goals for this year - The News-Enterprise",
-      "summary_vi": "Lãnh đạo các trường học địa phương bàn về mục tiêu năm nay The News-Enterprise",
-      "summary_en": "Local school leaders talk goals for this year The News-Enterprise",
+      "title_vi": "Tuần trong Breakingviews: Đồng yên cho sự can thiệp - Reuters",
+      "title_en": "The Week in Breakingviews: A yen for intervention - Reuters",
+      "summary_vi": "Tuần trong Breakingviews: Một yên để can thiệp Reuters",
+      "summary_en": "The Week in Breakingviews: A yen for intervention Reuters",
       "meta": {}
     },
     {
-      "title": "80.000 thanh niên được tiếp cận kỹ năng, kết nối việc làm - Báo Xây dựng",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN2psTjk1RGhSdFpuVk5hTWJHSGhndjc5Rnczc2xyc1A2c3FlaHpWTnhtc2ExVjFuZEdiTThRYVhrbG16OWlTeUdBdmpjS2N0U3cxTWZMb0RRWXhzZ2Jod0NmZE5rbk9nTDFiMVJyeEx4bjlMLXRvT2hkTlNvVThGcTVvWGtGdkhnV0lrZVBSbEJ4VklBeWQ1a2Y4TUNJZ2t4Rmc?oc=5",
+      "title": "Chuyên gia Úc: Quan hệ Việt Nam - Úc có độ tin cậy chính trị cao - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOHhzVm84SEJpWnVTWmN6bEtxaDV0YzFzZU5ST3pHUkxKcVRkX1J2ZUhtd2diWjM0QjBOTnFjM04tV0dzenI4c2JYaUt6RWY5NTJIM3gwR0ZKaVN4aVRwbER1RTBIbHcwak91ZHJjdUtWYzFUNm5Fa2Nsa1o0UXp5bkg0dXdscm42Zm55Nw?oc=5",
       "source": "Google News Nhu cầu Việt Nam",
       "category": "society",
       "market": "vietnam",
-      "published": "Sat, 08 Aug 2026 04:25:00 GMT",
-      "description": "80.000 thanh niên được tiếp cận kỹ năng, kết nối việc làm Báo Xây dựng",
+      "published": "Sat, 08 Aug 2026 10:02:00 GMT",
+      "description": "Chuyên gia Úc: Quan hệ Việt Nam - Úc có độ tin cậy chính trị cao Vietnam.vn",
       "score": 0.0,
-      "title_vi": "80.000 thanh niên được tiếp cận kỹ năng, kết nối việc làm - Báo Xây dựng",
-      "title_en": "80,000 young people have access to skills and job connections - Construction Newspaper",
-      "summary_vi": "80.000 thanh niên được tiếp cận kỹ năng, kết nối việc làm Báo Xây dựng",
-      "summary_en": "80,000 young people have access to skills and job connections at Construction Newspaper",
+      "title_vi": "Chuyên gia Úc: Quan hệ Việt Nam - Úc có độ tin cậy chính trị cao - Vietnam.vn",
+      "title_en": "Australian expert: Vietnam - Australia relationship has high political trust - Vietnam.vn",
+      "summary_vi": "Chuyên gia Úc: Quan hệ Việt Nam - Úc có độ tin cậy chính trị cao Vietnam.vn",
+      "summary_en": "Australian expert: Vietnam - Australia relationship has high political trust Vietnam.vn",
       "meta": {}
     },
     {
-      "title": "Developers say Stillwater County renewable energy farms can help ranchers - KTVQ",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTnhxckhNV041TTdHbmFGOEwwMmFiNEdPbkdIbVpoTGJXMHdPZWI5elFTb2VISWUtblFuRTZNelhfSWgxbXRxczNSNXpsVFl2Y3Ryd3NHOGc5TWtYSEpPOFV0Yk13RDFJVFhBd3dETUJZZ3VFLWFNV3BOZk96UHZ3TkZkSG9HU3ZTYUp4ajRscDEwOC05UERfSDNMU0JONFp4?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "url": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "source": "Hacker News",
+      "category": "technology",
       "market": "global",
-      "published": "Sat, 08 Aug 2026 04:21:24 GMT",
-      "description": "Developers say Stillwater County renewable energy farms can help ranchers KTVQ",
+      "published": "Sat, 08 Aug 2026 09:58:41 +0000",
+      "description": "Article URL: https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/ Comments URL: https://news.ycombinator.com/item?id=49220313 Points: 4 # Comments: 0",
       "score": 0.0,
-      "title_vi": "Các nhà phát triển cho biết các trang trại năng lượng tái tạo của Quận Stillwater có thể giúp các chủ trang trại - KTVQ",
-      "title_en": "Developers say Stillwater County renewable energy farms can help ranchers - KTVQ",
-      "summary_vi": "Các nhà phát triển cho biết các trang trại năng lượng tái tạo của Quận Stillwater có thể giúp các chủ trang trại KTVQ",
-      "summary_en": "Developers say Stillwater County renewable energy farms can help ranchers KTVQ",
+      "title_vi": "Dịch vụ vệ tinh miễn phí của Châu Âu giúp việc theo dõi cháy rừng dễ dàng hơn",
+      "title_en": "Europe's free satellite service just made it easier to track wildfires",
+      "summary_vi": "URL bài viết: https://arstechnica.com/gadgets/2026/08/europes-free-stellite-service-just-made-it-easier-to-track-wildfires/ URL bình luận: https://news.ycombinator.com/item?id=49220313 Điểm: 4 # Bình luận: 0",
+      "summary_en": "Article URL: https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/ Comments URL: https://news.ycombinator.com/item?id=49220313 Points: 4 # Comments: 0",
+      "meta": {}
+    },
+    {
+      "title": "Samsung Galaxy Z8 Series lập kỷ lục đặt hàng trước",
+      "url": "https://vnexpress.net/samsung-galaxy-z8-series-lap-ky-luc-dat-hang-truoc-5106688.html",
+      "source": "VnExpress Số hóa",
+      "category": "technology",
+      "market": "vietnam",
+      "published": "Sat, 08 Aug 2026 16:00:00 +0700",
+      "description": "Z8 Series tăng 2,4 lượng đặt hàng so với thế hệ trước với gần 6 trong số 10 điện thoại bán ra là Galaxy Z Fold8.",
+      "score": 0.0,
+      "title_vi": "Samsung Galaxy Z8 Series lập kỷ lục đặt hàng trước",
+      "title_en": "Samsung Galaxy Z8 Series sets pre-order record",
+      "summary_vi": "Z8 Series tăng 2,4 lượng đặt hàng so với thế hệ trước với gần 6 trong số 10 điện thoại bán ra là Galaxy Z Fold8.",
+      "summary_en": "Z8 Series increased orders by 2.4 compared to the previous generation with nearly 6 out of 10 phones sold being Galaxy Z Fold8.",
+      "meta": {}
+    },
+    {
+      "title": "Hardware backdoors in some x86 CPUs",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 08 Aug 2026 07:04:51 +0000",
+      "description": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge Comments URL: https://news.ycombinator.com/item?id=49219508 Points: 101 # Comments: 28",
+      "score": 0.0,
+      "title_vi": "Cửa hậu phần cứng trong một số CPU x86",
+      "title_en": "Hardware backdoors in some x86 CPUs",
+      "summary_vi": "URL bài viết: https://github.com/xoreaxeaxax/rosenbridge URL bình luận: https://news.ycombinator.com/item?id=49219508 Điểm: 101 # Bình luận: 28",
+      "summary_en": "Article URL: https://github.com/xoreaxeaxeax/rosenbridge Comments URL: https://news.ycombinator.com/item?id=49219508 Points: 101 # Comments: 28",
+      "meta": {}
+    },
+    {
+      "title": "'Cá voi' và 'cá mập' đang gom Bitcoin",
+      "url": "https://vnexpress.net/ca-voi-va-ca-map-dang-gom-bitcoin-5106773.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sat, 08 Aug 2026 13:14:32 +0700",
+      "description": "Các nhà đầu tư lớn đang mua vào khoảng 1,2 tỷ USD Bitcoin từ cuối tháng 7, còn các ETF thu hút gần 755 triệu USD trong tuần này.",
+      "score": 0.0,
+      "title_vi": "'Cá voi' và 'cá mập' đang gom Bitcoin",
+      "title_en": "'Whales' and 'sharks' are collecting Bitcoin",
+      "summary_vi": "Các nhà đầu tư lớn đang mua vào khoảng 1,2 tỷ USD Bitcoin từ cuối tháng 7, còn các ETF thu hút gần 755 triệu USD trong tuần này.",
+      "summary_en": "Large investors are buying about $1.2 billion in Bitcoin since the end of July, and ETFs attracted nearly $755 million this week.",
+      "meta": {}
+    },
+    {
+      "title": "ROG Strix Scar 18 - laptop gaming giá 180 triệu đồng",
+      "url": "https://vnexpress.net/rog-strix-scar-18-laptop-gaming-gia-180-trieu-dong-5106163.html",
+      "source": "VnExpress Số hóa",
+      "category": "technology",
+      "market": "vietnam",
+      "published": "Sat, 08 Aug 2026 13:00:00 +0700",
+      "description": "Asus ROG Strix Scar 18 2026 trang bị màn hình Mini LED 4K 240 Hz, chip Core Ultra 9, GPU GeForce RTX 5090 với thiết kế cho phép tháo lắp không cần dụng cụ.",
+      "score": 0.0,
+      "title_vi": "ROG Strix Scar 18 - laptop gaming giá 180 triệu đồng",
+      "title_en": "ROG Strix Scar 18 - gaming laptop priced at 180 million VND",
+      "summary_vi": "Asus ROG Strix Scar 18 2026 trang bị màn hình Mini LED 4K 240 Hz, chip Core Ultra 9, GPU GeForce RTX 5090 với thiết kế cho phép tháo lắp không cần dụng cụ.",
+      "summary_en": "Asus ROG Strix Scar 18 2026 is equipped with a Mini LED 4K 240 Hz screen, Core Ultra 9 chip, GeForce RTX 5090 GPU with a design that allows disassembly without tools.",
+      "meta": {}
+    },
+    {
+      "title": "Indonesia's Economy Grows 5.29% in Second Quarter - news.brgbuildingsolutions.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlhBb2ZHSEVtYS1HaDAxcjZvOVFsVnI4emV4bUswcUJZSy1zV05rZnVyMW9RZUJEYktPZU5FMzlQWTB1TFE1M1Judm9Janl3R3FYWDRXZ2dmcUcxNF9SQWcyZlV0ODViNDFCOEtHbkphN3hCZnJ4TW9xYTNkTTM0LWpKY1hncmZRcnUxSWdKOVNfejRraUE?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sat, 08 Aug 2026 04:52:05 GMT",
+      "description": "Indonesia's Economy Grows 5.29% in Second Quarter news.brgbuildingsolutions.com",
+      "score": 0.0,
+      "title_vi": "Kinh tế Indonesia tăng trưởng 5,29% trong quý 2 - news.brgbuildingsolutions.com",
+      "title_en": "Indonesia's Economy Grows 5.29% in Second Quarter - news.brgbuildingsolutions.com",
+      "summary_vi": "Kinh tế Indonesia tăng trưởng 5,29% trong quý 2 news.brgbuildingsolutions.com",
+      "summary_en": "Indonesia's Economy Grows 5.29% in Second Quarter news.brgbuildingsolutions.com",
       "meta": {}
     },
     {
@@ -382,18 +547,18 @@
       "meta": {}
     },
     {
-      "title": "Mythos social engineering AISI INC-2026-07-28-01",
-      "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
-      "source": "Hacker News",
-      "category": "technology",
+      "title": "Forex Factory connects traders to global markets with real-time economic calendar - eciks.org",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sZGhBRGVYZjRITFB3QV91T2c2QXM5aHJkTkNvSXl2SkdIUXBSTTZtbG1WSXN5bDFUTGRwTTNhbVZrOHFpbjMzdXAwa3VVeTB4cVhFVU52RUhUeUtCdXJKSGhNNDFnM29ad2wtVWVZSGw?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
       "market": "global",
-      "published": "Sat, 08 Aug 2026 03:41:56 +0000",
-      "description": "Article URL: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3 Comments URL: https://news.ycombinator.com/item?id=49218707 Points: 36 # Comments: 14",
+      "published": "Sat, 08 Aug 2026 03:39:08 GMT",
+      "description": "Forex Factory connects traders to global markets with real-time economic calendar eciks.org",
       "score": 0.0,
-      "title_vi": "Kỹ thuật xã hội Mythos AISI INC-2026-07-28-01",
-      "title_en": "Mythos social engineering AISI INC-2026-07-28-01",
-      "summary_vi": "URL bài viết: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3 URL nhận xét: https://news.ycombinator.com/item?id=49218707 Điểm: 36 # Nhận xét: 14",
-      "summary_en": "Article URL: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3 Comments URL: https://news.ycombinator.com/item?id=49218707 Points: 36 # Comments: 14",
+      "title_vi": "Forex Factory kết nối các nhà giao dịch với thị trường toàn cầu bằng lịch kinh tế thời gian thực - eciks.org",
+      "title_en": "Forex Factory connects traders to global markets with real-time economic calendar - eciks.org",
+      "summary_vi": "Forex Factory kết nối các nhà giao dịch với thị trường toàn cầu bằng lịch kinh tế thời gian thực eciks.org",
+      "summary_en": "Forex Factory connects traders to global markets with real-time economic calendar eciks.org",
       "meta": {}
     },
     {
@@ -427,280 +592,43 @@
       "meta": {}
     },
     {
-      "title": "AI Trung Quốc đe dọa mô hình kinh doanh của Thung lũng Silicon",
-      "url": "https://vnexpress.net/ai-trung-quoc-de-doa-mo-hinh-kinh-doanh-cua-thung-lung-silicon-5106573.html",
-      "source": "VnExpress Kinh doanh",
-      "category": "finance",
-      "market": "vietnam",
-      "published": "Sat, 08 Aug 2026 10:00:00 +0700",
-      "description": "Mô hình kinh doanh thu phí cao của các hãng công nghệ Mỹ đang đứng trước nguy cơ bị đảo lộn bởi các dòng AI nguồn mở giá rẻ từ Trung Quốc.",
-      "score": 0.0,
-      "title_vi": "AI Trung Quốc đe dọa mô hình kinh doanh của Thung lũng Silicon",
-      "title_en": "Chinese AI threatens Silicon Valley's business model",
-      "summary_vi": "Mô hình kinh doanh thu phí cao của các hãng công nghệ Mỹ đang đứng trước nguy cơ bị đảo lộn bởi các dòng AI nguồn mở giá rẻ từ Trung Quốc.",
-      "summary_en": "The high-fee business model of American technology companies is at risk of being upset by cheap open-source AI streams from China.",
-      "meta": {}
-    },
-    {
-      "title": "Blue Origin hé lộ nguyên nhân tên lửa nổ tung trên bệ phóng",
-      "url": "https://vnexpress.net/blue-origin-he-lo-nguyen-nhan-ten-lua-no-tung-tren-be-phong-5106662.html",
-      "source": "VnExpress Số hóa",
-      "category": "technology",
-      "market": "vietnam",
-      "published": "Sat, 08 Aug 2026 09:00:00 +0700",
-      "description": "Blue Origin cho biết, trong thử nghiệm mới nhất, tên lửa New Glenn của công ty phát nổ do sự cố ở van oxy chính trên một động cơ BE-4.",
-      "score": 0.0,
-      "title_vi": "Blue Origin hé lộ nguyên nhân tên lửa nổ tung trên bệ phóng",
-      "title_en": "Blue Origin revealed the reason why the rocket exploded on the launch pad",
-      "summary_vi": "Blue Origin cho biết, trong thử nghiệm mới nhất, tên lửa New Glenn của công ty phát nổ do sự cố ở van oxy chính trên một động cơ BE-4.",
-      "summary_en": "Blue Origin said that in the latest test, the company's New Glenn rocket exploded due to a problem in the main oxygen valve on a BE-4 engine.",
-      "meta": {}
-    },
-    {
-      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
-      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Sat, 08 Aug 2026 01:49:11 +0000",
-      "description": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year Comments URL: https://news.ycombinator.com/item?id=49218179 Points: 147 # Comments: 21",
-      "score": 0.0,
-      "title_vi": "NASA sẽ duy trì tàu thăm dò Voyager 2 48 tuổi hoạt động thêm một năm nữa",
-      "title_en": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
-      "summary_vi": "URL bài viết: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year URL bình luận: https://news.ycombinator.com/item?id=49218179 Điểm: 147 # Bình luận: 21",
-      "summary_en": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year Comments URL: https://news.ycombinator.com/item?id=49218179 Points: 147 # Comments: 21",
-      "meta": {}
-    },
-    {
-      "title": "The Nixpkgs core team has disbanded",
-      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Sat, 08 Aug 2026 01:12:45 +0000",
-      "description": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 220 # Comments: 95",
-      "score": 0.0,
-      "title_vi": "Nhóm nòng cốt Nixpkgs đã giải tán",
-      "title_en": "The Nixpkgs core team has disbanded",
-      "summary_vi": "URL bài viết: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 URL bình luận: https://news.ycombinator.com/item?id=49217993 Điểm: 220 # Bình luận: 95",
-      "summary_en": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 220 # Comments: 95",
-      "meta": {}
-    },
-    {
-      "title": "Giá vàng thế giới cao nhất 7 tuần, Wall Street lại lập kỷ lục",
-      "url": "https://vnexpress.net/gia-vang-the-gioi-cao-nhat-7-tuan-wall-street-lai-lap-ky-luc-5106678.html",
-      "source": "VnExpress Kinh doanh",
-      "category": "finance",
-      "market": "vietnam",
-      "published": "Sat, 08 Aug 2026 07:52:29 +0700",
-      "description": "Mỗi ounce vàng tăng hơn 100 USD, vượt 4.300 USD, trong khi chỉ số S&P 500 đóng cửa trên 7.750 điểm.",
-      "score": 0.0,
-      "title_vi": "Giá vàng thế giới cao nhất 7 tuần, Wall Street lại lập kỷ lục",
-      "title_en": "World gold price highest in 7 weeks, Wall Street sets a record again",
-      "summary_vi": "Mỗi ounce vàng tăng hơn 100 USD, vượt 4.300 USD, trong khi chỉ số S&P 500 đóng cửa trên 7.750 điểm.",
-      "summary_en": "Each ounce of gold increased by more than 100 USD, exceeding 4,300 USD, while the S&P 500 index closed above 7,750 points.",
-      "meta": {}
-    },
-    {
-      "title": "Big investors think it might be time to buy in South Korea - The Business Standard",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNEZNby1vNHk1UkZQYkZyQTJzb0xudFV2bjFhaDhoSHNuOUNLMUFqNnUyTVhNSFdLb2c2b1o1VUFLc2JULUJsVDdseWtVRnJhUDlwcWYyMVlpVkFQT3Fzd0JYcEdhRnhsVGxvQXVFSXIxeFVCdzhGOXg2NU51Y0JRNnl0S292eG1Sc2F2WXJzRmpPNTEtWlFsSmwtWmJZR0RjeHFDUjVBLUXSAa4BQVVfeXFMUHRGWmY1TU9QeWI3ckRfN0tkTXBKUGhvc2NSX2NZRVdyY0lKejQ4bW9FU0NBNmNaOW5pdnNkaFVZTGNpazRBZmg2bDRsSTVMX3Y2a1JHWDFybWk5YmZ5OTZRWXpPUkFZVXZ1NUh3VlZldHhZQmJmX0RqQ2dTQU4tR0NnTThFV0xocEhKVHlzWTFTOWxzeVZBd2NzSTY2TU5Fb2tHNzdRVFR4ZzA2TUtR?oc=5",
+      "title": "Market Talk: 'Difficult to see' an Iran-Oman deal on Hormuz implemented - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45V3RXV0pDVm00SXE0end2UlpWa2FsMk5aYUVCVmV2eVhKZ0Q0ckFMM0ZlRGVqZXdVUDRMZG5hbmlsd09XNnBtaFRzdEY4dlozdFF5VmpiOU1HTVlfSjg4QmFjMFdSU00?oc=5",
       "source": "Google News Reuters Finance",
       "category": "finance",
       "market": "global",
-      "published": "Fri, 07 Aug 2026 23:02:24 GMT",
-      "description": "Big investors think it might be time to buy in South Korea The Business Standard",
+      "published": "Sat, 08 Aug 2026 03:11:44 GMT",
+      "description": "Market Talk: 'Difficult to see' an Iran-Oman deal on Hormuz implemented Reuters",
       "score": 0.0,
-      "title_vi": "Các nhà đầu tư lớn cho rằng đã đến lúc mua vào Hàn Quốc - The Business Standard",
-      "title_en": "Big investors think it might be time to buy in South Korea - The Business Standard",
-      "summary_vi": "Các nhà đầu tư lớn cho rằng đã đến lúc mua vào Hàn Quốc",
-      "summary_en": "Big investors think it might be time to buy in South Korea The Business Standard",
-      "meta": {}
-    },
-    {
-      "title": "Vì sao bỗng dưng đứng tên doanh nghiệp, hộ kinh doanh?",
-      "url": "https://vnexpress.net/vi-sao-bong-dung-dung-ten-doanh-nghiep-ho-kinh-doanh-5106236.html",
-      "source": "VnExpress Kinh doanh",
-      "category": "finance",
-      "market": "vietnam",
-      "published": "Sat, 08 Aug 2026 06:00:00 +0700",
-      "description": "Thông tin, giấy tờ tùy thân, dữ liệu cá nhân bị lộ lọt, chiếm đoạt hoặc sử dụng trái phép khiến không ít người \"bỗng dưng đứng tên doanh nghiệp, hộ kinh doanh\".",
-      "score": 0.0,
-      "title_vi": "Vì sao bỗng dưng đứng tên doanh nghiệp, hộ kinh doanh?",
-      "title_en": "Why is it suddenly in the name of a business or business household?",
-      "summary_vi": "Thông tin, giấy tờ tùy thân, dữ liệu cá nhân bị lộ lọt, chiếm đoạt hoặc sử dụng trái phép khiến không ít người \"bỗng dưng đứng tên doanh nghiệp, hộ kinh doanh\".",
-      "summary_en": "Information, identification documents, and personal data were leaked, appropriated, or used illegally, causing many people to \"suddenly take on the name of a business or household business\".",
-      "meta": {}
-    },
-    {
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "source": "TechCrunch",
-      "category": "technology",
-      "market": "global",
-      "published": "Fri, 07 Aug 2026 22:48:24 +0000",
-      "description": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "score": 0.0,
-      "title_vi": "OpenAI cho biết họ đã làm chậm quá trình phát triển mô hình Astra vì lo ngại về bảo mật",
-      "title_en": "OpenAI says it slowed Astra model development over security concerns",
-      "summary_vi": "OpenAI cho biết mô hình này, vẫn đang được phát triển, đã đạt đến “ngưỡng an ninh mạng quan trọng”, nghĩa là nó có thể xác định và thực hiện các cuộc tấn công mạng một cách độc lập chống lại các hệ thống trong thế giới thực được bảo vệ tốt theo truyền thống.",
-      "summary_en": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
-      "meta": {}
-    },
-    {
-      "title": "US regulator rejects Dutch fintech Bunq's application for national bank charter - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZTYwVEtTQk5QcEgyV2hWaF83Z0NhaUNZYlhxVHdGeklmdWdpZ3p2bkROM3VmVEJxdW1CTFpNTUpJVUd0N3RsVVFIa3BFUy1Oak1STzVhX0NVMUMzZFFmeFI4MnRtWjRTRzBxTVNfSTRQTHpYLTExR01uWHVMSHlkWlpIbUVvUHFzR0dWOWlDNkZMRzRlS04xY1pGQWxSMFhYZnNBYjVqSk02NFpVYVdPUm9VQVIxS2g3WldjYnZhZnJlNHViV1E?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Fri, 07 Aug 2026 22:41:44 GMT",
-      "description": "US regulator rejects Dutch fintech Bunq's application for national bank charter Reuters",
-      "score": 0.0,
-      "title_vi": "Cơ quan quản lý Hoa Kỳ từ chối đơn đăng ký điều lệ ngân hàng quốc gia của Bunq fintech của Hà Lan - Reuters",
-      "title_en": "US regulator rejects Dutch fintech Bunq's application for national bank charter - Reuters",
-      "summary_vi": "Cơ quan quản lý Hoa Kỳ từ chối đơn đăng ký điều lệ ngân hàng quốc gia của Bunq fintech của Hà Lan",
-      "summary_en": "US regulator rejects Dutch fintech Bunq's application for national bank charter Reuters",
-      "meta": {}
-    },
-    {
-      "title": "Working on Economics with Fable 5",
-      "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Fri, 07 Aug 2026 22:29:57 +0000",
-      "description": "Article URL: https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/ Comments URL: https://news.ycombinator.com/item?id=49217001 Points: 8 # Comments: 0",
-      "score": 0.0,
-      "title_vi": "Làm việc về kinh tế với Truyện ngụ ngôn 5",
-      "title_en": "Working on Economics with Fable 5",
-      "summary_vi": "URL bài viết: https://wilsoniumite.com/2026/08/03/working-on-kinh tế-with-fable-5/ URL bình luận: https://news.ycombinator.com/item?id=49217001 Điểm: 8 # Bình luận: 0",
-      "summary_en": "Article URL: https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/ Comments URL: https://news.ycombinator.com/item?id=49217001 Points: 8 # Comments: 0",
-      "meta": {}
-    },
-    {
-      "title": "US suffers unexpected job losses in July, markets dial back rate hike expectations - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Fri, 07 Aug 2026 22:24:57 GMT",
-      "description": "US suffers unexpected job losses in July, markets dial back rate hike expectations Reuters",
-      "score": 0.0,
-      "title_vi": "Mỹ bất ngờ mất việc làm trong tháng 7, thị trường quay trở lại kỳ vọng tăng lãi suất - Reuters",
-      "title_en": "US suffers unexpected job losses in July, markets dial back rate hike expectations - Reuters",
-      "summary_vi": "Mỹ bất ngờ mất việc làm trong tháng 7, thị trường quay trở lại kỳ vọng tăng lãi suất",
-      "summary_en": "US suffers unexpected job losses in July, markets dial back rate hike expectations Reuters",
-      "meta": {}
-    },
-    {
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "url": "https://genesisopenmodels.anl.gov/",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Fri, 07 Aug 2026 22:24:27 +0000",
-      "description": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 179 # Comments: 60",
-      "score": 0.0,
-      "title_vi": "Bộ Năng lượng Hoa Kỳ triển khai Sáng kiến ​​Mô hình Mở Genesis",
-      "title_en": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "summary_vi": "URL bài viết: https://genesisopenmodels.anl.gov/ URL bình luận: https://news.ycombinator.com/item?id=49216946 Điểm: 179 # Bình luận: 60",
-      "summary_en": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 179 # Comments: 60",
+      "title_vi": "Thảo luận thị trường: 'Khó thấy' thỏa thuận Iran-Oman về Hormuz được thực hiện - Reuters",
+      "title_en": "Market Talk: 'Difficult to see' an Iran-Oman deal on Hormuz implemented - Reuters",
+      "summary_vi": "Thảo luận thị trường: 'Khó thấy' thỏa thuận Iran-Oman về Hormuz được thực hiện Reuters",
+      "summary_en": "Market Talk: 'Difficult to see' an Iran-Oman deal on Hormuz implemented Reuters",
       "meta": {}
     }
   ],
   "insights": {
     "status": "ready",
     "model": "z-ai/glm-5.2",
-    "daily_thesis_vi": "Dữ liệu cho thấy sự bùng nổ của các công cụ AI mã nguồn mở và mối lo ngại ngày càng tăng về an ninh mạng, rò rỉ dữ liệu cá nhân. Các doanh nghiệp cần giải pháp tự động hóa quy trình và bảo vệ danh tính số cấp bách.",
-    "daily_thesis_en": "Data shows a boom in open-source AI tools and growing concerns over cybersecurity and personal data leaks. Businesses urgently need process automation and digital identity protection solutions.",
+    "daily_thesis_vi": "Các công cụ AI và tự động hóa đang bùng nổ, giải quyết bài toán xử lý tài liệu và điều phối agent. Đồng thời, doanh nghiệp Việt cần giải pháp tuân thủ luật đấu thầu và quản lý thiết bị công nghệ cao.",
+    "daily_thesis_en": "AI and automation tools are booming, solving document processing and agent orchestration. Meanwhile, Vietnamese businesses need compliance solutions for bidding laws and high-end tech asset management.",
     "opportunities": [
       {
-        "name_vi": "Tự động hóa tác vụ bằng AI",
-        "name_en": "AI Task Automation",
-        "pain_vi": "Doanh nghiệp lãng phí thời gian vào các quy trình thủ công lặp đi lặp lại, cần công cụ ghi lại và tự động hóa các tác vụ trên máy tính.",
-        "pain_en": "Businesses waste time on repetitive manual processes, needing tools to record and automate desktop tasks.",
-        "audience_vi": "Nhân viên văn phòng, doanh nghiệp vừa và nhỏ.",
-        "audience_en": "Office workers, SMBs.",
-        "mvp_vi": "Ứng dụng ghi lại thao tác màn hình và tạo kịch bản tự động bằng AI.",
-        "mvp_en": "App recording screen actions and generating automation scripts via AI.",
+        "name_vi": "Chuyển đổi tài liệu doanh nghiệp sang Markdown",
+        "name_en": "Enterprise Document to Markdown Conversion",
+        "pain_vi": "Doanh nghiệp tốn nhiều thời gian trích xuất dữ liệu từ PDF, Word, Excel đa dạng định dạng để đưa vào hệ thống AI và RAG.",
+        "pain_en": "Businesses waste time extracting data from diverse PDF, Word, Excel formats to feed into AI and RAG systems.",
+        "audience_vi": "Công ty công nghệ, đội ngũ dữ liệu, startup AI toàn cầu.",
+        "audience_en": "Tech companies, data teams, global AI startups.",
+        "mvp_vi": "API SaaS nhận file đa định dạng, trả về Markdown sạch bằng Rust ngõ ra chuẩn JSON.",
+        "mvp_en": "SaaS API accepting multiple file formats, returning clean Markdown via Rust with standard JSON output.",
         "scope": "global",
         "score": 85,
         "evidence_ids": [
-          9
-        ],
-        "risks_vi": "Cạnh tranh gay gắt từ các ông lớn như Microsoft.",
-        "risks_en": "Intense competition from giants like Microsoft.",
-        "sources": [
-          {
-            "title": "microsoft/skill-recorder",
-            "url": "https://github.com/microsoft/skill-recorder",
-            "source": "GitHub"
-          }
-        ]
-      },
-      {
-        "name_vi": "Phòng chống rò rỉ dữ liệu cá nhân",
-        "name_en": "Personal Data Leak Prevention",
-        "pain_vi": "Dữ liệu cá nhân bị rò rỉ khiến nhiều người bị mạo danh lập doanh nghiệp trái phép, gây thiệt hại tài chính và pháp lý.",
-        "pain_en": "Leaked personal data causes identity theft for illegal business registration, causing financial and legal damage.",
-        "audience_vi": "Người dân, cơ quan quản lý tại Việt Nam.",
-        "audience_en": "Citizens, regulatory bodies in Vietnam.",
-        "mvp_vi": "Dịch vụ giám sát danh tính số và cảnh báo đăng ký kinh doanh trái phép.",
-        "mvp_en": "Digital identity monitoring service alerting unauthorized business registrations.",
-        "scope": "vietnam",
-        "score": 90,
-        "evidence_ids": [
-          29
-        ],
-        "risks_vi": "Khó tiếp cận cơ sở dữ liệu quốc gia để đối chiếu.",
-        "risks_en": "Hard to access national databases for verification.",
-        "sources": [
-          {
-            "title": "Why is it suddenly in the name of a business or business household?",
-            "url": "https://vnexpress.net/vi-sao-bong-dung-dung-ten-doanh-nghiep-ho-kinh-doanh-5106236.html",
-            "source": "VnExpress Kinh doanh"
-          }
-        ]
-      },
-      {
-        "name_vi": "Tuân thủ an ninh mạng y tế",
-        "name_en": "Healthcare Cybersecurity Compliance",
-        "pain_vi": "Tổ chức y tế gặp khó khăn trong việc tuân thủ các quy định an ninh mạng ngày càng khắt khe.",
-        "pain_en": "Healthcare organizations struggle to comply with increasingly strict cybersecurity regulations.",
-        "audience_vi": "Bệnh viện, phòng khám, công ty y tế.",
-        "audience_en": "Hospitals, clinics, healthcare companies.",
-        "mvp_vi": "Nền tảng đánh giá và tự động hóa báo cáo tuân thủ bảo mật y tế.",
-        "mvp_en": "Platform assessing and automating healthcare security compliance reports.",
-        "scope": "global",
-        "score": 82,
-        "evidence_ids": [
-          13
-        ],
-        "risks_vi": "Chi phí bán hàng B2B cao, chu kỳ mua dài.",
-        "risks_en": "High B2B sales costs, long buying cycles.",
-        "sources": [
-          {
-            "title": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026 - ABC17NEWS",
-            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcnJGejh6Vk5qb1NMMXlaakgxT0Nzc1Zwdy1oTC1RbUNleGVwRHFOZkxtSnFLdWtYaU90aUNNUjFPLTRZLWU5cTNNYzJ4VGFodnJPLV9ZRGgzUEFxajh6YVNXVzlILUZaYnBqTklJVGhZaWRvTVBaWE1IUi1nekJ6VjhHZl9URU1PVlZXeXBMWHgyTTNHSzhELUhNVlZuSy05MVJPZDZCRnlOaTNQdXoxbXlTMVBVcjl4R2ZfYkRZQk9zZ3hxR2kxMTlSanFoQ3ZLam9ycE41Zm90WllzOXM3cXBB?oc=5",
-            "source": "Google News Social Needs"
-          }
-        ]
-      },
-      {
-        "name_vi": "Chuyển đổi tài liệu sang Markdown",
-        "name_en": "Document to Markdown Conversion",
-        "pain_vi": "Xử lý nhiều định dạng tài liệu khác nhau để đưa vào hệ thống AI tốn quá nhiều thời gian và công sức.",
-        "pain_en": "Processing various document formats for AI ingestion takes too much time and effort.",
-        "audience_vi": "Lập trình viên, công ty phát triển AI.",
-        "audience_en": "Developers, AI development companies.",
-        "mvp_vi": "API chuyển đổi hàng loạt các định dạng văn phòng thành Markdown sạch.",
-        "mvp_en": "API batch converting office formats to clean Markdown.",
-        "scope": "global",
-        "score": 78,
-        "evidence_ids": [
           1
         ],
-        "risks_vi": "Dễ bị sao chép, biên lợi nhuận thấp.",
-        "risks_en": "Easily replicable, low profit margins.",
+        "risks_vi": "Cạnh tranh cao từ các công cụ mã nguồn mở, chi phí duy trì hạ tầng Rust.",
+        "risks_en": "High competition from open-source tools, Rust infrastructure maintenance costs.",
         "sources": [
           {
             "title": "firecrawl/anydoc",
@@ -710,22 +638,22 @@
         ]
       },
       {
-        "name_vi": "Quản lý tương tác cho AI Agent",
-        "name_en": "AI Agent CRM Management",
-        "pain_vi": "Các doanh nghiệp thiếu hệ thống để quản lý và điều phối nhiều AI agent làm việc cùng nhau.",
-        "pain_en": "Businesses lack systems to manage and coordinate multiple AI agents working together.",
-        "audience_vi": "Đội ngũ vận hành, doanh nghiệp áp dụng AI.",
-        "audience_en": "Operations teams, AI-adopting businesses.",
-        "mvp_vi": "CRM mã nguồn mở thiết kế riêng để theo dõi và điều phối các AI agent.",
-        "mvp_en": "Open-source CRM designed specifically to track and coordinate AI agents.",
+        "name_vi": "Điều phối đa Agent cho doanh nghiệp",
+        "name_en": "Multi-Agent Orchestration for Enterprise",
+        "pain_vi": "Thiếu nền tảng trung tâm để quản lý, giao việc và giám sát nhiều AI agent làm việc cùng lúc trong quy trình phức tạp.",
+        "pain_en": "Lack of a central platform to manage, delegate, and monitor multiple AI agents working simultaneously in complex workflows.",
+        "audience_vi": "Doanh nghiệp áp dụng AI, đội ngũ vận hành tự động hóa.",
+        "audience_en": "AI-adopting enterprises, automation operations teams.",
+        "mvp_vi": "Bảng điều khiển web quản lý nhiều agent, theo dõi log và phân chia tác vụ theo luồng.",
+        "mvp_en": "Web dashboard managing multiple agents, monitoring logs, and routing tasks via workflows.",
         "scope": "global",
-        "score": 75,
+        "score": 82,
         "evidence_ids": [
           2,
           3
         ],
-        "risks_vi": "Thị trường chưa trưởng thành, khó xác định nhu cầu thực tế.",
-        "risks_en": "Immature market, hard to define actual demand.",
+        "risks_vi": "Đòi hỏi bảo mật cao, tích hợp phức tạp với hệ thống CRM hiện có.",
+        "risks_en": "High security requirements, complex integration with existing CRM systems.",
         "sources": [
           {
             "title": "yc software/sqm",
@@ -735,6 +663,90 @@
           {
             "title": "trycompai/crm",
             "url": "https://github.com/trycompai/crm",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Phần mềm quản lý tuân thủ nguồn gốc hàng hóa",
+        "name_en": "Origin Compliance Management Software",
+        "pain_vi": "Doanh nghiệp Việt gặp khó khăn trong việc chứng minh và quản lý hồ sơ nguồn gốc hàng hóa để ưu tiên đấu thầu.",
+        "pain_en": "Vietnamese businesses struggle to prove and manage goods origin documentation for bidding prioritization.",
+        "audience_vi": "Nhà thầu Việt Nam, doanh nghiệp sản xuất, nhà cung cấp.",
+        "audience_en": "Vietnamese contractors, manufacturing firms, suppliers.",
+        "mvp_vi": "SaaS quản lý chứng từ nguồn gốc, tự động đối chiếu với dự thảo Luật Đấu thầu.",
+        "mvp_en": "SaaS managing origin documentation, auto-checking against draft Bidding Law.",
+        "scope": "vietnam",
+        "score": 78,
+        "evidence_ids": [
+          13
+        ],
+        "risks_vi": "Luật pháp có thể thay đổi, chậm trễ trong việc ban hành chính thức.",
+        "risks_en": "Regulatory changes possible, delays in official law enactment.",
+        "sources": [
+          {
+            "title": "Proposal to prioritize goods of Vietnamese origin in bidding: Notable new points of the draft Law on Bidding (amended) - phapluatphattrien.vn",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbDRSb1Ewc1A4WWtJVG1IRmwzX3NjT210bU1nNkxJQXpBSUZ2RXplQU14WkJ5Y3NCUUtHeXJGS2xXUTRLTEh4T1k4ZnROeHAzQ3A3V2g1R1BMaUlwRUdGTEYzcExqSWFCN1VwbGtwdWJtQlplNnVMUHRMVktlLWV3UXFmaTl2bmtIeUd4MzJacmxBdnFFSjBqdnNlWWxNMHJZWTF5LWFXZ3JINWZ0RG5uclgxU3RtSV9zTXcxQl84MWhCVWMzM0I3SjI5NXJWaDI2dnpSeGY3RXlUR1QzbjRxQ1dPeG8?oc=5",
+            "source": "Google News Nhu cầu Việt Nam"
+          }
+        ]
+      },
+      {
+        "name_vi": "Nền tảng quản lý thiết bị công nghệ cao",
+        "name_en": "High-End Tech Asset Management",
+        "pain_vi": "Cá nhân và doanh nghiệp Việt cần giải pháp theo dõi, bảo hiểm và thanh lý thiết bị công nghệ đắt tiền.",
+        "pain_en": "Vietnamese individuals and businesses need tracking, insurance, and liquidation solutions for expensive tech devices.",
+        "audience_vi": "Người dùng cá nhân, doanh nghiệp có nhu cầu mua sắm công nghệ.",
+        "audience_en": "Individual users, businesses with high tech procurement needs.",
+        "mvp_vi": "Ứng dụng theo dõi vòng đời tài sản, giá trị còn lại và lịch sử bảo hành.",
+        "mvp_en": "App tracking asset lifecycle, residual value, and warranty history.",
+        "scope": "vietnam",
+        "score": 72,
+        "evidence_ids": [
+          25,
+          28,
+          30
+        ],
+        "risks_vi": "Thị trường ngách, rủi ro biến động giá trị tài sản nhanh chóng.",
+        "risks_en": "Niche market, risk of rapid asset value depreciation.",
+        "sources": [
+          {
+            "title": "Samsung Galaxy Z8 Series sets pre-order record",
+            "url": "https://vnexpress.net/samsung-galaxy-z8-series-lap-ky-luc-dat-hang-truoc-5106688.html",
+            "source": "VnExpress Số hóa"
+          },
+          {
+            "title": "ROG Strix Scar 18 - gaming laptop priced at 180 million VND",
+            "url": "https://vnexpress.net/rog-strix-scar-18-laptop-gaming-gia-180-trieu-dong-5106163.html",
+            "source": "VnExpress Số hóa"
+          },
+          {
+            "title": "Family movie room from 2 billion to 13 billion VND at P.H.E Show 2026",
+            "url": "https://vnexpress.net/phong-phim-gia-dinh-tu-2-ty-den-13-ty-dong-tai-p-h-e-show-2026-5106684.html",
+            "source": "VnExpress Số hóa"
+          }
+        ]
+      },
+      {
+        "name_vi": "Tạo luồng kỹ năng tự động từ thao tác màn hình",
+        "name_en": "Screen-to-Skill Automation Builder",
+        "pain_vi": "Việc đào tạo nhân viên mới và tạo quy trình SOP thủ công tốn thời gian, dễ sai sót và khó cập nhật.",
+        "pain_en": "Manual SOP creation and new employee training is time-consuming, error-prone, and hard to update.",
+        "audience_vi": "Quản lý vận hành, doanh nghiệp vừa và nhỏ.",
+        "audience_en": "Operations managers, SMEs.",
+        "mvp_vi": "Tiện ích ghi màn hình, dùng AI tạo SOP và tự động hóa theo thao tác người dùng.",
+        "mvp_en": "Screen recording utility using AI to generate SOPs and automations from user actions.",
+        "scope": "global",
+        "score": 80,
+        "evidence_ids": [
+          9
+        ],
+        "risks_vi": "Cạnh tranh với Microsoft Copilot, đòi hỏi độ chính xác cao trong nhận diện.",
+        "risks_en": "Competition with Microsoft Copilot, requires high recognition accuracy.",
+        "sources": [
+          {
+            "title": "microsoft/skill-recorder",
+            "url": "https://github.com/microsoft/skill-recorder",
             "source": "GitHub"
           }
         ]
