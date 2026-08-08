@@ -1,6 +1,6 @@
 {
   "date": "2026-08-08",
-  "generated_at": "2026-08-08T02:22:44.736128+00:00",
+  "generated_at": "2026-08-08T05:57:53.878109+00:00",
   "markets": [
     {
       "name": "S&P 500",
@@ -12,29 +12,29 @@
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26690.6152,
+      "price": 26690.6191,
       "change_pct": 1.3,
       "currency": "USD"
     },
     {
       "name": "Gold",
       "symbol": "GC=F",
-      "price": 4401.2998,
-      "change_pct": 3.76,
+      "price": 4340.7002,
+      "change_pct": 2.33,
       "currency": "USD"
     },
     {
       "name": "Crude Oil",
       "symbol": "CL=F",
-      "price": 77.08,
-      "change_pct": -0.27,
+      "price": 78.18,
+      "change_pct": 1.15,
       "currency": "USD"
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 64868.4297,
-      "change_pct": 0.94,
+      "price": 64947.4805,
+      "change_pct": 1.07,
       "currency": "USD"
     },
     {
@@ -54,16 +54,16 @@
       "market": "global",
       "published": "2026-08-03T16:36:14Z",
       "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "score": 2312.75,
+      "score": 2354.93,
       "title_vi": "firecrawl/anydoc",
       "title_en": "firecrawl/anydoc",
       "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
       "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
       "meta": {
-        "stars": 11098,
-        "forks": 516,
+        "stars": 11308,
+        "forks": 524,
         "language": "Rust",
-        "stars_per_day": 2219.6
+        "stars_per_day": 2261.6
       }
     },
     {
@@ -74,16 +74,16 @@
       "market": "global",
       "published": "2026-07-29T20:03:08Z",
       "description": "Multiplayer agent harness for work",
-      "score": 1324.28,
+      "score": 1329.82,
       "title_vi": "phần mềm yc/m2",
       "title_en": "yc software/sqm",
       "summary_vi": "Khai thác tác nhân nhiều người chơi cho công việc",
       "summary_en": "Multiplayer agent harness for work",
       "meta": {
-        "stars": 12301,
-        "forks": 1406,
+        "stars": 12356,
+        "forks": 1413,
         "language": "TypeScript",
-        "stars_per_day": 1230.1
+        "stars_per_day": 1235.6
       }
     },
     {
@@ -94,16 +94,16 @@
       "market": "global",
       "published": "2026-07-31T21:38:51Z",
       "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
-      "score": 1027.61,
+      "score": 1031.91,
       "title_vi": "thửcompai/crm",
       "title_en": "trycompai/crm",
       "summary_vi": "Comp AI CRM là một CRM mã nguồn mở được thiết kế cho các đại lý AI. CRM ưu tiên tác nhân.",
       "summary_en": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
       "meta": {
-        "stars": 7507,
-        "forks": 808,
+        "stars": 7541,
+        "forks": 812,
         "language": "TypeScript",
-        "stars_per_day": 938.4
+        "stars_per_day": 942.6
       }
     },
     {
@@ -114,16 +114,16 @@
       "market": "global",
       "published": "2026-08-05T01:19:41Z",
       "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "score": 703.08,
+      "score": 712.56,
       "title_vi": "KKKKhazix/chữ viết của con người",
       "title_en": "KKKKhazix/human-writing",
       "summary_vi": "Làm cho tiếng Trung được viết bởi AI đọc giống như một người cụ thể đang nói. Kỹ năng sáng tạo và sửa đổi phổ quát, có sẵn ngay lập tức.",
       "summary_en": "Make the Chinese written by AI read like a specific person speaking. Universal creation and revision skills, available right out of the box.",
       "meta": {
-        "stars": 1883,
-        "forks": 166,
+        "stars": 1911,
+        "forks": 167,
         "language": "Python",
-        "stars_per_day": 627.7
+        "stars_per_day": 637.0
       }
     },
     {
@@ -134,16 +134,16 @@
       "market": "global",
       "published": "2026-07-30T18:17:54Z",
       "description": "",
-      "score": 658.26,
+      "score": 660.52,
       "title_vi": "bashalarmistalt/decimen-quang-chuyển",
       "title_en": "bashalarmistalt/decimen-optical-transfer",
       "summary_vi": "bashalarmistalt/decimen-quang-chuyển",
       "summary_en": "bashalarmistalt/decimen-optical-transfer",
       "meta": {
-        "stars": 5155,
-        "forks": 629,
+        "stars": 5175,
+        "forks": 632,
         "language": "TypeScript",
-        "stars_per_day": 572.8
+        "stars_per_day": 575.0
       }
     },
     {
@@ -154,16 +154,16 @@
       "market": "global",
       "published": "2026-08-02T11:15:16Z",
       "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "score": 406.94,
+      "score": 408.49,
       "title_vi": "thebuggeddev/anatomy",
       "title_en": "thebuggeddev/anatomy",
       "summary_vi": "Trình khám phá giải phẫu người 3D tương tác được xây dựng bằng bajs với GPT 5.6 Sol",
       "summary_en": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
       "meta": {
-        "stars": 1986,
-        "forks": 569,
+        "stars": 1995,
+        "forks": 573,
         "language": "TypeScript",
-        "stars_per_day": 331.0
+        "stars_per_day": 332.5
       }
     },
     {
@@ -174,16 +174,16 @@
       "market": "global",
       "published": "2026-07-31T09:40:58Z",
       "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "score": 349.5,
+      "score": 351.84,
       "title_vi": "genspark-ai/genoffice",
       "title_en": "genspark-ai/genoffice",
       "summary_vi": "Bộ ứng dụng văn phòng gốc AI dành cho macOS và Windows: trình xử lý văn bản, bảng tính, bản trình bày và PDF.",
       "summary_en": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
       "meta": {
-        "stars": 2181,
-        "forks": 377,
+        "stars": 2199,
+        "forks": 381,
         "language": "TypeScript",
-        "stars_per_day": 272.6
+        "stars_per_day": 274.9
       }
     },
     {
@@ -194,16 +194,16 @@
       "market": "global",
       "published": "2026-08-01T13:56:43Z",
       "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
-      "score": 329.43,
+      "score": 330.17,
       "title_vi": "DannyMac180/sol-cố vấn",
       "title_en": "DannyMac180/sol-advisor",
       "summary_vi": "Sự phối hợp của kiến ​​trúc sư gốc Codex với các làn triển khai Luna và Terra cũng như đánh giá Sol mới bắt buộc.",
       "summary_en": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
       "meta": {
-        "stars": 1782,
-        "forks": 128,
+        "stars": 1787,
+        "forks": 129,
         "language": "TypeScript",
-        "stars_per_day": 254.6
+        "stars_per_day": 255.3
       }
     },
     {
@@ -214,16 +214,16 @@
       "market": "global",
       "published": "2026-07-29T18:16:14Z",
       "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-      "score": 313.04,
+      "score": 315.34,
       "title_vi": "microsoft/skill-ghi",
       "title_en": "microsoft/skill-recorder",
       "summary_vi": "Ứng dụng dành cho máy tính để bàn ghi lại phiên làm việc trên màn hình của bạn và sử dụng GitHub Copilot CLI để xây dựng lại phiên làm việc đó dưới dạng ý định + các bước được sắp xếp, sau đó xây dựng Kỹ năng hoặc Tự động hóa có thể sử dụng lại cho Microsoft Scout, Microsoft Copilot Cowork hoặc Copilot Studio.",
       "summary_en": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
       "meta": {
-        "stars": 2354,
-        "forks": 251,
+        "stars": 2376,
+        "forks": 253,
         "language": "TypeScript",
-        "stars_per_day": 235.4
+        "stars_per_day": 237.6
       }
     },
     {
@@ -234,31 +234,211 @@
       "market": "global",
       "published": "2026-07-30T08:41:09Z",
       "description": "",
-      "score": 193.22,
+      "score": 198.74,
       "title_vi": "MiniMax-AI/MiniMax-H3",
       "title_en": "MiniMax-AI/MiniMax-H3",
       "summary_vi": "MiniMax-AI/MiniMax-H3",
       "summary_en": "MiniMax-AI/MiniMax-H3",
       "meta": {
-        "stars": 1108,
-        "forks": 58,
+        "stars": 1154,
+        "forks": 61,
         "language": "Python",
-        "stars_per_day": 123.1
+        "stars_per_day": 128.2
       }
     },
     {
-      "title": "SEC Drops Insider Trading Suit Against Ex-Healthcare Executive Pardoned by Trump - U.S. News & World Report",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeG93NUJmb09RUDNYRVZzSTVFUGlqZG01SGp2RU5mLUlSUk5aVWZBV3hraFZxQ0RjSDVWS0N0RmlSNHJPME1tQjNMOUFtZUowVGNENzdNTERtd1I0M011SFJjcGcwTS1YX1lqVXo2a0RCZUdsalFqQThDMkwtSFRzbk1mUmxXczQxaFBmTGU2NVZ5OGhrLTV0Uk0wRzJLcUFqRXFNOU5VRXlFS3lleElqUEt3U3dJYWJfOWlRNFJKeno3U3RnLU01Y1c4b1dTdmdoZ1M4?oc=5",
+      "title": "Chuyên gia Australia: Quan hệ Việt Nam – Australia có độ tin cậy chính trị cao - bnews.vn",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUW01YjJueEVjRWVIV3lwVml2ZnBQZjhYaFFzaGtaSXpKalVFRWpDbW1KTVFiWXBCY1l4RW1BOTFyaXhLTXJBcmJ0WmRqc2Y4Z2VRZ3lDeVlNRFRNNW5pbF9aZXNRUWtTTUR1RHNxMmdGQllrSXM0eE1nazFCQk4tVVAzamppV3pQajdlZTZVVk41a3hya1ZqVlFfdVZwNnVJTG85RE8yVQ?oc=5",
+      "source": "Google News Nhu cầu Việt Nam",
+      "category": "society",
+      "market": "vietnam",
+      "published": "Sat, 08 Aug 2026 05:53:00 GMT",
+      "description": "Chuyên gia Australia: Quan hệ Việt Nam – Australia có độ tin cậy chính trị cao bnews.vn",
+      "score": 0.0,
+      "title_vi": "Chuyên gia Australia: Quan hệ Việt Nam – Australia có độ tin cậy chính trị cao - bnews.vn",
+      "title_en": "Australian expert: Vietnam - Australia relationship has high political trust - bnews.vn",
+      "summary_vi": "Chuyên gia Australia: Quan hệ Việt Nam – Australia có độ tin cậy chính trị cao bnews.vn",
+      "summary_en": "Australian expert: Vietnam - Australia relationship has high political trust bnews.vn",
+      "meta": {}
+    },
+    {
+      "title": "Can Centrus Energy (LEU) Justify Its Valuation After The X Energy Fuel Deal? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOM1NqZGFIRnJCQ1ZsX1c0cEM5SnRERk9pRGI3S2VobzNmaF8tb201MU5KckNnc240WlpFS3p0LWFXV0ViUHlmWnl3WlZFdHExRTJQWlJsaWJWTkdJRU5TZmFUVmFFUUdiaWdNNU1WN1kwdGZUUXhYWkhVbnJzcFpEcThZVXB3UXY0YjlQLVVTekVsd09tZ2oyekdVc19mcGpFMWEyMlVJaDU1OW9ld1JZR3NlWDhUTjZDX2RzQ1E3N1VaemFMZF840gHMAUFVX3lxTFBUWGZwcXN2Z3kyeE5oVGFBd2ZFRVVZQlVxQ0UtbVdRMFdoWElCc0h6SWtVbWwwbWRRM3d1cmtwRjVpTUdvSzI0WkktQ0syUDRINE5URmRxeHBUQzc0ZFdMRjZpOThrVGljWFc4SnRIUktNY2RQd1dzZDlYZFZjSkVyUG9UMjhtb3ctV01JNjFZZGtjMkp3NkxqMDRkZnBFRzllLXVBbGFLVzNiWkt0VWVkMk5JZVdZVV9YeGNrbmFnTjJ2bWpQUi0yUzMxSQ?oc=5",
       "source": "Google News Social Needs",
       "category": "society",
       "market": "global",
-      "published": "Sat, 08 Aug 2026 02:10:00 GMT",
-      "description": "SEC Drops Insider Trading Suit Against Ex-Healthcare Executive Pardoned by Trump U.S. News & World Report",
+      "published": "Sat, 08 Aug 2026 05:45:45 GMT",
+      "description": "Can Centrus Energy (LEU) Justify Its Valuation After The X Energy Fuel Deal? simplywall.st",
       "score": 0.0,
-      "title_vi": "SEC bỏ vụ kiện giao dịch nội gián chống lại cựu giám đốc điều hành chăm sóc sức khỏe được Trump ân xá - US News & World Report",
-      "title_en": "SEC Drops Insider Trading Suit Against Ex-Healthcare Executive Pardoned by Trump - U.S. News & World Report",
-      "summary_vi": "SEC bỏ vụ kiện giao dịch nội gián chống lại cựu giám đốc điều hành chăm sóc sức khỏe được Trump ân xá",
-      "summary_en": "SEC Drops Insider Trading Suit Against Ex-Healthcare Executive Pardoned by Trump U.S. News & World Report",
+      "title_vi": "Centrus Energy (LEU) có thể biện minh cho việc định giá của mình sau thương vụ nhiên liệu năng lượng X không? - đơn giảnwall.st",
+      "title_en": "Can Centrus Energy (LEU) Justify Its Valuation After The X Energy Fuel Deal? - simplywall.st",
+      "summary_vi": "Centrus Energy (LEU) có thể biện minh cho việc định giá của mình sau thương vụ nhiên liệu năng lượng X không? đơn giảnwall.st",
+      "summary_en": "Can Centrus Energy (LEU) Justify Its Valuation After The X Energy Fuel Deal? simplywall.st",
+      "meta": {}
+    },
+    {
+      "title": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026 - ABC17NEWS",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcnJGejh6Vk5qb1NMMXlaakgxT0Nzc1Zwdy1oTC1RbUNleGVwRHFOZkxtSnFLdWtYaU90aUNNUjFPLTRZLWU5cTNNYzJ4VGFodnJPLV9ZRGgzUEFxajh6YVNXVzlILUZaYnBqTklJVGhZaWRvTVBaWE1IUi1nekJ6VjhHZl9URU1PVlZXeXBMWHgyTTNHSzhELUhNVlZuSy05MVJPZDZCRnlOaTNQdXoxbXlTMVBVcjl4R2ZfYkRZQk9zZ3hxR2kxMTlSanFoQ3ZLam9ycE41Zm90WllzOXM3cXBB?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sat, 08 Aug 2026 05:07:36 GMT",
+      "description": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026 ABC17NEWS",
+      "score": 0.0,
+      "title_vi": "5 quy định an ninh mạng các tổ chức chăm sóc sức khỏe không thể bỏ qua vào năm 2026 - ABC17NEWS",
+      "title_en": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026 - ABC17NEWS",
+      "summary_vi": "5 quy định an ninh mạng các tổ chức chăm sóc sức khỏe không thể bỏ qua vào năm 2026 ABC17NEWS",
+      "summary_en": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026 ABC17NEWS",
+      "meta": {}
+    },
+    {
+      "title": "DRC Targets 2 GW Clean Energy Expansion in Landmark US-Congolese Partnership - pan african visions",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQkxjUE9LY2dabUJrbXJfVXdkVXpCT0tGYWNNRjZzUHNrelFHbnU0STBlRTFyVGw5aW41Zmd0Q09xS3I5OEJ5R2FidHJZVHlldFVsUlpxVEctVWJBdzd0QnJ6N0Z1MUdaYVBaMWhDNHgyRWdxRjVXVnMyeGRxeG80VXlpUEtxRExCQzAwSlU1amd6VXdxRVRwRC1ncThaSWQ1VGNQbHcwc0g4WmFIRHB3TjJSX3Zjdw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sat, 08 Aug 2026 05:04:02 GMT",
+      "description": "DRC Targets 2 GW Clean Energy Expansion in Landmark US-Congolese Partnership pan african visions",
+      "score": 0.0,
+      "title_vi": "DRC đặt mục tiêu mở rộng 2 GW năng lượng sạch trong quan hệ đối tác mang tính bước ngoặt giữa Hoa Kỳ và Congo - tầm nhìn toàn châu Phi",
+      "title_en": "DRC Targets 2 GW Clean Energy Expansion in Landmark US-Congolese Partnership - pan african visions",
+      "summary_vi": "DRC đặt mục tiêu mở rộng 2 GW năng lượng sạch trong tầm nhìn xuyên châu Phi về quan hệ đối tác Mỹ-Congo",
+      "summary_en": "DRC Targets 2 GW Clean Energy Expansion in Landmark US-Congolese Partnership pan african visions",
+      "meta": {}
+    },
+    {
+      "title": "Education Meeting - goSkagit",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWFJEenZmaEdlOFltZVVVejJydGJscDBqV09TRmRucTVfcWQ2OXRGa1NZb2UyN1hoRjdkUVI5WnFXMWR5TVFjRElySXhXeEdHbFpqOUxRdkw0UjlDYXV2TDRWQXdINnhYMU5ZM1dzNW94VUI4Y0R0U0RVRHdfemVRNHBBUzA1VFE2amoyOFFnUUY3VE83MldENUJpLUhwM1phSjNzaGp2cVUtQ2c?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sat, 08 Aug 2026 05:00:00 GMT",
+      "description": "Education Meeting goSkagit",
+      "score": 0.0,
+      "title_vi": "Hội nghị giáo dục - goSkagit",
+      "title_en": "Education Meeting - goSkagit",
+      "summary_vi": "Cuộc họp giáo dục goSkagit",
+      "summary_en": "Education Meeting goSkagit",
+      "meta": {}
+    },
+    {
+      "title": "Local school leaders talk goals for this year - The News-Enterprise",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOXzkwZnpOY09WWUJTckw1NmZEYndjTC1PazdYaERnZ3pIRGc3aWZDdWJVaE1GVXp1cmJBX2RadmRUTG45QkdzUlhyZzNxN0lMeXZfZnZaUEZwMGg3WjRKRzFnVURZU1k3ZHZsUHFCVzJ6TFc4d09CamRieEVUQ3pZQ09rVkcycnFmMFJtYUd6WF9vTmRjUXJ0OEJSM09IREU1RkUzZ01tRExMZGVGd1VuMjVhXzR4dkRBSUdobzFQblRELUV2ZVFFOWVCRm83anRRZVk3cWNZXzdieUR6?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sat, 08 Aug 2026 05:00:00 GMT",
+      "description": "Local school leaders talk goals for this year The News-Enterprise",
+      "score": 0.0,
+      "title_vi": "Lãnh đạo trường học địa phương bàn mục tiêu năm nay - The News-Enterprise",
+      "title_en": "Local school leaders talk goals for this year - The News-Enterprise",
+      "summary_vi": "Lãnh đạo các trường học địa phương bàn về mục tiêu năm nay The News-Enterprise",
+      "summary_en": "Local school leaders talk goals for this year The News-Enterprise",
+      "meta": {}
+    },
+    {
+      "title": "80.000 thanh niên được tiếp cận kỹ năng, kết nối việc làm - Báo Xây dựng",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN2psTjk1RGhSdFpuVk5hTWJHSGhndjc5Rnczc2xyc1A2c3FlaHpWTnhtc2ExVjFuZEdiTThRYVhrbG16OWlTeUdBdmpjS2N0U3cxTWZMb0RRWXhzZ2Jod0NmZE5rbk9nTDFiMVJyeEx4bjlMLXRvT2hkTlNvVThGcTVvWGtGdkhnV0lrZVBSbEJ4VklBeWQ1a2Y4TUNJZ2t4Rmc?oc=5",
+      "source": "Google News Nhu cầu Việt Nam",
+      "category": "society",
+      "market": "vietnam",
+      "published": "Sat, 08 Aug 2026 04:25:00 GMT",
+      "description": "80.000 thanh niên được tiếp cận kỹ năng, kết nối việc làm Báo Xây dựng",
+      "score": 0.0,
+      "title_vi": "80.000 thanh niên được tiếp cận kỹ năng, kết nối việc làm - Báo Xây dựng",
+      "title_en": "80,000 young people have access to skills and job connections - Construction Newspaper",
+      "summary_vi": "80.000 thanh niên được tiếp cận kỹ năng, kết nối việc làm Báo Xây dựng",
+      "summary_en": "80,000 young people have access to skills and job connections at Construction Newspaper",
+      "meta": {}
+    },
+    {
+      "title": "Developers say Stillwater County renewable energy farms can help ranchers - KTVQ",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTnhxckhNV041TTdHbmFGOEwwMmFiNEdPbkdIbVpoTGJXMHdPZWI5elFTb2VISWUtblFuRTZNelhfSWgxbXRxczNSNXpsVFl2Y3Ryd3NHOGc5TWtYSEpPOFV0Yk13RDFJVFhBd3dETUJZZ3VFLWFNV3BOZk96UHZ3TkZkSG9HU3ZTYUp4ajRscDEwOC05UERfSDNMU0JONFp4?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sat, 08 Aug 2026 04:21:24 GMT",
+      "description": "Developers say Stillwater County renewable energy farms can help ranchers KTVQ",
+      "score": 0.0,
+      "title_vi": "Các nhà phát triển cho biết các trang trại năng lượng tái tạo của Quận Stillwater có thể giúp các chủ trang trại - KTVQ",
+      "title_en": "Developers say Stillwater County renewable energy farms can help ranchers - KTVQ",
+      "summary_vi": "Các nhà phát triển cho biết các trang trại năng lượng tái tạo của Quận Stillwater có thể giúp các chủ trang trại KTVQ",
+      "summary_en": "Developers say Stillwater County renewable energy farms can help ranchers KTVQ",
+      "meta": {}
+    },
+    {
+      "title": "Phòng phim gia đình từ 2 tỷ đến 13 tỷ đồng tại P.H.E Show 2026",
+      "url": "https://vnexpress.net/phong-phim-gia-dinh-tu-2-ty-den-13-ty-dong-tai-p-h-e-show-2026-5106684.html",
+      "source": "VnExpress Số hóa",
+      "category": "technology",
+      "market": "vietnam",
+      "published": "Sat, 08 Aug 2026 11:00:00 +0700",
+      "description": "Triển lãm Thiết bị giải trí cá nhân và gia đình P.H.E. Show có sự góp mặt của một số phòng phim tiền tỷ, cao nhất gần 13 tỷ đồng.",
+      "score": 0.0,
+      "title_vi": "Phòng phim gia đình từ 2 tỷ đến 13 tỷ đồng tại P.H.E Show 2026",
+      "title_en": "Family movie room from 2 billion to 13 billion VND at P.H.E Show 2026",
+      "summary_vi": "Triển lãm Thiết bị giải trí cá nhân và gia đình P.H.E. Show có sự góp mặt của một số phòng phim tiền tỷ, cao nhất gần 13 tỷ đồng.",
+      "summary_en": "Exhibition of Personal and Family Entertainment Equipment P.H.E. The show has the presence of several billion-dollar movie studios, the highest being nearly 13 billion VND.",
+      "meta": {}
+    },
+    {
+      "title": "Mythos social engineering AISI INC-2026-07-28-01",
+      "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 08 Aug 2026 03:41:56 +0000",
+      "description": "Article URL: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3 Comments URL: https://news.ycombinator.com/item?id=49218707 Points: 36 # Comments: 14",
+      "score": 0.0,
+      "title_vi": "Kỹ thuật xã hội Mythos AISI INC-2026-07-28-01",
+      "title_en": "Mythos social engineering AISI INC-2026-07-28-01",
+      "summary_vi": "URL bài viết: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3 URL nhận xét: https://news.ycombinator.com/item?id=49218707 Điểm: 36 # Nhận xét: 14",
+      "summary_en": "Article URL: https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3 Comments URL: https://news.ycombinator.com/item?id=49218707 Points: 36 # Comments: 14",
+      "meta": {}
+    },
+    {
+      "title": "Ông Trump tái khởi động nỗ lực sa thải Thống đốc Fed",
+      "url": "https://vnexpress.net/ong-trump-tai-khoi-dong-no-luc-sa-thai-thong-doc-fed-5106687.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sat, 08 Aug 2026 10:27:46 +0700",
+      "description": "Tổng thống Mỹ lại thúc đẩy việc bãi nhiệm thành viên Hội đồng Thống đốc Fed Lisa Cook, vì các cáo buộc gian lận thế chấp.",
+      "score": 0.0,
+      "title_vi": "Ông Trump tái khởi động nỗ lực sa thải Thống đốc Fed",
+      "title_en": "Mr. Trump restarted his efforts to fire the Fed Governor",
+      "summary_vi": "Tổng thống Mỹ lại thúc đẩy việc bãi nhiệm thành viên Hội đồng Thống đốc Fed Lisa Cook, vì các cáo buộc gian lận thế chấp.",
+      "summary_en": "The US President again pushed for the dismissal of Fed Board of Governors member Lisa Cook, due to mortgage fraud allegations.",
+      "meta": {}
+    },
+    {
+      "title": "Giá vàng miếng tăng gần 2 triệu đồng",
+      "url": "https://vnexpress.net/gia-vang-moi-nhat-hom-nay-ngay-8-8-5106714.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sat, 08 Aug 2026 10:18:24 +0700",
+      "description": "Các thương hiệu sáng nay tăng giá bán mỗi lượng vàng miếng lên 144 triệu đồng.",
+      "score": 0.0,
+      "title_vi": "Giá vàng miếng tăng gần 2 triệu đồng",
+      "title_en": "The price of gold bars increased by nearly 2 million VND",
+      "summary_vi": "Các thương hiệu sáng nay tăng giá bán mỗi lượng vàng miếng lên 144 triệu đồng.",
+      "summary_en": "This morning, brands increased the selling price of each gold bar to 144 million VND.",
+      "meta": {}
+    },
+    {
+      "title": "AI Trung Quốc đe dọa mô hình kinh doanh của Thung lũng Silicon",
+      "url": "https://vnexpress.net/ai-trung-quoc-de-doa-mo-hinh-kinh-doanh-cua-thung-lung-silicon-5106573.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sat, 08 Aug 2026 10:00:00 +0700",
+      "description": "Mô hình kinh doanh thu phí cao của các hãng công nghệ Mỹ đang đứng trước nguy cơ bị đảo lộn bởi các dòng AI nguồn mở giá rẻ từ Trung Quốc.",
+      "score": 0.0,
+      "title_vi": "AI Trung Quốc đe dọa mô hình kinh doanh của Thung lũng Silicon",
+      "title_en": "Chinese AI threatens Silicon Valley's business model",
+      "summary_vi": "Mô hình kinh doanh thu phí cao của các hãng công nghệ Mỹ đang đứng trước nguy cơ bị đảo lộn bởi các dòng AI nguồn mở giá rẻ từ Trung Quốc.",
+      "summary_en": "The high-fee business model of American technology companies is at risk of being upset by cheap open-source AI streams from China.",
       "meta": {}
     },
     {
@@ -277,108 +457,18 @@
       "meta": {}
     },
     {
-      "title": "Khẳng định chất lượng giáo dục toàn diện - baoquangtri.vn",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSlhiSlBXR1c0SFo1QjZPUUFTTndUSXVDSmxNSmh5WWFvbVY2OXkzRzlHMU8tQzdsbkRUb2lPZUcwdXhTTW9wUzU4a05USlIydHh6WFNSdDVwYXBLdTNwVlotWG1CX3dZSGtnWEVhbFFkXzJob3pjOEFtNXhxTTB1TUZoZU9NTm1XRHdWcXpLeGdYUQ?oc=5",
-      "source": "Google News Nhu cầu Việt Nam",
-      "category": "society",
-      "market": "vietnam",
-      "published": "Sat, 08 Aug 2026 02:00:00 GMT",
-      "description": "Khẳng định chất lượng giáo dục toàn diện baoquangtri.vn",
-      "score": 0.0,
-      "title_vi": "Khẳng định chất lượng giáo dục toàn diện - baoquangtri.vn",
-      "title_en": "Affirming the quality of comprehensive education - baoquangtri.vn",
-      "summary_vi": "Khẳng định chất lượng giáo dục toàn diện baoquangtri.vn",
-      "summary_en": "Affirming the quality of comprehensive education baoquangtri.vn",
-      "meta": {}
-    },
-    {
-      "title": "Sullivan Secures Additional $10 Million in Energy Cost Relief for Alaskans - Senator Sullivan (.gov)",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQlh3MzlSc092N04yN253el9DVzk4TENYdnVDa1RaTXBvdkJWeTY2REl0emg0M0U3NFJDajhaeFYyS0Zqekd2cVFYWnQ1T0EtanNUOTh0YUVoRkVYemJfT2VHX3V1MnV3ZzVJMTdLOTBseVV4YlIxakR5eUFidHMyU1N3ZXQ2bGxmeVFZbVlVY0dtcDJCTmUwMDdFcHM4YXA4bHotZS1nOHVtMkpMZkFjOWFwV0F2X0N1RVdoNUFqSHBUdU80bzdxMA?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
+      "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "source": "Hacker News",
+      "category": "technology",
       "market": "global",
-      "published": "Sat, 08 Aug 2026 01:51:22 GMT",
-      "description": "Sullivan Secures Additional $10 Million in Energy Cost Relief for Alaskans Senator Sullivan (.gov)",
+      "published": "Sat, 08 Aug 2026 01:49:11 +0000",
+      "description": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year Comments URL: https://news.ycombinator.com/item?id=49218179 Points: 147 # Comments: 21",
       "score": 0.0,
-      "title_vi": "Sullivan đảm bảo thêm 10 triệu đô la để giảm chi phí năng lượng cho người dân Alaska - Thượng nghị sĩ Sullivan (.gov)",
-      "title_en": "Sullivan Secures Additional $10 Million in Energy Cost Relief for Alaskans - Senator Sullivan (.gov)",
-      "summary_vi": "Sullivan đảm bảo thêm 10 triệu đô la để giảm chi phí năng lượng cho Thượng nghị sĩ bang Alaska Sullivan (.gov)",
-      "summary_en": "Sullivan Secures Additional $10 Million in Energy Cost Relief for Alaskans Senator Sullivan (.gov)",
-      "meta": {}
-    },
-    {
-      "title": "Colorado Heat Pump Week highlights clean energy jobs, rebates - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPS1Atc0pINWU0WXFsdjFIMmdqMk5tV2ZEdC1kZ1RvWnVreGRhTlBPQzZaclhOakRReWh1WmNzOHNHOHRSTFY0bG9hNDZydWRjVVZiUlZMb3NWMTlOa2JWanVlZm43eTFvVF9ERVpJQWhSS0YyMmFhYkxkdWhtQzl2ZjVNWGZzQm9tUmJtVFl6U1VXZ29NM0pSbmFDcXdOaGhjbGc?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Sat, 08 Aug 2026 01:32:00 GMT",
-      "description": "Colorado Heat Pump Week highlights clean energy jobs, rebates CBS News",
-      "score": 0.0,
-      "title_vi": "Tuần lễ Máy bơm Nhiệt Colorado nêu bật các công việc về năng lượng sạch, giảm giá - CBS News",
-      "title_en": "Colorado Heat Pump Week highlights clean energy jobs, rebates - CBS News",
-      "summary_vi": "Tuần lễ bơm nhiệt Colorado nêu bật việc làm năng lượng sạch, giảm giá CBS News",
-      "summary_en": "Colorado Heat Pump Week highlights clean energy jobs, rebates CBS News",
-      "meta": {}
-    },
-    {
-      "title": "Để ASEAN không chỉ thích ứng với thời đại, mà còn chủ động kiến tạo và phát huy hiệu quả vai trò - chinhsachcuocsong.vnanet.vn",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeEl0T0JaSWROYmw0YnRRQng4ZXJ4cE5NcWhRVmJ6d0FtRG5PakJWbDFwMjA3VHlxQVp6dEtQTlZpekF2cXhsM0dqYzU5R3FDRWxpLVY4VTQ1aGxLQWJyUjNBMjhBdUM4ZEs1LUNiOHlSSUpNRWxXMTNfS1RQSFl2UWhLa3VzZ2V4X2Y1aEVJc19oVWRpLVFGZ1cySWtoZmFncVFYMXNoTFJFd2dDeXo1VFBsUTMyY3pPX1k5eWpxNHpxY2wxM19tcC1XcUlRS1lNYlY5QnpQb1VNQQ?oc=5",
-      "source": "Google News Nhu cầu Việt Nam",
-      "category": "society",
-      "market": "vietnam",
-      "published": "Sat, 08 Aug 2026 01:29:00 GMT",
-      "description": "Để ASEAN không chỉ thích ứng với thời đại, mà còn chủ động kiến tạo và phát huy hiệu quả vai trò chinhsachcuocsong.vnanet.vn",
-      "score": 0.0,
-      "title_vi": "Để ASEAN không chỉ thích ứng với thời đại, mà còn chủ động kiến tạo và phát huy hiệu quả vai trò - chinhsachcuocsong.vnanet.vn",
-      "title_en": "For ASEAN to not only adapt to the times, but also proactively create and promote its role effectively - chinsachcuocsong.vnanet.vn",
-      "summary_vi": "Để ASEAN không chỉ thích ứng với thời đại, mà còn chủ động kiến tạo và phát huy hiệu quả vai trò chinhsachcuocsong.vnanet.vn",
-      "summary_en": "For ASEAN to not only adapt to the times, but also proactively create and promote its role effectively chinsachcuocsong.vnanet.vn",
-      "meta": {}
-    },
-    {
-      "title": "Trump’s homegrown solar push risks widening green energy divide - The Derrick",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0dtZk5lWVY3aE84SG9vWG5KTFAxaEtpYXAwVkF4V3I5Y19IYmxuVkJDM095eC04U1FPVVk4TnVDZEptUTAwNldHM19ocFFGaW4ySGUxMm05aGoyZVdpWHFKdnlsNDB5TG9NSEd3eUtxYWlEQWJxV1ljcEZ1ckU4SkFYYUZEamFBWDBaVGh3ZW5kdGxiQ212TXhLX3hVakJKem05ZVZjem5GX2tiT2pHbzdOS3E5Z1RqaG9GN2thbGV4U29mdndjQURxSXVkakFOaXdFZ2JZa3RfUXpHc2IzWnFHeEtTYTBsQWhfWDFHVW0?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Sat, 08 Aug 2026 01:26:00 GMT",
-      "description": "Trump’s homegrown solar push risks widening green energy divide The Derrick",
-      "score": 0.0,
-      "title_vi": "Việc thúc đẩy năng lượng mặt trời trong nước của Trump có nguy cơ làm gia tăng khoảng cách về năng lượng xanh - The Derrick",
-      "title_en": "Trump’s homegrown solar push risks widening green energy divide - The Derrick",
-      "summary_vi": "Việc thúc đẩy năng lượng mặt trời trong nước của Trump có nguy cơ làm gia tăng khoảng cách năng lượng xanh",
-      "summary_en": "Trump’s homegrown solar push risks widening green energy divide The Derrick",
-      "meta": {}
-    },
-    {
-      "title": "Regal Healthcare Closes New Fund at $610 Million - jdsupra.com",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTENLS20xUHo5NU8xcUctcXlnUFV3OHM5M2JsZzZrWFBReXBHR3FZeVFnRVlXSmdyVUQwNkI3c1NMQmg4UHhtdWpfTjBlbTB3Z3hSVVhqVnRfUjJFcjB0WWJkdlU4R2Q2aTZjZlJ0MXVGdUNjU2xTWERnUnZKb1lHa09jdXFQRmhsQ0E?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Sat, 08 Aug 2026 01:25:12 GMT",
-      "description": "Regal Healthcare Closes New Fund at $610 Million jdsupra.com",
-      "score": 0.0,
-      "title_vi": "Regal Healthcare đóng quỹ mới ở mức 610 triệu USD - jdsupra.com",
-      "title_en": "Regal Healthcare Closes New Fund at $610 Million - jdsupra.com",
-      "summary_vi": "Regal Healthcare đóng quỹ mới trị giá 610 triệu USD jdsupra.com",
-      "summary_en": "Regal Healthcare Closes New Fund at $610 Million jdsupra.com",
-      "meta": {}
-    },
-    {
-      "title": "California Employment Development Department buried by claims; residents missing out on benefits - CBS News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQUVnX1VzdGtiM044Z0ZLa0I0b0FMVklFdklJeWxIa3lKaXA1M1lfcDVXZmV3Q0ZLU25qY1pzNDVHejZXak0ySXM1VTBmbWY0eXFlUUpvUkhGQ2JtVVhEbU1CRWhGbE5LUVozUDBla1pNeXE5Qjc2R0x5Y1lla2s0cTZyZE5PUEhWdGFaOGUwREEtcWFRWTZtWjBaLXE2YXlUQ1U1ZGhkZkZQdWFoa0txbmEtN0xxZVhVSV9yeE5wZFA5Yy1MVEx3Sm1rRFNJMUphajB3UkxB?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Sat, 08 Aug 2026 01:18:00 GMT",
-      "description": "California Employment Development Department buried by claims; residents missing out on benefits CBS News",
-      "score": 0.0,
-      "title_vi": "Sở Phát triển Việc làm California bị chôn vùi bởi các yêu cầu bồi thường; cư dân bỏ lỡ lợi ích - CBS News",
-      "title_en": "California Employment Development Department buried by claims; residents missing out on benefits - CBS News",
-      "summary_vi": "Sở Phát triển Việc làm California bị chôn vùi bởi các yêu cầu bồi thường; cư dân bỏ lỡ lợi ích CBS News",
-      "summary_en": "California Employment Development Department buried by claims; residents missing out on benefits CBS News",
+      "title_vi": "NASA sẽ duy trì tàu thăm dò Voyager 2 48 tuổi hoạt động thêm một năm nữa",
+      "title_en": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+      "summary_vi": "URL bài viết: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year URL bình luận: https://news.ycombinator.com/item?id=49218179 Điểm: 147 # Bình luận: 21",
+      "summary_en": "Article URL: https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year Comments URL: https://news.ycombinator.com/item?id=49218179 Points: 147 # Comments: 21",
       "meta": {}
     },
     {
@@ -388,12 +478,12 @@
       "category": "technology",
       "market": "global",
       "published": "Sat, 08 Aug 2026 01:12:45 +0000",
-      "description": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 58 # Comments: 11",
+      "description": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 220 # Comments: 95",
       "score": 0.0,
       "title_vi": "Nhóm nòng cốt Nixpkgs đã giải tán",
       "title_en": "The Nixpkgs core team has disbanded",
-      "summary_vi": "URL bài viết: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 URL bình luận: https://news.ycombinator.com/item?id=49217993 Điểm: 58 # Bình luận: 11",
-      "summary_en": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 58 # Comments: 11",
+      "summary_vi": "URL bài viết: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 URL bình luận: https://news.ycombinator.com/item?id=49217993 Điểm: 220 # Bình luận: 95",
+      "summary_en": "Article URL: https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413 Comments URL: https://news.ycombinator.com/item?id=49217993 Points: 220 # Comments: 95",
       "meta": {}
     },
     {
@@ -452,7 +542,7 @@
       "score": 0.0,
       "title_vi": "OpenAI cho biết họ đã làm chậm quá trình phát triển mô hình Astra vì lo ngại về bảo mật",
       "title_en": "OpenAI says it slowed Astra model development over security concerns",
-      "summary_vi": "OpenAI cho biết mô hình này vẫn đang được phát triển và đã đạt đến “ngưỡng an ninh mạng quan trọng”, nghĩa là nó có thể xác định và thực hiện các cuộc tấn công mạng một cách độc lập chống lại các hệ thống trong thế giới thực được bảo vệ tốt theo truyền thống.",
+      "summary_vi": "OpenAI cho biết mô hình này, vẫn đang được phát triển, đã đạt đến “ngưỡng an ninh mạng quan trọng”, nghĩa là nó có thể xác định và thực hiện các cuộc tấn công mạng một cách độc lập chống lại các hệ thống trong thế giới thực được bảo vệ tốt theo truyền thống.",
       "summary_en": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
       "meta": {}
     },
@@ -469,6 +559,21 @@
       "title_en": "US regulator rejects Dutch fintech Bunq's application for national bank charter - Reuters",
       "summary_vi": "Cơ quan quản lý Hoa Kỳ từ chối đơn đăng ký điều lệ ngân hàng quốc gia của Bunq fintech của Hà Lan",
       "summary_en": "US regulator rejects Dutch fintech Bunq's application for national bank charter Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Working on Economics with Fable 5",
+      "url": "https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 07 Aug 2026 22:29:57 +0000",
+      "description": "Article URL: https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/ Comments URL: https://news.ycombinator.com/item?id=49217001 Points: 8 # Comments: 0",
+      "score": 0.0,
+      "title_vi": "Làm việc về kinh tế với Truyện ngụ ngôn 5",
+      "title_en": "Working on Economics with Fable 5",
+      "summary_vi": "URL bài viết: https://wilsoniumite.com/2026/08/03/working-on-kinh tế-with-fable-5/ URL bình luận: https://news.ycombinator.com/item?id=49217001 Điểm: 8 # Bình luận: 0",
+      "summary_en": "Article URL: https://wilsoniumite.com/2026/08/03/working-on-economics-with-fable-5/ Comments URL: https://news.ycombinator.com/item?id=49217001 Points: 8 # Comments: 0",
       "meta": {}
     },
     {
@@ -493,196 +598,61 @@
       "category": "technology",
       "market": "global",
       "published": "Fri, 07 Aug 2026 22:24:27 +0000",
-      "description": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 98 # Comments: 41",
+      "description": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 179 # Comments: 60",
       "score": 0.0,
       "title_vi": "Bộ Năng lượng Hoa Kỳ triển khai Sáng kiến ​​Mô hình Mở Genesis",
       "title_en": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "summary_vi": "URL bài viết: https://genesisopenmodels.anl.gov/ URL bình luận: https://news.ycombinator.com/item?id=49216946 Điểm: 98 # Bình luận: 41",
-      "summary_en": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 98 # Comments: 41",
-      "meta": {}
-    },
-    {
-      "title": "Thai teenager's deadly rampage from his quiet home to a shooting spree at school - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1lCbmZlQld4bUszNnpJNkFvRnBKZHNKVmxIMUcwZ1R0elZ6YlpwdTM4dUJRaTcwM1RyQkp4V0JPQmQ2REF2SjRzU0lHa3hjRFdXUjZGb3dtaDFaSDFta0FDYVZCbVNwUXpuM1A5ZDdGMnpvcXRCMmttV3FZbnZ2RWJxeW1seFZDMEpjQnd3cC1lc2tmWFYtWDM5U3RuR1loODN0VWFSNkRmZTRhVlVpei04S2xXeDV1YVQxYmxB?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Fri, 07 Aug 2026 22:19:02 GMT",
-      "description": "Thai teenager's deadly rampage from his quiet home to a shooting spree at school Reuters",
-      "score": 0.0,
-      "title_vi": "Thiếu niên Thái Lan nổi cơn thịnh nộ từ ngôi nhà yên tĩnh đến vụ xả súng ở trường - Reuters",
-      "title_en": "Thai teenager's deadly rampage from his quiet home to a shooting spree at school - Reuters",
-      "summary_vi": "Thiếu niên Thái Lan nổi cơn thịnh nộ từ ngôi nhà yên tĩnh đến vụ nổ súng ở trường học",
-      "summary_en": "Thai teenager's deadly rampage from his quiet home to a shooting spree at school Reuters",
-      "meta": {}
-    },
-    {
-      "title": "Làn sóng tác nhân AI 'nổi loạn' dần hình thành",
-      "url": "https://vnexpress.net/lan-song-tac-nhan-ai-noi-loan-dan-hinh-thanh-5106339.html",
-      "source": "VnExpress Số hóa",
-      "category": "technology",
-      "market": "vietnam",
-      "published": "Sat, 08 Aug 2026 05:00:00 +0700",
-      "description": "Ngày càng xuất hiện nhiều trường hợp AI tự lên kế hoạch và thực hiện tấn công mạng khiến giới chuyên gia xem đây là \"lời cảnh tỉnh\" an ninh bảo mật.",
-      "score": 0.0,
-      "title_vi": "Làn sóng tác nhân AI 'nổi loạn' dần hình thành",
-      "title_en": "The wave of 'rebel' AI agents gradually forms",
-      "summary_vi": "Ngày càng xuất hiện nhiều trường hợp AI tự lên kế hoạch và thực hiện tấn công mạng khiến giới chuyên gia xem đây là \"lời cảnh tỉnh\" an ninh bảo mật.",
-      "summary_en": "There are more and more cases of AI planning and executing cyber attacks on its own, causing experts to see this as a security \"wake-up call\".",
-      "meta": {}
-    },
-    {
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "source": "TechCrunch",
-      "category": "technology",
-      "market": "global",
-      "published": "Fri, 07 Aug 2026 21:30:11 +0000",
-      "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "score": 0.0,
-      "title_vi": "Sau khi Rippling thổi bay hàng triệu USD vào AI trong nhiều tháng, nó đã xây dựng một công cụ ROI cho nhân viên",
-      "title_en": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "summary_vi": "Sau hồi chuông cảnh tỉnh về việc sử dụng AI của riêng mình, Rippling tuần này đã tiết lộ Bảng điều khiển chi tiêu AI, một sản phẩm theo dõi chi tiêu AI của cá nhân và nhân viên nhóm.",
-      "summary_en": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "meta": {}
-    },
-    {
-      "title": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
-      "url": "https://techcrunch.com/2026/08/07/wacoms-movinkpad-11-is-a-fun-and-mid-priced-entry-point-for-digital-artists/",
-      "source": "TechCrunch",
-      "category": "technology",
-      "market": "global",
-      "published": "Fri, 07 Aug 2026 21:20:00 +0000",
-      "description": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
-      "score": 0.0,
-      "title_vi": "MovinkPad 11 của Wacom là một điểm khởi đầu thú vị, giá cả phải chăng dành cho các nghệ sĩ kỹ thuật số",
-      "title_en": "Wacom’s MovinkPad 11 is a fun, midpriced entry point for digital artists",
-      "summary_vi": "MovinkPad 11, một máy tính bảng đồ họa nhỏ đa năng có thể giúp biến những giấc mơ nghệ thuật kỹ thuật số điên rồ nhất của bạn thành hiện thực.",
-      "summary_en": "The MovinkPad 11 a versatile little graphics tablet that can help make your wildest digital art dreams come true.",
-      "meta": {}
-    },
-    {
-      "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
-      "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Fri, 07 Aug 2026 21:19:57 +0000",
-      "description": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070 Comments URL: https://news.ycombinator.com/item?id=49216362 Points: 132 # Comments: 89",
-      "score": 0.0,
-      "title_vi": "Cựu giám đốc NSA cho biết bộ điều khiển hệ thống nước không thuộc về Internet",
-      "title_en": "Water system controllers don't belong on the internet, says ex-NSA chief",
-      "summary_vi": "URL bài viết: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-Attack/5285070 URL bình luận: https://news.ycombinator.com/item?id=49216362 Điểm: 132 # Bình luận: 89",
-      "summary_en": "Article URL: https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070 Comments URL: https://news.ycombinator.com/item?id=49216362 Points: 132 # Comments: 89",
-      "meta": {}
-    },
-    {
-      "title": "Thomson Reuters (TSE:TRI) Insider Sells C$377,572.79 in Stock - MarketBeat",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX0V1YlRoYjRrYWk3RHhsT2tGbnhjdGwwYkF5S09qSi1WNXUxUjN6Z3RaTGZxbGpCV0ZiaTM0WlQ2Y09GenJabms5TVhNUTk0V2NzYW9wTHd3VlBwd1JMV3JoQ0dNWWgwYUZEVUVoR1Z1bnNwVGdTQ1BJeGxFN3JFXzFVNXpMdUI0ekhWWmdVR3dvOUlvRV9rZW5pbXptUXBBR3dTZEFQV3kzZ1J6TkE?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Fri, 07 Aug 2026 19:09:16 GMT",
-      "description": "Thomson Reuters (TSE:TRI) Insider Sells C$377,572.79 in Stock MarketBeat",
-      "score": 0.0,
-      "title_vi": "Thomson Reuters (TSE: TRI) Người nội bộ bán C$377.572,79 trong kho - MarketBeat",
-      "title_en": "Thomson Reuters (TSE:TRI) Insider Sells C$377,572.79 in Stock - MarketBeat",
-      "summary_vi": "Thomson Reuters (TSE: TRI) Người nội bộ bán C$377.572,79 trên thị trường chứng khoánBeat",
-      "summary_en": "Thomson Reuters (TSE:TRI) Insider Sells C$377,572.79 in Stock MarketBeat",
-      "meta": {}
-    },
-    {
-      "title": "Indonesia's Economy Grows 5.29% in Second Quarter - news.brgbuildingsolutions.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRlhBb2ZHSEVtYS1HaDAxcjZvOVFsVnI4emV4bUswcUJZSy1zV05rZnVyMW9RZUJEYktPZU5FMzlQWTB1TFE1M1Judm9Janl3R3FYWDRXZ2dmcUcxNF9SQWcyZlV0ODViNDFCOEtHbkphN3hCZnJ4TW9xYTNkTTM0LWpKY1hncmZRcnUxSWdKOVNfejRraUE?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Fri, 07 Aug 2026 18:47:10 GMT",
-      "description": "Indonesia's Economy Grows 5.29% in Second Quarter news.brgbuildingsolutions.com",
-      "score": 0.0,
-      "title_vi": "Kinh tế Indonesia tăng trưởng 5,29% trong quý 2 - news.brgbuildingsolutions.com",
-      "title_en": "Indonesia's Economy Grows 5.29% in Second Quarter - news.brgbuildingsolutions.com",
-      "summary_vi": "Kinh tế Indonesia tăng trưởng 5,29% trong quý 2 news.brgbuildingsolutions.com",
-      "summary_en": "Indonesia's Economy Grows 5.29% in Second Quarter news.brgbuildingsolutions.com",
+      "summary_vi": "URL bài viết: https://genesisopenmodels.anl.gov/ URL bình luận: https://news.ycombinator.com/item?id=49216946 Điểm: 179 # Bình luận: 60",
+      "summary_en": "Article URL: https://genesisopenmodels.anl.gov/ Comments URL: https://news.ycombinator.com/item?id=49216946 Points: 179 # Comments: 60",
       "meta": {}
     }
   ],
   "insights": {
     "status": "ready",
     "model": "z-ai/glm-5.2",
-    "daily_thesis_vi": "Các mối đe dọa an ninh mạng do AI tự động hóa và chi phí AI失控 đang thúc đẩy nhu cầu cấp thiết về công cụ quản lý chi phí AI và an ninh mạng chủ động. Tại Việt Nam, rủi ro rò rỉ dữ liệu cá nhân đang tạo ra các cơ hội SaaS bảo mật mới.",
-    "daily_thesis_en": "Autonomous AI cyber threats and runaway AI costs are driving urgent demand for AI spend management and proactive cybersecurity tools. In Vietnam, personal data leaks are creating new security SaaS opportunities.",
+    "daily_thesis_vi": "Dữ liệu cho thấy sự bùng nổ của các công cụ AI mã nguồn mở và mối lo ngại ngày càng tăng về an ninh mạng, rò rỉ dữ liệu cá nhân. Các doanh nghiệp cần giải pháp tự động hóa quy trình và bảo vệ danh tính số cấp bách.",
+    "daily_thesis_en": "Data shows a boom in open-source AI tools and growing concerns over cybersecurity and personal data leaks. Businesses urgently need process automation and digital identity protection solutions.",
     "opportunities": [
       {
-        "name_vi": "Bảng điều khiển quản lý chi phí AI",
-        "name_en": "AI Spend Management Console",
-        "pain_vi": "Doanh nghiệp mất kiểm soát chi phí AI khi nhân viên sử dụng các công cụ AI khác nhau, dẫn đến lãng phí hàng triệu đô la.",
-        "pain_en": "Businesses lose control of AI costs as employees use various AI tools, wasting millions of dollars.",
-        "audience_vi": "Giám đốc tài chính và CNTT tại các công ty vừa và nhỏ.",
-        "audience_en": "CFOs and IT managers at mid-sized companies.",
-        "mvp_vi": "Tiện ích mở rộng theo dõi và giới hạn chi tiêu API AI của nhân viên.",
-        "mvp_en": "Browser extension tracking and limiting employee AI API spending.",
+        "name_vi": "Tự động hóa tác vụ bằng AI",
+        "name_en": "AI Task Automation",
+        "pain_vi": "Doanh nghiệp lãng phí thời gian vào các quy trình thủ công lặp đi lặp lại, cần công cụ ghi lại và tự động hóa các tác vụ trên máy tính.",
+        "pain_en": "Businesses waste time on repetitive manual processes, needing tools to record and automate desktop tasks.",
+        "audience_vi": "Nhân viên văn phòng, doanh nghiệp vừa và nhỏ.",
+        "audience_en": "Office workers, SMBs.",
+        "mvp_vi": "Ứng dụng ghi lại thao tác màn hình và tạo kịch bản tự động bằng AI.",
+        "mvp_en": "App recording screen actions and generating automation scripts via AI.",
         "scope": "global",
-        "score": 88,
+        "score": 85,
         "evidence_ids": [
-          30
+          9
         ],
-        "risks_vi": "Nền tảng AI lớn có thể tích hợp sẵn tính năng này.",
-        "risks_en": "Major AI platforms may build this feature natively.",
+        "risks_vi": "Cạnh tranh gay gắt từ các ông lớn như Microsoft.",
+        "risks_en": "Intense competition from giants like Microsoft.",
         "sources": [
           {
-            "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-            "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-            "source": "TechCrunch"
+            "title": "microsoft/skill-recorder",
+            "url": "https://github.com/microsoft/skill-recorder",
+            "source": "GitHub"
           }
         ]
       },
       {
-        "name_vi": "Dịch vụ giám sát an ninh mạng AI",
-        "name_en": "AI Cybersecurity Monitoring Service",
-        "pain_vi": "Các mô hình AI có thể tự động规划和执行网络攻击，威胁传统安全系统。",
-        "pain_en": "AI models can autonomously plan and execute cyberattacks, threatening traditional security systems.",
-        "audience_vi": "Giám đốc an ninh thông tin doanh nghiệp.",
-        "audience_en": "Enterprise Chief Information Security Officers.",
-        "mvp_vi": "Tường lửa AI phát hiện các mẫu tấn công tự động.",
-        "mvp_en": "AI firewall detecting autonomous attack patterns.",
-        "scope": "global",
-        "score": 92,
+        "name_vi": "Phòng chống rò rỉ dữ liệu cá nhân",
+        "name_en": "Personal Data Leak Prevention",
+        "pain_vi": "Dữ liệu cá nhân bị rò rỉ khiến nhiều người bị mạo danh lập doanh nghiệp trái phép, gây thiệt hại tài chính và pháp lý.",
+        "pain_en": "Leaked personal data causes identity theft for illegal business registration, causing financial and legal damage.",
+        "audience_vi": "Người dân, cơ quan quản lý tại Việt Nam.",
+        "audience_en": "Citizens, regulatory bodies in Vietnam.",
+        "mvp_vi": "Dịch vụ giám sát danh tính số và cảnh báo đăng ký kinh doanh trái phép.",
+        "mvp_en": "Digital identity monitoring service alerting unauthorized business registrations.",
+        "scope": "vietnam",
+        "score": 90,
         "evidence_ids": [
-          24,
           29
         ],
-        "risks_vi": "Chi phí phát triển công nghệ phòng thủ AI cao.",
-        "risks_en": "High R&D costs for AI defense technology.",
-        "sources": [
-          {
-            "title": "OpenAI says it slowed Astra model development over security concerns",
-            "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-            "source": "TechCrunch"
-          },
-          {
-            "title": "The wave of 'rebel' AI agents gradually forms",
-            "url": "https://vnexpress.net/lan-song-tac-nhan-ai-noi-loan-dan-hinh-thanh-5106339.html",
-            "source": "VnExpress Số hóa"
-          }
-        ]
-      },
-      {
-        "name_vi": "Công cụ phát hiện danh tính bị đánh cắp",
-        "name_en": "Stolen Identity Detection Tool",
-        "pain_vi": "Dữ liệu cá nhân bị rò rỉ khiến người dân vô tình trở thành đại diện doanh nghiệp ma.",
-        "pain_en": "Leaked personal data makes citizens unwittingly liable as phantom business representatives.",
-        "audience_vi": "Người dân và cơ quan quản lý doanh nghiệp tại Việt Nam.",
-        "audience_en": "Vietnamese citizens and business regulatory agencies.",
-        "mvp_vi": "Cổng thông tin tra cứu và cảnh báo đăng ký kinh doanh trái phép.",
-        "mvp_en": "Portal to search and alert on unauthorized business registrations.",
-        "scope": "vietnam",
-        "score": 81,
-        "evidence_ids": [
-          23
-        ],
-        "risks_vi": "Phụ thuộc vào quyền truy cập dữ liệu quốc gia.",
-        "risks_en": "Dependent on access to national registry data.",
+        "risks_vi": "Khó tiếp cận cơ sở dữ liệu quốc gia để đối chiếu.",
+        "risks_en": "Hard to access national databases for verification.",
         "sources": [
           {
             "title": "Why is it suddenly in the name of a business or business household?",
@@ -692,50 +662,80 @@
         ]
       },
       {
-        "name_vi": "Tự động hóa khiếu nại bảo hiểm thất nghiệp",
-        "name_en": "Unemployment Claims Automation",
-        "pain_vi": "Khối lượng khiếu nại khổngng lồ khiến người dân bỏ lỡ quyền lợi bảo hiểm thất nghiệp.",
-        "pain_en": "Overwhelming claim volumes cause residents to miss out on unemployment benefits.",
-        "audience_vi": "Người lao động mất việc tại Mỹ.",
-        "audience_en": "Displaced workers in the US.",
-        "mvp_vi": "Trợ lý AI điền và theo dõi hồ sơ khiếu nại.",
-        "mvp_en": "AI assistant filling and tracking claim paperwork.",
+        "name_vi": "Tuân thủ an ninh mạng y tế",
+        "name_en": "Healthcare Cybersecurity Compliance",
+        "pain_vi": "Tổ chức y tế gặp khó khăn trong việc tuân thủ các quy định an ninh mạng ngày càng khắt khe.",
+        "pain_en": "Healthcare organizations struggle to comply with increasingly strict cybersecurity regulations.",
+        "audience_vi": "Bệnh viện, phòng khám, công ty y tế.",
+        "audience_en": "Hospitals, clinics, healthcare companies.",
+        "mvp_vi": "Nền tảng đánh giá và tự động hóa báo cáo tuân thủ bảo mật y tế.",
+        "mvp_en": "Platform assessing and automating healthcare security compliance reports.",
         "scope": "global",
-        "score": 75,
+        "score": 82,
         "evidence_ids": [
-          19
+          13
         ],
-        "risks_vi": "Quy định pháp lý khắt khe về quyền riêng tư.",
-        "risks_en": "Strict legal regulations regarding privacy.",
+        "risks_vi": "Chi phí bán hàng B2B cao, chu kỳ mua dài.",
+        "risks_en": "High B2B sales costs, long buying cycles.",
         "sources": [
           {
-            "title": "California Employment Development Department buried by claims; residents missing out on benefits - CBS News",
-            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQQUVnX1VzdGtiM044Z0ZLa0I0b0FMVklFdklJeWxIa3lKaXA1M1lfcDVXZmV3Q0ZLU25qY1pzNDVHejZXak0ySXM1VTBmbWY0eXFlUUpvUkhGQ2JtVVhEbU1CRWhGbE5LUVozUDBla1pNeXE5Qjc2R0x5Y1lla2s0cTZyZE5PUEhWdGFaOGUwREEtcWFRWTZtWjBaLXE2YXlUQ1U1ZGhkZkZQdWFoa0txbmEtN0xxZVhVSV9yeE5wZFA5Yy1MVEx3Sm1rRFNJMUphajB3UkxB?oc=5",
+            "title": "5 cybersecurity regulations healthcare organizations can't afford to overlook in 2026 - ABC17NEWS",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcnJGejh6Vk5qb1NMMXlaakgxT0Nzc1Zwdy1oTC1RbUNleGVwRHFOZkxtSnFLdWtYaU90aUNNUjFPLTRZLWU5cTNNYzJ4VGFodnJPLV9ZRGgzUEFxajh6YVNXVzlILUZaYnBqTklJVGhZaWRvTVBaWE1IUi1nekJ6VjhHZl9URU1PVlZXeXBMWHgyTTNHSzhELUhNVlZuSy05MVJPZDZCRnlOaTNQdXoxbXlTMVBVcjl4R2ZfYkRZQk9zZ3hxR2kxMTlSanFoQ3ZLam9ycE41Zm90WllzOXM3cXBB?oc=5",
             "source": "Google News Social Needs"
           }
         ]
       },
       {
-        "name_vi": "Tường lửa cho hệ thống SCADA",
-        "name_en": "SCADA System Firewall",
-        "pain_vi": "Hệ thống điều khiển cơ sở hạ tầng kết nối internet dễ bị tấn công quốc tế.",
-        "pain_en": "Internet-connected infrastructure control systems are vulnerable to international attacks.",
-        "audience_vi": "Nhà cung cấp điện nước và năng lượng.",
-        "audience_en": "Utility and energy providers.",
-        "mvp_vi": "Tường lửa vật lý cách ly hệ thống điều khiển nước.",
-        "mvp_en": "Physical firewall isolating water control systems.",
+        "name_vi": "Chuyển đổi tài liệu sang Markdown",
+        "name_en": "Document to Markdown Conversion",
+        "pain_vi": "Xử lý nhiều định dạng tài liệu khác nhau để đưa vào hệ thống AI tốn quá nhiều thời gian và công sức.",
+        "pain_en": "Processing various document formats for AI ingestion takes too much time and effort.",
+        "audience_vi": "Lập trình viên, công ty phát triển AI.",
+        "audience_en": "Developers, AI development companies.",
+        "mvp_vi": "API chuyển đổi hàng loạt các định dạng văn phòng thành Markdown sạch.",
+        "mvp_en": "API batch converting office formats to clean Markdown.",
         "scope": "global",
-        "score": 85,
+        "score": 78,
         "evidence_ids": [
-          32
+          1
         ],
-        "risks_vi": "Chu kỳ bán hàng B2B chính phủ dài.",
-        "risks_en": "Long government B2B sales cycles.",
+        "risks_vi": "Dễ bị sao chép, biên lợi nhuận thấp.",
+        "risks_en": "Easily replicable, low profit margins.",
         "sources": [
           {
-            "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
-            "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-            "source": "Hacker News"
+            "title": "firecrawl/anydoc",
+            "url": "https://github.com/firecrawl/anydoc",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Quản lý tương tác cho AI Agent",
+        "name_en": "AI Agent CRM Management",
+        "pain_vi": "Các doanh nghiệp thiếu hệ thống để quản lý và điều phối nhiều AI agent làm việc cùng nhau.",
+        "pain_en": "Businesses lack systems to manage and coordinate multiple AI agents working together.",
+        "audience_vi": "Đội ngũ vận hành, doanh nghiệp áp dụng AI.",
+        "audience_en": "Operations teams, AI-adopting businesses.",
+        "mvp_vi": "CRM mã nguồn mở thiết kế riêng để theo dõi và điều phối các AI agent.",
+        "mvp_en": "Open-source CRM designed specifically to track and coordinate AI agents.",
+        "scope": "global",
+        "score": 75,
+        "evidence_ids": [
+          2,
+          3
+        ],
+        "risks_vi": "Thị trường chưa trưởng thành, khó xác định nhu cầu thực tế.",
+        "risks_en": "Immature market, hard to define actual demand.",
+        "sources": [
+          {
+            "title": "yc software/sqm",
+            "url": "https://github.com/yc-software/qm",
+            "source": "GitHub"
+          },
+          {
+            "title": "trycompai/crm",
+            "url": "https://github.com/trycompai/crm",
+            "source": "GitHub"
           }
         ]
       }
