@@ -1,6 +1,6 @@
 {
   "date": "2026-08-09",
-  "generated_at": "2026-08-09T02:27:50.099910+00:00",
+  "generated_at": "2026-08-09T05:59:00.419996+00:00",
   "markets": [
     {
       "name": "S&P 500",
@@ -19,8 +19,8 @@
     {
       "name": "Gold",
       "symbol": "GC=F",
-      "price": 4340.7002,
-      "change_pct": 2.33,
+      "price": 4399.7002,
+      "change_pct": 3.72,
       "currency": "USD"
     },
     {
@@ -33,8 +33,8 @@
     {
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 64791.8789,
-      "change_pct": -0.14,
+      "price": 64739.6211,
+      "change_pct": -0.22,
       "currency": "USD"
     },
     {
@@ -54,16 +54,16 @@
       "market": "global",
       "published": "2026-08-03T16:36:14Z",
       "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "score": 2120.89,
+      "score": 2135.63,
       "title_vi": "firecrawl/anydoc",
       "title_en": "firecrawl/anydoc",
       "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
       "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
       "meta": {
-        "stars": 12161,
-        "forks": 583,
+        "stars": 12249,
+        "forks": 591,
         "language": "Rust",
-        "stars_per_day": 2026.8
+        "stars_per_day": 2041.5
       }
     },
     {
@@ -74,16 +74,16 @@
       "market": "global",
       "published": "2026-07-29T20:03:08Z",
       "description": "Multiplayer agent harness for work",
-      "score": 1236.2,
+      "score": 1239.41,
       "title_vi": "phần mềm yc/m2",
       "title_en": "yc software/sqm",
       "summary_vi": "Khai thác tác nhân nhiều người chơi cho công việc",
       "summary_en": "Multiplayer agent harness for work",
       "meta": {
-        "stars": 12560,
-        "forks": 1443,
+        "stars": 12595,
+        "forks": 1449,
         "language": "TypeScript",
-        "stars_per_day": 1141.8
+        "stars_per_day": 1145.0
       }
     },
     {
@@ -94,16 +94,16 @@
       "market": "global",
       "published": "2026-07-31T21:38:51Z",
       "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
-      "score": 956.4,
+      "score": 960.22,
       "title_vi": "thửcompai/crm",
       "title_en": "trycompai/crm",
       "summary_vi": "Comp AI CRM là một CRM mã nguồn mở được thiết kế cho các đại lý AI. CRM ưu tiên tác nhân.",
       "summary_en": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
       "meta": {
-        "stars": 7801,
-        "forks": 846,
+        "stars": 7835,
+        "forks": 850,
         "language": "TypeScript",
-        "stars_per_day": 866.8
+        "stars_per_day": 870.6
       }
     },
     {
@@ -114,16 +114,16 @@
       "market": "global",
       "published": "2026-07-30T18:17:54Z",
       "description": "",
-      "score": 620.14,
+      "score": 622.99,
       "title_vi": "bashalarmistalt/decimen-quang-chuyển",
       "title_en": "bashalarmistalt/decimen-optical-transfer",
       "summary_vi": "bashalarmistalt/decimen-quang-chuyển",
       "summary_en": "bashalarmistalt/decimen-optical-transfer",
       "meta": {
-        "stars": 5343,
-        "forks": 646,
+        "stars": 5371,
+        "forks": 648,
         "language": "TypeScript",
-        "stars_per_day": 534.3
+        "stars_per_day": 537.1
       }
     },
     {
@@ -134,16 +134,16 @@
       "market": "global",
       "published": "2026-08-05T01:19:41Z",
       "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "score": 573.21,
+      "score": 576.78,
       "title_vi": "KKKKhazix/chữ viết của con người",
       "title_en": "KKKKhazix/human-writing",
       "summary_vi": "Làm cho tiếng Trung được viết bởi AI đọc giống như một người cụ thể đang nói. Kỹ năng sáng tạo và sửa đổi phổ quát, có sẵn ngay lập tức.",
       "summary_en": "Make the Chinese written by AI read like a specific person speaking. Universal creation and revision skills, available right out of the box.",
       "meta": {
-        "stars": 1989,
-        "forks": 174,
+        "stars": 2003,
+        "forks": 176,
         "language": "Python",
-        "stars_per_day": 497.2
+        "stars_per_day": 500.8
       }
     },
     {
@@ -154,16 +154,16 @@
       "market": "global",
       "published": "2026-08-02T11:15:16Z",
       "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
-      "score": 367.2,
+      "score": 368.08,
       "title_vi": "thebuggeddev/anatomy",
       "title_en": "thebuggeddev/anatomy",
       "summary_vi": "Trình khám phá giải phẫu người 3D tương tác được xây dựng bằng bajs với GPT 5.6 Sol",
       "summary_en": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
       "meta": {
-        "stars": 2037,
-        "forks": 588,
+        "stars": 2043,
+        "forks": 589,
         "language": "TypeScript",
-        "stars_per_day": 291.0
+        "stars_per_day": 291.9
       }
     },
     {
@@ -174,16 +174,16 @@
       "market": "global",
       "published": "2026-07-31T09:40:58Z",
       "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
-      "score": 328.81,
+      "score": 330.31,
       "title_vi": "genspark-ai/genoffice",
       "title_en": "genspark-ai/genoffice",
       "summary_vi": "Bộ ứng dụng văn phòng gốc AI dành cho macOS và Windows: trình xử lý văn bản, bảng tính, bản trình bày và PDF.",
       "summary_en": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
       "meta": {
-        "stars": 2264,
-        "forks": 389,
+        "stars": 2277,
+        "forks": 391,
         "language": "TypeScript",
-        "stars_per_day": 251.6
+        "stars_per_day": 253.0
       }
     },
     {
@@ -194,16 +194,16 @@
       "market": "global",
       "published": "2026-07-29T18:16:14Z",
       "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
-      "score": 308.55,
+      "score": 309.69,
       "title_vi": "microsoft/skill-ghi",
       "title_en": "microsoft/skill-recorder",
       "summary_vi": "Ứng dụng dành cho máy tính để bàn ghi lại phiên làm việc trên màn hình của bạn và sử dụng GitHub Copilot CLI để xây dựng lại phiên làm việc đó dưới dạng ý định + các bước được sắp xếp, sau đó xây dựng Kỹ năng hoặc Tự động hóa có thể sử dụng lại cho Microsoft Scout, Microsoft Copilot Cowork hoặc Copilot Studio.",
       "summary_en": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
       "meta": {
-        "stars": 2532,
-        "forks": 270,
+        "stars": 2544,
+        "forks": 274,
         "language": "TypeScript",
-        "stars_per_day": 230.2
+        "stars_per_day": 231.3
       }
     },
     {
@@ -214,16 +214,16 @@
       "market": "global",
       "published": "2026-08-01T13:56:43Z",
       "description": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
-      "score": 304.01,
+      "score": 304.4,
       "title_vi": "DannyMac180/sol-cố vấn",
       "title_en": "DannyMac180/sol-advisor",
       "summary_vi": "Sự phối hợp của kiến ​​trúc sư gốc Codex với các làn triển khai Luna và Terra cũng như đánh giá Sol mới bắt buộc.",
       "summary_en": "Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.",
       "meta": {
-        "stars": 1831,
-        "forks": 136,
+        "stars": 1834,
+        "forks": 137,
         "language": "TypeScript",
-        "stars_per_day": 228.9
+        "stars_per_day": 229.2
       }
     },
     {
@@ -234,61 +234,241 @@
       "market": "global",
       "published": "2026-07-30T08:41:09Z",
       "description": "",
-      "score": 262.45,
+      "score": 277.38,
       "title_vi": "MiniMax-AI/MiniMax-H3",
       "title_en": "MiniMax-AI/MiniMax-H3",
       "summary_vi": "MiniMax-AI/MiniMax-H3",
       "summary_en": "MiniMax-AI/MiniMax-H3",
       "meta": {
-        "stars": 1871,
-        "forks": 107,
+        "stars": 2013,
+        "forks": 123,
         "language": "Python",
-        "stars_per_day": 187.1
+        "stars_per_day": 201.3
       }
     },
     {
-      "title": "Chubb and Moore feel the energy and love inside new stadium - Audacy",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd3BJUGNoaWRIai1HanZOZ1diT0EzZjRkRGk2MUFleDVGRGlIeTZHV1Z4bXM3V3doQkV2TGxQN3ZuemFYa0JlZWRLb2lnaWZuWG5nNTJqTlFPdko0OVRrMkpiaWJBWFlnWXJSRDdRR1o5cWFHRzVBbE8tbG16SG1heGd4eFhleDlldE5zM0xuejVwREV2bFFOTjdoQ0hJcEY0dHZhZA?oc=5",
+      "title": "FuelCell Energy (NASDAQ:FCEL) Rating Lowered to Sell at Wall Street Zen - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaDQzcExBN18zVjktc3AxWDRvMnVXQk12NmxFMWRRMDc5NnVrMmI4bHpWZ2dlOVExLWRqTFdtRjBwTGkxQ3hsc1A4aXdVZHpWWGxHdHdobjJ3b00wVDVYdmRPMlNzbmd5bEF2LVdtNDdSLVRMbXNSY2dvSUJsTEJ0dVFXYjlSR2FtOTljeGg2V0Zsbkl1Rm40Zl9tYnBUWExuYThxZU9sYUNHS0ZJYmNyZXVQQmMxRlVZWGdiNThQbw?oc=5",
       "source": "Google News Social Needs",
       "category": "society",
       "market": "global",
-      "published": "Sun, 09 Aug 2026 02:23:00 GMT",
-      "description": "Chubb and Moore feel the energy and love inside new stadium Audacy",
+      "published": "Sun, 09 Aug 2026 05:17:50 GMT",
+      "description": "FuelCell Energy (NASDAQ:FCEL) Rating Lowered to Sell at Wall Street Zen MarketBeat",
       "score": 0.0,
-      "title_vi": "Chubb và Moore cảm nhận được năng lượng và tình yêu bên trong sân vận động mới - Audacy",
-      "title_en": "Chubb and Moore feel the energy and love inside new stadium - Audacy",
-      "summary_vi": "Chubb và Moore cảm nhận được năng lượng và tình yêu bên trong sân vận động mới Audacy",
-      "summary_en": "Chubb and Moore feel the energy and love inside new stadium Audacy",
+      "title_vi": "Xếp hạng FuelCell Energy (NASDAQ: FCEL) được hạ xuống để bán tại Wall Street Zen - MarketBeat",
+      "title_en": "FuelCell Energy (NASDAQ:FCEL) Rating Lowered to Sell at Wall Street Zen - MarketBeat",
+      "summary_vi": "Xếp hạng của FuelCell Energy (NASDAQ:FCEL) được hạ xuống để bán tại Phố Wall Zen MarketBeat",
+      "summary_en": "FuelCell Energy (NASDAQ:FCEL) Rating Lowered to Sell at Wall Street Zen MarketBeat",
       "meta": {}
     },
     {
-      "title": "Ninh Bình yêu cầu hoàn thành tổ chức lại cơ sở giáo dục trước 20/8 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaVVmazV0VkRZQ1lGdUJDbXJfdEFReGRPdE5UOUY5azNaYXk2aVNBM1dhREJ5RU5RUS15Y1F4N1RSVkJMUU8xbkZCN0Z0cTNkSlNOWlczVDdmcUNUWjd2ME4xTGVSNWM3RXUwN011anh0cW5kSjFzd05MdmlsOFZ0RHB1YzF6SXhFTWVMMkRIQ1hUY0U?oc=5",
-      "source": "Google News Nhu cầu Việt Nam",
+      "title": "Grand Canyon Education (NASDAQ:LOPE) Downgraded by Wall Street Zen to \"Hold\" - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb3pfV0Y1eVc0R1Yzc2VadUNmX0JsLWsxUjZVLVBBVzRNQ040MGZrZ0VtZ2lkblRleWVHSHdySFBQTDBPU0pWOFloRWpWUmpXc2F5X3JlMjVmZk9uUzJ5ZG1YYlZLWDhpRDYzcU1vQlQ5Smh5WXVLZHpkQkJ2R21VOTBwdk5xaDBQcnVDTV82U0gyOENlck5ZRHA2RFVwc1pYYkRfbFhTUXNQNmF6T20xcENMbGlWQXlvY0ZHSWFyUHQ2NzQ?oc=5",
+      "source": "Google News Social Needs",
       "category": "society",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 05:17:48 GMT",
+      "description": "Grand Canyon Education (NASDAQ:LOPE) Downgraded by Wall Street Zen to \"Hold\" MarketBeat",
+      "score": 0.0,
+      "title_vi": "Grand Canyon Education (NASDAQ:LOPE) bị Wall Street Zen hạ cấp xuống mức \"Giữ\" - MarketBeat",
+      "title_en": "Grand Canyon Education (NASDAQ:LOPE) Downgraded by Wall Street Zen to \"Hold\" - MarketBeat",
+      "summary_vi": "Grand Canyon Education (NASDAQ:LOPE) bị Wall Street Zen hạ cấp để \"Giữ\" MarketBeat",
+      "summary_en": "Grand Canyon Education (NASDAQ:LOPE) Downgraded by Wall Street Zen to \"Hold\" MarketBeat",
+      "meta": {}
+    },
+    {
+      "title": "Alliant Energy (NASDAQ:LNT) Downgraded to Sell Rating by Wall Street Zen - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYzlZUEhoRk9pNWVDTEZFMER6cWNQSFJCazJKekdhMzVrVUd1RldGN0xYd0JCRTlaWExxY01DMFI2dXAwZmVOeEdKMzNtSHM4ZTQwbHI0Sm5SdDVxUWc3TEZLSVRSdnBGbXlmVExMdk9TdV92MDJtUVF4Q0pHZDNrT2xPTk16azlkSDFwdURCM3dYWXdlTVFFRGtpd2FvRHVKdnhDcnFyUDBpUkttanR1OXRLTXAtVzB1UWN5ZVRrbnQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 05:17:48 GMT",
+      "description": "Alliant Energy (NASDAQ:LNT) Downgraded to Sell Rating by Wall Street Zen MarketBeat",
+      "score": 0.0,
+      "title_vi": "Alliant Energy (NASDAQ:LNT) bị Wall Street Zen hạ xếp hạng xuống mức bán - MarketBeat",
+      "title_en": "Alliant Energy (NASDAQ:LNT) Downgraded to Sell Rating by Wall Street Zen - MarketBeat",
+      "summary_vi": "Alliant Energy (NASDAQ:LNT) bị Wall Street Zen MarketBeat hạ xếp hạng xuống mức bán",
+      "summary_en": "Alliant Energy (NASDAQ:LNT) Downgraded to Sell Rating by Wall Street Zen MarketBeat",
+      "meta": {}
+    },
+    {
+      "title": "Clearway Energy (NYSE:CWEN) Raised to \"Sell\" at Wall Street Zen - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ3dIMTlaMWxISUVDV0JFMkRTNXQ4ZzUzR2ZCNVdYNm5Eai1iMW0wNXlVc2VaN01vMlZkek1uRTBBQU9qX3ZPODNBNFNkYXdYQWpTRTJMVC1GeUMyZXBtUjhGck8xZm5KMlFpWFlzdFNfSWZzUkFleEx0ODgxbHZPVWdOU2FIU1czcHVmajYtMjNBNHlHVGp3ZTE1R0hBeEd1Zm9pdHl4cjhGV0Q4QjNtLTJn?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 05:17:47 GMT",
+      "description": "Clearway Energy (NYSE:CWEN) Raised to \"Sell\" at Wall Street Zen MarketBeat",
+      "score": 0.0,
+      "title_vi": "Clearway Energy (NYSE:CWEN) được nâng lên thành \"Bán\" tại Wall Street Zen - MarketBeat",
+      "title_en": "Clearway Energy (NYSE:CWEN) Raised to \"Sell\" at Wall Street Zen - MarketBeat",
+      "summary_vi": "Clearway Energy (NYSE:CWEN) được nâng lên thành \"Bán\" tại Phố Wall Zen MarketBeat",
+      "summary_en": "Clearway Energy (NYSE:CWEN) Raised to \"Sell\" at Wall Street Zen MarketBeat",
+      "meta": {}
+    },
+    {
+      "title": "SandRidge Energy Q2 Earnings Call Highlights - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeVJmZ21CQ0JmUi1tUHRNTGN5b0s0blBTcFRjYnZBb2ppV2pUMmI3WmJFZGFxa0NYWWkyemxDSnpXaElnM0R0YkxVZ3RrMG85cVNGRzB4NWFZcFlTMFZjUnY4WUZkMXpMNVhtbm1VblVXV1lOSVNGNXNUSDVmaXl3aFRKVVpmamJaLXhDaEdHSTlCeE1HeU9yUWtSeHFsdm8?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 05:07:48 GMT",
+      "description": "SandRidge Energy Q2 Earnings Call Highlights MarketBeat",
+      "score": 0.0,
+      "title_vi": "Điểm nổi bật trong cuộc gọi thu nhập quý 2 của SandRidge Energy - MarketBeat",
+      "title_en": "SandRidge Energy Q2 Earnings Call Highlights - MarketBeat",
+      "summary_vi": "Điểm nổi bật về thu nhập quý 2 của SandRidge Energy MarketBeat",
+      "summary_en": "SandRidge Energy Q2 Earnings Call Highlights MarketBeat",
+      "meta": {}
+    },
+    {
+      "title": "Solaris Energy Infrastructure Q2 Earnings Call Highlights - MarketBeat",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWnplSzdtcHhnNV9qdkJRdURuUkhGQkhHVWxaV3l6X3lFVlVvZlJBZGFKRE55Yi1taXdvUms4bElTRWpvSlVZR1IzSTdTWEtrVjN0Z0xPQUJxSmphLTYwZGtPSkZ4alR0bl9uNlM5dVluS250RVFoSkZKNkZ6VW92d1JHdHhIUVVHa2NjLWxFQTdpQ3ZJejVqV2N6M0kwWEdsbGZwWGswajVLSGVQZ3dVeQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 05:07:47 GMT",
+      "description": "Solaris Energy Infrastructure Q2 Earnings Call Highlights MarketBeat",
+      "score": 0.0,
+      "title_vi": "Điểm nổi bật về cuộc gọi thu nhập quý 2 của cơ sở hạ tầng năng lượng Solaris - MarketBeat",
+      "title_en": "Solaris Energy Infrastructure Q2 Earnings Call Highlights - MarketBeat",
+      "summary_vi": "Cơ sở hạ tầng năng lượng Solaris Thu nhập quý 2 Cuộc gọi nổi bật MarketBeat",
+      "summary_en": "Solaris Energy Infrastructure Q2 Earnings Call Highlights MarketBeat",
+      "meta": {}
+    },
+    {
+      "title": "Elon Musk tiết lộ kế hoạch xây dựng 'điên rồ' trên Mặt Trăng",
+      "url": "https://vnexpress.net/elon-musk-tiet-lo-ke-hoach-xay-dung-dien-ro-tren-mat-trang-5106874.html",
+      "source": "VnExpress Số hóa",
+      "category": "technology",
       "market": "vietnam",
-      "published": "Sun, 09 Aug 2026 02:16:53 GMT",
-      "description": "Ninh Bình yêu cầu hoàn thành tổ chức lại cơ sở giáo dục trước 20/8 Vietnam.vn",
+      "published": "Sun, 09 Aug 2026 12:00:00 +0700",
+      "description": "Elon Musk, CEO SpaceX, cho biết công ty dự định xây các nhà máy trên Mặt Trăng và dùng robot để thực hiện phần lớn công việc nặng nhọc.",
       "score": 0.0,
-      "title_vi": "Ninh Bình yêu cầu hoàn thành tổ chức lại cơ sở giáo dục trước 20/8 - Vietnam.vn",
-      "title_en": "Ninh Binh requires completion of reorganization of educational facilities before August 20 - Vietnam.vn",
-      "summary_vi": "Ninh Bình yêu cầu hoàn thành tổ chức lại cơ sở giáo dục trước 20/8 Vietnam.vn",
-      "summary_en": "Ninh Binh requires completing the reorganization of educational institutions before August 20 Vietnam.vn",
+      "title_vi": "Elon Musk tiết lộ kế hoạch xây dựng 'điên rồ' trên Mặt Trăng",
+      "title_en": "Elon Musk reveals 'crazy' construction plans on the Moon",
+      "summary_vi": "Elon Musk, CEO SpaceX, cho biết công ty dự định xây các nhà máy trên Mặt Trăng và dùng robot để thực hiện phần lớn công việc nặng nhọc.",
+      "summary_en": "Elon Musk, CEO of SpaceX, said the company plans to build factories on the Moon and use robots to do most of the heavy work.",
       "meta": {}
     },
     {
-      "title": "Green Acres Healthcare hosts back-to-school supply giveaway - WPSD Local 6",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVS1udWV4TjlTZ2FrS2RhVUYyNVVxUzZoYUNTOHZKLUZhVkZ0dkFmLUZBb3dTME53Q3BJMlZwV1hBUXRGQ2hrY2lHT2hFU19sQVJOcEhlT2tQV2ZEQ0QteFV1M3Mtb2FuOVFiejh0WFNHUlhNYkhrTVM5TjYyYVd3b3pQODY1Tk9Fc3RNYXZkaGhSUnhpU2xQaVpPVk9HaWxGV0RMQjU3Mk11ZXN3dmJVOS1CSy1QYks5VFhORkZ6QnB4TkZWWGhlWGNKeklRTHdlRDF0djFhcjc?oc=5",
+      "title": "Energy drinks: what to know before reaching for one - The Shreveport-Bossier City Advocate",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVzJjaDRQbTFXbkR5c1ZzMXZxa3RKMTNuSnI2b092YzBQdkxXYllxakxNWGJMbFFaaTFlczQ0OWNBSUlmbG8zNTcwSDFXZXNJamQ3RW9JNEZpcDhWemVESlVjMWwwR3B3akFPQUxWWVZES3hvWjVwMG1DbTJnMjJHdFhBLTJpVFV2SWhjNWpjNUl5alhtSkp1TWhpM0gtYlNkbWVRVkRvN1RoeUJ5a250ci1HcmQ0b3h6Zk81cndaNGVDZjVWRFRoWGVtcXJaRHhJZ3hmOTRWSE1fVndrakJaRGhoM0U4OU5Tejd6MHItdmItWVgtLUlfdmlB?oc=5",
       "source": "Google News Social Needs",
       "category": "society",
       "market": "global",
-      "published": "Sun, 09 Aug 2026 02:07:41 GMT",
-      "description": "Green Acres Healthcare hosts back-to-school supply giveaway WPSD Local 6",
+      "published": "Sun, 09 Aug 2026 05:00:00 GMT",
+      "description": "Energy drinks: what to know before reaching for one The Shreveport-Bossier City Advocate",
       "score": 0.0,
-      "title_vi": "Green Acres Healthcare tổ chức tặng đồ dùng cho mùa tựu trường - WPSD Local 6",
-      "title_en": "Green Acres Healthcare hosts back-to-school supply giveaway - WPSD Local 6",
-      "summary_vi": "Green Acres Healthcare tổ chức tặng đồ dùng cho mùa tựu trường WPSD Local 6",
-      "summary_en": "Green Acres Healthcare hosts back-to-school supply giveaway WPSD Local 6",
+      "title_vi": "Nước tăng lực: những điều cần biết trước khi mua - Người ủng hộ thành phố Shreveport-Bossier",
+      "title_en": "Energy drinks: what to know before reaching for one - The Shreveport-Bossier City Advocate",
+      "summary_vi": "Nước tăng lực: những điều cần biết trước khi mua một ly Người ủng hộ thành phố Shreveport-Bossier",
+      "summary_en": "Energy drinks: what to know before reaching for one The Shreveport-Bossier City Advocate",
+      "meta": {}
+    },
+    {
+      "title": "Update: New power outage strikes 1,786 in Minden - The Record Courier",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQVNPMnRpenNmTEFRVS12S3VLb2g3RGdKRndDazcwb3ZJeHMweU9XVEtGdFUzQWVtSHQyWThsSjNsYTM2anhFMjMxbHNtVVZLLXhjQ3R4bWRMQTc5bDdfbzNhbFU1MC1GNmNrMUtOM1M0bXp0LTh1Mi0ta09aMzNlbW43S0ZQSFlUNld6Tm1falBHZG9EQmRpX204VlUtQQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 04:53:28 GMT",
+      "description": "Update: New power outage strikes 1,786 in Minden The Record Courier",
+      "score": 0.0,
+      "title_vi": "Cập nhật: Lần mất điện mới xảy ra 1.786 người ở Minden - The Record Courier",
+      "title_en": "Update: New power outage strikes 1,786 in Minden - The Record Courier",
+      "summary_vi": "Cập nhật: Lần mất điện mới xảy ra với 1.786 người ở Minden The Record Courier",
+      "summary_en": "Update: New power outage strikes 1,786 in Minden The Record Courier",
+      "meta": {}
+    },
+    {
+      "title": "Đại biểu Quốc hội lo xung đột lợi ích khi ngân hàng quản lý tài sản đảm bảo trái phiếu",
+      "url": "https://vnexpress.net/dai-bieu-quoc-hoi-lo-xung-dot-loi-ich-khi-ngan-hang-quan-ly-tai-san-dam-bao-trai-phieu-5106995.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sun, 09 Aug 2026 11:44:54 +0700",
+      "description": "Đại biểu Lê Văn Thế lo ngại ngân hàng vừa cấp tín dụng, vừa quản lý tài sản đảm bảo trái phiếu có thể gây xung đột lợi ích.",
+      "score": 0.0,
+      "title_vi": "Đại biểu Quốc hội lo xung đột lợi ích khi ngân hàng quản lý tài sản đảm bảo trái phiếu",
+      "title_en": "National Assembly deputies worry about conflicts of interest when banks manage bond collateral",
+      "summary_vi": "Đại biểu Lê Văn Thế lo ngại ngân hàng vừa cấp tín dụng, vừa quản lý tài sản đảm bảo trái phiếu có thể gây xung đột lợi ích.",
+      "summary_en": "Delegate Le Van The is concerned that banks that both grant credit and manage bond collateral may cause conflicts of interest.",
+      "meta": {}
+    },
+    {
+      "title": "\"The original URL for this prediction will no longer be available in 11 years.\" (2011)",
+      "url": "https://longbets.org/601/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 04:30:26 +0000",
+      "description": "Article URL: https://longbets.org/601/ Comments URL: https://news.ycombinator.com/item?id=49228458 Points: 45 # Comments: 9",
+      "score": 0.0,
+      "title_vi": "\"URL ban đầu cho dự đoán này sẽ không còn tồn tại sau 11 năm nữa.\" (2011)",
+      "title_en": "\"The original URL for this prediction will no longer be available in 11 years.\" (2011)",
+      "summary_vi": "URL bài viết: https://longbets.org/601/ URL bình luận: https://news.ycombinator.com/item?id=49228458 Điểm: 45 # Bình luận: 9",
+      "summary_en": "Article URL: https://longbets.org/601/ Comments URL: https://news.ycombinator.com/item?id=49228458 Points: 45 # Comments: 9",
+      "meta": {}
+    },
+    {
+      "title": "Illinois Just Told Every Operating System to Start Reporting Your Kid's Age",
+      "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 04:03:59 +0000",
+      "description": "Article URL: https://itsfoss.com/news/illinois-age-verification-bill/ Comments URL: https://news.ycombinator.com/item?id=49228350 Points: 35 # Comments: 8",
+      "score": 0.0,
+      "title_vi": "Illinois vừa yêu cầu mọi hệ điều hành bắt đầu báo cáo tuổi của con bạn",
+      "title_en": "Illinois Just Told Every Operating System to Start Reporting Your Kid's Age",
+      "summary_vi": "URL bài viết: https://itsfoss.com/news/illinois-age-verification-bill/ URL bình luận: https://news.ycombinator.com/item?id=49228350 Điểm: 35 # Bình luận: 8",
+      "summary_en": "Article URL: https://itsfoss.com/news/illinois-age-verification-bill/ Comments URL: https://news.ycombinator.com/item?id=49228350 Points: 35 # Comments: 8",
+      "meta": {}
+    },
+    {
+      "title": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
+      "url": "https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 03:26:00 +0000",
+      "description": "Article URL: https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week Comments URL: https://news.ycombinator.com/item?id=49228166 Points: 81 # Comments: 5",
+      "score": 0.0,
+      "title_vi": "Rút lại: Sự từ chối của App Store trong tuần Đó là một sự từ chối chính xác",
+      "title_en": "Retraction: The App Store Rejection of the Week That Was a Correct Rejection",
+      "summary_vi": "URL bài viết: https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week URL bình luận: https://news.ycombinator.com/item?id=49228166 Điểm: 81 # Bình luận: 5",
+      "summary_en": "Article URL: https://daringfireball.net/2026/08/retraction_app_store_rejection_of_the_week Comments URL: https://news.ycombinator.com/item?id=49228166 Points: 81 # Comments: 5",
+      "meta": {}
+    },
+    {
+      "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "url": "https://marketnow.site/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 03:13:01 +0000",
+      "description": "Article URL: https://marketnow.site/ Comments URL: https://news.ycombinator.com/item?id=49228086 Points: 3 # Comments: 0",
+      "score": 0.0,
+      "title_vi": "Trình chặn MCP thời gian thực chặn việc đọc .env và các tác nhân ra lệnh nguy hiểm",
+      "title_en": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "summary_vi": "URL bài viết: https://marketnow.site/ URL bình luận: https://news.ycombinator.com/item?id=49228086 Điểm: 3 # Bình luận: 0",
+      "summary_en": "Article URL: https://marketnow.site/ Comments URL: https://news.ycombinator.com/item?id=49228086 Points: 3 # Comments: 0",
+      "meta": {}
+    },
+    {
+      "title": "ChatGPT starts blocking direct requests to copy an author's style",
+      "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 02:01:38 +0000",
+      "description": "Article URL: https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/ Comments URL: https://news.ycombinator.com/item?id=49227718 Points: 39 # Comments: 19",
+      "score": 0.0,
+      "title_vi": "ChatGPT bắt đầu chặn yêu cầu trực tiếp sao chép phong cách của tác giả",
+      "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
+      "summary_vi": "URL bài viết: https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/ URL bình luận: https://news.ycombinator.com/item?id=49227718 Điểm: 39 # Bình luận: 19",
+      "summary_en": "Article URL: https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/ Comments URL: https://news.ycombinator.com/item?id=49227718 Points: 39 # Comments: 19",
       "meta": {}
     },
     {
@@ -307,78 +487,18 @@
       "meta": {}
     },
     {
-      "title": "Killeen ISD begins application process for free, reduced-price school meals - The Killeen Daily Herald",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMDNkN3dRc3Y1YjRGejZEVmEzZVM5NUlIeFNiWUc1M1F2ZHVwZGhwcnpvczZqcEFSNFQ3ZDBZa0FTWjNDRWtHT0N2NmpJci1kV1pWT2U2Yk8tc1hkeWhPVTNkdmFEVUhWSVlNem1ZTkxSVmFUWXNIVmluNC1tRnRGWnktZzFLaE93TUpMenV3UDBENEkzNWxMNzQ2eVRNUWhqc2FGeVU2RXIzTlZmNUExSVBEVk0xcS1Pbk14VzNjTXdROHFtaURPa29WWUF3dXc5VVpTR2lrUTdJbFpnb2ZrOVdoek9Ma0JUYWNSX0J4WXc?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
+      "title": "Incentives Are for Losers",
+      "url": "https://www.experimental-history.com/p/incentives-are-for-losers",
+      "source": "Hacker News",
+      "category": "technology",
       "market": "global",
-      "published": "Sun, 09 Aug 2026 02:00:00 GMT",
-      "description": "Killeen ISD begins application process for free, reduced-price school meals The Killeen Daily Herald",
+      "published": "Sun, 09 Aug 2026 01:49:48 +0000",
+      "description": "Article URL: https://www.experimental-history.com/p/incentives-are-for-losers Comments URL: https://news.ycombinator.com/item?id=49227652 Points: 42 # Comments: 14",
       "score": 0.0,
-      "title_vi": "Killeen ISD bắt đầu quy trình đăng ký các bữa ăn học đường miễn phí, giảm giá - The Killeen Daily Herald",
-      "title_en": "Killeen ISD begins application process for free, reduced-price school meals - The Killeen Daily Herald",
-      "summary_vi": "Killeen ISD bắt đầu quy trình đăng ký các bữa ăn học đường miễn phí, giảm giá The Killeen Daily Herald",
-      "summary_en": "Killeen ISD begins application process for free, reduced-price school meals The Killeen Daily Herald",
-      "meta": {}
-    },
-    {
-      "title": "Bảo đảm tính đồng bộ của hệ thống pháp luật về dầu khí - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX05rOXpOcml3em1oRjdJbjdMdjYzTmpQekpzTlMzWUppMk96RFlucEswUTU3Z25URVg0N3ZNNWRLdFRxM1lxdUNjRlBncnJOamQ4OF8tRWxyQWZkWWZSQktBVU9zT3M3NThYdHlSZjVwSjJ0b0txTkh1MjFBRWR5XzUybw?oc=5",
-      "source": "Google News Nhu cầu Việt Nam",
-      "category": "society",
-      "market": "vietnam",
-      "published": "Sun, 09 Aug 2026 01:49:12 GMT",
-      "description": "Bảo đảm tính đồng bộ của hệ thống pháp luật về dầu khí Vietnam.vn",
-      "score": 0.0,
-      "title_vi": "Bảo đảm tính đồng bộ của hệ thống pháp luật về dầu khí - Vietnam.vn",
-      "title_en": "Ensuring the uniformity of the legal system on oil and gas - Vietnam.vn",
-      "summary_vi": "Bảo đảm tính đồng bộ của hệ thống pháp luật về dầu khí Vietnam.vn",
-      "summary_en": "Ensuring the uniformity of the legal system on oil and gas Vietnam.vn",
-      "meta": {}
-    },
-    {
-      "title": "A look inside Signal Peak Energy Arena - Billings Gazette",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHVCWGFsREJNVGtPT3J4SG9FLUJRbXJPallqMDc3Z19keFVEWXFzSWw1QzZmN2g4NG1oREVWRWd2UEE2elFfVWw1TUhucUF3dDRnelp0OG5UdEtnc2VDMUt0QnM4YWpjSVpMMFI3TWh4cWJLQnE4ZERxNzhNT0czcA?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Sun, 09 Aug 2026 01:40:00 GMT",
-      "description": "A look inside Signal Peak Energy Arena Billings Gazette",
-      "score": 0.0,
-      "title_vi": "Nhìn vào bên trong Đấu trường Năng lượng Signal Peak - Billings Gazette",
-      "title_en": "A look inside Signal Peak Energy Arena - Billings Gazette",
-      "summary_vi": "Một cái nhìn bên trong Signal Peak Energy Arena Billings Gazette",
-      "summary_en": "A look inside Signal Peak Energy Arena Billings Gazette",
-      "meta": {}
-    },
-    {
-      "title": "Dr. Stephanie Luke Still Savoring Stepping Out for Education Mirrorball Win - lakeandsumterstyle.com",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQUHpZQU1TWHZsVzNpMEFCaTA4QTI0aW1SRWZIVEdQQ2VBSGVfTjhXN1lWMGlYVF9QNnFBTzVXMWJ6Skk1ekxiRXYzMEt4WTg4WUhRdzBxYkRRZDE3eTBJaEhCUHpFbm14QmJwSFN0MXplYWJhMXZab3BCRlNHUDNyVG9tM19vTjZiN1UxSHpsSDhDakR0a3k2MTBiY2lhUkd6dHcxWE5TRTBWd0h5YklUQml5V2dmaXhqdFI5bmtUY1NWbVFNeWNsTVVFVGV3bktDb3NXOVZObjg3emFVT3EyZzY2V0JvTFVNSzNUbnhGS3lrT1p3MkNBelM3MkVhMFljWmNnWDRzXzloRlNPZTRqU2dveS0xa293OW03MTNMQVJ5di1fbWxFcUZyRm51cGcySlZuQUFXcXd1M0hmY1hLbk5GZEY2dE0?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Sun, 09 Aug 2026 01:36:29 GMT",
-      "description": "Dr. Stephanie Luke Still Savoring Stepping Out for Education Mirrorball Win lakeandsumterstyle.com",
-      "score": 0.0,
-      "title_vi": "Tiến sĩ Stephanie Luke vẫn thích bước ra sân để giành chiến thắng trong Mirrorball về giáo dục - lakeandsummerstyle.com",
-      "title_en": "Dr. Stephanie Luke Still Savoring Stepping Out for Education Mirrorball Win - lakeandsumterstyle.com",
-      "summary_vi": "Tiến sĩ Stephanie Luke vẫn thích tham gia giáo dục Mirrorball Win lakeandsummerstyle.com",
-      "summary_en": "Dr. Stephanie Luke Still Savoring Stepping Out for Education Mirrorball Win lakeandsumterstyle.com",
-      "meta": {}
-    },
-    {
-      "title": "Thực hiện Nghị quyết Trung ương 3: Đổi mới tư duy về không gian phát triển - chinhsachcuocsong.vnanet.vn",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ21zNDNSOHdNYVRTSEotUzZCMVBXcXN4SEdHLWxsdjdmT0NkNE8wNDVoUDZ0YmZqVzZsNUlQeV9NX191Vk9LbGpOcDRpOEtKNm5udHloWld1WWtzbjZzQUE2S3dTWGw5UFkwb201aUluWDZhX3RxU2pDVnF5RzR2bS1TcEJaYlNVeUY4MmphNHpBY2pKa01QVElfZC0zSlI0NUZLQUluVlF0RFBJRE1YXzl3ZjNvZWNVQUJsYg?oc=5",
-      "source": "Google News Nhu cầu Việt Nam",
-      "category": "society",
-      "market": "vietnam",
-      "published": "Sun, 09 Aug 2026 01:36:00 GMT",
-      "description": "Thực hiện Nghị quyết Trung ương 3: Đổi mới tư duy về không gian phát triển chinhsachcuocsong.vnanet.vn",
-      "score": 0.0,
-      "title_vi": "Thực hiện Nghị quyết Trung ương 3: Đổi mới tư duy về không gian phát triển - chinhsachcuocsong.vnanet.vn",
-      "title_en": "Implementing Central Resolution 3: Innovating thinking about development space - chinsachcuocsong.vnanet.vn",
-      "summary_vi": "Thực hiện Nghị quyết Trung ương 3: Đổi mới tư duy về không gian phát triển chinhsachcuocsong.vnanet.vn",
-      "summary_en": "Implementing Central Resolution 3: Innovating thinking about development space chinsachcuocsong.vnanet.vn",
+      "title_vi": "Ưu đãi dành cho người thua cuộc",
+      "title_en": "Incentives Are for Losers",
+      "summary_vi": "URL bài viết: https://www.experimental-history.com/p/incentives-are-for-losers URL bình luận: https://news.ycombinator.com/item?id=49227652 Điểm: 42 # Bình luận: 14",
+      "summary_en": "Article URL: https://www.experimental-history.com/p/incentives-are-for-losers Comments URL: https://news.ycombinator.com/item?id=49227652 Points: 42 # Comments: 14",
       "meta": {}
     },
     {
@@ -397,36 +517,6 @@
       "meta": {}
     },
     {
-      "title": "The AI Apocalypse Is Here",
-      "url": "https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Sun, 09 Aug 2026 01:28:36 +0000",
-      "description": "Article URL: https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/ Comments URL: https://news.ycombinator.com/item?id=49227521 Points: 16 # Comments: 6",
-      "score": 0.0,
-      "title_vi": "Ngày tận thế AI đang đến",
-      "title_en": "The AI Apocalypse Is Here",
-      "summary_vi": "URL bài viết: https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/ URL bình luận: https://news.ycombinator.com/item?id=49227521 Điểm: 16 # Bình luận: 6",
-      "summary_en": "Article URL: https://www.compactmag.com/article/the-ai-apocalypse-is-already-here/ Comments URL: https://news.ycombinator.com/item?id=49227521 Points: 16 # Comments: 6",
-      "meta": {}
-    },
-    {
-      "title": "Shokz OpenDots 2 - tai nghe TWS dạng kẹp, pin 40 tiếng",
-      "url": "https://vnexpress.net/shokz-opendots-2-tai-nghe-tws-dang-kep-pin-40-tieng-5106166.html",
-      "source": "VnExpress Số hóa",
-      "category": "technology",
-      "market": "vietnam",
-      "published": "Sun, 09 Aug 2026 07:00:00 +0700",
-      "description": "OpenDots 2, tai nghe thiết kế mở dạng kẹp tai thế hệ hai của Shokz, cải tiến chất lượng âm thanh, khả năng đàm thoại và kết nối so với thế hệ trước.",
-      "score": 0.0,
-      "title_vi": "Shokz OpenDots 2 - tai nghe TWS dạng kẹp, pin 40 tiếng",
-      "title_en": "Shokz OpenDots 2 - clip-on TWS headset, 40-hour battery",
-      "summary_vi": "OpenDots 2, tai nghe thiết kế mở dạng kẹp tai thế hệ hai của Shokz, cải tiến chất lượng âm thanh, khả năng đàm thoại và kết nối so với thế hệ trước.",
-      "summary_en": "OpenDots 2, Shokz's second generation open ear clip design headset, improves sound quality, conversation and connectivity compared to the previous generation.",
-      "meta": {}
-    },
-    {
       "title": "Vé máy bay đi Singapore, Thái Lan giảm sâu trong mùa hè",
       "url": "https://vnexpress.net/ve-may-bay-di-singapore-thai-lan-giam-sau-trong-mua-he-5106811.html",
       "source": "VnExpress Kinh doanh",
@@ -442,93 +532,33 @@
       "meta": {}
     },
     {
-      "title": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-      "url": "https://os8088.com/",
-      "source": "Hacker News",
-      "category": "technology",
+      "title": "US Senate advances landmark crypto bill before heading on August recess - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
       "market": "global",
-      "published": "Sat, 08 Aug 2026 23:37:27 +0000",
-      "description": "Article URL: https://os8088.com/ Comments URL: https://news.ycombinator.com/item?id=49226923 Points: 43 # Comments: 10",
+      "published": "Sat, 08 Aug 2026 20:24:41 GMT",
+      "description": "US Senate advances landmark crypto bill before heading on August recess Reuters",
       "score": 0.0,
-      "title_vi": "Os8088: Hệ điều hành giống Mac mạnh mẽ dành cho IBM XT, 286, 386",
-      "title_en": "Os8088: A powerful Mac-like OS for the IBM XT, 286, 386",
-      "summary_vi": "URL bài viết: https://os8088.com/ URL bình luận: https://news.ycombinator.com/item?id=49226923 Điểm: 43 # Bình luận: 10",
-      "summary_en": "Article URL: https://os8088.com/ Comments URL: https://news.ycombinator.com/item?id=49226923 Points: 43 # Comments: 10",
+      "title_vi": "Thượng viện Hoa Kỳ tiến hành dự luật tiền điện tử mang tính bước ngoặt trước khi bước vào kỳ nghỉ tháng 8 - Reuters",
+      "title_en": "US Senate advances landmark crypto bill before heading on August recess - Reuters",
+      "summary_vi": "Thượng viện Hoa Kỳ tiến hành dự luật tiền điện tử mang tính bước ngoặt trước khi bước vào kỳ nghỉ tháng 8",
+      "summary_en": "US Senate advances landmark crypto bill before heading on August recess Reuters",
       "meta": {}
     },
     {
-      "title": "Dithered QR Codes",
-      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Sat, 08 Aug 2026 23:05:24 +0000",
-      "description": "Article URL: https://www.andrewt.net/dithered-qr-codes/wtf/ Comments URL: https://news.ycombinator.com/item?id=49226742 Points: 32 # Comments: 3",
-      "score": 0.0,
-      "title_vi": "Mã QR hoà sắc",
-      "title_en": "Dithered QR Codes",
-      "summary_vi": "URL bài viết: https://www.andrewt.net/dithered-qr-codes/wtf/ URL bình luận: https://news.ycombinator.com/item?id=49226742 Điểm: 32 # Bình luận: 3",
-      "summary_en": "Article URL: https://www.andrewt.net/dithered-qr-codes/wtf/ Comments URL: https://news.ycombinator.com/item?id=49226742 Points: 32 # Comments: 3",
-      "meta": {}
-    },
-    {
-      "title": "My server is a phone now",
-      "url": "https://seg6.space/posts/phone-server/",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Sat, 08 Aug 2026 22:49:23 +0000",
-      "description": "Article URL: https://seg6.space/posts/phone-server/ Comments URL: https://news.ycombinator.com/item?id=49226636 Points: 108 # Comments: 47",
-      "score": 0.0,
-      "title_vi": "Máy chủ của tôi bây giờ là một chiếc điện thoại",
-      "title_en": "My server is a phone now",
-      "summary_vi": "URL bài viết: https://seg6.space/posts/phone-server/ URL bình luận: https://news.ycombinator.com/item?id=49226636 Điểm: 108 # Bình luận: 47",
-      "summary_en": "Article URL: https://seg6.space/posts/phone-server/ Comments URL: https://news.ycombinator.com/item?id=49226636 Points: 108 # Comments: 47",
-      "meta": {}
-    },
-    {
-      "title": "Should you stop cracking your knuckles?",
-      "url": "https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Sat, 08 Aug 2026 22:36:25 +0000",
-      "description": "Article URL: https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles Comments URL: https://news.ycombinator.com/item?id=49226563 Points: 13 # Comments: 9",
-      "score": 0.0,
-      "title_vi": "Bạn có nên ngừng bẻ khớp ngón tay không?",
-      "title_en": "Should you stop cracking your knuckles?",
-      "summary_vi": "URL bài viết: https://www.bbc.com/future/article/20260807- Should-i-stop-cracking-my-knuckles URL bình luận: https://news.ycombinator.com/item?id=49226563 Điểm: 13 # Bình luận: 9",
-      "summary_en": "Article URL: https://www.bbc.com/future/article/20260807-should-i-stop-cracking-my-knuckles Comments URL: https://news.ycombinator.com/item?id=49226563 Points: 13 # Comments: 9",
-      "meta": {}
-    },
-    {
-      "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
-      "url": "https://shopify.engineering/scaling-inventory-reservations",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Sat, 08 Aug 2026 22:32:50 +0000",
-      "description": "Article URL: https://shopify.engineering/scaling-inventory-reservations Comments URL: https://news.ycombinator.com/item?id=49226536 Points: 57 # Comments: 16",
-      "score": 0.0,
-      "title_vi": "Shopify đã thay thế Redis bằng MySQL để đặt trước hàng tồn kho – và nó đã mở rộng quy mô",
-      "title_en": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
-      "summary_vi": "URL bài viết: https://shopify.engineering/scaling-inventory-reservations URL bình luận: https://news.ycombinator.com/item?id=49226536 Điểm: 57 # Bình luận: 16",
-      "summary_en": "Article URL: https://shopify.engineering/scaling-inventory-reservations Comments URL: https://news.ycombinator.com/item?id=49226536 Points: 57 # Comments: 16",
-      "meta": {}
-    },
-    {
-      "title": "OKLO At $47: The Nuclear Darling Down 75% From Its High — What Wall Street Is Missing Lizzo (KafDC4CxHx) - Mshale",
+      "title": "OKLO At $47: The Nuclear Darling Down 75% From Its High — What Wall Street Is Missing Lizzo (KafDC4CxHx) - mshale.com",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1CTmhaWGN3MDNPVTd1Tk9IOUZZSDBXOHM4ZGF2a3ItVzVMMkJSX0Nkelo3Y0k1Z3hmVHdYY1J1ekNaU2tVZTV3VjR3Y0hVSF9ETnVTVlFCaHBJX2M?oc=5",
       "source": "Google News Reuters Finance",
       "category": "finance",
       "market": "global",
       "published": "Sat, 08 Aug 2026 18:21:58 GMT",
-      "description": "OKLO At $47: The Nuclear Darling Down 75% From Its High — What Wall Street Is Missing Lizzo (KafDC4CxHx) Mshale",
+      "description": "OKLO At $47: The Nuclear Darling Down 75% From Its High — What Wall Street Is Missing Lizzo (KafDC4CxHx) mshale.com",
       "score": 0.0,
-      "title_vi": "OKLO ở mức 47 đô la: Người yêu hạt nhân giảm 75% so với mức cao của nó - Phố Wall đang thiếu gì Lizzo (KafDC4CxHx) - Mshale",
-      "title_en": "OKLO At $47: The Nuclear Darling Down 75% From Its High — What Wall Street Is Missing Lizzo (KafDC4CxHx) - Mshale",
-      "summary_vi": "OKLO ở mức 47 đô la: Người yêu hạt nhân giảm 75% so với mức cao của nó - Phố Wall đang thiếu gì Lizzo (KafDC4CxHx) Mshale",
-      "summary_en": "OKLO At $47: The Nuclear Darling Down 75% From Its High — What Wall Street Is Missing Lizzo (KafDC4CxHx) Mshale",
+      "title_vi": "OKLO ở mức 47 đô la: Người yêu hạt nhân giảm 75% so với mức cao của nó - Phố Wall đang thiếu gì Lizzo (KafDC4CxHx) - mshale.com",
+      "title_en": "OKLO At $47: The Nuclear Darling Down 75% From Its High — What Wall Street Is Missing Lizzo (KafDC4CxHx) - mshale.com",
+      "summary_vi": "OKLO ở mức 47 đô la: Người yêu hạt nhân giảm 75% so với mức cao của nó - Phố Wall đang thiếu gì Lizzo (KafDC4CxHx) mshale.com",
+      "summary_en": "OKLO At $47: The Nuclear Darling Down 75% From Its High — What Wall Street Is Missing Lizzo (KafDC4CxHx) mshale.com",
       "meta": {}
     },
     {
@@ -575,67 +605,55 @@
       "summary_vi": "Các nguồn tin cho biết đảng Dân chủ lên kế hoạch điều tra luận tội Trump nếu họ thắng Hạ viện",
       "summary_en": "Democrats plan Trump investigations over impeachment if they win House, sources say Reuters",
       "meta": {}
-    },
-    {
-      "title": "Transcript of Reuters interview with NY Fed President Williams - aol.com",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0VSdGU4ai1sTnlUNWVNLVlUQmpiR1FWX0QxRy1WUV82bU5CT3V2SlprQXJOOUhISDdSQnI4ZGRreWVqbWp2VWgzSGVZQUJGQk5LeTJwaVR5b2RLcWFkRTJUUnc4VDFFdXkzY3F3T1Y3N3p3VVdRYTVyT0Juc1RobG1yTnc3QQ?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Sat, 08 Aug 2026 16:49:34 GMT",
-      "description": "Transcript of Reuters interview with NY Fed President Williams aol.com",
-      "score": 0.0,
-      "title_vi": "Bản ghi cuộc phỏng vấn của Reuters với Chủ tịch Fed NY Williams - aol.com",
-      "title_en": "Transcript of Reuters interview with NY Fed President Williams - aol.com",
-      "summary_vi": "Bản ghi cuộc phỏng vấn của Reuters với Chủ tịch Fed NY Williams aol.com",
-      "summary_en": "Transcript of Reuters interview with NY Fed President Williams aol.com",
-      "meta": {}
-    },
-    {
-      "title": "'Mom, don't call me': Inside Thailand's deadly school shooting - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNjdvZmtIbUhPd2hSMjBTbGJkbExLVFZGQlY3dzhSUXNfdS1fSzF1Uk5HRWUtcEhKUE1wNk82T0Q3S2k2T2dMdXl6ZFJQaHFWUkpzM2hMei1reHI1LUVneEk3Y2dMdE9iSzJhMVY5MUNCcVJhS0w4aXlyal9YZ0s1a3kwV0JHcnVCYUdmY1dwamprYnJFSTJPUUpPMk1vaDFxaEFrZVMzLUh5X1RKRS1uUw?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Sat, 08 Aug 2026 16:27:54 GMT",
-      "description": "'Mom, don't call me': Inside Thailand's deadly school shooting Reuters",
-      "score": 0.0,
-      "title_vi": "'Mẹ ơi, đừng gọi con': Bên trong vụ xả súng chết người ở trường học Thái Lan - Reuters",
-      "title_en": "'Mom, don't call me': Inside Thailand's deadly school shooting - Reuters",
-      "summary_vi": "'Mẹ ơi, đừng gọi con': Bên trong vụ xả súng chết người ở trường học Thái Lan",
-      "summary_en": "'Mom, don't call me': Inside Thailand's deadly school shooting Reuters",
-      "meta": {}
     }
   ],
   "insights": {
     "status": "ready",
     "model": "z-ai/glm-5.2",
-    "daily_thesis_vi": "Tin tức ngày 9/8/2026 cho thấy sự chuyển dịch mạnh mẽ sang tự động hóa AI, quản lý tài liệu và tối ưu hóa hạ tầng. Các doanh nghiệp đang cần giải pháp SaaS giúp giảm chi phí vận hành và xử lý dữ liệu hiệu quả hơn.",
-    "daily_thesis_en": "News from 2026-08-09 highlights a strong shift towards AI automation, document management, and infrastructure optimization. Businesses are seeking SaaS solutions to reduce operational costs and process data more efficiently.",
+    "daily_thesis_vi": "Các bản tin ngày 9/8/2026 cho thấy sự bùng nổ công cụ AI tác nhân (agentic) và tự động hóa, đi kèm rủi ro bảo mật và quản lý xung đột lợi ích tài chính.",
+    "daily_thesis_en": "Aug 9, 2026 news highlights a surge in agentic AI tools and automation, alongside emerging security risks and financial conflict of interest management.",
     "opportunities": [
       {
-        "name_vi": "Nền tảng CRM tự động hóa cho AI Agent",
-        "name_en": "Agentic-first CRM Platform",
-        "pain_vi": "Các CRM truyền thống không hỗ trợ tốt việc điều phối và giao việc cho nhiều AI agent cùng lúc.",
-        "pain_en": "Traditional CRMs lack native support for orchestrating and delegating tasks among multiple AI agents simultaneously.",
-        "audience_vi": "Đội ngũ bán hàng và vận hành sử dụng AI",
-        "audience_en": "Sales and operations teams using AI",
-        "mvp_vi": "CRM mã nguồn mở tích hợp API cho phép AI agent tự động tạo và cập nhật dữ liệu khách hàng.",
-        "mvp_en": "Open-source CRM with API integration allowing AI agents to automatically create and update customer data.",
+        "name_vi": "Tường lửa bảo mật cho AI Agent",
+        "name_en": "AI Agent Security Firewall",
+        "pain_vi": "AI agent tự động dễ đọc nhầm file .env và thực thi lệnh nguy hiểm, gây rò rỉ dữ liệu.",
+        "pain_en": "Autonomous AI agents risk reading .env files and executing dangerous commands, causing data leaks.",
+        "audience_vi": "Doanh nghiệp dùng AI tự động hóa",
+        "audience_en": "Enterprises using AI automation",
+        "mvp_vi": "Interceptor MCP chặn lệnh độc hại và truy cập file nhạy cảm trong thời gian thực.",
+        "mvp_en": "Real-time MCP interceptor blocking dangerous commands and sensitive file access.",
         "scope": "global",
-        "score": 78,
+        "score": 88,
         "evidence_ids": [
-          2,
-          3
+          24
         ],
-        "risks_vi": "Cạnh tranh cao từ các CRM lớn đang tích hợp AI.",
-        "risks_en": "High competition from major CRMs integrating AI.",
+        "risks_vi": "Cạnh tranh từ các nhà cung cấp nền tảng lớn tích hợp sẵn tính năng bảo mật.",
+        "risks_en": "Competition from major platform providers bundling native security features.",
         "sources": [
           {
-            "title": "yc software/sqm",
-            "url": "https://github.com/yc-software/qm",
-            "source": "GitHub"
-          },
+            "title": "Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+            "url": "https://marketnow.site/",
+            "source": "Hacker News"
+          }
+        ]
+      },
+      {
+        "name_vi": "Hệ thống CRM cho AI Agent",
+        "name_en": "Agentic CRM System",
+        "pain_vi": "CRM truyền thống không tối ưu cho việc các AI agent tự động tương tác và quản lý khách hàng.",
+        "pain_en": "Traditional CRMs lack optimization for autonomous AI agents managing customer interactions.",
+        "audience_vi": "Doanh nghiệp B2B ứng dụng AI",
+        "audience_en": "B2B companies adopting AI",
+        "mvp_vi": "CRM mã nguồn mở với API-first để AI agent tự động đọc, cập nhật dữ liệu khách hàng.",
+        "mvp_en": "Open-source API-first CRM allowing AI agents to autonomously read and update customer data.",
+        "scope": "global",
+        "score": 82,
+        "evidence_ids": [
+          3
+        ],
+        "risks_vi": "Khó thuyết phục doanh nghiệp chuyển đổi từ các hệ thống CRM hiện có như Salesforce.",
+        "risks_en": "High friction in migrating enterprises from entrenched legacy CRMs like Salesforce.",
+        "sources": [
           {
             "title": "trycompai/crm",
             "url": "https://github.com/trycompai/crm",
@@ -644,21 +662,51 @@
         ]
       },
       {
-        "name_vi": "Dịch vụ chuyển đổi tài liệu sang Markdown",
-        "name_en": "Document to Markdown Conversion API",
-        "pain_vi": "Trích xuất dữ liệu sạch từ nhiều định dạng tài liệu khác nhau để huấn luyện AI rất mất thời gian.",
-        "pain_en": "Extracting clean data from various document formats for AI training is time-consuming.",
-        "audience_vi": "Nhà phát triển AI và công ty xử lý dữ liệu lớn",
-        "audience_en": "AI developers and big data processing firms",
-        "mvp_vi": "API chuyển đổi Word, PDF, Excel sang Markdown nhanh chóng bằng Rust.",
-        "mvp_en": "Fast Rust-based API converting Word, PDF, Excel to Markdown.",
+        "name_vi": "Tạo văn bản AI giọng văn cá nhân",
+        "name_en": "Personalized AI Writing Style",
+        "pain_vi": "AI tạo văn bản bị phát hiện dễ dàng và thiếu giọng văn cá nhân của người dùng cụ thể.",
+        "pain_en": "AI-generated text is easily detectable and lacks specific personal voice and tone.",
+        "audience_vi": "Nhà sáng tạo nội dung, marketer",
+        "audience_en": "Content creators, marketers",
+        "mvp_vi": "Công cụ chỉnh sửa AI bắt chước chính xác văn phong cá nhân từ mẫu văn bản.",
+        "mvp_en": "AI revision tool mimicking exact personal writing style from provided text samples.",
+        "scope": "global",
+        "score": 79,
+        "evidence_ids": [
+          5,
+          25
+        ],
+        "risks_vi": "Chính sách của các nền tảng AI lớn có thể chặn tính năng sao chép giọng văn.",
+        "risks_en": "Major AI platforms' policies may actively block voice-cloning features.",
+        "sources": [
+          {
+            "title": "KKKKhazix/human-writing",
+            "url": "https://github.com/KKKKhazix/human-writing",
+            "source": "GitHub"
+          },
+          {
+            "title": "ChatGPT starts blocking direct requests to copy an author's style",
+            "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
+            "source": "Hacker News"
+          }
+        ]
+      },
+      {
+        "name_vi": "Chuyển đổi tài liệu sang Markdown",
+        "name_en": "Document to Markdown Conversion",
+        "pain_vi": "Xử lý tài liệu đa định dạng (PDF, Word, Excel) cho AI và LLM tốn nhiều chi phí và công sức.",
+        "pain_en": "Processing multi-format documents (PDF, Word, Excel) for AI and LLMs is costly and manual.",
+        "audience_vi": "Nhà phát triển phần mềm, doanh nghiệp AI",
+        "audience_en": "Software developers, AI enterprises",
+        "mvp_vi": "API chuyển đổi hàng loạt tài liệu phức tạp sang Markdown sạch bằng Rust.",
+        "mvp_en": "High-speed API converting complex documents to clean Markdown using Rust.",
         "scope": "global",
         "score": 85,
         "evidence_ids": [
           1
         ],
-        "risks_vi": "Dễ bị sao chép, biên độ lợi nhuận thấp.",
-        "risks_en": "Easily replicable, low profit margins.",
+        "risks_vi": "Dễ bị sao chép và tích hợp miễn phí vào các bộ công cụ AI lớn hiện tại.",
+        "risks_en": "Easily replicated and integrated for free by major existing AI tool suites.",
         "sources": [
           {
             "title": "firecrawl/anydoc",
@@ -668,74 +716,26 @@
         ]
       },
       {
-        "name_vi": "Bộ ứng dụng văn phòng AI gốc",
-        "name_en": "AI-native Office Suite",
-        "pain_vi": "Phần mềm văn phòng truyền thống thiếu khả năng tự động sinh nội dung và phân tích dữ liệu bằng AI.",
-        "pain_en": "Traditional office software lacks AI-native content generation and data analysis capabilities.",
-        "audience_vi": "Nhân viên văn phòng và sinh viên",
-        "audience_en": "Office workers and students",
-        "mvp_vi": "Bộ công cụ xử lý văn bản và bảng tính tích hợp mô hình ngôn ngữ lớn.",
-        "mvp_en": "Word processor and spreadsheet tool integrated with large language models.",
-        "scope": "global",
+        "name_vi": "Quản lý tài sản thế chấp độc lập",
+        "name_en": "Independent Collateral Management",
+        "pain_vi": "Ngân hàng vừa cấp tín dụng vừa quản lý tài sản thế chấp gây xung đột lợi ích và rủi ro.",
+        "pain_en": "Banks managing bond collateral while issuing credit cause severe conflicts of interest.",
+        "audience_vi": "Nhà đầu tư, cơ quan quản lý Việt Nam",
+        "audience_en": "Investors, Vietnamese regulators",
+        "mvp_vi": "Nền tảng SaaS quản lý tài sản thế chấp độc lập cho trái phiếu doanh nghiệp.",
+        "mvp_en": "Independent SaaS platform for enterprise bond collateral management and auditing.",
+        "scope": "vietnam",
         "score": 72,
         "evidence_ids": [
-          7
+          20
         ],
-        "risks_vi": "Cạnh tranh trực tiếp với Microsoft và Google.",
-        "risks_en": "Direct competition with Microsoft and Google.",
+        "risks_vi": "Yêu cầu pháp lý khắt khe và cần sự chấp thuận từ các cơ quan quản lý nhà nước.",
+        "risks_en": "Strict regulatory compliance requirements and reliance on government approval.",
         "sources": [
           {
-            "title": "genspark-ai/genoffice",
-            "url": "https://github.com/genspark-ai/genoffice",
-            "source": "GitHub"
-          }
-        ]
-      },
-      {
-        "name_vi": "Công cụ ghi lại và tự động hóa kỹ năng",
-        "name_en": "Skill Recording and Automation Tool",
-        "pain_vi": "Việc ghi lại quy trình làm việc thủ công để tạo tài liệu hoặc tự động hóa rất tẻ nhạt và sai sót.",
-        "pain_en": "Recording manual workflows to create documentation or automation is tedious and error-prone.",
-        "audience_vi": "Quản lý viên và nhân viên vận hành",
-        "audience_en": "Managers and operations staff",
-        "mvp_vi": "Ứng dụng desktop ghi lại màn hình và dùng AI tạo luồng tự động hóa.",
-        "mvp_en": "Desktop app recording screen and using AI to generate automation flows.",
-        "scope": "global",
-        "score": 80,
-        "evidence_ids": [
-          8
-        ],
-        "risks_vi": "Đòi hỏi bảo mật dữ liệu màn hình cao.",
-        "risks_en": "Requires high screen data security.",
-        "sources": [
-          {
-            "title": "microsoft/skill-recorder",
-            "url": "https://github.com/microsoft/skill-recorder",
-            "source": "GitHub"
-          }
-        ]
-      },
-      {
-        "name_vi": "Hệ thống quản lý tái cấu trúc giáo dục",
-        "name_en": "Educational Reorganization Management System",
-        "pain_vi": "Các trường học tại Ninh Bình gặp khó khăn trong việc theo dõi tiến độ sáp nhập cơ sở vật chất.",
-        "pain_en": "Schools in Ninh Binh struggle to track the progress of facility consolidation.",
-        "audience_vi": "Sở Giáo dục và Đào tạo tại Việt Nam",
-        "audience_en": "Departments of Education in Vietnam",
-        "mvp_vi": "Bảng điều khiển SaaS theo dõi tiến độ sáp nhập trường học và báo cáo trực tuyến.",
-        "mvp_en": "SaaS dashboard tracking school merger progress and reporting online.",
-        "scope": "vietnam",
-        "score": 65,
-        "evidence_ids": [
-          12
-        ],
-        "risks_vi": "Thị trường ngách, chu kỳ bán hàng B2G dài.",
-        "risks_en": "Niche market, long B2G sales cycles.",
-        "sources": [
-          {
-            "title": "Ninh Binh requires completion of reorganization of educational facilities before August 20 - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaVVmazV0VkRZQ1lGdUJDbXJfdEFReGRPdE5UOUY5azNaYXk2aVNBM1dhREJ5RU5RUS15Y1F4N1RSVkJMUU8xbkZCN0Z0cTNkSlNOWlczVDdmcUNUWjd2ME4xTGVSNWM3RXUwN011anh0cW5kSjFzd05MdmlsOFZ0RHB1YzF6SXhFTWVMMkRIQ1hUY0U?oc=5",
-            "source": "Google News Nhu cầu Việt Nam"
+            "title": "National Assembly deputies worry about conflicts of interest when banks manage bond collateral",
+            "url": "https://vnexpress.net/dai-bieu-quoc-hoi-lo-xung-dot-loi-ich-khi-ngan-hang-quan-ly-tai-san-dam-bao-trai-phieu-5106995.html",
+            "source": "VnExpress Kinh doanh"
           }
         ]
       }
