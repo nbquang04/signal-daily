@@ -1,0 +1,751 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-09T20:51:17.123286+00:00",
+  "markets": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7757.6401,
+      "change_pct": 0.62,
+      "currency": "USD"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "price": 26690.6191,
+      "change_pct": 1.3,
+      "currency": "USD"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "price": 4399.7002,
+      "change_pct": 3.72,
+      "currency": "USD"
+    },
+    {
+      "name": "Crude Oil",
+      "symbol": "CL=F",
+      "price": 78.18,
+      "change_pct": 1.15,
+      "currency": "USD"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC-USD",
+      "price": 65089.1797,
+      "change_pct": 0.28,
+      "currency": "USD"
+    },
+    {
+      "name": "USD/VND",
+      "symbol": "VND=X",
+      "price": 26203.0,
+      "change_pct": -0.12,
+      "currency": "VND"
+    }
+  ],
+  "items": [
+    {
+      "title": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-03T16:36:14Z",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "score": 1902.46,
+      "title_vi": "firecrawl/anydoc",
+      "title_en": "firecrawl/anydoc",
+      "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
+      "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "meta": {
+        "stars": 12656,
+        "forks": 626,
+        "language": "Rust",
+        "stars_per_day": 1808.0
+      }
+    },
+    {
+      "title": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-29T20:03:08Z",
+      "description": "Multiplayer agent harness for work",
+      "score": 1156.95,
+      "title_vi": "phần mềm yc/m2",
+      "title_en": "yc software/sqm",
+      "summary_vi": "Khai thác tác nhân nhiều người chơi cho công việc",
+      "summary_en": "Multiplayer agent harness for work",
+      "meta": {
+        "stars": 12749,
+        "forks": 1469,
+        "language": "TypeScript",
+        "stars_per_day": 1062.4
+      }
+    },
+    {
+      "title": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-31T21:38:51Z",
+      "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "score": 885.01,
+      "title_vi": "thửcompai/crm",
+      "title_en": "trycompai/crm",
+      "summary_vi": "Comp AI CRM là một CRM mã nguồn mở được thiết kế cho các đại lý AI. CRM ưu tiên tác nhân.",
+      "summary_en": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "meta": {
+        "stars": 7952,
+        "forks": 875,
+        "language": "TypeScript",
+        "stars_per_day": 795.2
+      }
+    },
+    {
+      "title": "bashalarmistalt/decimen-optical-transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-30T18:17:54Z",
+      "description": "",
+      "score": 590.86,
+      "title_vi": "bashalarmistalt/decimen-quang-chuyển",
+      "title_en": "bashalarmistalt/decimen-optical-transfer",
+      "summary_vi": "bashalarmistalt/decimen-quang-chuyển",
+      "summary_en": "bashalarmistalt/decimen-optical-transfer",
+      "meta": {
+        "stars": 5551,
+        "forks": 673,
+        "language": "TypeScript",
+        "stars_per_day": 504.6
+      }
+    },
+    {
+      "title": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-05T01:19:41Z",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "score": 494.66,
+      "title_vi": "KKKKhazix/chữ viết của con người",
+      "title_en": "KKKKhazix/human-writing",
+      "summary_vi": "Làm cho tiếng Trung được viết bởi AI đọc giống như một người cụ thể đang nói. Kỹ năng sáng tạo và sửa đổi phổ quát, có sẵn ngay lập tức.",
+      "summary_en": "Make the Chinese written by AI read like a specific person speaking. Universal creation and revision skills, available right out of the box.",
+      "meta": {
+        "stars": 2091,
+        "forks": 184,
+        "language": "Python",
+        "stars_per_day": 418.2
+      }
+    },
+    {
+      "title": "thebuggeddev/anatomy",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-02T11:15:16Z",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "score": 337.44,
+      "title_vi": "thebuggeddev/anatomy",
+      "title_en": "thebuggeddev/anatomy",
+      "summary_vi": "Trình khám phá giải phẫu người 3D tương tác được xây dựng bằng bajs với GPT 5.6 Sol",
+      "summary_en": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "meta": {
+        "stars": 2088,
+        "forks": 602,
+        "language": "TypeScript",
+        "stars_per_day": 261.0
+      }
+    },
+    {
+      "title": "ShawnPana/phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-07T22:28:53Z",
+      "description": "let your agent control your phone",
+      "score": 322.1,
+      "title_vi": "ShawnPana/dây điện thoại",
+      "title_en": "ShawnPana/phone-harness",
+      "summary_vi": "hãy để người đại diện của bạn điều khiển điện thoại của bạn",
+      "summary_en": "let your agent control your phone",
+      "meta": {
+        "stars": 767,
+        "forks": 58,
+        "language": "Python",
+        "stars_per_day": 255.7
+      }
+    },
+    {
+      "title": "MiniMax-AI/MiniMax-H3",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-30T08:41:09Z",
+      "description": "",
+      "score": 321.82,
+      "title_vi": "MiniMax-AI/MiniMax-H3",
+      "title_en": "MiniMax-AI/MiniMax-H3",
+      "summary_vi": "MiniMax-AI/MiniMax-H3",
+      "summary_en": "MiniMax-AI/MiniMax-H3",
+      "meta": {
+        "stars": 2672,
+        "forks": 159,
+        "language": "Python",
+        "stars_per_day": 242.9
+      }
+    },
+    {
+      "title": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-31T09:40:58Z",
+      "description": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "score": 310.96,
+      "title_vi": "genspark-ai/genoffice",
+      "title_en": "genspark-ai/genoffice",
+      "summary_vi": "Bộ ứng dụng văn phòng gốc AI dành cho macOS và Windows: trình xử lý văn bản, bảng tính, bản trình bày và PDF.",
+      "summary_en": "An AI-native office suite for macOS and Windows: word processor, spreadsheet, presentations, and PDF.",
+      "meta": {
+        "stars": 2334,
+        "forks": 408,
+        "language": "TypeScript",
+        "stars_per_day": 233.4
+      }
+    },
+    {
+      "title": "microsoft/skill-recorder",
+      "url": "https://github.com/microsoft/skill-recorder",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-29T18:16:14Z",
+      "description": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "score": 296.87,
+      "title_vi": "microsoft/skill-ghi",
+      "title_en": "microsoft/skill-recorder",
+      "summary_vi": "Ứng dụng dành cho máy tính để bàn ghi lại phiên làm việc trên màn hình của bạn và sử dụng GitHub Copilot CLI để xây dựng lại phiên làm việc đó dưới dạng ý định + các bước được sắp xếp, sau đó xây dựng Kỹ năng hoặc Tự động hóa có thể sử dụng lại cho Microsoft Scout, Microsoft Copilot Cowork hoặc Copilot Studio.",
+      "summary_en": "Desktop app that records your on-screen work session and uses the GitHub Copilot CLI to reconstruct it as an intent + ordered steps, then builds a reusable Skill or Automation for Microsoft Scout, Microsoft Copilot Cowork, or Copilot Studio.",
+      "meta": {
+        "stars": 2618,
+        "forks": 278,
+        "language": "TypeScript",
+        "stars_per_day": 218.2
+      }
+    },
+    {
+      "title": "Employment – ADA - Rhode Island Lawyers Weekly",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPeW1QTThJbUxXS3lqeDRMMzBPb2JCZ3daNjA0eWxiYnNkTEE2OHJ2VmZlSU9oYnZlbHlBSmdNVTU1UFJnODc3VW9JYVdwbVhKVk5OLWJYUjd2MGlORnBaeUNDNWtYS3I1SFFB?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 20:35:29 GMT",
+      "description": "Employment – ADA Rhode Island Lawyers Weekly",
+      "score": 0.0,
+      "title_vi": "Việc làm – ADA - Tuần báo Luật sư Rhode Island",
+      "title_en": "Employment – ADA - Rhode Island Lawyers Weekly",
+      "summary_vi": "Việc làm – Tuần báo Luật sư ADA Rhode Island",
+      "summary_en": "Employment – ADA Rhode Island Lawyers Weekly",
+      "meta": {}
+    },
+    {
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 20:35:17 +0000",
+      "description": "The AI-focused hedge fund is still making some big bets.",
+      "score": 0.0,
+      "title_vi": "Quỹ phòng hộ đang gặp khó khăn Nhận thức tình huống đầu tư 400 triệu USD vào công ty khởi nghiệp chip Source Foundry",
+      "title_en": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "summary_vi": "Quỹ phòng hộ tập trung vào AI vẫn đang đặt cược lớn.",
+      "summary_en": "The AI-focused hedge fund is still making some big bets.",
+      "meta": {}
+    },
+    {
+      "title": "Mayor Jones on a second Project Marvel vote, CPS Energy and the budget fight - Texas Public Radio | TPR",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmZGSl9XMS04MEZIU0tFZlhXQUJ6VE13YkZEdUcwN0ttdWotUkpNQTFxaFd6ZDVKRUdmVENVRXZ3OGlDXzNUOGNaYUhtaUt1Zl9FRHI0a1JaLXNHVFdWSVpUYUVWUG9zWkItVVNYREtEcmJXZ1dXdXdtdDBHX1VwSFFiNC1SOEZEWjlOV01fRVVPeWF6YlN4RTZyVS1tMnl1RTVYRFB4amlUdy1oR19BU1BZamJHVFVvU2tlSzRGZFJfWG8?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 20:30:00 GMT",
+      "description": "Mayor Jones on a second Project Marvel vote, CPS Energy and the budget fight Texas Public Radio | TPR",
+      "score": 0.0,
+      "title_vi": "Thị trưởng Jones trong cuộc bỏ phiếu thứ hai của Dự án Marvel, CPS Energy và cuộc chiến ngân sách - Đài Phát thanh Công cộng Texas | TPR",
+      "title_en": "Mayor Jones on a second Project Marvel vote, CPS Energy and the budget fight - Texas Public Radio | TPR",
+      "summary_vi": "Thị trưởng Jones trong cuộc bỏ phiếu thứ hai cho Dự án Marvel, CPS Energy và cuộc chiến ngân sách Đài Phát thanh Công cộng Texas | TPR",
+      "summary_en": "Mayor Jones on a second Project Marvel vote, CPS Energy and the budget fight Texas Public Radio | TPR",
+      "meta": {}
+    },
+    {
+      "title": "Why National Energy Services Reunited (NESR) Is Up 7.6% After Securing $300 Million Kuwait Contracts – And What's Next - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQa2Q5RFF4Z2JDVWttUVF1VjZLLXFDVVBldVNTb2loV29pOG5SV055SnJrUVZHUmgtY0ZFRmg0QjZjR3ZibUVjRDZ6Yng3NVludVJiOXpEQktFT2M5TjFQT0Vac1lMZ19sSzZUZTc4MmRXUGo1aER4RnZ2YVFDNmRmUDBoZFdSM0otZ0FIaWI0NGMzT0wteWpTY2RQT3FMeGlRbGs1MmRzeDF4YXkxTERPaDRSQXphNUZWX05Xemo0b2Z0T2NfMDlfX0l2SUhuOHAzeFdDNldXNG9iYVg1MjBtQ2NhUDPSAeoBQVVfeXFMTnZtQWVxcERsM01lVzNzWDBIUWV3T2lhaXdvSXQtT19qYTBzV1QwNHRBRWNLU2VyQVRvTF90a1VjSGpTcF9mT0hiS3hWNmhaZk9IMkxONTladTM4Mkt3eDhPUS1CMmFYM1VwZmpnZE55NFI1eC1mU1AzOG1TTlR6LXJ2QXNXZWdOdm9rX1NTQnp1bGNoNXVzQ0x3RjRINUtETFh1R2RTT2YycEQtanl0WFpWYkd1RWNoTllhWkZQeVI3NzctcGNyVE5XTEhOcGE0VTY2YWVEejVDVUNjN3czVWNhNGZlSzcyRnF3?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 20:29:36 GMT",
+      "description": "Why National Energy Services Reunited (NESR) Is Up 7.6% After Securing $300 Million Kuwait Contracts – And What's Next simplywall.st",
+      "score": 0.0,
+      "title_vi": "Tại sao Dịch vụ Năng lượng Quốc gia Tái hợp nhất (NESR) Tăng 7,6% sau khi Đảm bảo các Hợp đồng Kuwait trị giá 300 triệu USD - Và Điều gì Tiếp theo - Simplywall.st",
+      "title_en": "Why National Energy Services Reunited (NESR) Is Up 7.6% After Securing $300 Million Kuwait Contracts – And What's Next - simplywall.st",
+      "summary_vi": "Tại sao Công ty Dịch vụ Năng lượng Quốc gia (NESR) tăng 7,6% sau khi đảm bảo được các hợp đồng trị giá 300 triệu USD với Kuwait – Và điều gì tiếp theo simplewall.st",
+      "summary_en": "Why National Energy Services Reunited (NESR) Is Up 7.6% After Securing $300 Million Kuwait Contracts – And What's Next simplywall.st",
+      "meta": {}
+    },
+    {
+      "title": "Employment – Pretext – Company policy - Rhode Island Lawyers Weekly",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcXI0eXNBeGdtQ1ZIaEE2QllCb29JdnExQmJldlVGTllvQXJJbWhNYnUwTTlnRDdjdUhjbmZJUUpMV2ZQWEhpSnRlMzZVUlUzV05GT2RyU0doZmZSMzBFc2N4Q0Y0czFXVXpSb3p0SWlibC1LeS0zV19jc2kzMmdsRTRMek8?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 20:25:29 GMT",
+      "description": "Employment – Pretext – Company policy Rhode Island Lawyers Weekly",
+      "score": 0.0,
+      "title_vi": "Việc làm – Lý do – Chính sách công ty - Rhode Island Lawyers Weekly",
+      "title_en": "Employment – Pretext – Company policy - Rhode Island Lawyers Weekly",
+      "summary_vi": "Việc làm – Lý do – Chính sách công ty Rhode Island Lawyers Weekly",
+      "summary_en": "Employment – Pretext – Company policy Rhode Island Lawyers Weekly",
+      "meta": {}
+    },
+    {
+      "title": "Employment – ADA – ERISA - Rhode Island Lawyers Weekly",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wbEpLWDFMeU5QOVFGZklqS0stb1JWQktCdVRyR2pTeXBqc0FKR0dtRHdQbFJ1MVdJRzRKSDBVd3MxZ1lpZXh4QmNtMDJfcjNxU1J0TE54OC14WjJiLU03RjFrU21ySk1LcHFUNHdNVmJ4Q2s?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 20:25:29 GMT",
+      "description": "Employment – ADA – ERISA Rhode Island Lawyers Weekly",
+      "score": 0.0,
+      "title_vi": "Việc làm – ADA – ERISA - Tuần báo Luật sư Rhode Island",
+      "title_en": "Employment – ADA – ERISA - Rhode Island Lawyers Weekly",
+      "summary_vi": "Việc làm – ADA – Tuần báo Luật sư ERISA Rhode Island",
+      "summary_en": "Employment – ADA – ERISA Rhode Island Lawyers Weekly",
+      "meta": {}
+    },
+    {
+      "title": "CVR Energy (CVI) Stock May Be Trading At A Premium To Earnings - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaF93TFpKX0ktTWUwQ0hzbHN2ckxybE5ISVh6cEpQWnlpdzVyYW1UY1RpZUpJdjAxQUVLRDRBWXFNbl9WbEdyNVBZLWVYNnFEcTVuX2NQWGpCV3lPUlBmVmNMU09RS0lRd1AzOWpFZDVoeW1xMUtQNlhHRUhfQW11NUl5ZEk4U2dqTmFKVTVCMHlBajRXNW44WEZPbWR6X012Vm9tQzEyMFNMdHJoTlJmS05mZjA1M2FjUmFSLTkzNnVnZ9IBxwFBVV95cUxNUXlLSG5pa05UNE5KY3U5eDlySVhtS2pSenFiYjdtUDhNdWJRNEJpZGJBS1JpM3RsRUJtbjhmMzh3T0JpWThkVEhxa3ctZkowb1ZuTXBPZ0lNX2d2d2UyUEFrMmRneGhtYzd2X19kQWQzUzNFTGd2LVRIcUlZSnVZMUFEeFNrYy1yUVE0dEVjUnVkU2lRTGVtWGtETzg4TmNMelRubzB0WHdLejhhYTFvajNYMFdQTnJvTS1ULWd0U3lNWkJuaHJF?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 20:24:33 GMT",
+      "description": "CVR Energy (CVI) Stock May Be Trading At A Premium To Earnings simplywall.st",
+      "score": 0.0,
+      "title_vi": "Cổ phiếu CVR Energy (CVI) có thể được giao dịch ở mức cao hơn thu nhập - simplewall.st",
+      "title_en": "CVR Energy (CVI) Stock May Be Trading At A Premium To Earnings - simplywall.st",
+      "summary_vi": "Cổ phiếu CVR Energy (CVI) có thể được giao dịch ở mức cao hơn thu nhập đơn giảnwall.st",
+      "summary_en": "CVR Energy (CVI) Stock May Be Trading At A Premium To Earnings simplywall.st",
+      "meta": {}
+    },
+    {
+      "title": "Student protests: What reforms India’s higher education system needs - Table.Briefings",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNazFlMXIwdTBUekpnMVJTZ3U1WXJoMjZ1ekJRQ1F5TkZ5OC1KRDBwWEd6N0hKOUpzSndSQVBzZzYtWGNhMV9wYi1la1U2dnVTaFJBcmtnWDFUQnZRZGpfSm9ZNktQcktQZmIydGhNV1RIbm14UW5PRHpmZHpVaktxU3pGaUlfQ3hKbXUwRjJCU0RyXzRFODBvTlZObzY4QWxOTXhKYXln?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 20:15:03 GMT",
+      "description": "Student protests: What reforms India’s higher education system needs Table.Briefings",
+      "score": 0.0,
+      "title_vi": "Sinh viên phản đối: Hệ thống giáo dục đại học Ấn Độ cần những cải cách gì - Table.Briefings",
+      "title_en": "Student protests: What reforms India’s higher education system needs - Table.Briefings",
+      "summary_vi": "Sinh viên phản đối: Hệ thống giáo dục đại học của Ấn Độ cần những cải cách gì Bảng.Tóm tắt",
+      "summary_en": "Student protests: What reforms India’s higher education system needs Table.Briefings",
+      "meta": {}
+    },
+    {
+      "title": "Poland now 6th-largest EU economy, ahead of Switzerland and Belgium",
+      "url": "https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 20:13:38 +0000",
+      "description": "Article URL: https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium Comments URL: https://news.ycombinator.com/item?id=49235323 Points: 22 # Comments: 16",
+      "score": 0.0,
+      "title_vi": "Ba Lan hiện là nền kinh tế lớn thứ 6 EU, trước Thụy Sĩ và Bỉ",
+      "title_en": "Poland now 6th-largest EU economy, ahead of Switzerland and Belgium",
+      "summary_vi": "URL bài viết: https://www.euronews.com/business/2026/08/09/poland-now-sixth-most-eu-economy-ahead-of-switzerland-and-belgium URL bình luận: https://news.ycombinator.com/item?id=49235323 Điểm: 22 # Bình luận: 16",
+      "summary_en": "Article URL: https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium Comments URL: https://news.ycombinator.com/item?id=49235323 Points: 22 # Comments: 16",
+      "meta": {}
+    },
+    {
+      "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
+      "url": "https://github.com/yegors/deGDID",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 20:06:51 +0000",
+      "description": "Article URL: https://github.com/yegors/deGDID Comments URL: https://news.ycombinator.com/item?id=49235242 Points: 7 # Comments: 2",
+      "score": 0.0,
+      "title_vi": "Xóa tất cả các phiên bản GDID của Microsoft và ngăn việc tạo các phiên bản mới",
+      "title_en": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
+      "summary_vi": "URL bài viết: https://github.com/yegors/deGDID URL bình luận: https://news.ycombinator.com/item?id=49235242 Điểm: 7 # Bình luận: 2",
+      "summary_en": "Article URL: https://github.com/yegors/deGDID Comments URL: https://news.ycombinator.com/item?id=49235242 Points: 7 # Comments: 2",
+      "meta": {}
+    },
+    {
+      "title": "Honoring Officer David Rose one year after Atlanta CDC shooting; rising fungus threat to healthcare facilities, health agency warns - CBS News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQeG1hSW9wSFZ3Q2NVaWZNWTdtOWpBS2hJbUludE5ULUptVFdGeFdZanNiQ013ZDhWaU0wQ0ZmS1RxWmNFZmd3UDQ1N01HR0M1eERISERoQ0xjUWhKQUhtRExQU1duRDN0R1Zza2t4eXh1Vm1uZkVtcUVBMVRqa045M0tOcnItc3RSZEp1blhPZHYtaFktN19DWExDN0oya2ZxZk5henNfX1F0MnQ4NEFQVWloWnhvTkROZ092c0xHOTJjYkRCaDhMd3NVdjUyQlQxdkJF?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 20:00:07 GMT",
+      "description": "Honoring Officer David Rose one year after Atlanta CDC shooting; rising fungus threat to healthcare facilities, health agency warns CBS News",
+      "score": 0.0,
+      "title_vi": "Vinh danh sĩ quan David Rose một năm sau vụ xả súng ở Atlanta CDC; Cơ quan y tế cảnh báo mối đe dọa nấm gia tăng đối với các cơ sở chăm sóc sức khỏe - CBS News",
+      "title_en": "Honoring Officer David Rose one year after Atlanta CDC shooting; rising fungus threat to healthcare facilities, health agency warns - CBS News",
+      "summary_vi": "Vinh danh sĩ quan David Rose một năm sau vụ xả súng ở Atlanta CDC; Mối đe dọa nấm gia tăng đối với các cơ sở chăm sóc sức khỏe, cơ quan y tế cảnh báo CBS News",
+      "summary_en": "Honoring Officer David Rose one year after Atlanta CDC shooting; rising fungus threat to healthcare facilities, health agency warns CBS News",
+      "meta": {}
+    },
+    {
+      "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
+      "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 19:20:40 +0000",
+      "description": "Article URL: https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499 Comments URL: https://news.ycombinator.com/item?id=49234724 Points: 29 # Comments: 9",
+      "score": 0.0,
+      "title_vi": "Nhóm ransomware bỏ qua CEO, nhắm thẳng vào giám đốc CNTT khoảng 40 tuổi",
+      "title_en": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
+      "summary_vi": "URL bài viết: https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499 URL bình luận: https://news.ycombinator.com/item?id=49234724 Điểm: 29 # Bình luận: 9",
+      "summary_en": "Article URL: https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499 Comments URL: https://news.ycombinator.com/item?id=49234724 Points: 29 # Comments: 9",
+      "meta": {}
+    },
+    {
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 19:20:32 +0000",
+      "description": "Programming with Claude Code will soon require even less human oversight.",
+      "score": 0.0,
+      "title_vi": "Anthropic đang bật chế độ tự động của Claude Code theo mặc định",
+      "title_en": "Anthropic is turning Claude Code’s auto mode on by default",
+      "summary_vi": "Lập trình bằng Claude Code sẽ sớm đòi hỏi ít sự giám sát của con người hơn.",
+      "summary_en": "Programming with Claude Code will soon require even less human oversight.",
+      "meta": {}
+    },
+    {
+      "title": "How I use LLMs to learn complex topics",
+      "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 19:16:49 +0000",
+      "description": "Article URL: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/ Comments URL: https://news.ycombinator.com/item?id=49234675 Points: 114 # Comments: 58",
+      "score": 0.0,
+      "title_vi": "Cách tôi sử dụng LLM để tìm hiểu các chủ đề phức tạp",
+      "title_en": "How I use LLMs to learn complex topics",
+      "summary_vi": "URL bài viết: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/ URL bình luận: https://news.ycombinator.com/item?id=49234675 Điểm: 114 # Bình luận: 58",
+      "summary_en": "Article URL: https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/ Comments URL: https://news.ycombinator.com/item?id=49234675 Points: 114 # Comments: 58",
+      "meta": {}
+    },
+    {
+      "title": "A zero-dependency, ultra-lightweight database time machine for SQLite",
+      "url": "https://github.com/nsrht/time-travel-sqlite-debugger",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 18:59:53 +0000",
+      "description": "Article URL: https://github.com/nsrht/time-travel-sqlite-debugger Comments URL: https://news.ycombinator.com/item?id=49234506 Points: 16 # Comments: 2",
+      "score": 0.0,
+      "title_vi": "Cỗ máy thời gian cơ sở dữ liệu siêu nhẹ, không phụ thuộc cho SQLite",
+      "title_en": "A zero-dependency, ultra-lightweight database time machine for SQLite",
+      "summary_vi": "URL bài viết: https://github.com/nsrht/time-travel-sqlite-debugger URL bình luận: https://news.ycombinator.com/item?id=49234506 Điểm: 16 # Bình luận: 2",
+      "summary_en": "Article URL: https://github.com/nsrht/time-travel-sqlite-debugger Comments URL: https://news.ycombinator.com/item?id=49234506 Points: 16 # Comments: 2",
+      "meta": {}
+    },
+    {
+      "title": "Plug-In Solar Panels Starting to Sprout in U.S. Backyards",
+      "url": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 18:51:57 +0000",
+      "description": "Article URL: https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html Comments URL: https://news.ycombinator.com/item?id=49234393 Points: 41 # Comments: 23",
+      "score": 0.0,
+      "title_vi": "Các tấm pin mặt trời cắm vào bắt đầu mọc lên ở các sân sau của Hoa Kỳ",
+      "title_en": "Plug-In Solar Panels Starting to Sprout in U.S. Backyards",
+      "summary_vi": "URL bài viết: https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html URL nhận xét: https://news.ycombinator.com/item?id=49234393 Điểm: 41 # Nhận xét: 23",
+      "summary_en": "Article URL: https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html Comments URL: https://news.ycombinator.com/item?id=49234393 Points: 41 # Comments: 23",
+      "meta": {}
+    },
+    {
+      "title": "Giá vàng tuần này dự báo tăng",
+      "url": "https://vnexpress.net/gia-vang-tuan-nay-du-bao-tang-5107101.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Mon, 10 Aug 2026 00:00:00 +0700",
+      "description": "Thoát khỏi vùng tích lũy với mức tăng gần 300 USD tuần qua, Phố Wall lẫn nhà đầu tư cá nhân đều lạc quan giá vàng tiếp tục đi lên.",
+      "score": 0.0,
+      "title_vi": "Giá vàng tuần này dự báo tăng",
+      "title_en": "Gold price is expected to increase this week",
+      "summary_vi": "Thoát khỏi vùng tích lũy với mức tăng gần 300 USD tuần qua, Phố Wall lẫn nhà đầu tư cá nhân đều lạc quan giá vàng tiếp tục đi lên.",
+      "summary_en": "Escaping the accumulation zone with an increase of nearly 300 USD last week, Wall Street and individual investors are optimistic that gold prices will continue to rise.",
+      "meta": {}
+    },
+    {
+      "title": "Amazon Stock Rebounds From Slump: AI Ambitions and $2.5B FTC Deal Ignite $3 Trillion Hopes - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1ZoNi1QRmswZjFEXzBXcGxCOU9aTTh2UllSSHFoYzVHc3d3cDZIZXVKMDNJdnh3TFh1Ul9wYXZIb1dsWkNNbUUzWkdGaHQxdUtrZk1sNWxoYzhPWWt1dE04ZWtyM0FlUkc2dmJDOGNoLWVObmdGZ1FkSEgxVzJFd2NpVEJWZXhGNG1uWWhObzBoRnFIYUowSHpvYUhkR3NlSDh4X01aSlNXTFY2?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 14:44:43 GMT",
+      "description": "Amazon Stock Rebounds From Slump: AI Ambitions and $2.5B FTC Deal Ignite $3 Trillion Hopes TechStock²",
+      "score": 0.0,
+      "title_vi": "Cổ phiếu Amazon phục hồi sau thời kỳ suy thoái: Tham vọng AI và thỏa thuận FTC trị giá 2,5 tỷ USD khơi dậy hy vọng 3 nghìn tỷ USD - TechStock²",
+      "title_en": "Amazon Stock Rebounds From Slump: AI Ambitions and $2.5B FTC Deal Ignite $3 Trillion Hopes - TechStock²",
+      "summary_vi": "Cổ phiếu Amazon phục hồi sau thời kỳ suy thoái: Tham vọng AI và thỏa thuận FTC trị giá 2,5 tỷ USD khơi dậy hy vọng 3 nghìn tỷ USD TechStock²",
+      "summary_en": "Amazon Stock Rebounds From Slump: AI Ambitions and $2.5B FTC Deal Ignite $3 Trillion Hopes TechStock²",
+      "meta": {}
+    },
+    {
+      "title": "Most Gulf bourses subdued as investors await Strait of Hormuz deal clarity - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZXFfQ0YybkFMMlYyUVVIbDBSazRGN19SeDlzRTZFWklTek93NlY2S3MyNThpalc0aGFJQkg1c1NTWW1VUWstUGRhVzZ3LTIzaWdWbTZ3aV9MU21Td3l5NzhmaHZlZ1E1cGdRbDJ0WXlFOXhvSHZveFNQVjgxVkRxV3NXNkUwSEhFVXBpaUdXUjZLdzE3aS10dEZpRGhBRTZFczdIUkQ4bkw1TmtNMFJycFhTSkc4VmEzcEs0VHVFSQ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 12:55:43 GMT",
+      "description": "Most Gulf bourses subdued as investors await Strait of Hormuz deal clarity Reuters",
+      "score": 0.0,
+      "title_vi": "Hầu hết các thị trường chứng khoán vùng Vịnh đều trầm lắng khi các nhà đầu tư chờ đợi thỏa thuận rõ ràng ở eo biển Hormuz - Reuters",
+      "title_en": "Most Gulf bourses subdued as investors await Strait of Hormuz deal clarity - Reuters",
+      "summary_vi": "Hầu hết các thị trường chứng khoán vùng Vịnh đều trầm lắng khi các nhà đầu tư chờ đợi thỏa thuận rõ ràng ở eo biển Hormuz",
+      "summary_en": "Most Gulf bourses subdued as investors await Strait of Hormuz deal clarity Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Three in five Americans favor stronger oversight of social media companies, Reuters/Ipsos poll finds By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPeFptTFQ0Z3lFVHd0UDkwRjExbENnTDFyLXhtMkZWY09BeE53TU9wMVpvUWg3VG4yT0hCVk9IUVJ4dXM0TExkNUdtNlUwbU02eFZhY2U4NUo4RjJvRWt4blgyNkdQaFp0eF9DSE9LMVNKeXVHUTEwTkN4U0RJZkFNYk9oODA3T2wyMWdBM0dnSXd6dmZ6OFN3NURpSWtZRGxjOFlQYk4xQ3VhRTdPcG1nTkU3Z1NoVDVTd0VWbldzX2JjZGVKY0JBRERsX2ZNWUM1ZS1CeWd1aTJkRnVaV1hmWUV3WGpFSEVkRVdN?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 10:14:15 GMT",
+      "description": "Three in five Americans favor stronger oversight of social media companies, Reuters/Ipsos poll finds By Reuters Investing.com",
+      "score": 0.0,
+      "title_vi": "Cuộc thăm dò của Reuters/Ipsos cho thấy ba trong năm người Mỹ ủng hộ việc giám sát chặt chẽ hơn các công ty truyền thông xã hội Theo Reuters - Investing.com",
+      "title_en": "Three in five Americans favor stronger oversight of social media companies, Reuters/Ipsos poll finds By Reuters - Investing.com",
+      "summary_vi": "Cuộc thăm dò của Reuters/Ipsos cho thấy ba trong năm người Mỹ ủng hộ việc giám sát chặt chẽ hơn các công ty truyền thông xã hội Theo Reuters Investing.com",
+      "summary_en": "Three in five Americans favor stronger oversight of social media companies, Reuters/Ipsos poll finds By Reuters Investing.com",
+      "meta": {}
+    },
+    {
+      "title": "Bảo Tín Mạnh Hải và Mi Hồng lên tiếng sau kết luận thanh tra của Chính phủ",
+      "url": "https://vnexpress.net/bao-tin-manh-hai-va-mi-hong-len-tieng-sau-ket-luan-thanh-tra-cua-chinh-phu-5107038.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sun, 09 Aug 2026 15:59:15 +0700",
+      "description": "Bảo Tín Mạnh Hải, Mi Hồng cho biết mọi hoạt động kinh doanh vẫn diễn ra bình thường, khẳng định kết luận của Thanh tra Chính phủ là cơ sở nâng cao chất lượng quản trị và tính tuân thủ pháp luật.",
+      "score": 0.0,
+      "title_vi": "Bảo Tín Mạnh Hải và Mi Hồng lên tiếng sau kết luận thanh tra của Chính phủ",
+      "title_en": "Bao Tin Manh Hai and Mi Hong spoke up after the Government's inspection conclusion",
+      "summary_vi": "Bảo Tín Mạnh Hải, Mi Hồng cho biết mọi hoạt động kinh doanh vẫn diễn ra bình thường, khẳng định kết luận của Thanh tra Chính phủ là cơ sở nâng cao chất lượng quản trị và tính tuân thủ pháp luật.",
+      "summary_en": "Bao Tin Manh Hai and Mi Hong said all business activities are still going on normally, affirming that the Government Inspectorate's conclusion is the basis for improving the quality of governance and compliance with the law.",
+      "meta": {}
+    },
+    {
+      "title": "German trade deficit with China grows as Beijing relies less on European industry - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODQ2YlF3a0ZsOFRad3lFOW5WTzdtOFVSWmYwTEhTVkNhQ283ckFGd0YtR2hxa1EzYTd0LWVSN2NHNnhESFNpLXhJVTNMRlVCTW8waDI2RFpOeGZKX2dvTGZoM3JzNWJ3ZjRUMFdMaHZleVo1ZG5ackJES1lBZ2ZvelE4Tm1hbGdCaWoxaWE4dlExZGNsaWdKV085cDNFcml3aGxkZUJYdnJvYk8wZnJ2MVNMOXdxbFA4Tk1RQVo1cGc?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sun, 09 Aug 2026 06:32:00 GMT",
+      "description": "German trade deficit with China grows as Beijing relies less on European industry Reuters",
+      "score": 0.0,
+      "title_vi": "Thâm hụt thương mại của Đức với Trung Quốc tăng do Bắc Kinh ít phụ thuộc hơn vào ngành công nghiệp châu Âu - Reuters",
+      "title_en": "German trade deficit with China grows as Beijing relies less on European industry - Reuters",
+      "summary_vi": "Thâm hụt thương mại của Đức với Trung Quốc tăng do Bắc Kinh ít phụ thuộc hơn vào ngành công nghiệp châu Âu",
+      "summary_en": "German trade deficit with China grows as Beijing relies less on European industry Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Ghẹ Việt Nam hút hàng ở Mỹ",
+      "url": "https://vnexpress.net/ghe-viet-nam-hut-hang-o-my-5107034.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sun, 09 Aug 2026 13:08:47 +0700",
+      "description": "Mỹ ngày càng trở thành thị trường tiêu thụ áp đảo của mặt hàng ghẹ Việt Nam, với kim ngạch tăng đến 74% trong nửa đầu năm nay.",
+      "score": 0.0,
+      "title_vi": "Ghẹ Việt Nam hút hàng ở Mỹ",
+      "title_en": "Vietnamese crab attracts customers in the US",
+      "summary_vi": "Mỹ ngày càng trở thành thị trường tiêu thụ áp đảo của mặt hàng ghẹ Việt Nam, với kim ngạch tăng đến 74% trong nửa đầu năm nay.",
+      "summary_en": "The US is increasingly becoming the dominant consumer market for Vietnamese crab products, with turnover increasing by 74% in the first half of this year.",
+      "meta": {}
+    },
+    {
+      "title": "Hòa Phát dự kiến rót thêm 20.000 tỷ đồng vào dự án ray đường sắt tại Dung Quất",
+      "url": "https://vnexpress.net/hoa-phat-du-kien-rot-them-20-000-ty-dong-vao-du-an-ray-duong-sat-tai-dung-quat-5107026.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sun, 09 Aug 2026 13:05:10 +0700",
+      "description": "Hòa Phát muốn chi thêm 20.000 tỷ để mở rộng dự án sản xuất ray đường sắt và thép đặc biệt tại khu kinh tế Dung Quất.",
+      "score": 0.0,
+      "title_vi": "Hòa Phát dự kiến rót thêm 20.000 tỷ đồng vào dự án ray đường sắt tại Dung Quất",
+      "title_en": "Hoa Phat plans to pour an additional VND 20,000 billion into the railway project in Dung Quat",
+      "summary_vi": "Hòa Phát muốn chi thêm 20.000 tỷ để mở rộng dự án sản xuất ray đường sắt và thép đặc biệt tại khu kinh tế Dung Quất.",
+      "summary_en": "Hoa Phat wants to spend an additional 20,000 billion to expand the railway and special steel production project in Dung Quat economic zone.",
+      "meta": {}
+    }
+  ],
+  "insights": {
+    "status": "ready",
+    "model": "z-ai/glm-5.2",
+    "daily_thesis_vi": "Tin tức hôm nay cho thấy sự chuyển dịch mạnh mẽ sang tự động hóa AI, an ninh mạng và quản trị tuân thủ. Các doanh nghiệp đang khát các công cụ AI-first để xử lý tài liệu, bảo vệ dữ liệu và tối ưu hóa vận hành.",
+    "daily_thesis_en": "Today's news highlights a strong shift towards AI automation, cybersecurity, and compliance governance. Businesses are hungry for AI-first tools to handle documents, protect data, and optimize operations.",
+    "opportunities": [
+      {
+        "name_vi": "CRM tự động hóa cho AI Agent",
+        "name_en": "Agentic-first CRM",
+        "pain_vi": "CRM truyền thống không tối ưu cho AI agent tự động hóa quy trình bán hàng.",
+        "pain_en": "Traditional CRMs are not optimized for AI agents automating sales workflows.",
+        "audience_vi": "Đội ngũ kinh doanh B2B",
+        "audience_en": "B2B sales teams",
+        "mvp_vi": "Tích hợp API cho phép AI agent tự động nhập và cập nhật dữ liệu khách hàng.",
+        "mvp_en": "API integration allowing AI agents to automatically input and update customer data.",
+        "scope": "global",
+        "score": 82,
+        "evidence_ids": [
+          3
+        ],
+        "risks_vi": "Cạnh tranh cao từ các CRM lớn nhanh chóng tích hợp AI.",
+        "risks_en": "High competition from major CRMs rapidly integrating AI.",
+        "sources": [
+          {
+            "title": "trycompai/crm",
+            "url": "https://github.com/trycompai/crm",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Chuyển đổi tài liệu sang Markdown",
+        "name_en": "Document to Markdown conversion",
+        "pain_vi": "Trích xuất dữ liệu sạch từ PDF, Word, Excel để đưa vào LLM rất mất thời gian.",
+        "pain_en": "Extracting clean data from PDFs, Word, Excel for LLMs is time-consuming.",
+        "audience_vi": "Lập trình viên, công ty AI",
+        "audience_en": "Developers, AI companies",
+        "mvp_vi": "API chuyển đổi hàng loạt tài liệu đa định dạng sang Markdown sạch.",
+        "mvp_en": "API for batch converting multi-format documents to clean Markdown.",
+        "scope": "global",
+        "score": 88,
+        "evidence_ids": [
+          1
+        ],
+        "risks_vi": "Dễ bị sao chép, rào cản kỹ thuật thấp.",
+        "risks_en": "Easily replicable, low technical barrier.",
+        "sources": [
+          {
+            "title": "firecrawl/anydoc",
+            "url": "https://github.com/firecrawl/anydoc",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Bảo vệ dữ liệu và chống mã độc",
+        "name_en": "Data protection and anti-ransomware",
+        "pain_vi": "Tội phạm mạng tấn công trực tiếp quản trị viên IT trung niên để mã hóa dữ liệu.",
+        "pain_en": "Cybercriminals target middle-aged IT admins directly to encrypt data.",
+        "audience_vi": "Doanh nghiệp vừa và nhỏ",
+        "audience_en": "SMBs",
+        "mvp_vi": "Phần mềm giám sát và chặn các thay đổi dữ liệu bất thường theo thời gian thực.",
+        "mvp_en": "Software monitoring and blocking anomalous data changes in real-time.",
+        "scope": "global",
+        "score": 90,
+        "evidence_ids": [
+          22
+        ],
+        "risks_vi": "Chi phí phát triển cao, đòi hỏi chuyên môn an ninh mạng sâu.",
+        "risks_en": "High development costs, requiring deep cybersecurity expertise.",
+        "sources": [
+          {
+            "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
+            "url": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
+            "source": "Hacker News"
+          }
+        ]
+      },
+      {
+        "name_vi": "Phần mềm tuân thủ pháp luật lao động",
+        "name_en": "Employment law compliance software",
+        "pain_vi": "Doanh nghiệp gặp khó khăn trong việc tuân thủ ADA và các chính sách nội bộ.",
+        "pain_en": "Businesses struggle to comply with ADA and internal company policies.",
+        "audience_vi": "Phòng nhân sự, doanh nghiệp Mỹ",
+        "audience_en": "HR departments, US businesses",
+        "mvp_vi": "Tự động kiểm tra chính sách nội bộ so với luật ADA và ERISA.",
+        "mvp_en": "Automated checker for internal policies against ADA and ERISA laws.",
+        "scope": "global",
+        "score": 75,
+        "evidence_ids": [
+          11,
+          15,
+          16
+        ],
+        "risks_vi": "Rủi ro pháp lý nếu tư vấn sai, cần cập nhật luật liên tục.",
+        "risks_en": "Legal risks if advice is wrong, requires continuous law updates.",
+        "sources": [
+          {
+            "title": "Employment – ADA - Rhode Island Lawyers Weekly",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPeW1QTThJbUxXS3lqeDRMMzBPb2JCZ3daNjA0eWxiYnNkTEE2OHJ2VmZlSU9oYnZlbHlBSmdNVTU1UFJnODc3VW9JYVdwbVhKVk5OLWJYUjd2MGlORnBaeUNDNWtYS3I1SFFB?oc=5",
+            "source": "Google News Social Needs"
+          },
+          {
+            "title": "Employment – Pretext – Company policy - Rhode Island Lawyers Weekly",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcXI0eXNBeGdtQ1ZIaEE2QllCb29JdnExQmJldlVGTllvQXJJbWhNYnUwTTlnRDdjdUhjbmZJUUpMV2ZQWEhpSnRlMzZVUlUzV05GT2RyU0doZmZSMzBFc2N4Q0Y0czFXVXpSb3p0SWlibC1LeS0zV19jc2kzMmdsRTRMek8?oc=5",
+            "source": "Google News Social Needs"
+          },
+          {
+            "title": "Employment – ADA – ERISA - Rhode Island Lawyers Weekly",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5wbEpLWDFMeU5QOVFGZklqS0stb1JWQktCdVRyR2pTeXBqc0FKR0dtRHdQbFJ1MVdJRzRKSDBVd3MxZ1lpZXh4QmNtMDJfcjNxU1J0TE54OC14WjJiLU03RjFrU21ySk1LcHFUNHdNVmJ4Q2s?oc=5",
+            "source": "Google News Social Needs"
+          }
+        ]
+      },
+      {
+        "name_vi": "Nền tảng xuất khẩu thủy sản",
+        "name_en": "Seafood export platform",
+        "pain_vi": "Cua Việt Nam cần đối tác Mỹ nhưng thiếu kênh phân phối và kiểm soát chất lượng.",
+        "pain_en": "Vietnamese crabs need US partners but lack distribution and quality control.",
+        "audience_vi": "Nhà xuất khẩu thủy sản Việt Nam",
+        "audience_en": "Vietnamese seafood exporters",
+        "mvp_vi": "Sàn kết nối nhà xuất khẩu Việt Nam với người mua Mỹ, tích hợp kiểm tra chất lượng.",
+        "mvp_en": "Marketplace connecting Vietnamese exporters with US buyers, integrating quality checks.",
+        "scope": "vietnam",
+        "score": 78,
+        "evidence_ids": [
+          33
+        ],
+        "risks_vi": "Rủi ro chuỗi cung ứng, biến động chính sách xuất nhập khẩu.",
+        "risks_en": "Supply chain risks, fluctuating import-export policies.",
+        "sources": [
+          {
+            "title": "Vietnamese crab attracts customers in the US",
+            "url": "https://vnexpress.net/ghe-viet-nam-hut-hang-o-my-5107034.html",
+            "source": "VnExpress Kinh doanh"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}
