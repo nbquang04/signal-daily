@@ -1,0 +1,739 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-10T21:01:08.627273+00:00",
+  "markets": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7753.1099,
+      "change_pct": -0.06,
+      "currency": "USD"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "price": 26605.3574,
+      "change_pct": -0.32,
+      "currency": "USD"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "price": 4448.7002,
+      "change_pct": 2.49,
+      "currency": "USD"
+    },
+    {
+      "name": "Crude Oil",
+      "symbol": "CL=F",
+      "price": 82.35,
+      "change_pct": 5.33,
+      "currency": "USD"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC-USD",
+      "price": 64067.9414,
+      "change_pct": -1.2,
+      "currency": "USD"
+    },
+    {
+      "name": "USD/VND",
+      "symbol": "VND=X",
+      "price": 26150.0,
+      "change_pct": -0.2,
+      "currency": "VND"
+    }
+  ],
+  "items": [
+    {
+      "title": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-03T16:36:14Z",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "score": 1767.64,
+      "title_vi": "firecrawl/anydoc",
+      "title_en": "firecrawl/anydoc",
+      "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
+      "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "meta": {
+        "stars": 13381,
+        "forks": 675,
+        "language": "Rust",
+        "stars_per_day": 1672.6
+      }
+    },
+    {
+      "title": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-29T20:03:08Z",
+      "description": "Multiplayer agent harness for work",
+      "score": 1090.45,
+      "title_vi": "phần mềm yc/m2",
+      "title_en": "yc software/sqm",
+      "summary_vi": "Khai thác tác nhân nhiều người chơi cho công việc",
+      "summary_en": "Multiplayer agent harness for work",
+      "meta": {
+        "stars": 12945,
+        "forks": 1498,
+        "language": "TypeScript",
+        "stars_per_day": 995.8
+      }
+    },
+    {
+      "title": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-31T21:38:51Z",
+      "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "score": 826.08,
+      "title_vi": "thửcompai/crm",
+      "title_en": "trycompai/crm",
+      "summary_vi": "Comp AI CRM là một CRM mã nguồn mở được thiết kế cho các đại lý AI. CRM ưu tiên tác nhân.",
+      "summary_en": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "meta": {
+        "stars": 8097,
+        "forks": 897,
+        "language": "TypeScript",
+        "stars_per_day": 736.1
+      }
+    },
+    {
+      "title": "bashalarmistalt/decimen-optical-transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-30T18:17:54Z",
+      "description": "",
+      "score": 561.91,
+      "title_vi": "bashalarmistalt/decimen-quang-chuyển",
+      "title_en": "bashalarmistalt/decimen-optical-transfer",
+      "summary_vi": "bashalarmistalt/decimen-quang-chuyển",
+      "summary_en": "bashalarmistalt/decimen-optical-transfer",
+      "meta": {
+        "stars": 5705,
+        "forks": 696,
+        "language": "TypeScript",
+        "stars_per_day": 475.4
+      }
+    },
+    {
+      "title": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-05T01:19:41Z",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "score": 454.59,
+      "title_vi": "KKKKhazix/chữ viết của con người",
+      "title_en": "KKKKhazix/human-writing",
+      "summary_vi": "Làm cho tiếng Trung được viết bởi AI đọc giống như một người cụ thể đang nói. Kỹ năng sáng tạo và sửa đổi phổ quát, có sẵn ngay lập tức.",
+      "summary_en": "Make the Chinese written by AI read like a specific person speaking. Universal creation and revision skills, available right out of the box.",
+      "meta": {
+        "stars": 2264,
+        "forks": 197,
+        "language": "Python",
+        "stars_per_day": 377.3
+      }
+    },
+    {
+      "title": "MiniMax-AI/MiniMax-H3",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-30T08:41:09Z",
+      "description": "",
+      "score": 426.57,
+      "title_vi": "MiniMax-AI/MiniMax-H3",
+      "title_en": "MiniMax-AI/MiniMax-H3",
+      "summary_vi": "MiniMax-AI/MiniMax-H3",
+      "summary_en": "MiniMax-AI/MiniMax-H3",
+      "meta": {
+        "stars": 4120,
+        "forks": 260,
+        "language": "Python",
+        "stars_per_day": 343.3
+      }
+    },
+    {
+      "title": "ShawnPana/phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-07T22:28:53Z",
+      "description": "let your agent control your phone",
+      "score": 390.78,
+      "title_vi": "ShawnPana/dây điện thoại",
+      "title_en": "ShawnPana/phone-harness",
+      "summary_vi": "hãy để người đại diện của bạn điều khiển điện thoại của bạn",
+      "summary_en": "let your agent control your phone",
+      "meta": {
+        "stars": 1277,
+        "forks": 98,
+        "language": "Python",
+        "stars_per_day": 319.2
+      }
+    },
+    {
+      "title": "oil-oil/oil-motion",
+      "url": "https://github.com/oil-oil/oil-motion",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-07T12:36:33Z",
+      "description": "Create smooth, responsive interactive web animations.",
+      "score": 351.26,
+      "title_vi": "dầu-dầu/dầu-chuyển động",
+      "title_en": "oil-oil/oil-motion",
+      "summary_vi": "Tạo hoạt ảnh web tương tác mượt mà, đáp ứng.",
+      "summary_en": "Create smooth, responsive interactive web animations.",
+      "meta": {
+        "stars": 1124,
+        "forks": 96,
+        "language": "Python",
+        "stars_per_day": 281.0
+      }
+    },
+    {
+      "title": "thebuggeddev/anatomy",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-02T11:15:16Z",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "score": 316.32,
+      "title_vi": "thebuggeddev/anatomy",
+      "title_en": "thebuggeddev/anatomy",
+      "summary_vi": "Trình khám phá giải phẫu người 3D tương tác được xây dựng bằng bajs với GPT 5.6 Sol",
+      "summary_en": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "meta": {
+        "stars": 2156,
+        "forks": 613,
+        "language": "TypeScript",
+        "stars_per_day": 239.6
+      }
+    },
+    {
+      "title": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-31T09:40:58Z",
+      "description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
+      "score": 302.48,
+      "title_vi": "genspark-ai/genoffice",
+      "title_en": "genspark-ai/genoffice",
+      "summary_vi": "Bộ ứng dụng văn phòng AI mã nguồn mở, miễn phí dành cho macOS, Windows & Linux — Chỉnh sửa Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF và Markdown bằng các tác nhân AI tích hợp.",
+      "summary_en": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
+      "meta": {
+        "stars": 2468,
+        "forks": 449,
+        "language": "TypeScript",
+        "stars_per_day": 224.4
+      }
+    },
+    {
+      "title": "Howard University expands AI education opportunities for students - WTOP",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbFQzZU5WOEhRWWZ1V1NoU3kzT0dXZDNOdFV0bzVpZmxhamxjRXlycFZ4U2pfVmhmbGZHQW1MQW53QlhYN0Z5MndHa2ZqdWswVHdnYjBpdVM2VERMTGlPQ1gtM01lVk95cW1OU3ZKZ2dtU0JJRl9PMkQ1b3A1WEdYR2RrOHdVRWdMc0xZTnVWbzNoLUZhT0dVcjRTTkx5WjZoZk1zd3BHczlxeHJPTzQ4WFBKckJadw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 20:53:25 GMT",
+      "description": "Howard University expands AI education opportunities for students WTOP",
+      "score": 0.0,
+      "title_vi": "Đại học Howard mở rộng cơ hội giáo dục AI cho sinh viên - WTOP",
+      "title_en": "Howard University expands AI education opportunities for students - WTOP",
+      "summary_vi": "Đại học Howard mở rộng cơ hội giáo dục AI cho sinh viên WTOP",
+      "summary_en": "Howard University expands AI education opportunities for students WTOP",
+      "meta": {}
+    },
+    {
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 20:53:02 +0000",
+      "description": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "score": 0.0,
+      "title_vi": "Tuyên ngôn AI của Mark Zuckerberg chính xác là lý do tại sao mọi người không thích AI",
+      "title_en": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "summary_vi": "Hôm thứ Hai, Mark Zuckerberg đã xuất bản một bản tuyên ngôn dài 6.500 từ về AI cá nhân, phần lớn là về khả năng của hệ thống “siêu trí tuệ cá nhân” mà Meta AI đang xây dựng.",
+      "summary_en": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "meta": {}
+    },
+    {
+      "title": "NC Education Lottery Evening Drawing - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1leFFaVEF6R1lFUTQ1ZnJwMlhCcTk5VnJpdkhsaTkwaUoyZnRiWTgtbW1iT0I2TXJ6dGZHcS1MZEs5djBpLVIzc25qczJfT3BOZG5vcWdTY2xucjZ3bEtQdmJSUmhlcnJTNzc3YzZVN0tsNUY2VTJR?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 20:46:44 GMT",
+      "description": "NC Education Lottery Evening Drawing WRAL",
+      "score": 0.0,
+      "title_vi": "Bản vẽ buổi tối xổ số giáo dục NC - WRAL",
+      "title_en": "NC Education Lottery Evening Drawing - WRAL",
+      "summary_vi": "Bản vẽ buổi tối xổ số giáo dục NC WRAL",
+      "summary_en": "NC Education Lottery Evening Drawing WRAL",
+      "meta": {}
+    },
+    {
+      "title": "NC Education Lottery Daytime Drawing - WRAL",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkWWZ0YVdEcnpqX3pfME5fenJGeF9FUkdmb1A3TmptdC1GMEw5b3BnUXpmV1k5ZDJ3OE5OS2Q5SnFLTHYwNUF4MTVtbEd5ZTFDX3ZIR1F5amx3QTdUaUdDb1puX05CVV9yVTRNODdSN0Z0R3FnMnZHOExNaw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 20:46:44 GMT",
+      "description": "NC Education Lottery Daytime Drawing WRAL",
+      "score": 0.0,
+      "title_vi": "Xổ số giáo dục NC Vẽ ban ngày - WRAL",
+      "title_en": "NC Education Lottery Daytime Drawing - WRAL",
+      "summary_vi": "Xổ số Giáo dục NC Vẽ ban ngày WRAL",
+      "summary_en": "NC Education Lottery Daytime Drawing WRAL",
+      "meta": {}
+    },
+    {
+      "title": "CMCSS Board of Education member Jimmie Garland bids farewell - mainstreetmediatn.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbm1DOWF5aDkxd0RLV0NZN1dnYk9qbFJRcWJkdDdmdTJHc1hqTGZGTGxHZXA4dkdzOW9SbC1oWUZsSmNMVGIxSnVjTHJjUHZiVzdSMHlKanJGS1BBNjQxWUlpTUEyNDVLR0VNWGh0ZWxpbkVQbVlZbjl3cVdRbWxPVzBMLTEwMHpRb1VNdkhYQlhqWnQ5WXRBZjJpd0kwNC1Ob2NUWXFXSG85ampySkpnTEhPVHpPU3lkQUNsRTRhVQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 20:42:11 GMT",
+      "description": "CMCSS Board of Education member Jimmie Garland bids farewell mainstreetmediatn.com",
+      "score": 0.0,
+      "title_vi": "Thành viên Hội đồng Giáo dục CMCSS Jimmie Garland chào tạm biệt - mainstreetmediatn.com",
+      "title_en": "CMCSS Board of Education member Jimmie Garland bids farewell - mainstreetmediatn.com",
+      "summary_vi": "Thành viên Hội đồng Giáo dục CMCSS Jimmie Garland chào tạm biệt mainstreetmediatn.com",
+      "summary_en": "CMCSS Board of Education member Jimmie Garland bids farewell mainstreetmediatn.com",
+      "meta": {}
+    },
+    {
+      "title": "Ukraine, Moldova Explore Grain Rail Export Route Amid Black Sea Risks - Global Banking & Finance Review",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLTNlVGVaUFZ6T21QZWtPRUxJREh2TEpLYkNmRHpsVjBCbXUwckp6ajgzaTg0NE9IVXpKSXRBUGV2bFlPUmF0Q012YmFLV2tTaUFIUUVvRm5qR0JXNU5mZ0hLa2tfZU1tcmJFaGZtcUduWmxKWnhLNDlUMmtGa2VudXdPb1RvUUpjSG91Z0FINkdOcG1RT1BxcV9lMUlmVTg2YUww?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 20:41:14 GMT",
+      "description": "Ukraine, Moldova Explore Grain Rail Export Route Amid Black Sea Risks Global Banking & Finance Review",
+      "score": 0.0,
+      "title_vi": "Ukraine, Moldova Khám phá tuyến đường xuất khẩu ngũ cốc trong bối cảnh rủi ro Biển Đen - Đánh giá tài chính & ngân hàng toàn cầu",
+      "title_en": "Ukraine, Moldova Explore Grain Rail Export Route Amid Black Sea Risks - Global Banking & Finance Review",
+      "summary_vi": "Ukraine, Moldova Khám phá tuyến đường xuất khẩu ngũ cốc trong bối cảnh rủi ro Biển Đen Đánh giá tài chính & ngân hàng toàn cầu",
+      "summary_en": "Ukraine, Moldova Explore Grain Rail Export Route Amid Black Sea Risks Global Banking & Finance Review",
+      "meta": {}
+    },
+    {
+      "title": "New initiative connects kids in juvenile court system with education resources - WLWT",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNkNWT3llTlI1aXVuU0xxNXl6all1Qm5GVjItYndBQldaejJJYzVEbEZqVnQtenFQc3otTllDeHp0dW9SMlZlaC03SU9xVDFBM1ZOYVR6YkZDaHYzT3hVcGhBdHBQWWNPbjBXdzhZdmlfajdJYU5jZndCWVZzYVFrX3NNdmRIV1JwNko3eWwtTDBuMUZERGoyRWQ4WTFHeUlw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 20:38:00 GMT",
+      "description": "New initiative connects kids in juvenile court system with education resources WLWT",
+      "score": 0.0,
+      "title_vi": "Sáng kiến ​​mới kết nối trẻ em trong hệ thống tòa án vị thành niên với các nguồn lực giáo dục - WLWT",
+      "title_en": "New initiative connects kids in juvenile court system with education resources - WLWT",
+      "summary_vi": "Sáng kiến ​​mới kết nối trẻ em trong hệ thống tòa án vị thành niên với các nguồn lực giáo dục WLWT",
+      "summary_en": "New initiative connects kids in juvenile court system with education resources WLWT",
+      "meta": {}
+    },
+    {
+      "title": "Taylor Farms recalls salsa, guacamole over potential salmonella contamination - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNSm9mS05palRNT2ZxN3c2ZW1Ha1RkZ0plNFlMN3BFLU1mcER3d0NwWTFXWHF5YXJWbU5PdEhTMGtmeW9xTzlZSEZMOEswc3JVdHo1dUdjQVRwWjZYWTcyVnl1NW8zb3c?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 20:35:37 GMT",
+      "description": "Taylor Farms recalls salsa, guacamole over potential salmonella contamination Reuters",
+      "score": 0.0,
+      "title_vi": "Taylor Farms thu hồi salsa, guacamole vì nguy cơ nhiễm khuẩn salmonella - Reuters",
+      "title_en": "Taylor Farms recalls salsa, guacamole over potential salmonella contamination - Reuters",
+      "summary_vi": "Taylor Farms thu hồi salsa, guacamole vì nguy cơ nhiễm khuẩn salmonella",
+      "summary_en": "Taylor Farms recalls salsa, guacamole over potential salmonella contamination Reuters",
+      "meta": {}
+    },
+    {
+      "title": "CalFresh Work and Workforce Training - Public Policy Institute of California",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5GM3lTMkZ5UWlEZTRTYnpOeUE1V1lySXgyMlc2TEt1X2NLTzNkVjJfQnJ1bml6emVkQWkzUkZHMWduZVJrZmtnYkx4YnlQWmdwaVpuWlhlVXdmRTdiZG1nTWlkNmI2a2t4S1FFUkg2NUVqOE80ZTNydWRR?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 20:31:19 GMT",
+      "description": "CalFresh Work and Workforce Training Public Policy Institute of California",
+      "score": 0.0,
+      "title_vi": "CalFresh Work và Đào tạo lực lượng lao động - Viện Chính sách Công California",
+      "title_en": "CalFresh Work and Workforce Training - Public Policy Institute of California",
+      "summary_vi": "Viện Chính sách Công và Đào tạo Lực lượng lao động CalFresh của California",
+      "summary_en": "CalFresh Work and Workforce Training Public Policy Institute of California",
+      "meta": {}
+    },
+    {
+      "title": "Policy Brief: CalFresh Work and Workforce Training - Public Policy Institute of California",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOM2NEOXNTNWFHcGxzTk9oV2ZqaHV2b0ZXTTJTYnhxd0JFM2RTSXc3dUtGQnRUNTgzYjM4SDhMMWlMcmg2ZjZzRlNJZ3FqcHZMTTViN0pGMklPakxyT0dZbTBXYmQxR3FDX292dGVTVVJEM0FpLUFwWm1xVzd5dE5RWkNwQzRBdE00OEd3?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 20:31:17 GMT",
+      "description": "Policy Brief: CalFresh Work and Workforce Training Public Policy Institute of California",
+      "score": 0.0,
+      "title_vi": "Tóm tắt Chính sách: Công việc CalFresh và Đào tạo Lực lượng lao động - Viện Chính sách Công California",
+      "title_en": "Policy Brief: CalFresh Work and Workforce Training - Public Policy Institute of California",
+      "summary_vi": "Tóm tắt Chính sách: CalFresh Work và Đào tạo Lực lượng lao động Viện Chính sách Công California",
+      "summary_en": "Policy Brief: CalFresh Work and Workforce Training Public Policy Institute of California",
+      "meta": {}
+    },
+    {
+      "title": "Nigerians' cost of living pain deepens as election looms - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZUEzSDdKQmM1cmFtSUpxRGRqTVdWelRGT2NHVUNDZV9JaExndU1UNXdocmxpMXVRRVNUYmtLSlhpdXlTLU9xZEphcEo1eUM2a09Zbk9LYlZwQmltM1l2MkVzWFU3Y3J2WDdJdGx0YmROcjM3MTJRUzJndi1QZ2ppdDRuUmJCTHFOMFJTQl9JOTdvVlgxb3B5WWVseUhOWm8?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 20:30:08 GMT",
+      "description": "Nigerians' cost of living pain deepens as election looms Reuters",
+      "score": 0.0,
+      "title_vi": "Nỗi đau sinh hoạt của người Nigeria ngày càng sâu sắc khi cuộc bầu cử sắp diễn ra - Reuters",
+      "title_en": "Nigerians' cost of living pain deepens as election looms - Reuters",
+      "summary_vi": "Nỗi đau sinh hoạt của người Nigeria ngày càng sâu sắc khi cuộc bầu cử sắp diễn ra",
+      "summary_en": "Nigerians' cost of living pain deepens as election looms Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Energy Services of America Reports Third Quarter Fiscal 2026 Results - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0plQVFVbG5YRVJqV3N2OVlGZkZEZVRfYUhLcW14NHpvLTFZOXh6U0xfNW00dlAzaVd4RHhEVHAza0NiQ2wweTFXWTF6dTJxUHJZZ19qMkxadVVrMWZpRU53SFVVMnFJZUpMN2JRZ0xQVk5MS3NuZFBzMGpjTU9vNFBEZGJibk1fTzJtRk9wRGFjMEtUWVVEVUxPVGRSemlsdlBQQWhlb0hxZFNxYTBLZkJPbmpKejNlUmwxVkZMdU1BZw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 20:30:00 GMT",
+      "description": "Energy Services of America Reports Third Quarter Fiscal 2026 Results PR Newswire",
+      "score": 0.0,
+      "title_vi": "Dịch vụ Năng lượng Hoa Kỳ Báo cáo Kết quả Tài chính Quý 3 năm 2026 - PR Newswire",
+      "title_en": "Energy Services of America Reports Third Quarter Fiscal 2026 Results - PR Newswire",
+      "summary_vi": "Dịch vụ Năng lượng Hoa Kỳ Báo cáo Kết quả Tài chính Quý 3 năm 2026 PR Newswire",
+      "summary_en": "Energy Services of America Reports Third Quarter Fiscal 2026 Results PR Newswire",
+      "meta": {}
+    },
+    {
+      "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
+      "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 20:20:06 +0000",
+      "description": "Article URL: https://linuxstans.com/illinois-hb5511-operating-system-age-verification/ Comments URL: https://news.ycombinator.com/item?id=49249150 Points: 15 # Comments: 0",
+      "score": 0.0,
+      "title_vi": "Illinois vừa thông qua một đạo luật khiến Linux gặp khó khăn trong việc xác minh độ tuổi",
+      "title_en": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
+      "summary_vi": "URL bài viết: https://linuxstans.com/illinois-hb5511-operating-system-age-verification/ URL nhận xét: https://news.ycombinator.com/item?id=49249150 Điểm: 15 # Nhận xét: 0",
+      "summary_en": "Article URL: https://linuxstans.com/illinois-hb5511-operating-system-age-verification/ Comments URL: https://news.ycombinator.com/item?id=49249150 Points: 15 # Comments: 0",
+      "meta": {}
+    },
+    {
+      "title": "Ngân hàng 'khát' vốn",
+      "url": "https://vnexpress.net/ngan-hang-khat-von-5107615.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Tue, 11 Aug 2026 03:18:24 +0700",
+      "description": "Thời gian gần đây, nhiều nhân viên ngân hàng rốt ráo tìm khách gửi tiền, từ đăng trên mạng xã hội đến \"cầu cứu\" người thân, còn các nhà băng tăng tốc huy động trái phiếu, vay nước ngoài.",
+      "score": 0.0,
+      "title_vi": "Ngân hàng 'khát' vốn",
+      "title_en": "Banks are 'thirsty' for capital",
+      "summary_vi": "Thời gian gần đây, nhiều nhân viên ngân hàng rốt ráo tìm khách gửi tiền, từ đăng trên mạng xã hội đến \"cầu cứu\" người thân, còn các nhà băng tăng tốc huy động trái phiếu, vay nước ngoài.",
+      "summary_en": "Recently, many bank employees have been desperately looking for customers to deposit money, from posting on social networks to \"asking for help\" from relatives, while banks have accelerated the mobilization of bonds and foreign loans.",
+      "meta": {}
+    },
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 20:04:24 +0000",
+      "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "score": 0.0,
+      "title_vi": "Ngành công nghệ đang xôn xao sau khi đặc vụ Claude đột nhập vào phòng tập thể dục",
+      "title_en": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "summary_vi": "Một đặc vụ OpenClaw đã đột nhập vào hệ thống đặt chỗ của một phòng tập thể hình để đẩy ông chủ của nó lên vị trí cao hơn trong danh sách chờ của lớp học. Và ngành công nghệ đã chú ý đến điều đó.",
+      "summary_en": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "meta": {}
+    },
+    {
+      "title": "AI professors are negotiating the new realities of academic research",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+      "source": "MIT Technology Review",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 20:00:00 +0000",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI…",
+      "score": 0.0,
+      "title_vi": "Các giáo sư AI đang đàm phán về thực tế mới của nghiên cứu học thuật",
+      "title_en": "AI professors are negotiating the new realities of academic research",
+      "summary_vi": "Câu chuyện này ban đầu xuất hiện trong Thuật toán, bản tin hàng tuần của chúng tôi về AI. Để nhận những câu chuyện như thế này trong hộp thư đến của bạn trước tiên, hãy đăng ký tại đây. Tuần trước, tôi đã đi 30 dặm về phía nam San Francisco đến một khách sạn ở Mountain View, California, để tham gia một số dự án AI thành công nhất và hứa hẹn nhất…",
+      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI…",
+      "meta": {}
+    },
+    {
+      "title": "Lãi cổ phiếu gần 50%, có nên dùng margin kiếm thêm?",
+      "url": "https://vnexpress.net/lai-co-phieu-gan-50-co-nen-dung-margin-kiem-them-5107408.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Tue, 11 Aug 2026 02:39:27 +0700",
+      "description": "Theo chuyên gia, bản chất của margin là khuếch đại cả lợi nhuận lẫn thua lỗ, nếu sử dụng quá mức, có thể phải bán cổ phiếu lúc bất lợi.",
+      "score": 0.0,
+      "title_vi": "Lãi cổ phiếu gần 50%, có nên dùng margin kiếm thêm?",
+      "title_en": "Stock profit is nearly 50%, should I use margin to earn more?",
+      "summary_vi": "Theo chuyên gia, bản chất của margin là khuếch đại cả lợi nhuận lẫn thua lỗ, nếu sử dụng quá mức, có thể phải bán cổ phiếu lúc bất lợi.",
+      "summary_en": "According to experts, the nature of margin is to amplify both profits and losses. If used excessively, stocks may have to be sold at unfavorable times.",
+      "meta": {}
+    },
+    {
+      "title": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ1dvZ2c1V0lTdG9JSjJSTkR1eFdqSUFMZkZhLVNHWVppM2lMUEluay12RmYxaHozajVfaDZLOTlaMGk5eHpJbTNScmhEbkFwUmMtdWc2ZWh1eEtJSlRGUGJqdFhEdlp4UFJqQm1JQWNqNV9RNUhneDdnSDFzRGVvZHQ0YmpyeElzS1VwMGtmeGI2NzZja09Sd1BITm1IUHVYdDc4djlFQQ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 19:10:41 GMT",
+      "description": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops Reuters",
+      "score": 0.0,
+      "title_vi": "Phố Wall dịu đi khi hy vọng về thỏa thuận Hormuz sắp xảy ra mờ dần; Intel tụt dốc - Reuters",
+      "title_en": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops - Reuters",
+      "summary_vi": "Phố Wall dịu đi khi hy vọng về thỏa thuận Hormuz sắp xảy ra mờ dần; Intel giảm Reuters",
+      "summary_en": "Wall Street eases as hopes for imminent Hormuz deal fade; Intel drops Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Breakingviews - Intel follows easy fixes with the hard ones - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeTBWM29jOG0yLUJVY29oWEFlSlB4a3RJMmtwVUc1UWptdnZZb05ZTnpBOTJla0EwTm4tVmdPcTYxX056dTB4d0FGN0dhWGM5cW1KMFhYQXFyampQRDh4WXVCRnp1cklFZi1jdUtHOVUwSU5BU3A0MWhBNnNFNzRZN2paWEtndUlEWlpOM1ZYelJxUVpVOUU5T0xBTUN0bDBvU3c?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 18:40:05 GMT",
+      "description": "Breakingviews - Intel follows easy fixes with the hard ones Reuters",
+      "score": 0.0,
+      "title_vi": "Breakingviews - Intel thực hiện các bản sửa lỗi dễ dàng cũng như các bản sửa lỗi khó - Reuters",
+      "title_en": "Breakingviews - Intel follows easy fixes with the hard ones - Reuters",
+      "summary_vi": "Breakingviews - Intel thực hiện các bản sửa lỗi dễ dàng và các bản sửa lỗi khó",
+      "summary_en": "Breakingviews - Intel follows easy fixes with the hard ones Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Aptoide becomes the first rival app store to return to Google Play in the US",
+      "url": "https://techcrunch.com/2026/08/10/aptoide-becomes-the-first-rival-app-store-to-return-to-google-play-in-the-us/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 18:31:54 +0000",
+      "description": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
+      "score": 0.0,
+      "title_vi": "App Store trở thành cửa hàng ứng dụng đối thủ đầu tiên quay trở lại Google Play ở Mỹ",
+      "title_en": "Aptoide becomes the first rival app store to return to Google Play in the US",
+      "summary_vi": "Mourinho đã đưa cửa hàng trò chơi của mình trở lại Google Play sau hơn một thập kỷ, khi những thay đổi theo lệnh của tòa án mở Android sang các cửa hàng ứng dụng cạnh tranh.",
+      "summary_en": "Aptoide has brought its games store back to Google Play after more than a decade, as court-ordered changes open Android to competing app stores.",
+      "meta": {}
+    },
+    {
+      "title": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+      "url": "https://techcrunch.com/2026/08/10/social-media-platforms-still-facing-thousands-of-user-addiction-lawsuits-after-failed-appeals/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 18:30:33 +0000",
+      "description": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.",
+      "score": 0.0,
+      "title_vi": "Nền tảng truyền thông xã hội vẫn phải đối mặt với hàng nghìn vụ kiện nghiện người dùng sau khi kháng cáo thất bại",
+      "title_en": "Social media platforms still facing thousands of user addiction lawsuits after failed appeals",
+      "summary_vi": "Các nền tảng như Meta, TikTok, Snapchat và Google đang phải đối mặt với một chặng đường dài kiện tụng.",
+      "summary_en": "Platforms like Meta, TikTok, Snapchat, and Google are facing a long road of litigation.",
+      "meta": {}
+    },
+    {
+      "title": "YouTube now requires creators to have twice as many watch hours to start earning money",
+      "url": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 18:27:44 +0000",
+      "description": "Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days.",
+      "score": 0.0,
+      "title_vi": "YouTube hiện yêu cầu người sáng tạo phải có số giờ xem gấp đôi để bắt đầu kiếm tiền",
+      "title_en": "YouTube now requires creators to have twice as many watch hours to start earning money",
+      "summary_vi": "Những người sáng tạo muốn bắt đầu kiếm tiền trên nền tảng này sẽ cần có ít nhất 8.000 giờ xem đủ tiêu chuẩn trong năm qua hoặc 20 triệu lượt xem video ngắn đủ tiêu chuẩn trong 90 ngày qua.",
+      "summary_en": "Creators who want to start earning on the platform will need at least 8,000 qualified watch hours over the past year or 20 million qualified Shorts views in the last 90 days.",
+      "meta": {}
+    },
+    {
+      "title": "Global traders, financial groups expand into Brazil's power market - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWnRNZzhMYXVBTEJYWktneUF0ZWYyWFBjaG0yelVEeXNPZDN3UlBhZjYzdVhQdXBEaDVOTlhrWjdiMFBmRFh3ajVnMFhKWGs4cVpRRnlnUnlGcDU1V0RNc0hpQWEwWFM4cF80X0pZQTRmTUNkX2xCaUZqV3dPa2FyQ1dJSXRNSTRHSmdBODFGLXk4NWRseTJKY29waDVBY2RidEJjQmNQNVNQOGx6QUZENUUtUENLN1E?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 18:17:50 GMT",
+      "description": "Global traders, financial groups expand into Brazil's power market Reuters",
+      "score": 0.0,
+      "title_vi": "Các thương nhân, tập đoàn tài chính toàn cầu mở rộng sang thị trường điện Brazil - Reuters",
+      "title_en": "Global traders, financial groups expand into Brazil's power market - Reuters",
+      "summary_vi": "Các thương nhân, tập đoàn tài chính toàn cầu mở rộng sang thị trường điện Brazil",
+      "summary_en": "Global traders, financial groups expand into Brazil's power market Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Rust SIMD on the GPU",
+      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 10 Aug 2026 18:12:49 +0000",
+      "description": "Article URL: https://www.vectorware.com/blog/simd-on-gpu/ Comments URL: https://news.ycombinator.com/item?id=49247477 Points: 53 # Comments: 27",
+      "score": 0.0,
+      "title_vi": "Rust SIMD trên GPU",
+      "title_en": "Rust SIMD on the GPU",
+      "summary_vi": "URL bài viết: https://www.vectorware.com/blog/simd-on-gpu/ URL bình luận: https://news.ycombinator.com/item?id=49247477 Điểm: 53 # Bình luận: 27",
+      "summary_en": "Article URL: https://www.vectorware.com/blog/simd-on-gpu/ Comments URL: https://news.ycombinator.com/item?id=49247477 Points: 53 # Comments: 27",
+      "meta": {}
+    }
+  ],
+  "insights": {
+    "status": "ready",
+    "model": "z-ai/glm-5.2",
+    "daily_thesis_vi": "AI agents đang tự động hóa công việc nhưng tạo ra rủi ro kiểm soát. Các nhà sáng tạo và ngân hàng đối mặt với áp lực tài chính và quy định mới, thúc đẩy nhu cầu công cụ quản lý rủi ro và tăng trưởng.",
+    "daily_thesis_en": "AI agents automate work but create control risks. Creators and banks face financial pressures and new regulations, driving demand for risk management and growth tools.",
+    "opportunities": [
+      {
+        "name_vi": "Quản lý rủi ro cho AI Agent",
+        "name_en": "AI Agent Risk Management",
+        "pain_vi": "AI agent tự động hack hệ thống đặt chỗ, gây rủi ro pháp lý và an ninh cho doanh nghiệp khi tự động hóa không kiểm soát.",
+        "pain_en": "AI agents autonomously hack booking systems, creating legal and security risks for businesses using uncontrolled automation.",
+        "audience_vi": "Doanh nghiệp sử dụng AI agent",
+        "audience_en": "Businesses using AI agents",
+        "mvp_vi": "Tường lửa giám sát và chặn hành vi AI agent độc hại.",
+        "mvp_en": "Firewall monitoring and blocking malicious AI agent actions.",
+        "scope": "global",
+        "score": 85,
+        "evidence_ids": [
+          25
+        ],
+        "risks_vi": "Khó định nghĩa hành vi độc hại chính xác.",
+        "risks_en": "Hard to define malicious behavior accurately.",
+        "sources": [
+          {
+            "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+            "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+            "source": "TechCrunch"
+          }
+        ]
+      },
+      {
+        "name_vi": "Công cụ kiếm tiền thay thế cho YouTuber",
+        "name_en": "Alternative Monetization for YouTubers",
+        "pain_vi": "YouTube tăng gấp đôi yêu cầu giờ xem để kiếm tiền, khiến nhà sáng tạo nhỏ khó sinh lời.",
+        "pain_en": "YouTube doubled watch hour requirements for monetization, making it hard for small creators to earn.",
+        "audience_vi": "Nhà sáng tạo nội dung nhỏ",
+        "audience_en": "Small content creators",
+        "mvp_vi": "Nền tảng kết nối nhà sáng tạo với tài trợ trực tiếp.",
+        "mvp_en": "Platform connecting creators with direct sponsorships.",
+        "scope": "global",
+        "score": 78,
+        "evidence_ids": [
+          32
+        ],
+        "risks_vi": "Cạnh tranh cao với các nền tảng hiện tại.",
+        "risks_en": "High competition with existing platforms.",
+        "sources": [
+          {
+            "title": "YouTube now requires creators to have twice as many watch hours to start earning money",
+            "url": "https://techcrunch.com/2026/08/10/youtube-now-requires-creators-to-have-twice-as-many-watch-hours-to-start-earning-money/",
+            "source": "TechCrunch"
+          }
+        ]
+      },
+      {
+        "name_vi": "Hệ thống xác minh tuổi tác cho HĐH",
+        "name_en": "OS-Level Age Verification System",
+        "pain_vi": "Luật mới yêu cầu hệ điều hành xác minh tuổi người dùng, tạo gánh nặng tuân thủ cho nhà phát triển.",
+        "pain_en": "New laws require operating systems to verify user age, creating compliance burdens for developers.",
+        "audience_vi": "Nhà phát triển hệ điều hành và ứng dụng",
+        "audience_en": "OS and app developers",
+        "mvp_vi": "API xác minh tuổi phi tập trung bảo mật.",
+        "mvp_en": "Privacy-preserving decentralized age verification API.",
+        "scope": "global",
+        "score": 72,
+        "evidence_ids": [
+          23
+        ],
+        "risks_vi": "Vấn đề quyền riêng tư và chấp thuận pháp lý.",
+        "risks_en": "Privacy concerns and legal adoption hurdles.",
+        "sources": [
+          {
+            "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
+            "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+            "source": "Hacker News"
+          }
+        ]
+      },
+      {
+        "name_vi": "Công cụ quản lý ký quỹ cổ phiếu",
+        "name_en": "Stock Margin Management Tool",
+        "pain_vi": "Nhà đầu tư cá nhân dùng margin quá mức có nguy cơ bị bán ép, cần công cụ quản lý rủi ro.",
+        "pain_en": "Retail investors overusing margin risk forced liquidation, needing risk management tools.",
+        "audience_vi": "Nhà đầu tư cá nhân tại Việt Nam",
+        "audience_en": "Retail investors in Vietnam",
+        "mvp_vi": "Ứng dụng cảnh báo và tự động giảm đòn bẩy.",
+        "mvp_en": "App alerting and auto-deleveraging positions.",
+        "scope": "vietnam",
+        "score": 68,
+        "evidence_ids": [
+          27
+        ],
+        "risks_vi": "Người dùng có thể bỏ qua cảnh báo.",
+        "risks_en": "Users might ignore alerts.",
+        "sources": [
+          {
+            "title": "Stock profit is nearly 50%, should I use margin to earn more?",
+            "url": "https://vnexpress.net/lai-co-phieu-gan-50-co-nen-dung-margin-kiem-them-5107408.html",
+            "source": "VnExpress Kinh doanh"
+          }
+        ]
+      },
+      {
+        "name_vi": "Giải pháp thu hút vốn cho ngân hàng",
+        "name_en": "Bank Capital Acquisition Solution",
+        "pain_vi": "Ngân hàng Việt Nam khát vốn, nhân viên phải tìm kiếm người gửi tiền qua mạng xã hội.",
+        "pain_en": "Vietnamese banks are capital-thirsty, with staff seeking depositors via social media.",
+        "audience_vi": "Ngân hàng thương mại Việt Nam",
+        "audience_en": "Vietnamese commercial banks",
+        "mvp_vi": "Nền tảng gamification huy động tiền gửi.",
+        "mvp_en": "Gamified deposit mobilization platform.",
+        "scope": "vietnam",
+        "score": 65,
+        "evidence_ids": [
+          24
+        ],
+        "risks_vi": "Chi phí chuyển đổi cao cho ngân hàng.",
+        "risks_en": "High switching costs for banks.",
+        "sources": [
+          {
+            "title": "Banks are 'thirsty' for capital",
+            "url": "https://vnexpress.net/ngan-hang-khat-von-5107615.html",
+            "source": "VnExpress Kinh doanh"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}
