@@ -1,0 +1,757 @@
+{
+  "date": "2026-08-12",
+  "generated_at": "2026-08-11T21:03:48.740545+00:00",
+  "markets": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7728.2002,
+      "change_pct": -0.32,
+      "currency": "USD"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "price": 26445.4453,
+      "change_pct": -0.6,
+      "currency": "USD"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "price": 4426.2998,
+      "change_pct": 1.48,
+      "currency": "USD"
+    },
+    {
+      "name": "Crude Oil",
+      "symbol": "CL=F",
+      "price": 83.4,
+      "change_pct": 1.55,
+      "currency": "USD"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC-USD",
+      "price": 63669.1094,
+      "change_pct": -0.38,
+      "currency": "USD"
+    },
+    {
+      "name": "USD/VND",
+      "symbol": "VND=X",
+      "price": 26133.0,
+      "change_pct": -0.07,
+      "currency": "VND"
+    }
+  ],
+  "items": [
+    {
+      "title": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-03T16:36:14Z",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "score": 1689.04,
+      "title_vi": "firecrawl/anydoc",
+      "title_en": "firecrawl/anydoc",
+      "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
+      "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "meta": {
+        "stars": 14340,
+        "forks": 749,
+        "language": "Rust",
+        "stars_per_day": 1593.3
+      }
+    },
+    {
+      "title": "yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-29T20:03:08Z",
+      "description": "Multiplayer agent harness for work",
+      "score": 1029.65,
+      "title_vi": "phần mềm yc/m2",
+      "title_en": "yc software/sqm",
+      "summary_vi": "Khai thác tác nhân nhiều người chơi cho công việc",
+      "summary_en": "Multiplayer agent harness for work",
+      "meta": {
+        "stars": 13088,
+        "forks": 1526,
+        "language": "TypeScript",
+        "stars_per_day": 934.9
+      }
+    },
+    {
+      "title": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-31T21:38:51Z",
+      "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "score": 774.05,
+      "title_vi": "thửcompai/crm",
+      "title_en": "trycompai/crm",
+      "summary_vi": "Comp AI CRM là một CRM mã nguồn mở được thiết kế cho các đại lý AI. CRM ưu tiên tác nhân.",
+      "summary_en": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "meta": {
+        "stars": 8207,
+        "forks": 932,
+        "language": "TypeScript",
+        "stars_per_day": 683.9
+      }
+    },
+    {
+      "title": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-10T09:06:43Z",
+      "description": "",
+      "score": 773.97,
+      "title_vi": "SMNETSTUDIO/WeChat-AI",
+      "title_en": "SMNETSTUDIO/WeChat-AI",
+      "summary_vi": "SMNETSTUDIO/WeChat-AI",
+      "summary_en": "SMNETSTUDIO/WeChat-AI",
+      "meta": {
+        "stars": 1403,
+        "forks": 1037,
+        "language": "TypeScript",
+        "stars_per_day": 701.5
+      }
+    },
+    {
+      "title": "bashalarmistalt/decimen-optical-transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-30T18:17:54Z",
+      "description": "",
+      "score": 532.34,
+      "title_vi": "bashalarmistalt/decimen-quang-chuyển",
+      "title_en": "bashalarmistalt/decimen-optical-transfer",
+      "summary_vi": "bashalarmistalt/decimen-quang-chuyển",
+      "summary_en": "bashalarmistalt/decimen-optical-transfer",
+      "meta": {
+        "stars": 5794,
+        "forks": 698,
+        "language": "TypeScript",
+        "stars_per_day": 445.7
+      }
+    },
+    {
+      "title": "MiniMax-AI/MiniMax-H3",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-30T08:41:09Z",
+      "description": "",
+      "score": 484.78,
+      "title_vi": "MiniMax-AI/MiniMax-H3",
+      "title_en": "MiniMax-AI/MiniMax-H3",
+      "summary_vi": "MiniMax-AI/MiniMax-H3",
+      "summary_en": "MiniMax-AI/MiniMax-H3",
+      "meta": {
+        "stars": 5190,
+        "forks": 320,
+        "language": "Python",
+        "stars_per_day": 399.2
+      }
+    },
+    {
+      "title": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-05T01:19:41Z",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "score": 421.28,
+      "title_vi": "KKKKhazix/chữ viết của con người",
+      "title_en": "KKKKhazix/human-writing",
+      "summary_vi": "Làm cho tiếng Trung được viết bởi AI đọc giống như một người cụ thể đang nói. Kỹ năng sáng tạo và sửa đổi phổ quát, có sẵn ngay lập tức.",
+      "summary_en": "Make the Chinese written by AI read like a specific person speaking. Universal creation and revision skills, available right out of the box.",
+      "meta": {
+        "stars": 2404,
+        "forks": 207,
+        "language": "Python",
+        "stars_per_day": 343.4
+      }
+    },
+    {
+      "title": "ShawnPana/phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-07T22:28:53Z",
+      "description": "let your agent control your phone",
+      "score": 370.04,
+      "title_vi": "ShawnPana/dây điện thoại",
+      "title_en": "ShawnPana/phone-harness",
+      "summary_vi": "hãy để người đại diện của bạn điều khiển điện thoại của bạn",
+      "summary_en": "let your agent control your phone",
+      "meta": {
+        "stars": 1485,
+        "forks": 128,
+        "language": "Python",
+        "stars_per_day": 297.0
+      }
+    },
+    {
+      "title": "oil-oil/oil-motion",
+      "url": "https://github.com/oil-oil/oil-motion",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-07T12:36:33Z",
+      "description": "Create smooth, responsive interactive web animations.",
+      "score": 366.94,
+      "title_vi": "dầu-dầu/dầu-chuyển động",
+      "title_en": "oil-oil/oil-motion",
+      "summary_vi": "Tạo hoạt ảnh web tương tác mượt mà, đáp ứng.",
+      "summary_en": "Create smooth, responsive interactive web animations.",
+      "meta": {
+        "stars": 1470,
+        "forks": 115,
+        "language": "Python",
+        "stars_per_day": 294.0
+      }
+    },
+    {
+      "title": "thebuggeddev/anatomy",
+      "url": "https://github.com/thebuggeddev/anatomy",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-02T11:15:16Z",
+      "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "score": 299.58,
+      "title_vi": "thebuggeddev/anatomy",
+      "title_en": "thebuggeddev/anatomy",
+      "summary_vi": "Trình khám phá giải phẫu người 3D tương tác được xây dựng bằng bajs với GPT 5.6 Sol",
+      "summary_en": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
+      "meta": {
+        "stars": 2225,
+        "forks": 634,
+        "language": "TypeScript",
+        "stars_per_day": 222.5
+      }
+    },
+    {
+      "title": "2026 Healthcare Leadership Awards | Feautured Speaker - Los Angeles Business Journal",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSXdJZHF5MmQ2ZzBlVFJXbXU5dEl3S05KSXZLRWhEM3JCYzFHUjN1c0g4NW5lemdvLTNlWFhmam1uSGpndE9KLVl4MUt6M0R3SVZTenRNR2tvUzdKcFVXRjhJUUlMeUJGckRfdm5RclE0RFU0R21KdWhzb2JpbnFmRjFvdURYb0lpM3RZTWJiRF9vOWFvWTZVa2lkTXc0TFhRSnFYa2k0MjlPcU1m?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 20:57:56 GMT",
+      "description": "2026 Healthcare Leadership Awards | Feautured Speaker Los Angeles Business Journal",
+      "score": 0.0,
+      "title_vi": "Giải thưởng Lãnh đạo Y tế năm 2026 | Diễn giả nổi tiếng - Tạp chí kinh doanh Los Angeles",
+      "title_en": "2026 Healthcare Leadership Awards | Feautured Speaker - Los Angeles Business Journal",
+      "summary_vi": "Giải thưởng Lãnh đạo Y tế năm 2026 | Diễn giả nổi tiếng Tạp chí kinh doanh Los Angeles",
+      "summary_en": "2026 Healthcare Leadership Awards | Feautured Speaker Los Angeles Business Journal",
+      "meta": {}
+    },
+    {
+      "title": "Unions sue Education De­partment over RISE rule that re­clas­sifies degrees and imposes loan limits - Spectrum News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWEgzb25LSWNIS0lNMUd1eUw1aWV1d1NGNHMxT0JteExjbko2anpTc0tpcGlvRkhVVy13Q2s2ZE9KMUtIcmxfb3NvQk5Qc0lWM0FEd0JQaG5vNU1OSEVYNDdkSzVpNXlFb3RUYmFVWWRSQ1owSW5TcDMtV0VlLVlSLWQ3UzdabjhwemVRQkxxS2g?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 20:54:00 GMT",
+      "description": "Unions sue Education De­partment over RISE rule that re­clas­sifies degrees and imposes loan limits Spectrum News",
+      "score": 0.0,
+      "title_vi": "Các công đoàn kiện Bộ Giáo dục về quy định RISE phân loại lại bằng cấp và áp đặt giới hạn cho vay - Spectrum News",
+      "title_en": "Unions sue Education De­partment over RISE rule that re­clas­sifies degrees and imposes loan limits - Spectrum News",
+      "summary_vi": "Các công đoàn kiện Bộ Giáo dục về quy định RISE phân loại lại bằng cấp và áp đặt giới hạn cho vay",
+      "summary_en": "Unions sue Education De­partment over RISE rule that re­clas­sifies degrees and imposes loan limits Spectrum News",
+      "meta": {}
+    },
+    {
+      "title": "Three energy-loss routes may explain Tarantula Nebula's X-ray shortfall - phys.org",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAwNWhrZDVOR3ZXRUVMSVY0ckZybVJ0czNrMXZKc0pQNEFhLXgwZ2c3d0pTdHRyOW43NDFoZlY0OF9HdXRvNWtJa0pNMHlfZWJNaHMwV0o0NEFGZFB5dHd4TkwzV0ZzdHo1bWs3T191aEpFa216MVJKcXN3?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 20:50:01 GMT",
+      "description": "Three energy-loss routes may explain Tarantula Nebula's X-ray shortfall phys.org",
+      "score": 0.0,
+      "title_vi": "Ba lộ trình tiêu hao năng lượng có thể giải thích sự thiếu hụt tia X của Tinh vân Tarantula - phys.org",
+      "title_en": "Three energy-loss routes may explain Tarantula Nebula's X-ray shortfall - phys.org",
+      "summary_vi": "Ba lộ trình tiêu hao năng lượng có thể giải thích sự thiếu hụt tia X của Tinh vân Tarantula Phys.org",
+      "summary_en": "Three energy-loss routes may explain Tarantula Nebula's X-ray shortfall phys.org",
+      "meta": {}
+    },
+    {
+      "title": "2026 Healthcare Leadership Awards | Moderator - Los Angeles Business Journal",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOFlPd2NzWDhJSFlnXy1FQjJrTWhvU19vTXBwbjdha0NUc2N4VVB2dHVmVEFMSzRFc3BZTWhOOWRpTXhyWHBuSEpRNHEzVTJVZ0lmeHNqXzFQVDNPdG5uajlOLTlSdkxrblRCQnhXWmE5b2RoWlBNTG5nSlNvRlVsZVR6RE5xUG9ZSHVSRjFKa2Q2OGM4WG8zTDZUWmV1UXM?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 20:45:16 GMT",
+      "description": "2026 Healthcare Leadership Awards | Moderator Los Angeles Business Journal",
+      "score": 0.0,
+      "title_vi": "Giải thưởng Lãnh đạo Y tế năm 2026 | Người điều hành - Tạp chí Kinh doanh Los Angeles",
+      "title_en": "2026 Healthcare Leadership Awards | Moderator - Los Angeles Business Journal",
+      "summary_vi": "Giải thưởng Lãnh đạo Y tế năm 2026 | Người điều hành Tạp chí Kinh doanh Los Angeles",
+      "summary_en": "2026 Healthcare Leadership Awards | Moderator Los Angeles Business Journal",
+      "meta": {}
+    },
+    {
+      "title": "Bloom Energy Stock Is Up 153% This Year. Can the Rally Continue? - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNclk1alNzelNBNUx0c2JtVkFpOXhfZzc0MFRDNW5qTjk4RU96ZWhRbDFRdXFRb20xOHhZaXlMRlE4N3A0QnU4Tm5CcU9lblAxQkdJbjZiLUJrMDdGS29lNTFUSGFXTWlrV0RMdXJUUVBVNVJCMGNNZHhYT3F5dTFCc2RkdmRnQnJPaU4tU3JTS0plMHNCN21QSw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 20:45:02 GMT",
+      "description": "Bloom Energy Stock Is Up 153% This Year. Can the Rally Continue? The Motley Fool",
+      "score": 0.0,
+      "title_vi": "Cổ phiếu năng lượng Bloom đã tăng 153% trong năm nay. Cuộc biểu tình có thể tiếp tục? - Kẻ ngốc nghếch",
+      "title_en": "Bloom Energy Stock Is Up 153% This Year. Can the Rally Continue? - The Motley Fool",
+      "summary_vi": "Cổ phiếu năng lượng Bloom đã tăng 153% trong năm nay. Cuộc biểu tình có thể tiếp tục? Kẻ ngốc nghếch",
+      "summary_en": "Bloom Energy Stock Is Up 153% This Year. Can the Rally Continue? The Motley Fool",
+      "meta": {}
+    },
+    {
+      "title": "Why Clean Energy Fuels Stock Is Soaring Today - The Motley Fool",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYU56bG0wbGU4eENIczhjQTJtNmpnZmZaOEVvMVdVRHhya21WQnlrcW1lSzZ1bV82TmlJTnFXaTVuM1NjQTlvTXNBTXdtb0IwOWlQMzBoWC1ZZjBPM0xlaUYyckhWZHJoVEZXN085SVplTjNCV1dNMHhiQ2tTNE9kOFZ1akZHbXlTOWZ1cjl6TXlqZw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 20:44:50 GMT",
+      "description": "Why Clean Energy Fuels Stock Is Soaring Today The Motley Fool",
+      "score": 0.0,
+      "title_vi": "Tại sao kho nhiên liệu năng lượng sạch ngày nay lại tăng vọt - The Motley Fool",
+      "title_en": "Why Clean Energy Fuels Stock Is Soaring Today - The Motley Fool",
+      "summary_vi": "Tại sao ngày nay kho nhiên liệu năng lượng sạch lại tăng vọt",
+      "summary_en": "Why Clean Energy Fuels Stock Is Soaring Today The Motley Fool",
+      "meta": {}
+    },
+    {
+      "title": "The Department of Energy looks to create science-specific AI models - FedScoop",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRjZWeWMyRjlEMW1pdFM5VXhXWnVLYXp2c2lnV1lvbzhVcVU5YTFSNUxWcmJ6dmE0cm5EejF4MXV6Z081LVFsRFFEbUJiczhUOFNKZFhObldGa0thSzBQR21SSTVkNC1FLVQwZGI0SDRLSGZTeUJwdll0b1ZDQnhTLWVJbGt5eHIyMG9iM0RfbUxPUXEyUFNjMVUyN3ZtZWVoNFQzR3ZRRHd6N3llRG8ybGZlNkstdnZUcnJrcmI2ZVlPMndOclNFem93NA?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 20:43:28 GMT",
+      "description": "The Department of Energy looks to create science-specific AI models FedScoop",
+      "score": 0.0,
+      "title_vi": "Bộ Năng lượng mong muốn tạo ra các mô hình AI dành riêng cho khoa học - FedScoop",
+      "title_en": "The Department of Energy looks to create science-specific AI models - FedScoop",
+      "summary_vi": "Bộ Năng lượng mong muốn tạo ra các mô hình AI dành riêng cho khoa học FedScoop",
+      "summary_en": "The Department of Energy looks to create science-specific AI models FedScoop",
+      "meta": {}
+    },
+    {
+      "title": "Dominion Energy, Cousinz Festival renovate Norfolk veteran's home - 13newsnow.com",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSU5XODUxWXRmRkFCNkFrVlMwa1JDWERQb0FuNW0tSzRHUFVMNHoyZl9NQ1JuV2dySDBKZnZ4T2xBMGtKMUUzdDhMcXVWdXlDMG93TjRlbWJVREZBQk9IY2ZWSUJEOU9zVjY2c1pCbHMxV2U5YzhsVXNycWM4dW5HYzY0ZjFhQUd6eWc3eFFPWWl2SXVtdXN6YWRzSlI3ZUJfaG5pMEc4ZGJ5akN2NzY5eDNGcXpJNGhSUGNXamV5bGl2SHF1M0FsZXpFbkhRVmdDeGpzeDNDRXo5N3YwNjVzemhueF9DcVNHV0JKcW14U0tpTEx5?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 20:37:00 GMT",
+      "description": "Dominion Energy, Cousinz Festival renovate Norfolk veteran's home 13newsnow.com",
+      "score": 0.0,
+      "title_vi": "Dominion Energy, Lễ hội Cousinz cải tạo ngôi nhà của cựu chiến binh Norfolk - 13newsnow.com",
+      "title_en": "Dominion Energy, Cousinz Festival renovate Norfolk veteran's home - 13newsnow.com",
+      "summary_vi": "Dominion Energy, Lễ hội Cousinz cải tạo ngôi nhà của cựu chiến binh Norfolk 13newsnow.com",
+      "summary_en": "Dominion Energy, Cousinz Festival renovate Norfolk veteran's home 13newsnow.com",
+      "meta": {}
+    },
+    {
+      "title": "EXCLUSIVE: Bolsonaro campaign drafts debt-linked fiscal rule to replace Brazil framework, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPemllM0tHOXdKRFVoNmdIb0xDX1NlVnVuY196ZGZoLVBERTB2dFZOWm56MndXQnZ0QlZrVXIxNnk2S25BWXY5Qkg2ZmhUN1Bka09sWWw3YUJWTEQzWGhNUmp2UEp4ZndfUDZ0TjNoRjBPM29ySG50cnEyejFmSnQ4WThmVU1TeUtUS2oxVzRHQS1IckhNblExSE5HUXl1bm1ITTVzdUJ4THgwT0I0NlJrSDRVRTVhd1ZnZE1iei1NYVlkUzg?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 20:11:12 GMT",
+      "description": "EXCLUSIVE: Bolsonaro campaign drafts debt-linked fiscal rule to replace Brazil framework, sources say Reuters",
+      "score": 0.0,
+      "title_vi": "ĐỘC QUYỀN: Chiến dịch Bolsonaro soạn thảo quy tắc tài chính liên quan đến nợ để thay thế khuôn khổ Brazil, các nguồn tin cho biết - Reuters",
+      "title_en": "EXCLUSIVE: Bolsonaro campaign drafts debt-linked fiscal rule to replace Brazil framework, sources say - Reuters",
+      "summary_vi": "ĐỘC QUYỀN: Chiến dịch Bolsonaro soạn thảo quy tắc tài chính liên quan đến nợ để thay thế khuôn khổ Brazil, các nguồn tin cho biết Reuters",
+      "summary_en": "EXCLUSIVE: Bolsonaro campaign drafts debt-linked fiscal rule to replace Brazil framework, sources say Reuters",
+      "meta": {}
+    },
+    {
+      "title": "McDonald's still a tasty pick for investors, market expert says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1USFZIY09KOXJYQTB6YnF2TS1JTUk1X0pMaDNGcEpZRE45QWNGYm1nWDBieVRiQ0dWTm9fOFdJaWFISmRHdEctZlU2NG5leDdIQjAzXzJPU2xra3ZMREhRaUUwLTFhZ28?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 20:04:10 GMT",
+      "description": "McDonald's still a tasty pick for investors, market expert says Reuters",
+      "score": 0.0,
+      "title_vi": "Chuyên gia thị trường cho biết McDonald's vẫn là lựa chọn hấp dẫn cho các nhà đầu tư - Reuters",
+      "title_en": "McDonald's still a tasty pick for investors, market expert says - Reuters",
+      "summary_vi": "Chuyên gia thị trường cho biết McDonald's vẫn là lựa chọn hấp dẫn cho các nhà đầu tư",
+      "summary_en": "McDonald's still a tasty pick for investors, market expert says Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Uber surprised robotics company Serve by selling its entire stake",
+      "url": "https://techcrunch.com/2026/08/11/uber-surprised-robotics-company-serve-by-selling-its-entire-stake/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 20:02:02 +0000",
+      "description": "The divesture comes as the two once-tight companies have started to diverge on the business side.",
+      "score": 0.0,
+      "title_vi": "Uber gây bất ngờ cho công ty chế tạo robot Phục vụ bằng cách bán toàn bộ cổ phần của mình",
+      "title_en": "Uber surprised robotics company Serve by selling its entire stake",
+      "summary_vi": "Việc thoái vốn diễn ra khi hai công ty từng có mối quan hệ chặt chẽ này bắt đầu phân hóa về mặt kinh doanh.",
+      "summary_en": "The divesture comes as the two once-tight companies have started to diverge on the business side.",
+      "meta": {}
+    },
+    {
+      "title": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 20:01:37 GMT",
+      "description": "Wall Street ends down as US-Iran peace optimism fades Reuters",
+      "score": 0.0,
+      "title_vi": "Phố Wall kết thúc khi sự lạc quan hòa bình Mỹ-Iran mất dần - Reuters",
+      "title_en": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
+      "summary_vi": "Phố Wall kết thúc khi sự lạc quan hòa bình Mỹ-Iran mất dần",
+      "summary_en": "Wall Street ends down as US-Iran peace optimism fades Reuters",
+      "meta": {}
+    },
+    {
+      "title": "The brain may be about to have its Ozempic moment",
+      "url": "https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 20:01:27 +0000",
+      "description": "Article URL: https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment Comments URL: https://news.ycombinator.com/item?id=49263658 Points: 44 # Comments: 26",
+      "score": 0.0,
+      "title_vi": "Bộ não có thể sắp có khoảnh khắc Ozempic",
+      "title_en": "The brain may be about to have its Ozempic moment",
+      "summary_vi": "URL bài viết: https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment URL bình luận: https://news.ycombinator.com/item?id=49263658 Điểm: 44 # Bình luận: 26",
+      "summary_en": "Article URL: https://economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment Comments URL: https://news.ycombinator.com/item?id=49263658 Points: 44 # Comments: 26",
+      "meta": {}
+    },
+    {
+      "title": "CME takes NHL team performance into futures market - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRWw3Tk9hLVFHVXBGZzYzOGlta29FbGtDNVhVN0pVaVZHLWxUT0pfb2xRRGNiZWVhWlRDUF9fQ3JJN2x4TGlzY1N0OVA3MzlrWUNFd1kySVpwSGpoa3lLZDJ4amNIUmRLemRPUHpBMzFMbjMyZFdlZUw1Y1J1Y2YxMDZBQy1YQTNuZExieFV6aGRqNU5xMEJMXw?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 19:52:30 GMT",
+      "description": "CME takes NHL team performance into futures market Reuters",
+      "score": 0.0,
+      "title_vi": "CME đưa hiệu suất của nhóm NHL vào thị trường tương lai - Reuters",
+      "title_en": "CME takes NHL team performance into futures market - Reuters",
+      "summary_vi": "CME đưa hiệu suất của nhóm NHL vào thị trường tương lai",
+      "summary_en": "CME takes NHL team performance into futures market Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Compression Is Prediction",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 19:49:44 +0000",
+      "description": "Article URL: https://ngrok.com/blog/compression-is-prediction Comments URL: https://news.ycombinator.com/item?id=49263497 Points: 54 # Comments: 25",
+      "score": 0.0,
+      "title_vi": "Nén là dự đoán",
+      "title_en": "Compression Is Prediction",
+      "summary_vi": "URL bài viết: https://ngrok.com/blog/compression-is-prediction URL bình luận: https://news.ycombinator.com/item?id=49263497 Điểm: 54 # Bình luận: 25",
+      "summary_en": "Article URL: https://ngrok.com/blog/compression-is-prediction Comments URL: https://news.ycombinator.com/item?id=49263497 Points: 54 # Comments: 25",
+      "meta": {}
+    },
+    {
+      "title": "Bluesky's active user base is shrinking as its focus expands beyond the app",
+      "url": "https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 19:45:41 +0000",
+      "description": "Article URL: https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/ Comments URL: https://news.ycombinator.com/item?id=49263461 Points: 25 # Comments: 24",
+      "score": 0.0,
+      "title_vi": "Cơ sở người dùng tích cực của Bluesky đang bị thu hẹp khi trọng tâm của nó mở rộng ra ngoài ứng dụng",
+      "title_en": "Bluesky's active user base is shrinking as its focus expands beyond the app",
+      "summary_vi": "URL bài viết: https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/ URL bình luận: https://news.ycombinator.com/item?id=49263461 Điểm: 25 # Bình luận: 24",
+      "summary_en": "Article URL: https://techcrunch.com/2026/08/11/blueskys-active-user-base-is-shrinking-as-its-focus-expands-beyond-the-app/ Comments URL: https://news.ycombinator.com/item?id=49263461 Points: 25 # Comments: 24",
+      "meta": {}
+    },
+    {
+      "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
+      "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 19:38:23 +0000",
+      "description": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
+      "score": 0.0,
+      "title_vi": "FBI cho biết tội phạm mạng đang đột nhập vào tài khoản trực tuyến của nạn nhân để đánh cắp những bức ảnh thân mật của họ",
+      "title_en": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
+      "summary_vi": "Trong một cảnh báo mới, FBI cho biết tội phạm mạng đang nhắm mục tiêu vào người lớn và trẻ vị thành niên nhằm đánh cắp những bức ảnh cá nhân và thân mật của họ trong các chiến dịch tống tiền.",
+      "summary_en": "In a new alert, the FBI said cybercriminals are targeting adults and minors in an attempt to steal their personal and intimate pictures in extortion campaigns.",
+      "meta": {}
+    },
+    {
+      "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 19:35:52 +0000",
+      "description": "Article URL: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/ Comments URL: https://news.ycombinator.com/item?id=49263340 Points: 77 # Comments: 23",
+      "score": 0.0,
+      "title_vi": "Thiết bị chuyển mạch Nvidia Nemotron 3.5 Lightning và NeMo",
+      "title_en": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
+      "summary_vi": "URL bài viết: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/ URL bình luận: https://news.ycombinator.com/item?id=49263340 Điểm: 77 # Bình luận: 23",
+      "summary_en": "Article URL: https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/ Comments URL: https://news.ycombinator.com/item?id=49263340 Points: 77 # Comments: 23",
+      "meta": {}
+    },
+    {
+      "title": "US Treasury yields seen heading lower but strategists' conviction wavering - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVDExTU5zM21TYmxjTGVKcXpONnA0WlRuTDJjdmplWXA3Z3BWaDlsWGZOdU0xd3lqc0NRQTJQV2hycXJGV0F3aVBTMm1KQk43VHlUM0FRazdGTTZVMnRUY3lyQzVsQWtkX2FPV2ZkN0ktVENJaFIyZUVkVHd2UDVGNVdDcFpOOXBMT3pvVXAzNUI1aVdvTXRwWnhpYUZ6cVJYbHM5UXNjZEFubFV6MXpxbzVIRmM?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 19:27:43 GMT",
+      "description": "US Treasury yields seen heading lower but strategists' conviction wavering Reuters",
+      "score": 0.0,
+      "title_vi": "Lợi suất trái phiếu kho bạc Mỹ có xu hướng giảm nhưng niềm tin của các chiến lược gia đang dao động - Reuters",
+      "title_en": "US Treasury yields seen heading lower but strategists' conviction wavering - Reuters",
+      "summary_vi": "Lợi suất trái phiếu kho bạc Mỹ có xu hướng giảm nhưng niềm tin của các chiến lược gia đang dao động",
+      "summary_en": "US Treasury yields seen heading lower but strategists' conviction wavering Reuters",
+      "meta": {}
+    },
+    {
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 19:15:35 +0000",
+      "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "score": 0.0,
+      "title_vi": "OpenAI ra mắt ứng dụng máy tính để bàn ChatGPT cho Linux",
+      "title_en": "OpenAI launches ChatGPT desktop app for Linux",
+      "summary_vi": "OpenAI cuối cùng cũng mang ứng dụng máy tính để bàn ChatGPT dành riêng cho hệ điều hành Linux.",
+      "summary_en": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
+      "meta": {}
+    },
+    {
+      "title": "Oil continues climb with doubts about potential US-Iran deal; stocks retreat - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 19:06:56 GMT",
+      "description": "Oil continues climb with doubts about potential US-Iran deal; stocks retreat Reuters",
+      "score": 0.0,
+      "title_vi": "Dầu tiếp tục leo thang với những nghi ngờ về thỏa thuận tiềm năng Mỹ-Iran; chứng khoán rút lui - Reuters",
+      "title_en": "Oil continues climb with doubts about potential US-Iran deal; stocks retreat - Reuters",
+      "summary_vi": "Dầu tiếp tục leo thang với những nghi ngờ về thỏa thuận tiềm năng Mỹ-Iran; chứng khoán rút lui Reuters",
+      "summary_en": "Oil continues climb with doubts about potential US-Iran deal; stocks retreat Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Making holograms with a pen plotter",
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 18:51:35 +0000",
+      "description": "Article URL: https://blog.jordan.matelsky.com/Penplotter-holography/ Comments URL: https://news.ycombinator.com/item?id=49262811 Points: 46 # Comments: 5",
+      "score": 0.0,
+      "title_vi": "Tạo hình ba chiều bằng máy vẽ bút",
+      "title_en": "Making holograms with a pen plotter",
+      "summary_vi": "URL bài viết: https://blog.jordan.matelsky.com/Penplotter-holography/ URL bình luận: https://news.ycombinator.com/item?id=49262811 Điểm: 46 # Bình luận: 5",
+      "summary_en": "Article URL: https://blog.jordan.matelsky.com/Penplotter-holography/ Comments URL: https://news.ycombinator.com/item?id=49262811 Points: 46 # Comments: 5",
+      "meta": {}
+    },
+    {
+      "title": "Russia’s New Crypto Rules: Bitcoin, Ethereum and USDT - Caspian Post",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORGp4ZjVSM1A5c2FhZjgyVVRwQzEzRERFNjJWbVpRLU1NMkRCTnc2SjFjZERLa1lyVDQyOEtBNHhmR1kzVmJ1SGJ5ZUYzXzZrSUJ3b2tXSHRsamhGS3IyNGtYRDgtRlNMRHFfbHpIOGIwb3NDQWZ1TGthUElMRURlemNBc1hobGtRN2IxNjd3?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 18:50:45 GMT",
+      "description": "Russia’s New Crypto Rules: Bitcoin, Ethereum and USDT Caspian Post",
+      "score": 0.0,
+      "title_vi": "Quy tắc tiền điện tử mới của Nga: Bitcoin, Ethereum và USDT - Caspian Post",
+      "title_en": "Russia’s New Crypto Rules: Bitcoin, Ethereum and USDT - Caspian Post",
+      "summary_vi": "Quy tắc tiền điện tử mới của Nga: Bitcoin, Ethereum và USDT Caspian Post",
+      "summary_en": "Russia’s New Crypto Rules: Bitcoin, Ethereum and USDT Caspian Post",
+      "meta": {}
+    },
+    {
+      "title": "Shein plans to launch Hong Kong IPO as soon as August 19, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOFNONFV3aTJUS3Z4NExPTU1nQTJkSE1YcG1mR1ZxSE9melZrNDBKNTNlQ0dVYXFhbVA4V1dEQjRxUmV2Ukd0a1J5SHl1TWRTdi1uRk5TVE81Wmk0ck00TGZpZzhPZjRkbnYySjAxd2hnN1hZN01qRGdTTHh0OTRqNHZIVDRzck1wZno4LXJkYTBxcFM5aVRJX19heWREOTBHREVHdXljY1N5eF9YUVN6VE16OEtMNlZ4Z1A4?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 11 Aug 2026 18:49:39 GMT",
+      "description": "Shein plans to launch Hong Kong IPO as soon as August 19, sources say Reuters",
+      "score": 0.0,
+      "title_vi": "Shein có kế hoạch ra mắt IPO ở Hồng Kông ngay sau ngày 19 tháng 8, các nguồn tin cho biết - Reuters",
+      "title_en": "Shein plans to launch Hong Kong IPO as soon as August 19, sources say - Reuters",
+      "summary_vi": "Shein có kế hoạch ra mắt IPO ở Hồng Kông ngay sau ngày 19 tháng 8, các nguồn tin cho biết Reuters",
+      "summary_en": "Shein plans to launch Hong Kong IPO as soon as August 19, sources say Reuters",
+      "meta": {}
+    }
+  ],
+  "insights": {
+    "status": "ready",
+    "model": "z-ai/glm-5.2",
+    "daily_thesis_vi": "Sự bùng nổ của các tác nhân AI và tự động hóa tạo ra nhu cầu cấp thiết về hạ tầng quản lý, trong đó các mối đe dọa an ninh mạng và khủng hoảng tài chính toàn cầu làm tăng nhu cầu bảo vệ dữ liệu và phân tích rủi ro.",
+    "daily_thesis_en": "The boom in AI agents and automation creates urgent demand for management infrastructure, while global cybersecurity threats and financial uncertainties drive needs for data protection and risk analysis.",
+    "opportunities": [
+      {
+        "name_vi": "Hạ tầng điều phối tác nhân AI",
+        "name_en": "AI Agent Orchestration Infrastructure",
+        "pain_vi": "Doanh nghiệp thiếu công cụ để phối hợp nhiều tác nhân AI thực hiện công việc phức tạp một cách đáng tin cậy.",
+        "pain_en": "Businesses lack tools to coordinate multiple AI agents to perform complex work reliably.",
+        "audience_vi": "Các công ty SaaS và nhóm phát triển sản phẩm",
+        "audience_en": "SaaS companies and product development teams",
+        "mvp_vi": "Bảng điều khiển quản lý và phân bổ tác vụ cho nhiều tác nhân AI với khả năng theo dõi.",
+        "mvp_en": "Dashboard to manage and allocate tasks to multiple AI agents with monitoring.",
+        "scope": "global",
+        "score": 88,
+        "evidence_ids": [
+          2,
+          3
+        ],
+        "risks_vi": "Cạnh tranh gay gắt từ các ông lớn công nghệ và khó khăn trong việc chuẩn hóa API.",
+        "risks_en": "Intense competition from tech giants and API standardization challenges.",
+        "sources": [
+          {
+            "title": "yc software/sqm",
+            "url": "https://github.com/yc-software/qm",
+            "source": "GitHub"
+          },
+          {
+            "title": "trycompai/crm",
+            "url": "https://github.com/trycompai/crm",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Dịch vụ chuyển đổi tài liệu sang Markdown",
+        "name_en": "Document to Markdown Conversion Service",
+        "pain_vi": "RAG và hệ thống AI cần dữ liệu sạch từ nhiều định dạng tài liệu khác nhau, nhưng việc trích xuất thường bị lỗi.",
+        "pain_en": "RAG and AI systems need clean data from various document formats, but extraction is often error-prone.",
+        "audience_vi": "Các nhà phát triển ứng dụng AI và kỹ sư dữ liệu",
+        "audience_en": "AI app developers and data engineers",
+        "mvp_vi": "API chuyển đổi PDF, Word, Excel sang Markdown sạch với độ chính xác cao.",
+        "mvp_en": "API converting PDF, Word, Excel to clean Markdown with high accuracy.",
+        "scope": "global",
+        "score": 82,
+        "evidence_ids": [
+          1
+        ],
+        "risks_vi": "Dễ bị sao chép bởi các thư viện mã nguồn mở và tính năng cơ bản có thể được tích hợp sẵn.",
+        "risks_en": "Easily replicated by open-source libraries and basic features may become built-in.",
+        "sources": [
+          {
+            "title": "firecrawl/anydoc",
+            "url": "https://github.com/firecrawl/anydoc",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Nền tảng bảo vệ hình ảnh nhạy cảm",
+        "name_en": "Intimate Image Extortion Defense",
+        "pain_vi": "Tội phạm mạng đánh cắp hình ảnh nhạy cảm để tống tiền, nạn nhân không có công cụ tự động hóa để phát hiện và ngăn chặn.",
+        "pain_en": "Cybercriminals steal intimate images for extortion; victims lack automated tools to detect and block.",
+        "audience_vi": "Người dùng internet và các tổ chức bảo vệ quyền riêng tư",
+        "audience_en": "Internet users and privacy advocacy groups",
+        "mvp_vi": "Công cụ quét tài khoản trực tuyến để phát hiện và cảnh báo các lỗ hổng rò rỉ ảnh.",
+        "mvp_en": "Tool scanning online accounts to detect and alert on image leak vulnerabilities.",
+        "scope": "global",
+        "score": 75,
+        "evidence_ids": [
+          27
+        ],
+        "risks_vi": "Khó tiếp cận nạn nhân và rủi ro pháp lý liên quan đến quyền riêng tư dữ liệu.",
+        "risks_en": "Difficulty reaching victims and legal risks regarding data privacy.",
+        "sources": [
+          {
+            "title": "FBI says cybercriminals are hacking into victims’ online accounts to steal their intimate pictures",
+            "url": "https://techcrunch.com/2026/08/11/fbi-says-cybercriminals-are-hacking-into-victims-online-accounts-to-steal-their-intimate-pictures/",
+            "source": "TechCrunch"
+          }
+        ]
+      },
+      {
+        "name_vi": "Công cụ phân tích rủi ro vĩ mô cho tài chính",
+        "name_en": "Macro Risk Analytics for Finance",
+        "pain_vi": "Sự không chắc chắn về địa chính trị và năng lượng khiến các nhà đầu tư cần công cụ theo dõi rủi ro theo thời gian thực.",
+        "pain_en": "Geopolitical and energy uncertainties make investors need real-time risk monitoring tools.",
+        "audience_vi": "Nhà đầu tư cá nhân và quỹ phòng hộ",
+        "audience_en": "Retail investors and hedge funds",
+        "mvp_vi": "Bảng điều khiển tổng hợp tin tức địa chính trị và giá cả để dự báo biến động thị trường.",
+        "mvp_en": "Dashboard aggregating geopolitical news and prices to forecast market volatility.",
+        "scope": "global",
+        "score": 70,
+        "evidence_ids": [
+          22,
+          31
+        ],
+        "risks_vi": "Dữ liệu tin tức có độ trễ và khó định lượng tác động thực tế lên thị trường.",
+        "risks_en": "News data has latency and quantifying actual market impact is difficult.",
+        "sources": [
+          {
+            "title": "Wall Street ends down as US-Iran peace optimism fades - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVjkzU2JZemo3b1RFMlU3SU1qeTE0NEY0eHBaakpscDY4blhsX3c5VFdFUmxkWVk2Yk9ab040Z1dRbEN4SDMwQU9fSnFrWUN2SkZHNzZqOFRJc0FXWUNOZTFRTnRvX0hqRTFfMGdBMnh2S2lPMjlqZ01kSFNyT0dqLVZMNDBZcm13a01lQWdScHVhSUFXQ215cjJGWXg2T180?oc=5",
+            "source": "Google News Reuters Finance"
+          },
+          {
+            "title": "Oil continues climb with doubts about potential US-Iran deal; stocks retreat - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRnpVTlc5WDU3ZUFOMTJjSFRLNGFCWUItblV4clc0UnVXUi05VVBaRkFleHpsdWtmcl9YZDRtN3BkaDhqUy1PTWx1aDhjalNDc09RNGh5eDFYN2FnTGxraUlhRWtFUnl0UTJrbV82Yi1CaFEyNmNwaHlvQVdobElUNEZVaw?oc=5",
+            "source": "Google News Reuters Finance"
+          }
+        ]
+      },
+      {
+        "name_vi": "Tự động hóa giao tiếp trên WeChat",
+        "name_en": "WeChat Communication Automation",
+        "pain_vi": "Doanh nghiệp bán hàng qua WeChat gặp khó khăn trong việc quản lý hàng loạt khách hàng và cá nhân hóa tin nhắn.",
+        "pain_en": "Businesses selling via WeChat struggle to manage bulk customers and personalize messages.",
+        "audience_vi": "Các thương gia và nhà tiếp thị sử dụng WeChat",
+        "audience_en": "Merchants and marketers using WeChat",
+        "mvp_vi": "Bot AI tích hợp WeChat để trả lời khách hàng và cá nhân hóa văn bản theo giọng điệu.",
+        "mvp_en": "WeChat-integrated AI bot to answer customers and personalize text by tone.",
+        "scope": "both",
+        "score": 65,
+        "evidence_ids": [
+          4,
+          7
+        ],
+        "risks_vi": "WeChat có thể chặn API bên thứ ba và thay đổi chính sách nền tảng bất ngờ.",
+        "risks_en": "WeChat may block third-party APIs and unexpectedly change platform policies.",
+        "sources": [
+          {
+            "title": "SMNETSTUDIO/WeChat-AI",
+            "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+            "source": "GitHub"
+          },
+          {
+            "title": "KKKKhazix/human-writing",
+            "url": "https://github.com/KKKKhazix/human-writing",
+            "source": "GitHub"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}
