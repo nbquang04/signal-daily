@@ -1,0 +1,775 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-12T21:02:01.081654+00:00",
+  "markets": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7748.5,
+      "change_pct": 0.26,
+      "currency": "USD"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "price": 26588.4883,
+      "change_pct": 0.54,
+      "currency": "USD"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "price": 4468.1001,
+      "change_pct": 1.94,
+      "currency": "USD"
+    },
+    {
+      "name": "Crude Oil",
+      "symbol": "CL=F",
+      "price": 82.56,
+      "change_pct": -0.77,
+      "currency": "USD"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC-USD",
+      "price": 63574.7188,
+      "change_pct": 0.04,
+      "currency": "USD"
+    },
+    {
+      "name": "USD/VND",
+      "symbol": "VND=X",
+      "price": 26045.0,
+      "change_pct": -0.33,
+      "currency": "VND"
+    }
+  ],
+  "items": [
+    {
+      "title": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-03T16:36:14Z",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "score": 1599.48,
+      "title_vi": "firecrawl/anydoc",
+      "title_en": "firecrawl/anydoc",
+      "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
+      "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "meta": {
+        "stars": 15033,
+        "forks": 799,
+        "language": "Rust",
+        "stars_per_day": 1503.3
+      }
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "score": 1024.49,
+      "title_vi": "guillaumemeyer/loại bỏ hình mờ",
+      "title_en": "guillaumemeyer/watermarks-remover",
+      "summary_vi": "Loại bỏ các dấu xuất xứ AI của nhiều nhà cung cấp: Vệ sinh văn bản Unicode, móc viết lại thống kê và C2PA/siêu dữ liệu từ PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "summary_en": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "meta": {
+        "stars": 1898,
+        "forks": 178,
+        "language": "Python",
+        "stars_per_day": 949.0
+      }
+    },
+    {
+      "title": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-31T21:38:51Z",
+      "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "score": 729.8,
+      "title_vi": "thửcompai/crm",
+      "title_en": "trycompai/crm",
+      "summary_vi": "Comp AI CRM là một CRM mã nguồn mở được thiết kế cho các đại lý AI. CRM ưu tiên tác nhân.",
+      "summary_en": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "meta": {
+        "stars": 8314,
+        "forks": 961,
+        "language": "TypeScript",
+        "stars_per_day": 639.5
+      }
+    },
+    {
+      "title": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-10T09:06:43Z",
+      "description": "",
+      "score": 579.6,
+      "title_vi": "SMNETSTUDIO/WeChat-AI",
+      "title_en": "SMNETSTUDIO/WeChat-AI",
+      "summary_vi": "SMNETSTUDIO/WeChat-AI",
+      "summary_en": "SMNETSTUDIO/WeChat-AI",
+      "meta": {
+        "stars": 1519,
+        "forks": 1123,
+        "language": "TypeScript",
+        "stars_per_day": 506.3
+      }
+    },
+    {
+      "title": "bashalarmistalt/decimen-optical-transfer",
+      "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-30T18:17:54Z",
+      "description": "",
+      "score": 506.58,
+      "title_vi": "bashalarmistalt/decimen-quang-chuyển",
+      "title_en": "bashalarmistalt/decimen-optical-transfer",
+      "summary_vi": "bashalarmistalt/decimen-quang-chuyển",
+      "summary_en": "bashalarmistalt/decimen-optical-transfer",
+      "meta": {
+        "stars": 5877,
+        "forks": 712,
+        "language": "TypeScript",
+        "stars_per_day": 419.8
+      }
+    },
+    {
+      "title": "sohaibdevv/youtube-music",
+      "url": "https://github.com/sohaibdevv/youtube-music",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-11T18:17:18Z",
+      "description": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "score": 490.93,
+      "title_vi": "sohaibdevv/youtube-music",
+      "title_en": "sohaibdevv/youtube-music",
+      "summary_vi": "Ứng dụng nhẹ, không có quảng cáo để phát nhạc trực tuyến từ YouTube Music. Không cần đăng ký. Hỗ trợ phát lại, tìm kiếm và danh sách phát tùy chỉnh trong nền thông qua API được thiết kế ngược.",
+      "summary_en": "A lightweight, ad‑free client for streaming music from YouTube Music. No subscription required. Supports background playback, search, and custom playlists via the reverse‑engineered API.",
+      "meta": {
+        "stars": 847,
+        "forks": 0,
+        "language": "TypeScript",
+        "stars_per_day": 423.5
+      }
+    },
+    {
+      "title": "MiniMax-AI/MiniMax-H3",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-30T08:41:09Z",
+      "description": "",
+      "score": 473.49,
+      "title_vi": "MiniMax-AI/MiniMax-H3",
+      "title_en": "MiniMax-AI/MiniMax-H3",
+      "summary_vi": "MiniMax-AI/MiniMax-H3",
+      "summary_en": "MiniMax-AI/MiniMax-H3",
+      "meta": {
+        "stars": 5425,
+        "forks": 340,
+        "language": "Python",
+        "stars_per_day": 387.5
+      }
+    },
+    {
+      "title": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-05T01:19:41Z",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "score": 396.42,
+      "title_vi": "KKKKhazix/chữ viết của con người",
+      "title_en": "KKKKhazix/human-writing",
+      "summary_vi": "Làm cho tiếng Trung được viết bởi AI đọc giống như một người cụ thể đang nói. Kỹ năng sáng tạo và sửa đổi phổ quát, có sẵn ngay lập tức.",
+      "summary_en": "Make the Chinese written by AI read like a specific person speaking. Universal creation and revision skills, available right out of the box.",
+      "meta": {
+        "stars": 2544,
+        "forks": 216,
+        "language": "Python",
+        "stars_per_day": 318.0
+      }
+    },
+    {
+      "title": "ShawnPana/phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-07T22:28:53Z",
+      "description": "let your agent control your phone",
+      "score": 345.46,
+      "title_vi": "ShawnPana/dây điện thoại",
+      "title_en": "ShawnPana/phone-harness",
+      "summary_vi": "hãy để người đại diện của bạn điều khiển điện thoại của bạn",
+      "summary_en": "let your agent control your phone",
+      "meta": {
+        "stars": 1629,
+        "forks": 142,
+        "language": "Python",
+        "stars_per_day": 271.5
+      }
+    },
+    {
+      "title": "oil-oil/oil-motion",
+      "url": "https://github.com/oil-oil/oil-motion",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-07T12:36:33Z",
+      "description": "Create smooth, responsive interactive web animations.",
+      "score": 340.8,
+      "title_vi": "dầu-dầu/dầu-chuyển động",
+      "title_en": "oil-oil/oil-motion",
+      "summary_vi": "Tạo hoạt ảnh web tương tác mượt mà, đáp ứng.",
+      "summary_en": "Create smooth, responsive interactive web animations.",
+      "meta": {
+        "stars": 1602,
+        "forks": 125,
+        "language": "Python",
+        "stars_per_day": 267.0
+      }
+    },
+    {
+      "title": "Climate Finance for Education – Analysing BRACE and CSESI Initiatives - Earth Day",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWXN3UzgtZl81V0ZQdlFrWWFWYjhfdC13N2p0Ykk0elQ1NVpIdldiRkY1SnczS2FaUEhCR1ppYjJYR29vTDFCUWpBbTB2azEzbVkwdzRwVU14TjFCaWJVQ0xhd3g3SjJuRmpsOHdtdXdvMUZ3TFRHUFZEQ1k4SEQwWGxZUndVcjA3Mk8xSDV5eDlSZVNkbXVPTw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:59:47 GMT",
+      "description": "Climate Finance for Education – Analysing BRACE and CSESI Initiatives Earth Day",
+      "score": 0.0,
+      "title_vi": "Tài chính Khí hậu cho Giáo dục – Phân tích các Sáng kiến ​​BRACE và CSESI - Ngày Trái đất",
+      "title_en": "Climate Finance for Education – Analysing BRACE and CSESI Initiatives - Earth Day",
+      "summary_vi": "Tài chính khí hậu cho giáo dục – Phân tích các sáng kiến ​​BRACE và CSESI Ngày Trái đất",
+      "summary_en": "Climate Finance for Education – Analysing BRACE and CSESI Initiatives Earth Day",
+      "meta": {}
+    },
+    {
+      "title": "'Starting to come together': Commanders defense playing with intensity, energy - Washington Commanders",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaEtvX29JanVPdk04X2Vzam81MGhrZi1iVFRsdWJZWlE2LVdvb3otUGVkWmVOMEp6YlJBclFIZFZQM2xpSkM5WUlsMHNxX19YMzNta0dib0VRSW1FaWRLU2Q4WUdVamQtR3FuVHFtV2taRHFUNGVlOHZXMjMyVnplZ2RERllCSFo0MTdPekFXcjBiaUxnT2VfRFFDbVBJaDN1a1dnWThB?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:54:52 GMT",
+      "description": "'Starting to come together': Commanders defense playing with intensity, energy Washington Commanders",
+      "score": 0.0,
+      "title_vi": "'Bắt đầu đoàn kết': Các chỉ huy phòng ngự chơi đầy mãnh liệt, đầy năng lượng - Washington Commanders",
+      "title_en": "'Starting to come together': Commanders defense playing with intensity, energy - Washington Commanders",
+      "summary_vi": "'Bắt đầu đến với nhau': Các chỉ huy phòng thủ chơi mãnh liệt, tràn đầy năng lượng Các chỉ huy Washington",
+      "summary_en": "'Starting to come together': Commanders defense playing with intensity, energy Washington Commanders",
+      "meta": {}
+    },
+    {
+      "title": "Prioritizing parents and ‘passing the trash’: 7 federal education updates from this summer - EdNC",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdjB0STI0aDgybzcyb25oZTVfTjdfcnFpdnpMM19TLUFkVUFtZkRJUkxtTUZicEJhYlFlU3pwbjBzNlpvVkhOUUJlY0pWeWZyZlFyUTN6NERyT2dOWFYxdXB4SXljYlQtSVZTYjFBQkdidFBpbkZmTzVxRnJXbzBDQ3c0cFdTNHhteldIVkdMcXVmMzlqZmZMYnhjMlZKYm84UjBMN05KZGNOOWY0Z2c?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:54:41 GMT",
+      "description": "Prioritizing parents and ‘passing the trash’: 7 federal education updates from this summer EdNC",
+      "score": 0.0,
+      "title_vi": "Ưu tiên phụ huynh và 'vứt rác': 7 cập nhật giáo dục liên bang từ mùa hè này - EdNC",
+      "title_en": "Prioritizing parents and ‘passing the trash’: 7 federal education updates from this summer - EdNC",
+      "summary_vi": "Ưu tiên phụ huynh và 'vứt rác': 7 cập nhật giáo dục liên bang từ EdNC mùa hè này",
+      "summary_en": "Prioritizing parents and ‘passing the trash’: 7 federal education updates from this summer EdNC",
+      "meta": {}
+    },
+    {
+      "title": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "url": "https://techcrunch.com/2026/08/12/northrops-robot-space-mechanic-is-a-new-way-to-keep-satellites-at-work-longer/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:53:41 +0000",
+      "description": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+      "score": 0.0,
+      "title_vi": "Cơ chế không gian robot của Northrop là một cách mới để giữ các vệ tinh hoạt động lâu hơn",
+      "title_en": "Northrop’s robot space mechanic is a new way to keep satellites at work longer",
+      "summary_vi": "Phương tiện Robot Nhiệm vụ đang thực hiện nỗ lực đầu tiên để gắn bộ đẩy mới vào một vệ tinh cũ.",
+      "summary_en": "The Mission Robotic Vehicle is making the first attempt to attach a new thruster to an aging satellite.",
+      "meta": {}
+    },
+    {
+      "title": "SEN. KUSHNER SUPPORTS $86 MILLION PLAN FOR LOW-INCOME ENERGY ASSISTANCE THIS WINTER - Connecticut Senate Democrats (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXFvaFJQX0tTUmVUYmYtdEFhdFg2V3ZqRVlBT0VwYm5OdmcySi1USlFod3oxRzRHSzdTc08zWWxwNW51SGVDcUJDR3dVODI4QzZ6eFg1T0RyaXlIU3RuVkhsUndJZGtVNkswa0h5TWQxek9JdmJva1JPdU5uUzdfbVJnMGJNaXQ3Wl93UXplQk1YdmZ2d3hGdFNvX21URGRDZVhkYnk5M25GYWU1OFNfMw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:49:23 GMT",
+      "description": "SEN. KUSHNER SUPPORTS $86 MILLION PLAN FOR LOW-INCOME ENERGY ASSISTANCE THIS WINTER Connecticut Senate Democrats (.gov)",
+      "score": 0.0,
+      "title_vi": "SEN. KUSHNER HỖ TRỢ KẾ HOẠCH 86 TRIỆU USD ĐỂ HỖ TRỢ NĂNG LƯỢNG CHO NGƯỜI THU NHẬP THẤP TRONG MÙA ĐÔNG NÀY - Đảng Dân chủ Thượng viện Connecticut (.gov)",
+      "title_en": "SEN. KUSHNER SUPPORTS $86 MILLION PLAN FOR LOW-INCOME ENERGY ASSISTANCE THIS WINTER - Connecticut Senate Democrats (.gov)",
+      "summary_vi": "SEN. KUSHNER HỖ TRỢ KẾ HOẠCH 86 TRIỆU đô la để HỖ TRỢ NĂNG LƯỢNG CHO NGƯỜI THU NHẬP THẤP TRONG MÙA ĐÔNG NÀY Đảng Dân chủ Thượng viện Connecticut (.gov)",
+      "summary_en": "SEN. KUSHNER SUPPORTS $86 MILLION PLAN FOR LOW-INCOME ENERGY ASSISTANCE THIS WINTER Connecticut Senate Democrats (.gov)",
+      "meta": {}
+    },
+    {
+      "title": "Sandhill Solar Project: Barron County residents raise concerns over proposed solar farm - WEAU",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZk1STzRMQ0phR3o3OTdOMXhqbDd1QlZRdVVGU0JkNDZsNEJJTkUteFhDVjM2eks5aWR4NVg5dkhRY0RSbThaSTVPSHQ3Smc5Z19TU3cxTTg4RlNPQ1ZQU3lpcFg0ZUtPYlNMQWV1ZUpERGhpZ3dKZWFWVXZwOVZ6TjU1Ym5Hd0hYbFcwZnBCa2k2cGo2RVRNeTNYczB0N1p6MGJYbnhxRjRIWnpVSTVleVRmQkJkY3BwTnow0gHPAUFVX3lxTE1XdE1SNEdxQ3E5UzZULWRFaThMUVpreEttUF9uZVpUY3o4OUpBOWt5SktnNXdVX3FyNzczOVVUZTBfa2JPcGlQZFEwV3dkWXRUYXhVTDgwN2pTZ0JCS1ZXRHpLSWJUMW9PTXNQLUVQZWRWbnRKMGFkdk1ESWJ3bjh3ZlU4eUR4cVRST0dYbGY0Zk1BRTZsQmxNMXBabllqYjZaNXdrWUJoalVrVVF6akNxNEVfeTFLYWhSVkRmMzBDVjIyVHl4OUNBR2phMzlNSQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:46:00 GMT",
+      "description": "Sandhill Solar Project: Barron County residents raise concerns over proposed solar farm WEAU",
+      "score": 0.0,
+      "title_vi": "Dự án năng lượng mặt trời Sandhill: Cư dân Quận Barron nêu lên mối lo ngại về trang trại năng lượng mặt trời được đề xuất - WEAU",
+      "title_en": "Sandhill Solar Project: Barron County residents raise concerns over proposed solar farm - WEAU",
+      "summary_vi": "Dự án năng lượng mặt trời Sandhill: Cư dân Quận Barron nêu lên mối lo ngại về trang trại năng lượng mặt trời được đề xuất WEAU",
+      "summary_en": "Sandhill Solar Project: Barron County residents raise concerns over proposed solar farm WEAU",
+      "meta": {}
+    },
+    {
+      "title": "MidAmerican Energy crews work to restore power to QC residents - OurQuadCities",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMVZQNER4Tmx4SmQ2bVp0b1l0Z1pWUVJ2b2QyT1JQVnRCSmN0b1hSOWxxcmdKUlNjYmRLTVBUWEJMWFVvTVhCbWhWMzZ1NnNwRWI1OUdPN05OdVUxZnBLSEVjaFJhcUd0dC1VZkg4d3luQ1lGZUNJM3VDT0VzVzBzcHV3MlhET0tUNV9IamdvTUVaYUpvbldJMi0xRG13V3k1VWtVREYwVWZOZWwwRUHSAbMBQVVfeXFMTzB3OUJyeGl2d0lxWE5YczYxVlZuUUY5cmJKb0hQblJaRE1yNXN1MVc5WTBRdE9WamY5b195UWY5dW9EZ3p0bGVSTWhkdjNoenhWem5oMjZsYUtTWUNINFdrdDZCcHI2YTVweTZLdFYwZGJkYmxzV0lIaTNSaU1GdGs3RFFvdU1ubGNNdHdUWkNoOElRWDZ4cG5yanhCWWVtaEs5UTZBMVJkRGFxczdHMFRFRVE?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:43:28 GMT",
+      "description": "MidAmerican Energy crews work to restore power to QC residents OurQuadCities",
+      "score": 0.0,
+      "title_vi": "Đội ngũ MidAmerican Energy nỗ lực khôi phục nguồn điện cho cư dân QC - OurQuadCities",
+      "title_en": "MidAmerican Energy crews work to restore power to QC residents - OurQuadCities",
+      "summary_vi": "Đội ngũ MidAmerican Energy nỗ lực khôi phục nguồn điện cho cư dân QC OurQuadCities",
+      "summary_en": "MidAmerican Energy crews work to restore power to QC residents OurQuadCities",
+      "meta": {}
+    },
+    {
+      "title": "NV Energy provides update on emergency power shutoffs - KTVN",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcVlJRWM5WW40TzVWLTFlWW5MdVAtTWQtSURCWnItS1gwUHBsYl9SLVh3bE05MksteXZCNnFOZjhHcmdOcW93WUNyOE0xVU4zNjRKNTFlemt0RWxDSWtBVXlwTlRxYVlMY1g4Z1F2VXVPXy1QaEp1Qmh6bWRyV0ZzN2JTRldJcEMtUG5wWUVmYzlCYi1US1I0NTQzeEN5dWF0Q1F2MS1EbExxNHNWQjZJQTJzR2pxRm1IUkJKSGFiOVppNm9kbC1EMldnZERoZVlwM2c?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:37:00 GMT",
+      "description": "NV Energy provides update on emergency power shutoffs KTVN",
+      "score": 0.0,
+      "title_vi": "NV Energy cung cấp thông tin cập nhật về việc cắt điện khẩn cấp - KTVN",
+      "title_en": "NV Energy provides update on emergency power shutoffs - KTVN",
+      "summary_vi": "NV Energy cung cấp thông tin cập nhật về việc cắt điện khẩn cấp KTVN",
+      "summary_en": "NV Energy provides update on emergency power shutoffs KTVN",
+      "meta": {}
+    },
+    {
+      "title": "Community meeting discusses environmental, health impacts of Morgan Valley Energy Center - KGAN",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYnNpeFB0YXF4TWdaRnNXLUl3TWZwOGEtTEo3TlJkNUI3N0l5OVRweklvdWs5djBuTGZCWHNYclBZUE11Ml9VU016Vl8yNktTaURUZzZ2ajdEWEpSeElvY0ZEWnJTNlB1YWlKR285R0tveWtxU05peUJvaHRTN1N6XzlZTms5N29BMGRzZklkUzE1dG9hMHpfcmpwMVl4N3pRdHJnYzBWNDBLOVVuQ0Q4bVZiMURKNEVMUm44?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:35:34 GMT",
+      "description": "Community meeting discusses environmental, health impacts of Morgan Valley Energy Center KGAN",
+      "score": 0.0,
+      "title_vi": "Cuộc họp cộng đồng thảo luận về tác động môi trường, sức khỏe của Trung tâm Năng lượng Morgan Valley - KGAN",
+      "title_en": "Community meeting discusses environmental, health impacts of Morgan Valley Energy Center - KGAN",
+      "summary_vi": "Cuộc họp cộng đồng thảo luận về tác động môi trường, sức khỏe của Trung tâm Năng lượng Thung lũng Morgan KGAN",
+      "summary_en": "Community meeting discusses environmental, health impacts of Morgan Valley Energy Center KGAN",
+      "meta": {}
+    },
+    {
+      "title": "News by ACCESS Newswire on TradingView, 2026-08-12 - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZWx3MGZOd0lVZHVNbFRxeHpnemo0UEptRWpRWlVsM2VUT2U1d2pZTzBDRkV4QlhxWThQaXBpX1RLSTQ4dkljWXRfdVplVkVVcXhOSC1yNkZna2JzTFVtb05VRm1kY200NDA5ZlhoSXBYazI2cnVtYkxqbTkwV09Udw?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:30:01 GMT",
+      "description": "News by ACCESS Newswire on TradingView, 2026-08-12 TradingView",
+      "score": 0.0,
+      "title_vi": "Tin tức của ACCESS Newswire trên TradingView, 12-08-2026 - TradingView",
+      "title_en": "News by ACCESS Newswire on TradingView, 2026-08-12 - TradingView",
+      "summary_vi": "Tin tức của ACCESS Newswire trên TradingView, 12-08-2026 TradingView",
+      "summary_en": "News by ACCESS Newswire on TradingView, 2026-08-12 TradingView",
+      "meta": {}
+    },
+    {
+      "title": "S&P 500 ends higher as CoreWeave results fuel AI optimism - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYklxZWxQWEI4bU5nVHpWUVJkQWo4YmQ5ZWpfTXNWWHBjNlE0d09NNEdtbWMtQldtbndIMzNBU1Z3TldjNEF5YUoxMHJSdHlXak50XzBMYlh4dHh2OWxVckViSjVxYUFCVlBvcnQ4Vk9vLVF0MWhGR3BidXQzOGItYUVjbnNYSk1pdS1XeTZqUGtaVTZzcDRkR1N1V0xkN0o5STBZ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:26:00 GMT",
+      "description": "S&P 500 ends higher as CoreWeave results fuel AI optimism reuters.com",
+      "score": 0.0,
+      "title_vi": "S&P 500 kết thúc cao hơn nhờ kết quả CoreWeave thúc đẩy sự lạc quan về AI - reuters.com",
+      "title_en": "S&P 500 ends higher as CoreWeave results fuel AI optimism - reuters.com",
+      "summary_vi": "S&P 500 kết thúc cao hơn nhờ kết quả CoreWeave thúc đẩy sự lạc quan về AI reuters.com",
+      "summary_en": "S&P 500 ends higher as CoreWeave results fuel AI optimism reuters.com",
+      "meta": {}
+    },
+    {
+      "title": "Cerebras raises annual targets on strong AI chip demand - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3RxTUJxMTh2Mk9XSmgxdm1MZDh6MlRtcVl5aFM1bmF1ajVmWlFnUF9nNU0yYjloQ0pON2VSWFZBYTVldmJ0TGI5N2psYlcwZVRuSURZaUM1NkYzVkh4NGVNRUtjd0F0M3RMTno2X0RSNG9VbF91V2lDOUh0OG5nSDJiY2M4cDdrM1lGRnNicldnNXBBQTBDRFVzNHdJQQ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:25:06 GMT",
+      "description": "Cerebras raises annual targets on strong AI chip demand reuters.com",
+      "score": 0.0,
+      "title_vi": "Cerebras tăng mục tiêu hàng năm về nhu cầu chip AI mạnh mẽ - reuters.com",
+      "title_en": "Cerebras raises annual targets on strong AI chip demand - reuters.com",
+      "summary_vi": "Cerebras tăng mục tiêu hàng năm về nhu cầu chip AI mạnh mẽ reuters.com",
+      "summary_en": "Cerebras raises annual targets on strong AI chip demand reuters.com",
+      "meta": {}
+    },
+    {
+      "title": "Top US refiners see profits soar, step up investor rewards - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX2FVR1ZIejBlNVBEMzQ5S2x1UHpjOHVldkJ1eEU1eVE4QkNGYVU1Z25GZloxaHJWUm1XejJpbHEwTlg4M0FkYkFCbVpSa2hDb3BRYUxpT3FwdlM4Z1psY0RYWWVGYnItQzBlWEpHeTF4Q2dMS2txOUhpQlQzcVgyQU9Ra2lGUVFMTGdMbnRCNWZfLVFybXkxUFlVQzZ6Nko3YlRPa25qZTF0Ny1fYmc?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:24:43 GMT",
+      "description": "Top US refiners see profits soar, step up investor rewards reuters.com",
+      "score": 0.0,
+      "title_vi": "Các nhà tinh chế hàng đầu của Mỹ thấy lợi nhuận tăng vọt, tăng phần thưởng cho nhà đầu tư - reuters.com",
+      "title_en": "Top US refiners see profits soar, step up investor rewards - reuters.com",
+      "summary_vi": "Các nhà tinh chế hàng đầu của Mỹ thấy lợi nhuận tăng vọt, tăng phần thưởng cho nhà đầu tư reuters.com",
+      "summary_en": "Top US refiners see profits soar, step up investor rewards reuters.com",
+      "meta": {}
+    },
+    {
+      "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:10:40 +0000",
+      "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "score": 0.0,
+      "title_vi": "Theo mặc định, Amazon sẽ đào tạo nội dung của các bộ truyền phát Twitch, trừ khi họ chọn không tham gia",
+      "title_en": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+      "summary_vi": "“Nếu đây là tùy chọn tham gia, sẽ không có ai chọn tham gia,” CPO Mike Minton của Twitch cho biết trên một buổi phát trực tiếp để phản hồi phản hồi của người dùng. \"Đó là câu trả lời thành thật.\"",
+      "summary_en": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "meta": {}
+    },
+    {
+      "title": "Breaking the WAL",
+      "url": "https://antithesis.com/blog/2026/wal-reset-bug/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:00:16 +0000",
+      "description": "Article URL: https://antithesis.com/blog/2026/wal-reset-bug/ Comments URL: https://news.ycombinator.com/item?id=49277799 Points: 8 # Comments: 5",
+      "score": 0.0,
+      "title_vi": "Phá vỡ WAL",
+      "title_en": "Breaking the WAL",
+      "summary_vi": "URL bài viết: https://antithesis.com/blog/2026/wal-reset-bug/ URL bình luận: https://news.ycombinator.com/item?id=49277799 Điểm: 8 # Bình luận: 5",
+      "summary_en": "Article URL: https://antithesis.com/blog/2026/wal-reset-bug/ Comments URL: https://news.ycombinator.com/item?id=49277799 Points: 8 # Comments: 5",
+      "meta": {}
+    },
+    {
+      "title": "US consumer inflation mild in July, economy still not out of the woods - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVo4RlREbjZCeDFybnNPaTFlMDl0SnhGblQ3ZjE4NzA2WlVKU0diWDJqN1lPWXFvVk13eDY5TVhKYXROYXVJb2tLRzM0YVFaNXEzRWxLNWI0blFUSHZqbVN6aVRrMWFPR3Foa0hJd1FLZTluRVAtWlp0d3k1U1doeUhRVlRoRFltSzRneHcyYw?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 20:00:13 GMT",
+      "description": "US consumer inflation mild in July, economy still not out of the woods reuters.com",
+      "score": 0.0,
+      "title_vi": "Lạm phát tiêu dùng Mỹ nhẹ trong tháng 7, kinh tế vẫn chưa thoát khỏi khó khăn - reuters.com",
+      "title_en": "US consumer inflation mild in July, economy still not out of the woods - reuters.com",
+      "summary_vi": "Lạm phát tiêu dùng Mỹ nhẹ trong tháng 7, kinh tế vẫn chưa thoát khỏi khó khăn reuters.com",
+      "summary_en": "US consumer inflation mild in July, economy still not out of the woods reuters.com",
+      "meta": {}
+    },
+    {
+      "title": "'Nhà đầu tư sẽ sợ hãi nếu lãi suất tiết kiệm vượt 10%'",
+      "url": "https://vnexpress.net/nha-dau-tu-se-so-hai-neu-lai-suat-tiet-kiem-vuot-10-5108173.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Thu, 13 Aug 2026 03:00:00 +0700",
+      "description": "Lãi suất tiền gửi tăng khiến chứng khoán kém hấp dẫn hơn, nếu vượt 10% một năm, có thể làm cho nhà đầu tư chuyển sang sợ hãi, theo SGI Capital.",
+      "score": 0.0,
+      "title_vi": "'Nhà đầu tư sẽ sợ hãi nếu lãi suất tiết kiệm vượt 10%'",
+      "title_en": "'Investors will be scared if savings interest rates exceed 10%'",
+      "summary_vi": "Lãi suất tiền gửi tăng khiến chứng khoán kém hấp dẫn hơn, nếu vượt 10% một năm, có thể làm cho nhà đầu tư chuyển sang sợ hãi, theo SGI Capital.",
+      "summary_en": "Rising deposit interest rates make stocks less attractive. If they exceed 10% a year, it can make investors scared, according to SGI Capital.",
+      "meta": {}
+    },
+    {
+      "title": "Building Security Agents That Cannot Escape Their Trust Boundary",
+      "url": "https://cynative.com/blog/agent-trust-boundaries/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 19:29:34 +0000",
+      "description": "Article URL: https://cynative.com/blog/agent-trust-boundaries/ Comments URL: https://news.ycombinator.com/item?id=49277437 Points: 3 # Comments: 0",
+      "score": 0.0,
+      "title_vi": "Xây dựng các đại lý bảo mật không thể thoát khỏi ranh giới tin cậy của họ",
+      "title_en": "Building Security Agents That Cannot Escape Their Trust Boundary",
+      "summary_vi": "URL bài viết: https://cynative.com/blog/agent-trust-boundaries/ URL nhận xét: https://news.ycombinator.com/item?id=49277437 Điểm: 3 # Nhận xét: 0",
+      "summary_en": "Article URL: https://cynative.com/blog/agent-trust-boundaries/ Comments URL: https://news.ycombinator.com/item?id=49277437 Points: 3 # Comments: 0",
+      "meta": {}
+    },
+    {
+      "title": "Brazil pushes spending curbs in bill before Congress as debt concerns mount, sources say - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTUtrRTVzVWgwUXFObC1UUHJSTFRJdGhFTmdCb1pZN2c1dkJUd01kREZnU3RXS2ZvVEVGQ1czc3hlOXBKcWZiLTlMQ2tsWWh3Wi1uRU5yckg1NlFBYUZEQUh5VVgtckYxQWtfcEk0bTRHRlRRU3JUSlhoZEV6NGQ4NHdEYWR6LUFIcUxDa3Z1dGptRkxCSGhudDNONlIteG55QkRSYlV3bVoydi1BWlZmd3FELVNFcXhqN0V6c1liNkRoNng0SU1r?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 19:07:13 GMT",
+      "description": "Brazil pushes spending curbs in bill before Congress as debt concerns mount, sources say reuters.com",
+      "score": 0.0,
+      "title_vi": "Brazil thúc đẩy dự luật hạn chế chi tiêu trước Quốc hội khi lo ngại về nợ nần gia tăng, các nguồn tin cho biết - reuters.com",
+      "title_en": "Brazil pushes spending curbs in bill before Congress as debt concerns mount, sources say - reuters.com",
+      "summary_vi": "Brazil thúc đẩy dự luật hạn chế chi tiêu trước Quốc hội khi lo ngại về nợ nần gia tăng, các nguồn tin cho biết reuters.com",
+      "summary_en": "Brazil pushes spending curbs in bill before Congress as debt concerns mount, sources say reuters.com",
+      "meta": {}
+    },
+    {
+      "title": "Scientists just created female clones of male mice",
+      "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+      "source": "MIT Technology Review",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 18:59:48 +0000",
+      "description": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice. “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who…",
+      "score": 0.0,
+      "title_vi": "Các nhà khoa học vừa tạo ra bản sao cái của chuột đực",
+      "title_en": "Scientists just created female clones of male mice",
+      "summary_vi": "Các nhà khoa học lần đầu tiên đã cố tình biến phôi chuột đực thành con cái. Một nhóm có trụ sở tại Nhật Bản đã sử dụng phương pháp dựa trên CRISPR để loại bỏ nhiễm sắc thể Y khỏi tế bào đực và tạo ra các bản sao cái của chuột đực. Monika Ward, nhà sinh học sinh sản tại Đại học Hawaii, người…",
+      "summary_en": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice. “No one has done this before,” says Monika Ward, a reproductive biologist at the University of Hawaii, who…",
+      "meta": {}
+    },
+    {
+      "title": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
+      "url": "https://techcrunch.com/2026/08/12/grubhubs-24m-ftc-settlement-is-finally-reaching-diners-and-drivers/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 18:34:21 +0000",
+      "description": "Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
+      "score": 0.0,
+      "title_vi": "Khoản thanh toán FTC trị giá 24 triệu đô la của Grubhub cuối cùng cũng đến tay thực khách và tài xế",
+      "title_en": "Grubhub’s $24M FTC settlement is finally reaching diners and drivers",
+      "summary_vi": "Các tấm séc đang được gửi từ khoản tiền phạt 23,8 triệu USD của Grubhub từ FTC sau khi cơ quan này giải quyết các cáo buộc về hoạt động kinh doanh của mình.",
+      "summary_en": "Checks are being mailed from Grubhub's $23.8 million fine from the FTC after it settled allegations over its business practices.",
+      "meta": {}
+    },
+    {
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 18:19:59 +0000",
+      "description": "Article URL: https://zed.dev/blog/introducing-delta Comments URL: https://news.ycombinator.com/item?id=49276574 Points: 189 # Comments: 68",
+      "score": 0.0,
+      "title_vi": "Đồng bằng",
+      "title_en": "Delta",
+      "summary_vi": "URL bài viết: https://zed.dev/blog/introducing-delta URL bình luận: https://news.ycombinator.com/item?id=49276574 Điểm: 189 # Bình luận: 68",
+      "summary_en": "Article URL: https://zed.dev/blog/introducing-delta Comments URL: https://news.ycombinator.com/item?id=49276574 Points: 189 # Comments: 68",
+      "meta": {}
+    },
+    {
+      "title": "Peltz-led group preparing bid to take Wendy's private, source says - reuters.com",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMUVYbmhqT2xxdVBlYmdpc1VvUDJuVUFzWnc2QWxRMm5PVEFVQm85TDJhY3lYdHZXZ2tJeDFkWlZEQm82ajBodW9ISlYwZkNSdEM2ck9qd3llMlZuM1h5Mkk3bGJOT1VmaUw1YjliUWlMNGVEOHRFT01DUzRUYjYyVjNwVmZsS1VKUlhZM0lLMjQ4ZmluZENQTDNXWWdHTFU?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 18:19:59 GMT",
+      "description": "Peltz-led group preparing bid to take Wendy's private, source says reuters.com",
+      "score": 0.0,
+      "title_vi": "Nguồn tin cho biết nhóm do Peltz dẫn đầu chuẩn bị đấu thầu để chiếm quyền riêng tư của Wendy",
+      "title_en": "Peltz-led group preparing bid to take Wendy's private, source says - reuters.com",
+      "summary_vi": "Nhóm do Peltz dẫn đầu đang chuẩn bị đấu thầu để chiếm lấy quyền riêng tư của Wendy, nguồn tin cho biết reuters.com",
+      "summary_en": "Peltz-led group preparing bid to take Wendy's private, source says reuters.com",
+      "meta": {}
+    },
+    {
+      "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Wed, 12 Aug 2026 18:19:12 +0000",
+      "description": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "score": 0.0,
+      "title_vi": "Công ty khởi nghiệp mã hóa AI Cognition được cho là đang đàm phán để tăng mức định giá 40 tỷ USD",
+      "title_en": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+      "summary_vi": "Cognition có thể đang tìm cách huy động một vòng gọi vốn lớn khác chỉ vài tháng sau khi huy động được 1 tỷ USD với mức định giá 26 tỷ USD.",
+      "summary_en": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation.",
+      "meta": {}
+    }
+  ],
+  "insights": {
+    "status": "ready",
+    "model": "z-ai/glm-5.2",
+    "daily_thesis_vi": "Tin tức ngày 13/8/2026 cho thấy sự bùng nổ hạ tầng AI, lo ngại về quyền dữ liệu và chi phí năng lượng. Các doanh nghiệp cần công cụ quản lý agent, bảo vệ bản quyền AI và tối ưu hóa chi phí.",
+    "daily_thesis_en": "Aug 13, 2026 news highlights AI infrastructure booms, data rights concerns, and energy costs. Businesses need agent management, AI copyright protection, and cost optimization tools.",
+    "opportunities": [
+      {
+        "name_vi": "Quản lý ranh giới bảo mật cho AI Agent",
+        "name_en": "AI Agent Trust Boundary Management",
+        "pain_vi": "Các doanh nghiệp khó kiểm soát và giới hạn quyền truy cập của AI agent, dẫn đến rủi ro rò rỉ dữ liệu và mất kiểm soát hệ thống.",
+        "pain_en": "Businesses struggle to restrict AI agent access, risking data leaks and uncontrolled system actions.",
+        "audience_vi": "Doanh nghiệp áp dụng AI, đội ngũ CNTT, bộ phận bảo mật",
+        "audience_en": "AI-adopting enterprises, IT teams, security departments",
+        "mvp_vi": "Tạo lớp trung gian giám sát và chặn các truy cập vượt quyền của AI agent.",
+        "mvp_en": "Build a middleware layer monitoring and blocking unauthorized AI agent actions.",
+        "scope": "global",
+        "score": 82,
+        "evidence_ids": [
+          3,
+          28
+        ],
+        "risks_vi": "Cạnh tranh với các tính năng bảo mật mặc định của nền tảng lớn.",
+        "risks_en": "Competing with default security features of major platforms.",
+        "sources": [
+          {
+            "title": "trycompai/crm",
+            "url": "https://github.com/trycompai/crm",
+            "source": "GitHub"
+          },
+          {
+            "title": "Building Security Agents That Cannot Escape Their Trust Boundary",
+            "url": "https://cynative.com/blog/agent-trust-boundaries/",
+            "source": "Hacker News"
+          }
+        ]
+      },
+      {
+        "name_vi": "Bảo vệ và quản lý bản quyền nội dung AI",
+        "name_en": "AI Content Provenance & Rights Management",
+        "pain_vi": "Người sáng tạo nội dung lo ngài dữ liệu bị các nền tảng AI lấy để huấn luyện mà không có sự đồng ý hoặc trả phí.",
+        "pain_en": "Creators worry their data is used by AI platforms for training without consent or compensation.",
+        "audience_vi": "Streamer, YouTuber, nhà sáng tạo nội dung số",
+        "audience_en": "Streamers, YouTubers, digital content creators",
+        "mvp_vi": "Công cụ chặn bot thu thập dữ liệu và dán nhãn bản quyền kỹ thuật số cho nội dung.",
+        "mvp_en": "Tool to block scraping bots and apply digital watermarks to content.",
+        "scope": "global",
+        "score": 75,
+        "evidence_ids": [
+          2,
+          24
+        ],
+        "risks_vi": "Nền tảng lớn có thể thay đổi API để vô hiệu hóa công cụ chặn.",
+        "risks_en": "Major platforms may change APIs to disable blocking tools.",
+        "sources": [
+          {
+            "title": "guillaumemeyer/watermarks-remover",
+            "url": "https://github.com/guillaumemeyer/watermarks-remover",
+            "source": "GitHub"
+          },
+          {
+            "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+            "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+            "source": "TechCrunch"
+          }
+        ]
+      },
+      {
+        "name_vi": "Công cụ tối ưu hóa chi phí năng lượng cho hộ gia đình",
+        "name_en": "Household Energy Cost Optimizer",
+        "pain_vi": "Chi phí năng lượng tăng cao khiến hộ gia đình thu nhập thấp gặp khó khăn tài chính vào mùa đông.",
+        "pain_en": "Rising energy costs strain low-income households financially during winter.",
+        "audience_vi": "Hộ gia đình, người tiêu dùng lo ngại chi phí",
+        "audience_en": "Households, cost-conscious consumers",
+        "mvp_vi": "Ứng dụng theo dõi tiêu thụ điện và gợi ý giảm chi phí dựa trên dữ liệu công tơ thông minh.",
+        "mvp_en": "App tracking electricity usage and suggesting cost reductions via smart meter data.",
+        "scope": "global",
+        "score": 68,
+        "evidence_ids": [
+          15,
+          17,
+          18
+        ],
+        "risks_vi": "Phụ thuộc vào khả năng tích hợp với hệ thống công tơ của các công ty điện lực.",
+        "risks_en": "Depends on integration capabilities with utility company meter systems.",
+        "sources": [
+          {
+            "title": "SEN. KUSHNER SUPPORTS $86 MILLION PLAN FOR LOW-INCOME ENERGY ASSISTANCE THIS WINTER - Connecticut Senate Democrats (.gov)",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXFvaFJQX0tTUmVUYmYtdEFhdFg2V3ZqRVlBT0VwYm5OdmcySi1USlFod3oxRzRHSzdTc08zWWxwNW51SGVDcUJDR3dVODI4QzZ6eFg1T0RyaXlIU3RuVkhsUndJZGtVNkswa0h5TWQxek9JdmJva1JPdU5uUzdfbVJnMGJNaXQ3Wl93UXplQk1YdmZ2d3hGdFNvX21URGRDZVhkYnk5M25GYWU1OFNfMw?oc=5",
+            "source": "Google News Social Needs"
+          },
+          {
+            "title": "MidAmerican Energy crews work to restore power to QC residents - OurQuadCities",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMVZQNER4Tmx4SmQ2bVp0b1l0Z1pWUVJ2b2QyT1JQVnRCSmN0b1hSOWxxcmdKUlNjYmRLTVBUWEJMWFVvTVhCbWhWMzZ1NnNwRWI1OUdPN05OdVUxZnBLSEVjaFJhcUd0dC1VZkg4d3luQ1lGZUNJM3VDT0VzVzBzcHV3MlhET0tUNV9IamdvTUVaYUpvbldJMi0xRG13V3k1VWtVREYwVWZOZWwwRUHSAbMBQVVfeXFMTzB3OUJyeGl2d0lxWE5YczYxVlZuUUY5cmJKb0hQblJaRE1yNXN1MVc5WTBRdE9WamY5b195UWY5dW9EZ3p0bGVSTWhkdjNoenhWem5oMjZsYUtTWUNINFdrdDZCcHI2YTVweTZLdFYwZGJkYmxzV0lIaTNSaU1GdGs3RFFvdU1ubGNNdHdUWkNoOElRWDZ4cG5yanhCWWVtaEs5UTZBMVJkRGFxczdHMFRFRVE?oc=5",
+            "source": "Google News Social Needs"
+          },
+          {
+            "title": "NV Energy provides update on emergency power shutoffs - KTVN",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcVlJRWM5WW40TzVWLTFlWW5MdVAtTWQtSURCWnItS1gwUHBsYl9SLVh3bE05MksteXZCNnFOZjhHcmdOcW93WUNyOE0xVU4zNjRKNTFlemt0RWxDSWtBVXlwTlRxYVlMY1g4Z1F2VXVPXy1QaEp1Qmh6bWRyV0ZzN2JTRldJcEMtUG5wWUVmYzlCYi1US1I0NTQzeEN5dWF0Q1F2MS1EbExxNHNWQjZJQTJzR2pxRm1IUkJKSGFiOVppNm9kbC1EMldnZERoZVlwM2c?oc=5",
+            "source": "Google News Social Needs"
+          }
+        ]
+      },
+      {
+        "name_vi": "Nền tảng quản lý tài chính cá nhân theo lạm phát",
+        "name_en": "Inflation-Driven Personal Finance Platform",
+        "pain_vi": "Lạm phát và lãi suất tiết kiệm cao làm thay đổi hành vi đầu tư, người dân cần công cụ tái cơ cấu danh mục.",
+        "pain_en": "Inflation and high savings rates alter investment behavior; people need portfolio restructuring tools.",
+        "audience_vi": "Nhà đầu tư cá nhân tại Việt Nam",
+        "audience_en": "Retail investors in Vietnam",
+        "mvp_vi": "Máy tính tài chính so sánh lợi nhuận tiết kiệm và cổ phiếu, gợi ý phân bổ vốn.",
+        "mvp_en": "Finance calculator comparing savings yields and stocks, suggesting capital allocation.",
+        "scope": "vietnam",
+        "score": 71,
+        "evidence_ids": [
+          26,
+          27
+        ],
+        "risks_vi": "Yêu cầu tuân thủ nghiêm ngặt các quy định về tư vấn tài chính.",
+        "risks_en": "Strict financial advisory regulatory compliance required.",
+        "sources": [
+          {
+            "title": "US consumer inflation mild in July, economy still not out of the woods - reuters.com",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVo4RlREbjZCeDFybnNPaTFlMDl0SnhGblQ3ZjE4NzA2WlVKU0diWDJqN1lPWXFvVk13eDY5TVhKYXROYXVJb2tLRzM0YVFaNXEzRWxLNWI0blFUSHZqbVN6aVRrMWFPR3Foa0hJd1FLZTluRVAtWlp0d3k1U1doeUhRVlRoRFltSzRneHcyYw?oc=5",
+            "source": "Google News Reuters Finance"
+          },
+          {
+            "title": "'Investors will be scared if savings interest rates exceed 10%'",
+            "url": "https://vnexpress.net/nha-dau-tu-se-so-hai-neu-lai-suat-tiet-kiem-vuot-10-5108173.html",
+            "source": "VnExpress Kinh doanh"
+          }
+        ]
+      },
+      {
+        "name_vi": "Chuyển đổi tài liệu doanh nghiệp sang Markdown",
+        "name_en": "Enterprise Document to Markdown Pipeline",
+        "pain_vi": "Xử lý khối lượng lớn tài liệu đa định dạng để đưa vào hệ thống AI tốn nhiều thời gian và chi phí.",
+        "pain_en": "Processing large volumes of multi-format documents for AI ingestion is time-consuming and costly.",
+        "audience_vi": "Doanh nghiệp xây dựng hệ thống RAG, nhà phát triển AI",
+        "audience_en": "Enterprises building RAG systems, AI developers",
+        "mvp_vi": "API chuyển đổi hàng loạt PDF, Word, Excel sang Markdown sạch để huấn luyện AI.",
+        "mvp_en": "API batch converting PDFs, Word, Excel to clean Markdown for AI training.",
+        "scope": "global",
+        "score": 78,
+        "evidence_ids": [
+          1,
+          34
+        ],
+        "risks_vi": "Cạnh tranh với các thư viện mã nguồn mở miễn phí hiện có.",
+        "risks_en": "Competing with existing free open-source libraries.",
+        "sources": [
+          {
+            "title": "firecrawl/anydoc",
+            "url": "https://github.com/firecrawl/anydoc",
+            "source": "GitHub"
+          },
+          {
+            "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+            "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+            "source": "TechCrunch"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}
