@@ -1,6 +1,6 @@
 {
   "date": "2026-08-13",
-  "generated_at": "2026-08-13T02:48:10.100252+00:00",
+  "generated_at": "2026-08-13T06:44:33.498807+00:00",
   "markets": [
     {
       "name": "S&P 500",
@@ -12,29 +12,29 @@
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26588.4883,
+      "price": 26588.4902,
       "change_pct": 0.54,
       "currency": "USD"
     },
     {
       "name": "Gold",
       "symbol": "GC=F",
-      "price": 4461.2998,
-      "change_pct": 1.79,
+      "price": 4428.2002,
+      "change_pct": 0.44,
       "currency": "USD"
     },
     {
       "name": "Crude Oil",
       "symbol": "CL=F",
-      "price": 82.12,
-      "change_pct": -1.3,
+      "price": 83.18,
+      "change_pct": -0.11,
       "currency": "USD"
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 63440.0,
-      "change_pct": -0.18,
+      "price": 63710.5,
+      "change_pct": 0.25,
       "currency": "USD"
     },
     {
@@ -47,26 +47,6 @@
   ],
   "items": [
     {
-      "title": "firecrawl/anydoc",
-      "url": "https://github.com/firecrawl/anydoc",
-      "source": "GitHub",
-      "category": "github",
-      "market": "global",
-      "published": "2026-08-03T16:36:14Z",
-      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "score": 1609.75,
-      "title_vi": "firecrawl/anydoc",
-      "title_en": "firecrawl/anydoc",
-      "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
-      "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "meta": {
-        "stars": 15135,
-        "forks": 809,
-        "language": "Rust",
-        "stars_per_day": 1513.5
-      }
-    },
-    {
       "title": "guillaumemeyer/watermarks-remover",
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "source": "GitHub",
@@ -74,16 +54,36 @@
       "market": "global",
       "published": "2026-08-11T16:32:38Z",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "score": 1369.06,
+      "score": 1626.87,
       "title_vi": "guillaumemeyer/loại bỏ hình mờ",
       "title_en": "guillaumemeyer/watermarks-remover",
       "summary_vi": "Loại bỏ các dấu xuất xứ AI của nhiều nhà cung cấp: Vệ sinh văn bản Unicode, móc viết lại thống kê và C2PA/siêu dữ liệu từ PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "summary_en": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "meta": {
-        "stars": 2581,
-        "forks": 248,
+        "stars": 3093,
+        "forks": 304,
         "language": "Python",
-        "stars_per_day": 1290.5
+        "stars_per_day": 1546.5
+      }
+    },
+    {
+      "title": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-03T16:36:14Z",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "score": 1620.32,
+      "title_vi": "firecrawl/anydoc",
+      "title_en": "firecrawl/anydoc",
+      "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
+      "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "meta": {
+        "stars": 15240,
+        "forks": 816,
+        "language": "Rust",
+        "stars_per_day": 1524.0
       }
     },
     {
@@ -94,16 +94,16 @@
       "market": "global",
       "published": "2026-07-31T21:38:51Z",
       "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
-      "score": 731.05,
+      "score": 732.22,
       "title_vi": "thửcompai/crm",
       "title_en": "trycompai/crm",
       "summary_vi": "Comp AI CRM là một CRM mã nguồn mở được thiết kế cho các đại lý AI. CRM ưu tiên tác nhân.",
       "summary_en": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
       "meta": {
-        "stars": 8330,
-        "forks": 962,
+        "stars": 8345,
+        "forks": 965,
         "language": "TypeScript",
-        "stars_per_day": 640.8
+        "stars_per_day": 641.9
       }
     },
     {
@@ -114,16 +114,16 @@
       "market": "global",
       "published": "2026-08-10T09:06:43Z",
       "description": "",
-      "score": 585.72,
+      "score": 615.61,
       "title_vi": "SMNETSTUDIO/WeChat-AI",
       "title_en": "SMNETSTUDIO/WeChat-AI",
       "summary_vi": "SMNETSTUDIO/WeChat-AI",
       "summary_en": "SMNETSTUDIO/WeChat-AI",
       "meta": {
-        "stars": 1537,
-        "forks": 1131,
+        "stars": 1625,
+        "forks": 1176,
         "language": "TypeScript",
-        "stars_per_day": 512.3
+        "stars_per_day": 541.7
       }
     },
     {
@@ -134,16 +134,16 @@
       "market": "global",
       "published": "2026-07-30T18:17:54Z",
       "description": "",
-      "score": 507.96,
+      "score": 508.92,
       "title_vi": "bashalarmistalt/decimen-quang-chuyển",
       "title_en": "bashalarmistalt/decimen-optical-transfer",
       "summary_vi": "bashalarmistalt/decimen-quang-chuyển",
       "summary_en": "bashalarmistalt/decimen-optical-transfer",
       "meta": {
-        "stars": 5896,
-        "forks": 714,
+        "stars": 5909,
+        "forks": 716,
         "language": "TypeScript",
-        "stars_per_day": 421.1
+        "stars_per_day": 422.1
       }
     },
     {
@@ -174,16 +174,16 @@
       "market": "global",
       "published": "2026-07-30T08:41:09Z",
       "description": "",
-      "score": 476.05,
+      "score": 481.62,
       "title_vi": "MiniMax-AI/MiniMax-H3",
       "title_en": "MiniMax-AI/MiniMax-H3",
       "summary_vi": "MiniMax-AI/MiniMax-H3",
       "summary_en": "MiniMax-AI/MiniMax-H3",
       "meta": {
-        "stars": 5460,
-        "forks": 341,
+        "stars": 5536,
+        "forks": 345,
         "language": "Python",
-        "stars_per_day": 390.0
+        "stars_per_day": 395.4
       }
     },
     {
@@ -194,16 +194,16 @@
       "market": "global",
       "published": "2026-08-05T01:19:41Z",
       "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "score": 400.41,
+      "score": 403.77,
       "title_vi": "KKKKhazix/chữ viết của con người",
       "title_en": "KKKKhazix/human-writing",
       "summary_vi": "Làm cho tiếng Trung được viết bởi AI đọc giống như một người cụ thể đang nói. Kỹ năng sáng tạo và sửa đổi phổ quát, có sẵn ngay lập tức.",
       "summary_en": "Make the Chinese written by AI read like a specific person speaking. Universal creation and revision skills, available right out of the box.",
       "meta": {
-        "stars": 2575,
-        "forks": 217,
+        "stars": 2601,
+        "forks": 218,
         "language": "Python",
-        "stars_per_day": 321.9
+        "stars_per_day": 325.1
       }
     },
     {
@@ -214,16 +214,16 @@
       "market": "global",
       "published": "2026-08-07T22:28:53Z",
       "description": "let your agent control your phone",
-      "score": 348.75,
+      "score": 352.37,
       "title_vi": "ShawnPana/dây điện thoại",
       "title_en": "ShawnPana/phone-harness",
       "summary_vi": "hãy để người đại diện của bạn điều khiển điện thoại của bạn",
       "summary_en": "let your agent control your phone",
       "meta": {
-        "stars": 1648,
-        "forks": 145,
+        "stars": 1669,
+        "forks": 146,
         "language": "Python",
-        "stars_per_day": 274.7
+        "stars_per_day": 278.2
       }
     },
     {
@@ -234,61 +234,286 @@
       "market": "global",
       "published": "2026-08-07T12:36:33Z",
       "description": "Create smooth, responsive interactive web animations.",
-      "score": 344.25,
+      "score": 347.71,
       "title_vi": "dầu-dầu/dầu-chuyển động",
       "title_en": "oil-oil/oil-motion",
       "summary_vi": "Tạo hoạt ảnh web tương tác mượt mà, đáp ứng.",
       "summary_en": "Create smooth, responsive interactive web animations.",
       "meta": {
-        "stars": 1622,
+        "stars": 1642,
         "forks": 126,
         "language": "Python",
-        "stars_per_day": 270.3
+        "stars_per_day": 273.7
       }
     },
     {
-      "title": "GENESEE COUNTY/Byron/Town Board looking to extend moratorium on renewable energy projects and battery energy storage/August 12, 2026 - Video News Service",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNRm9yVW84WlJjYmpnS2thMGd5Z0hwdFZrSmtOcGp2WVlnNTgyTHpHdVNGUUw2TzhNbmJXWGpDbkVJM3dPdlZoeWpTWXRUcGx3S3ZaVlJxUWY0MlBOV2hWTWU3bUYxYnZxVGNKbVpTbFM4X2RKVk9TS25vYkhEUVZDTnFVZGQ0M3RFNnQ5MkRuRzNMYmJ2S1FCcGxjVVdSYkFTM0x1UTZyTF9qVXdabHRMMnQ2bTVlN2hTaW8tTkFISnJ2VF9hcFR3aF8td0VUWTRad1JnV2d2SDRUODg0a3paQWdHLWVPQW1WU3hjbGpNUUwxUFpUbzRtSWc2SVRGYi1Mel9qdENnSUdCTXctQVBv?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Thu, 13 Aug 2026 02:38:29 GMT",
-      "description": "GENESEE COUNTY/Byron/Town Board looking to extend moratorium on renewable energy projects and battery energy storage/August 12, 2026 Video News Service",
-      "score": 0.0,
-      "title_vi": "QUẬN GEENEEE/Byron/Hội đồng Thị trấn đang tìm cách gia hạn lệnh cấm đối với các dự án năng lượng tái tạo và lưu trữ năng lượng bằng pin/12 tháng 8 năm 2026 - Dịch vụ Tin tức Video",
-      "title_en": "GENESEE COUNTY/Byron/Town Board looking to extend moratorium on renewable energy projects and battery energy storage/August 12, 2026 - Video News Service",
-      "summary_vi": "QUẬN GEENEEE/Byron/Hội đồng thị trấn đang tìm cách gia hạn lệnh cấm đối với các dự án năng lượng tái tạo và lưu trữ năng lượng bằng pin/Dịch vụ tin tức video ngày 12 tháng 8 năm 2026",
-      "summary_en": "GENESEE COUNTY/Byron/Town Board looking to extend moratorium on renewable energy projects and battery energy storage/August 12, 2026 Video News Service",
-      "meta": {}
-    },
-    {
-      "title": "NHIỀU CHÍNH SÁCH MỚI TRONG GIÁO DỤC, ĐÀO TẠO ĐƯỢC BỘ GIÁO DỤC VÀ ĐÀO TẠO THÔNG TIN TỚI QUỐC HỘI KHÓA XVI - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQkJjdVRxVk1uQXc3d015QnY0ZUFCLVNjN2NsQVlrUEhkTTFhVFFDMjFSNEIyLXNqYXNIbDZDdlVkdmt5WmJEdG9fV0VZS0Jlc2RBTmxDaUdCcDhXRU9Zby1DQXhfRS1LSm9mUHJyMV9HczNoTmhzTWhQcE9iX1lkODJwX2FfbWhhVS1MNi1MeXEwaWV1cW5xd3hCRjFFWm9nZ1BycXJPbVVadGdwdDFRM3J5NHB5T1ZhS0tNNDEyUU5UeVBj?oc=5",
+      "title": "Xã Gia Lâm ra mắt mô hình Trạm Y tế số - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMbkJkNnNXXzFpSHZ0NWhJZHNNQXQ2NTZFd3p6YW9FdzlSWHlDZzlzLXYxNlF2Nk9DUHRFV2g5ZEZMMEZjUFE1dFREcmk0ZVNWY1VFdm9oaXN1M0d0ZXdPR0FMQkNpSzhRMWxIZ29R?oc=5",
       "source": "Google News Nhu cầu Việt Nam",
       "category": "society",
       "market": "vietnam",
-      "published": "Thu, 13 Aug 2026 02:34:38 GMT",
-      "description": "NHIỀU CHÍNH SÁCH MỚI TRONG GIÁO DỤC, ĐÀO TẠO ĐƯỢC BỘ GIÁO DỤC VÀ ĐÀO TẠO THÔNG TIN TỚI QUỐC HỘI KHÓA XVI Vietnam.vn",
+      "published": "Thu, 13 Aug 2026 06:41:44 GMT",
+      "description": "Xã Gia Lâm ra mắt mô hình Trạm Y tế số Vietnam.vn",
       "score": 0.0,
-      "title_vi": "NHIỀU CHÍNH SÁCH MỚI TRONG GIÁO DỤC, ĐÀO TẠO ĐƯỢC BỘ GIÁO DỤC VÀ ĐÀO TẠO THÔNG TIN TỚI QUỐC HỘI KHÓA XVI - Vietnam.vn",
-      "title_en": "MANY NEW POLICIES IN EDUCATION AND TRAINING ANNOUNCED BY THE MINISTRY OF EDUCATION AND TRAINING TO THE XVI NATIONAL ASSEMBLY - Vietnam.vn",
-      "summary_vi": "NHIỀU CHÍNH SÁCH MỚI TRONG GIÁO DỤC, ĐÀO TẠO ĐƯỢC BỘ GIÁO DỤC VÀ ĐÀO TẠO THÔNG TIN TỚI QUỐC HỘI KHÓA XVI Vietnam.vn",
-      "summary_en": "MANY NEW POLICIES IN EDUCATION AND TRAINING ANNOUNCED BY THE MINISTRY OF EDUCATION AND TRAINING TO THE XVI NATIONAL ASSEMBLY Vietnam.vn",
+      "title_vi": "Xã Gia Lâm ra mắt mô hình Trạm Y tế số - Vietnam.vn",
+      "title_en": "Gia Lam commune launches digital health station model - Vietnam.vn",
+      "summary_vi": "Xã Gia Lâm ra mắt mô hình Trạm Y tế số Vietnam.vn",
+      "summary_en": "Gia Lam commune launches Vietnam.vn digital health station model",
       "meta": {}
     },
     {
-      "title": "Breakingviews - Zhu Rongji’s unbalanced reforms still haunt China - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdUJCYVhyWFB2SkxpLU4xQTJ1ODRSVFlCTTRlV2VLNGh6T2FlZ1AxQi14dWNrYmdkZ2NUaXJpTU5qOVZvdExYX3V1WHEwbUM0SVN5cDJuX0RveG1aUUNGMEhNMmJDLXNoSlJhM1d3cWtwZDYwY3ptX09GaU0ydFgwMV9XXzRPdHhsVnhYdHF6eUhMTVFjYURtUTRkVzFKME9MR19ILWUyMDZUd0l2bGc?oc=5",
+      "title": "Chiến lược ESG cho DN nhỏ và vừa: Xây 'đường cơ sở' và bước đầu 'đánh nhanh thắng nhanh' - VietnamFinance",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUJRRDRxN01HcldMM0s3S3F2TlhhT3pubkl4ZUQ0UE9MMExYb1hOZkM3a2ZScGY3c3lFYlBhWEFaUU4wcVZ1ZDhWZGlzRjN5LUExUnFJTUJHV1NOUUVseFdaLWtwV2JqdUt5MWdaU2pNVFUwRzdwcWlLc01KOGRING02bkNYZWNvRHQyVC1ubUFMUTM0QzBUUTlTdVhmTE1UX0dqWjMzZHpNOGM3T0NWWWdNZVF4Nnl5MHZtd0w4RmM?oc=5",
+      "source": "Google News Nhu cầu Việt Nam",
+      "category": "society",
+      "market": "vietnam",
+      "published": "Thu, 13 Aug 2026 06:30:00 GMT",
+      "description": "Chiến lược ESG cho DN nhỏ và vừa: Xây 'đường cơ sở' và bước đầu 'đánh nhanh thắng nhanh' VietnamFinance",
+      "score": 0.0,
+      "title_vi": "Chiến lược ESG cho DN nhỏ và vừa: Xây 'đường cơ sở' và bước đầu 'đánh nhanh thắng nhanh' - VietnamFinance",
+      "title_en": "ESG strategy for small and medium-sized enterprises: Building a 'baseline' and initially 'winning quickly' - VietnamFinance",
+      "summary_vi": "Chiến lược ESG cho DN nhỏ và vừa: Xây 'đường cơ sở' và bước đầu 'đánh nhanh thắng nhanh' VietnamFinance",
+      "summary_en": "ESG strategy for small and medium-sized enterprises: Building a 'baseline' and initially 'winning quickly' VietnamFinance",
+      "meta": {}
+    },
+    {
+      "title": "Nghị quyết số 221/NQ-CP: Chính phủ chỉ đạo sắp xếp, tinh gọn bộ máy; sắp xếp, sáp nhập đơn vị sự nghiệp, cơ sở giáo dục, y tế.. - xaydungchinhsach.chinhphu.vn",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNb2F3bHg2bEZuLTlGRUh6OU96Ykl3TTVUR0JXWFp6dG92b0ltUG9ONkhXUzNpYmtsSkZuQkZoOGxYQTAzR2libUV6SEtYVEl5bERQdmhicG9HWGRHQzVyQTBCLTMxOEFFVWZoSmJiLVBYU1l3V0c5ZC1uNE5PcjRuaUo3VG1yRF96MVl1RHh3bW5UZGFUdUt4VlRUQmk1M2JKUDllaEhIcVNJM3lvZ3VTVDdVOXRtWjVReEh1THZvZVBYUHBWSC1oODRoSTQxeDZSRDU1bmZYUEs5T0QxXzdhS1BYN1pVelRhbjVCS0hFVC1FSE1GN1NCaUlpbXJXUUsxdzZQcVlPMUNKR1U?oc=5",
+      "source": "Google News Nhu cầu Việt Nam",
+      "category": "society",
+      "market": "vietnam",
+      "published": "Thu, 13 Aug 2026 06:28:51 GMT",
+      "description": "Nghị quyết số 221/NQ-CP: Chính phủ chỉ đạo sắp xếp, tinh gọn bộ máy; sắp xếp, sáp nhập đơn vị sự nghiệp, cơ sở giáo dục, y tế.. xaydungchinhsach.chinhphu.vn",
+      "score": 0.0,
+      "title_vi": "Nghị quyết số 221/NQ-CP: Chính phủ chỉ đạo sắp xếp, tinh gọn bộ máy; sắp xếp, sáp nhập đơn vị sự nghiệp, cơ sở giáo dục, y tế.. - xaydungchinhsach.chinhphu.vn",
+      "title_en": "Resolution No. 221/NQ-CP: The Government directs the arrangement and streamlining of the apparatus; Arranging and merging public service units, educational and medical institutions... - xaydungchinhsach.chinhphu.vn",
+      "summary_vi": "Nghị quyết số 221/NQ-CP: Chính phủ chỉ đạo sắp xếp, tinh gọn bộ máy; sắp xếp, sáp nhập đơn vị sự nghiệp, cơ sở giáo dục, y tế.. xaydungchinhsach.chinhphu.vn",
+      "summary_en": "Resolution No. 221/NQ-CP: The Government directs the arrangement and streamlining of the apparatus; Arranging and merging public service units, educational and medical establishments.. xadungchinhsach.chinhphu.vn",
+      "meta": {}
+    },
+    {
+      "title": "Shein eyes Hong Kong market debut on August 28, source says - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaDNENFpLUnhteVB5a3N5QWtBd3pNVEk0UnI1R19feDR0MG9qeXd6VzZBaWNHX0xjcjlPdHJTZ0wxMTdqdnNBY2FtWlI1Umt5XzY1VThfS2dfUVA1eDhTekZmNFJPSmZlUTd5d1czelZielE3WWdCNEtYV2QxalozRGM4S2ZWTTRKWjBZX2dBTGNlSElocFlVNlBFclpPRmFQeEhmMFVDUFJYN3l0UnlVbw?oc=5",
       "source": "Google News Reuters Finance",
       "category": "finance",
       "market": "global",
-      "published": "Thu, 13 Aug 2026 02:27:00 GMT",
-      "description": "Breakingviews - Zhu Rongji’s unbalanced reforms still haunt China Reuters",
+      "published": "Thu, 13 Aug 2026 06:22:00 GMT",
+      "description": "Shein eyes Hong Kong market debut on August 28, source says Reuters",
       "score": 0.0,
-      "title_vi": "Breakingviews - Những cải cách không cân bằng của Chu Dung Cơ vẫn ám ảnh Trung Quốc - Reuters",
-      "title_en": "Breakingviews - Zhu Rongji’s unbalanced reforms still haunt China - Reuters",
-      "summary_vi": "Breakingviews - Những cải cách không cân bằng của Chu Dung Cơ vẫn ám ảnh Trung Quốc Reuters",
-      "summary_en": "Breakingviews - Zhu Rongji’s unbalanced reforms still haunt China Reuters",
+      "title_vi": "Nguồn tin cho biết Shein sẽ ra mắt thị trường Hồng Kông vào ngày 28 tháng 8 - Reuters",
+      "title_en": "Shein eyes Hong Kong market debut on August 28, source says - Reuters",
+      "summary_vi": "Shein dự định ra mắt thị trường Hồng Kông vào ngày 28 tháng 8, nguồn tin cho biết Reuters",
+      "summary_en": "Shein eyes Hong Kong market debut on August 28, source says Reuters",
+      "meta": {}
+    },
+    {
+      "title": "AI creeps onto Fed radar, but footprint is small so far - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYVc3czhrQzdzUEUwYW55ODBwdHBUSlF0NEhTU0RUUU1rT3pzb0Y5Sld5RFZ5Mk5PQWNPRWlVUEhoZzJfa0RrejNtQm1Bcm16WnNxa3d2UU5ULUZfWXFEVUZ5SVBNR1hjWDVpWlp5VmRkQnkyY1MyT1dZOHVDWkRzdjlkVFhsMU1xQ1FZV05VeUYzc2UzVVR0VjIzQnRRYkhZdGFjWGdlSTVwdmE4amR6UDdDWVVCN010dG40?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 06:21:50 GMT",
+      "description": "AI creeps onto Fed radar, but footprint is small so far Reuters",
+      "score": 0.0,
+      "title_vi": "AI len lỏi vào radar của Fed, nhưng dấu chân cho đến nay vẫn còn nhỏ - Reuters",
+      "title_en": "AI creeps onto Fed radar, but footprint is small so far - Reuters",
+      "summary_vi": "AI len lỏi vào radar của Fed, nhưng cho đến nay dấu chân vẫn còn nhỏ",
+      "summary_en": "AI creeps onto Fed radar, but footprint is small so far Reuters",
+      "meta": {}
+    },
+    {
+      "title": "West Virginia education officials target middle schools following latest assessment results - News and Sentinel",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQd3U1WUtFU1B4Y211bE1iaExwZzJpRjQ5QllEejNISWRDQTVXTjd6am41LTRLRGx2OFFidG9OVFNVUnJLTlBJOVIyQ2VRa0wtOWdUNEU4bXZldE9PX1hPN181R21lck5lX2s1Q183WUg3cEtfX0xqOFhWOWdWcHJQNEVHbmdmTEYzQnhQUHlGWDZwZ2VOTHhOMzNYMEJGbUc1bjlrUmxjamlvUVBTY3l3Z2VZbXRCYV9lOUY2bThqVUd2REZtZXNzdmstZU1TVmFTS0o5TmhYaFlJRXo0SWEyR1RR?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 06:17:16 GMT",
+      "description": "West Virginia education officials target middle schools following latest assessment results News and Sentinel",
+      "score": 0.0,
+      "title_vi": "Các quan chức giáo dục Tây Virginia nhắm vào các trường trung học cơ sở sau kết quả đánh giá mới nhất - Tin tức và Sentinel",
+      "title_en": "West Virginia education officials target middle schools following latest assessment results - News and Sentinel",
+      "summary_vi": "Các quan chức giáo dục Tây Virginia nhắm vào các trường trung học cơ sở sau kết quả đánh giá mới nhất",
+      "summary_en": "West Virginia education officials target middle schools following latest assessment results News and Sentinel",
+      "meta": {}
+    },
+    {
+      "title": "Ice cream makers bet consumers still want treats, just healthier ones - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ2NWbElFc1NqcnN5bkFZbHQzUEc5V1ZRQ21vcjd6TVF2WTljV2NfLThWYWV4OVJzdjlGLTVOTDRtOVBIVEVHWFRDYWwyVElybktsdUFYaEZtTEJPeUtmeG1CQkJhMHc0WkY2RVNxSktMRjE3QTF2N1VDUkZfWUJVeERNU0VFM1FZQ1lxYUpPZkRQdjRqQ3Zkcno2Nm4yRVlHYVBGZHh0aFlOSHh5bjZwZjhHRDJUbkU3RDNEYU5R?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 06:02:00 GMT",
+      "description": "Ice cream makers bet consumers still want treats, just healthier ones Reuters",
+      "score": 0.0,
+      "title_vi": "Các nhà sản xuất kem đặt cược rằng người tiêu dùng vẫn muốn đồ ăn vặt, chỉ những thứ tốt cho sức khỏe hơn - Reuters",
+      "title_en": "Ice cream makers bet consumers still want treats, just healthier ones - Reuters",
+      "summary_vi": "Các nhà sản xuất kem đặt cược rằng người tiêu dùng vẫn muốn ăn vặt, chỉ những món tốt cho sức khỏe hơn",
+      "summary_en": "Ice cream makers bet consumers still want treats, just healthier ones Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Thảo luận về thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả - Báo Đà Nẵng",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVm40aEdHUjB2YVpNcHJJSjNKS1MxbkZoeEdUZ0lXcG15aXRFTjdZNkV0Xzdhb1l0bUxxOHpILUFDVlk5OFIxQ1FpM3hOcHFLYkdpcnRuMmtpcmRNYlYzdUp4MElkcnVhUFpyS1poZ3VfYThnX2ZPb0ZrXzlSSFhmUnR6eVF5ZzJ3aUdudFJ6ZXFlOG4wMjQyVXJsS1E?oc=5",
+      "source": "Google News Nhu cầu Việt Nam",
+      "category": "society",
+      "market": "vietnam",
+      "published": "Thu, 13 Aug 2026 06:00:01 GMT",
+      "description": "Thảo luận về thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả Báo Đà Nẵng",
+      "score": 0.0,
+      "title_vi": "Thảo luận về thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả - Báo Đà Nẵng",
+      "title_en": "Discussion on promoting economical and efficient use of energy - Da Nang Newspaper",
+      "summary_vi": "Thảo luận về thúc đẩy sử dụng năng lượng tiết kiệm và hiệu quả Báo Đà Nẵng",
+      "summary_en": "Discussion on promoting economical and efficient use of energy Da Nang Newspaper",
+      "meta": {}
+    },
+    {
+      "title": "Europe's renewables boom is becoming a gas demand bust - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeFVHczZJNjFuWW9DOTIxbEJ0SjdxMkZ3Ri1mM0JyY1FXVGVRa3ctMHVJT0NUVm0zMEYzUFM5aTkwLUxZNUxjUW1SUER2NUZLODF4T2tzX3l5ZFJqMUdtZ3J2cGs4eXhrdUljNkF1azFnV1VFR0JxeE5Tbm45NjFLNml6ajdvSXQzMHkwNUhsYkZUSE02bnJhV0h5aUpJOW5mYXNyWHYwazRVWXctRmc3TEVOS3Y2N2NRRVJHbg?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 06:00:00 GMT",
+      "description": "Europe's renewables boom is becoming a gas demand bust Reuters",
+      "score": 0.0,
+      "title_vi": "Sự bùng nổ năng lượng tái tạo ở châu Âu đang khiến nhu cầu khí đốt sụt giảm - Reuters",
+      "title_en": "Europe's renewables boom is becoming a gas demand bust - Reuters",
+      "summary_vi": "Sự bùng nổ năng lượng tái tạo ở châu Âu đang khiến nhu cầu khí đốt sụt giảm",
+      "summary_en": "Europe's renewables boom is becoming a gas demand bust Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Education for Jewish Endurance - Jewish Journal",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LN1FNM2Z1VEN5Vi1QeVhKb0NPWTJRWHZKVEhBbm5hLXQ2T3VVZnllVkZ4VzRyc09KcjZrS2FtNlViQlNnNHlWS2NBZ0JYTm9wVUdDZl8yampWVDVKSi16N3RReTBpQ1J5MERuM3gyWXpjdEd3ZWl0RnlvUXQzT1E?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 05:37:17 GMT",
+      "description": "Education for Jewish Endurance Jewish Journal",
+      "score": 0.0,
+      "title_vi": "Giáo dục sức bền của người Do Thái - Tạp chí Do Thái",
+      "title_en": "Education for Jewish Endurance - Jewish Journal",
+      "summary_vi": "Giáo dục cho người Do Thái về sức bền Tạp chí Do Thái",
+      "summary_en": "Education for Jewish Endurance Jewish Journal",
+      "meta": {}
+    },
+    {
+      "title": "Mở rộng hợp tác Việt Nam - Hoa Kỳ về giáo dục và phát triển nhân lực - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORE1LYkQ0SElLTU9hcWxFU3V5VC05VW1FeVlwdF9URG1PMWh5bE9GSFd4bWFuQWx4R2pJd0pZQzBINTFnWFFzQ2dWd0ZnSThZRmZaMkl1SkZoQll1MzRSbGt3ZHduNEdQSmlPNldfV0dfZVYtM1psQnRWa2x0Y1ZQMjF3ZEdnaUh1c0MwblZOWkZZaDA?oc=5",
+      "source": "Google News Nhu cầu Việt Nam",
+      "category": "society",
+      "market": "vietnam",
+      "published": "Thu, 13 Aug 2026 05:36:26 GMT",
+      "description": "Mở rộng hợp tác Việt Nam - Hoa Kỳ về giáo dục và phát triển nhân lực Vietnam.vn",
+      "score": 0.0,
+      "title_vi": "Mở rộng hợp tác Việt Nam - Hoa Kỳ về giáo dục và phát triển nhân lực - Vietnam.vn",
+      "title_en": "Expanding Vietnam - United States cooperation on education and human resource development - Vietnam.vn",
+      "summary_vi": "Mở rộng hợp tác Việt Nam - Hoa Kỳ về giáo dục và phát triển nhân lực Vietnam.vn",
+      "summary_en": "Expanding Vietnam - United States cooperation on education and human resource development Vietnam.vn",
+      "meta": {}
+    },
+    {
+      "title": "Corps of Engineers issues Enbridge Energy permit for regulated activities proposed for the Line 5 tunnel project - The Alpena News -",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQeHRBQjVnVUQ4Q2ZjWkxpY0xIdzdvaVE5UmFIUjZuS0d0dTNpcjJuTzBpZmVzTTFWVlk4Rnowb1hYY1Y4ZHNrYlA5SkltVzJxQlNKRVJibGpjWnowSDB1ZjdOMThSUE5LcjQ3WXNpM3NfSl9pSFNuZlh4SHZycDE0RU9jUUZ5QkZTV0UwNVA2TVprX1NZTl91SjFENDRtOThWVl8zblFURTlvdWZrQVRERXBmS0c1NHFmUDhWd3E0T3F0WlpkLURIaHRIN2VuUjIzUV90RjliUkI4TjNROFE5VExlMEhZekxfZzVkbndzT3hYaC13VlNwcVNGYw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 05:34:23 GMT",
+      "description": "Corps of Engineers issues Enbridge Energy permit for regulated activities proposed for the Line 5 tunnel project The Alpena News -",
+      "score": 0.0,
+      "title_vi": "Đoàn Kỹ sư cấp giấy phép Enbridge Energy cho các hoạt động được quản lý đề xuất cho dự án đường hầm Tuyến 5 - The Alpena News -",
+      "title_en": "Corps of Engineers issues Enbridge Energy permit for regulated activities proposed for the Line 5 tunnel project - The Alpena News -",
+      "summary_vi": "Quân đoàn Kỹ sư cấp giấy phép Enbridge Energy cho các hoạt động được quản lý đề xuất cho dự án đường hầm Tuyến 5 The Alpena News -",
+      "summary_en": "Corps of Engineers issues Enbridge Energy permit for regulated activities proposed for the Line 5 tunnel project The Alpena News -",
+      "meta": {}
+    },
+    {
+      "title": "Thyssenkrupp raises lower end of profit outlook on steel, materials demand - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQY0ExUG54OVd0Q0ZseHFFRVVDa3hDcEEtaGtyNnZqZ0lWQmhMZnhPMnpncGJkRFJmN0k5Yk13b2VmaWlqQUd0UWFvSnNTcDdUNXhkcVhCUDJJT1lCWm5Lb0JPNUJqZEUwd2NYMEhkOW1VajV1SVRtMDM2ZjA3b3dTeDV2TkF6X2lPM2lta1FxQV9jR2xkaUhQcTBQT3kwbnVIQzQ1VU5FWHZQdWFGODJtWlFB?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 05:03:00 GMT",
+      "description": "Thyssenkrupp raises lower end of profit outlook on steel, materials demand Reuters",
+      "score": 0.0,
+      "title_vi": "Thyssenkrupp nâng triển vọng lợi nhuận thấp hơn đối với nhu cầu thép và vật liệu - Reuters",
+      "title_en": "Thyssenkrupp raises lower end of profit outlook on steel, materials demand - Reuters",
+      "summary_vi": "Thyssenkrupp nâng triển vọng lợi nhuận thấp hơn đối với nhu cầu thép và nguyên liệu",
+      "summary_en": "Thyssenkrupp raises lower end of profit outlook on steel, materials demand Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Hanwha Life hợp tác ABBank mở rộng kênh phân phối bảo hiểm",
+      "url": "https://vnexpress.net/hanwha-life-hop-tac-abbank-mo-rong-kenh-phan-phoi-bao-hiem-5108665.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Thu, 13 Aug 2026 12:00:00 +0700",
+      "description": "Hanwha Life Việt Nam và ABBank hợp tác phân phối sản phẩm bảo hiểm qua ngân hàng, mang các sản phẩm bảo vệ sức khỏe, tài chính đến gần hơn với khách hàng trên toàn quốc.",
+      "score": 0.0,
+      "title_vi": "Hanwha Life hợp tác ABBank mở rộng kênh phân phối bảo hiểm",
+      "title_en": "Hanwha Life cooperates with ABBank to expand insurance distribution channels",
+      "summary_vi": "Hanwha Life Việt Nam và ABBank hợp tác phân phối sản phẩm bảo hiểm qua ngân hàng, mang các sản phẩm bảo vệ sức khỏe, tài chính đến gần hơn với khách hàng trên toàn quốc.",
+      "summary_en": "Hanwha Life Vietnam and ABBank cooperate to distribute insurance products through the bank, bringing health and financial protection products closer to customers nationwide.",
+      "meta": {}
+    },
+    {
+      "title": "Morning Bid: Fed bets cool, BOJ wagers heat up - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oM0FFVzBuNGtQVW9IOG1zaU44UGdVei1MVEx3MUY0RVhjOE5zYndQM0tMMDNfZW9lU0wyM1o4eUlnU2RFZGJIdlA1SmREYUtBZk4xdS1RYUhOeFA2T1U4ZV9pZ0ZlaXpqTTEtVFFDSlNUYWhmaFRHclBCMWlkTVE?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 04:31:00 GMT",
+      "description": "Morning Bid: Fed bets cool, BOJ wagers heat up Reuters",
+      "score": 0.0,
+      "title_vi": "Giá thầu buổi sáng: Fed đặt cược mát mẻ, đặt cược BOJ nóng lên - Reuters",
+      "title_en": "Morning Bid: Fed bets cool, BOJ wagers heat up - Reuters",
+      "summary_vi": "Giá thầu buổi sáng: Fed đặt cược mát mẻ, đặt cược BOJ nóng lên",
+      "summary_en": "Morning Bid: Fed bets cool, BOJ wagers heat up Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Chủ tịch Viettel: Cần chuẩn bị hạ tầng để đón mạng 6G",
+      "url": "https://vnexpress.net/chu-tich-viettel-can-chuan-bi-ha-tang-de-don-mang-6g-5108544.html",
+      "source": "VnExpress Số hóa",
+      "category": "technology",
+      "market": "vietnam",
+      "published": "Thu, 13 Aug 2026 11:01:00 +0700",
+      "description": "Mạng 6G có thể truyền dữ liệu nhanh hơn, phục vụ các ứng dụng số đòi hỏi kết nối lớn, nhưng cần nhiều trạm phát sóng hơn, theo Chủ tịch Viettel Tào Đức Thắng.",
+      "score": 0.0,
+      "title_vi": "Chủ tịch Viettel: Cần chuẩn bị hạ tầng để đón mạng 6G",
+      "title_en": "Viettel Chairman: Need to prepare infrastructure to welcome 6G network",
+      "summary_vi": "Mạng 6G có thể truyền dữ liệu nhanh hơn, phục vụ các ứng dụng số đòi hỏi kết nối lớn, nhưng cần nhiều trạm phát sóng hơn, theo Chủ tịch Viettel Tào Đức Thắng.",
+      "summary_en": "6G networks can transmit data faster, serving digital applications that require large connections, but need more broadcasting stations, according to Viettel Chairman Tao Duc Thang.",
+      "meta": {}
+    },
+    {
+      "title": "Anthropic in talks to buy Decart AI, source says By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZWdVR1BSbFdFdDFSY0xsd1pvdW5HVTdhSnppb3pPamRBOWs2Zk5QbHlrdnhJeDg2aW12Q2VQS2pxUWcwNGF4VFh2NTZic1RXMUd4bjhaZUUzS0VjOWlwQXpySzFfcGM3ZGpKV0JacmJUSk56aGpWaU9JZFlsdi1mVnBnaW9BdVFuQWQwbDB2NUV6eFlIMU82LXNWZnc2ZXZmT24xSnJhOVBZaFRobmYxT3J3?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 03:54:00 GMT",
+      "description": "Anthropic in talks to buy Decart AI, source says By Reuters Investing.com",
+      "score": 0.0,
+      "title_vi": "Nguồn tin cho biết Anthropic đang đàm phán để mua Decart AI Theo Reuters - Investing.com",
+      "title_en": "Anthropic in talks to buy Decart AI, source says By Reuters - Investing.com",
+      "summary_vi": "Nguồn tin cho biết Anthropic đang đàm phán để mua Decart AI Theo Reuters Investing.com",
+      "summary_en": "Anthropic in talks to buy Decart AI, source says By Reuters Investing.com",
+      "meta": {}
+    },
+    {
+      "title": "Trường học tương tác qua iPad",
+      "url": "https://vnexpress.net/truong-hoc-tuong-tac-qua-ipad-5108294.html",
+      "source": "VnExpress Số hóa",
+      "category": "technology",
+      "market": "vietnam",
+      "published": "Thu, 13 Aug 2026 10:29:16 +0700",
+      "description": "Gần 600 học sinh ở trường SBPI Gombak sử dụng iPad để học tập và tương tác với giáo viên từ các môn văn hóa đến giáo dục thể chất theo mô hình 1:1.",
+      "score": 0.0,
+      "title_vi": "Trường học tương tác qua iPad",
+      "title_en": "School interacts via iPad",
+      "summary_vi": "Gần 600 học sinh ở trường SBPI Gombak sử dụng iPad để học tập và tương tác với giáo viên từ các môn văn hóa đến giáo dục thể chất theo mô hình 1:1.",
+      "summary_en": "Nearly 600 students at SBPI Gombak school use iPads to study and interact with teachers from cultural subjects to physical education in a 1:1 model.",
       "meta": {}
     },
     {
@@ -307,66 +532,6 @@
       "meta": {}
     },
     {
-      "title": "Maui housing looking up but employment still suffers post-fire, says UHERO report - Hawaii Public Radio",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmVXMlVvSlNvTjVxTUxTZnRRSDNYcm5zRnRGeU5MUy1feGV2OG9UVUlOZS14SWl5N1RmTGhzdVJXMzVLa29uam9IXzNhRmg4ckZtWmhXWllxUjdQYVZOQVJac0xYRU5qT2ttQl9WZ0ZqdGdXUXFzc0w0ZUtmTndsZ3JKU0Rfbi01NjNvR1l2akFta3p1SmU3NFE3Qk1DTXJZTGlyYUdDOUJUeHV0VDZpaXZ0NjJUc21aSkhwT0xUWTByVGs?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Thu, 13 Aug 2026 02:08:00 GMT",
-      "description": "Maui housing looking up but employment still suffers post-fire, says UHERO report Hawaii Public Radio",
-      "score": 0.0,
-      "title_vi": "Báo cáo của UHERO cho biết nhà ở ở Maui đang được cải thiện nhưng việc làm vẫn bị ảnh hưởng sau vụ cháy - Đài phát thanh công cộng Hawaii",
-      "title_en": "Maui housing looking up but employment still suffers post-fire, says UHERO report - Hawaii Public Radio",
-      "summary_vi": "Báo cáo của UHERO Đài phát thanh công cộng Hawaii cho biết nhà ở ở Maui đang được cải thiện nhưng việc làm vẫn bị ảnh hưởng sau vụ cháy",
-      "summary_en": "Maui housing looking up but employment still suffers post-fire, says UHERO report Hawaii Public Radio",
-      "meta": {}
-    },
-    {
-      "title": "J&J MedTech launches DUALTO combining 4 surgical energy modes in Korea - koreabiomed.com",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sa2dMdWdZQ1h2dFlDV09MOXhSVXNtTkRkd1FtVVVyN0J2VDF3VjBhRzdMMFJENHdOME1CeXkzRk5EZkV1b1NUWUxlZXl2SG5vMktJbk12QmZNdHdvQ0pMM2hDazhiRG9hSnpvd0p30gFyQVVfeXFMTVR1cTBndkc4TVlrdkt4cWstZzBnOGl2VzRkNDg1MnozVjhIcTlFVEhEZFJyQ2lwUllzMmhRbVdwb3VLSFVOdjdkWGNndjN1ZHNKNmtza2l3eTV6MG52QldGQndRMEZLMU85Y0Q3VC13MXNn?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Thu, 13 Aug 2026 02:07:21 GMT",
-      "description": "J&J MedTech launches DUALTO combining 4 surgical energy modes in Korea koreabiomed.com",
-      "score": 0.0,
-      "title_vi": "J&J MedTech ra mắt DUALTO kết hợp 4 chế độ năng lượng phẫu thuật tại Hàn Quốc - koreabiomed.com",
-      "title_en": "J&J MedTech launches DUALTO combining 4 surgical energy modes in Korea - koreabiomed.com",
-      "summary_vi": "J&J MedTech ra mắt DUALTO kết hợp 4 chế độ năng lượng phẫu thuật tại Hàn Quốc koreabiomed.com",
-      "summary_en": "J&J MedTech launches DUALTO combining 4 surgical energy modes in Korea koreabiomed.com",
-      "meta": {}
-    },
-    {
-      "title": "Focused mental healthcare for young people delivers big savings to Canadian healthcare - HealthExec",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPUzl1VlduVk1GLXdZd1ZnRFRLekhvdHhWUHpRd1U0UlB3UkpEaE1kR0tYZWFDbHdRRWt1WFNQZXYxRUdVd1ZTRFowVUdaZ0RVMnpRWlc4UGUtY2MyRnRFYWxjR2pIRGZJSUxMaXByVkZLMzdFN09jNkpBTk1HTExYeHJMdzZwdU03MXFLWXVxek44OGdHWGt3eWw5ZEJmY1A0TFlWSTBaWXUyOU5ndXZYdVg4aVlnc291dDc5bFFvLXlkSm1qXzA2cnhtSmVkUUF4bDNmckdVS29kbGxlTk9DcnlqQ3VyVDQ?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Thu, 13 Aug 2026 02:06:21 GMT",
-      "description": "Focused mental healthcare for young people delivers big savings to Canadian healthcare HealthExec",
-      "score": 0.0,
-      "title_vi": "Chăm sóc sức khỏe tâm thần tập trung cho thanh niên mang lại khoản tiết kiệm lớn cho ngành chăm sóc sức khỏe của Canada - HealthExec",
-      "title_en": "Focused mental healthcare for young people delivers big savings to Canadian healthcare - HealthExec",
-      "summary_vi": "Chăm sóc sức khỏe tâm thần tập trung cho giới trẻ mang lại khoản tiết kiệm lớn cho ngành chăm sóc sức khỏe Canada HealthExec",
-      "summary_en": "Focused mental healthcare for young people delivers big savings to Canadian healthcare HealthExec",
-      "meta": {}
-    },
-    {
-      "title": "Tạo việc làm bền vững, đổi mới đào tạo nguồn nhân lực đáp ứng mô hình tăng trưởng mới - baodautu",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ1FiRlBPalY5NzBaU2gyeTNyQ29xNF9JamdKT0JPUXgtZ2x6WDdtLWtGdi11VjBNRzVaZFJaQ21OVHJZVXlOS1lHNlBrQTRzaWlNdml3N3RDNUFUdVY0V1dyMU1Tc3N0S3BMRzR3ek52S3g4VUt0QjhKSkFlcm5IbHdyY0JaWWtqTm00R0ZTaFdIdlBDS0FLb0o4Zl92VDlKR2l2UVcxME5KRlI1Nmd2Tk55aHJyc0hn?oc=5",
-      "source": "Google News Nhu cầu Việt Nam",
-      "category": "society",
-      "market": "vietnam",
-      "published": "Thu, 13 Aug 2026 02:06:00 GMT",
-      "description": "Tạo việc làm bền vững, đổi mới đào tạo nguồn nhân lực đáp ứng mô hình tăng trưởng mới baodautu",
-      "score": 0.0,
-      "title_vi": "Tạo việc làm bền vững, đổi mới đào tạo nguồn nhân lực đáp ứng mô hình tăng trưởng mới - baodautu",
-      "title_en": "Creating sustainable jobs, innovating human resource training to meet the new growth model - baodautu",
-      "summary_vi": "Tạo việc làm bền vững, đổi mới đào tạo nguồn nhân lực đáp ứng mô hình tăng trưởng mới baodautu",
-      "summary_en": "Create sustainable jobs, innovate human resource training to meet the new growth model baodautu",
-      "meta": {}
-    },
-    {
       "title": "Chiêm ngưỡng nhật thực toàn phần hiếm gặp 2026",
       "url": "https://vnexpress.net/chiem-nguong-nhat-thuc-toan-phan-hiem-gap-2026-5108546.html",
       "source": "VnExpress Số hóa",
@@ -379,66 +544,6 @@
       "title_en": "Admire the rare total solar eclipse of 2026",
       "summary_vi": "Hiện tượng nhật thực hiếm gặp diễn ra đêm 12, rạng sáng 13/8 (giờ Hà Nội), quan sát được ở nhiều nơi thuộc châu Âu, Bắc Phi, Bắc Mỹ.",
       "summary_en": "The rare solar eclipse phenomenon took place on the night of August 12 and early morning of August 13 (Hanoi time), observed in many places in Europe, North Africa, and North America.",
-      "meta": {}
-    },
-    {
-      "title": "Origin Energy Profit Rises Despite Weaker LNG Earnings - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONHhQc0hhbHRqcHFPdjJhS1V5bHRjaHhYS0ZyYm14Zl9NYzVhczFJalVoZW9acEJSQ0IyNkRRaTQ2ZHFVbWRGRlZQaHRsSTFrY2o3bDFlMm9IbTVmb3ljY2RMX00wZEk4RnQyS1hnRDBITmVoWUhiRTIzUmVwZWxYenZ3MWxFZGg0R1JDWTVIRkNMeHZaM1E?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Thu, 13 Aug 2026 01:57:00 GMT",
-      "description": "Origin Energy Profit Rises Despite Weaker LNG Earnings Yahoo Finance",
-      "score": 0.0,
-      "title_vi": "Lợi nhuận từ năng lượng gốc tăng mặc dù thu nhập LNG yếu hơn - Yahoo Finance",
-      "title_en": "Origin Energy Profit Rises Despite Weaker LNG Earnings - Yahoo Finance",
-      "summary_vi": "Lợi nhuận từ năng lượng gốc tăng mặc dù thu nhập LNG yếu hơn Yahoo Finance",
-      "summary_en": "Origin Energy Profit Rises Despite Weaker LNG Earnings Yahoo Finance",
-      "meta": {}
-    },
-    {
-      "title": "Blue Grass Energy crews work to restore power after Tuesday storms - WKYT",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNM1dwTm5xWFNQSjFjaFJtUmtwRnF4cGpYSXZKMnY5RFpjQjVmR0VmR2hTU2UwVUw3TUhvZkNKQTFCOVlzRGVqT25hMFhudTJtdGlwcXVmM01qYmZDMkJaS2RGVXhqUHJzQklSbm5FT2QyczhESEZyRURaa3dzNHVIeHlxSmQwcnlTODlxeG5wYkRpcDBNdTVrRC02VFJ1YVU2d0pzXw?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Thu, 13 Aug 2026 01:54:24 GMT",
-      "description": "Blue Grass Energy crews work to restore power after Tuesday storms WKYT",
-      "score": 0.0,
-      "title_vi": "Đội ngũ Blue Grass Energy nỗ lực khôi phục điện sau cơn bão thứ Ba - WKYT",
-      "title_en": "Blue Grass Energy crews work to restore power after Tuesday storms - WKYT",
-      "summary_vi": "Đội ngũ Blue Grass Energy làm việc để khôi phục nguồn điện sau cơn bão thứ Ba WKYT",
-      "summary_en": "Blue Grass Energy crews work to restore power after Tuesday storms WKYT",
-      "meta": {}
-    },
-    {
-      "title": "Ba container khai báo gỗ xẻ chứa hơn 1,2 tấn ngà voi tại Quy Nhơn",
-      "url": "https://vnexpress.net/ba-container-khai-bao-go-xe-chua-hon-1-2-tan-nga-voi-tai-quy-nhon-5108515.html",
-      "source": "VnExpress Kinh doanh",
-      "category": "finance",
-      "market": "vietnam",
-      "published": "Thu, 13 Aug 2026 08:13:04 +0700",
-      "description": "Ba container từ châu Phi về cảng Quy Nhơn được khai báo là gỗ xẻ, nhưng qua khám xét, Hải quan phát hiện nhiều ngà voi cùng xương động vật hoang dã.",
-      "score": 0.0,
-      "title_vi": "Ba container khai báo gỗ xẻ chứa hơn 1,2 tấn ngà voi tại Quy Nhơn",
-      "title_en": "Three containers declared sawn timber containing more than 1.2 tons of ivory in Quy Nhon",
-      "summary_vi": "Ba container từ châu Phi về cảng Quy Nhơn được khai báo là gỗ xẻ, nhưng qua khám xét, Hải quan phát hiện nhiều ngà voi cùng xương động vật hoang dã.",
-      "summary_en": "Three containers from Africa arriving at Quy Nhon port were declared as sawn timber, but through inspection, Customs discovered many ivory and wild animal bones.",
-      "meta": {}
-    },
-    {
-      "title": "Asian stocks rise as US inflation data dents September Fed hike bets - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Thu, 13 Aug 2026 01:02:00 GMT",
-      "description": "Asian stocks rise as US inflation data dents September Fed hike bets Reuters",
-      "score": 0.0,
-      "title_vi": "Chứng khoán châu Á tăng khi dữ liệu lạm phát của Mỹ giảm trong tháng 9 đặt cược Fed tăng lãi suất - Reuters",
-      "title_en": "Asian stocks rise as US inflation data dents September Fed hike bets - Reuters",
-      "summary_vi": "Chứng khoán châu Á tăng khi dữ liệu lạm phát của Mỹ giảm vào tháng 9 Fed đặt cược tăng lãi suất",
-      "summary_en": "Asian stocks rise as US inflation data dents September Fed hike bets Reuters",
       "meta": {}
     },
     {
@@ -457,48 +562,18 @@
       "meta": {}
     },
     {
-      "title": "Máy bay 'Made in China' thực hiện chuyến bay thương mại quốc tế đầu tiên",
-      "url": "https://vnexpress.net/may-bay-made-in-china-thuc-hien-chuyen-bay-thuong-mai-quoc-te-dau-tien-5108522.html",
-      "source": "VnExpress Kinh doanh",
-      "category": "finance",
-      "market": "vietnam",
-      "published": "Thu, 13 Aug 2026 08:00:00 +0700",
-      "description": "Chiếc C919 do Trung Quốc tự phát triển đã thực hiện chuyến bay thương mại quốc tế đầu tiên theo lịch trình vào ngày 12/8.",
-      "score": 0.0,
-      "title_vi": "Máy bay 'Made in China' thực hiện chuyến bay thương mại quốc tế đầu tiên",
-      "title_en": "'Made in China' aircraft makes its first international commercial flight",
-      "summary_vi": "Chiếc C919 do Trung Quốc tự phát triển đã thực hiện chuyến bay thương mại quốc tế đầu tiên theo lịch trình vào ngày 12/8.",
-      "summary_en": "China's self-developed C919 made its first scheduled international commercial flight on August 12.",
-      "meta": {}
-    },
-    {
       "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
       "url": "https://www.ballet.dev/",
       "source": "Hacker News",
       "category": "technology",
       "market": "global",
       "published": "Thu, 13 Aug 2026 00:01:43 +0000",
-      "description": "Article URL: https://www.ballet.dev/ Comments URL: https://news.ycombinator.com/item?id=49280184 Points: 18 # Comments: 2",
+      "description": "Article URL: https://www.ballet.dev/ Comments URL: https://news.ycombinator.com/item?id=49280184 Points: 28 # Comments: 7",
       "score": 0.0,
       "title_vi": "Show HN: Ballet – Tự động hóa quy trình làm việc viết các tích hợp dựa trên bất kỳ API nào",
       "title_en": "Show HN: Ballet – Workflow automation that writes integrations against any API",
-      "summary_vi": "URL bài viết: https://www.ballet.dev/ URL bình luận: https://news.ycombinator.com/item?id=49280184 Điểm: 18 # Bình luận: 2",
-      "summary_en": "Article URL: https://www.ballet.dev/ Comments URL: https://news.ycombinator.com/item?id=49280184 Points: 18 # Comments: 2",
-      "meta": {}
-    },
-    {
-      "title": "Trump sued over service that offers paid early access to Truth Social posts - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaTFuZV9uNVoxdEdGTjVLZjVkLW43UnBGVjU5WnFGc3Y3RHNsY3d3YjFtOG5RX3VwVXlUZGNHYXZfY3FKX2hQRFYtdnhMWGwtazBqX3JBVDBwT3F5UGotYkpzWEZCS2VpdXBrNmVCYW1TYnZwY1VUMXQydldIZUNhLVVXY0UyWHRpWFJ4SmpBalZaaXR5ZFplQnFLX29CZm9zVGtWVFd0bGJjMVJTZEN3ZTVEQ1Aya3Y0UnpqVzdtb2NnZnM?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Wed, 12 Aug 2026 23:58:40 GMT",
-      "description": "Trump sued over service that offers paid early access to Truth Social posts Reuters",
-      "score": 0.0,
-      "title_vi": "Trump bị kiện về dịch vụ cung cấp quyền truy cập sớm có trả phí vào các bài đăng của Truth Social - Reuters",
-      "title_en": "Trump sued over service that offers paid early access to Truth Social posts - Reuters",
-      "summary_vi": "Trump bị kiện về dịch vụ cung cấp quyền truy cập sớm có trả phí vào các bài đăng của Truth Social",
-      "summary_en": "Trump sued over service that offers paid early access to Truth Social posts Reuters",
+      "summary_vi": "URL bài viết: https://www.ballet.dev/ URL bình luận: https://news.ycombinator.com/item?id=49280184 Điểm: 28 # Bình luận: 7",
+      "summary_en": "Article URL: https://www.ballet.dev/ Comments URL: https://news.ycombinator.com/item?id=49280184 Points: 28 # Comments: 7",
       "meta": {}
     },
     {
@@ -508,42 +583,12 @@
       "category": "technology",
       "market": "global",
       "published": "Wed, 12 Aug 2026 23:50:33 +0000",
-      "description": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45 Comments URL: https://news.ycombinator.com/item?id=49280103 Points: 33 # Comments: 9",
+      "description": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45 Comments URL: https://news.ycombinator.com/item?id=49280103 Points: 67 # Comments: 20",
       "score": 0.0,
       "title_vi": "Chúc mừng sinh nhật lần thứ 45 của IBM PC và Model F/XT",
       "title_en": "Happy 45th Birthday to the IBM PC and Model F/XT",
-      "summary_vi": "URL bài viết: https://sharktastica.co.uk/articles/pc-fxt-45 URL bình luận: https://news.ycombinator.com/item?id=49280103 Điểm: 33 # Bình luận: 9",
-      "summary_en": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45 Comments URL: https://news.ycombinator.com/item?id=49280103 Points: 33 # Comments: 9",
-      "meta": {}
-    },
-    {
-      "title": "What's New in Flutter 3.47",
-      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Wed, 12 Aug 2026 23:46:00 +0000",
-      "description": "Article URL: https://flutter.dev/blog/whats-new-in-flutter-3-47 Comments URL: https://news.ycombinator.com/item?id=49280061 Points: 53 # Comments: 35",
-      "score": 0.0,
-      "title_vi": "Có gì mới trong Flutter 3.47",
-      "title_en": "What's New in Flutter 3.47",
-      "summary_vi": "URL bài viết: https://flutter.dev/blog/whats-new-in-flutter-3-47 URL bình luận: https://news.ycombinator.com/item?id=49280061 Điểm: 53 # Bình luận: 35",
-      "summary_en": "Article URL: https://flutter.dev/blog/whats-new-in-flutter-3-47 Comments URL: https://news.ycombinator.com/item?id=49280061 Points: 53 # Comments: 35",
-      "meta": {}
-    },
-    {
-      "title": "Cerebras shares plummet 16% after results fail to impress investors - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPS3RxTUJxMTh2Mk9XSmgxdm1MZDh6MlRtcVl5aFM1bmF1ajVmWlFnUF9nNU0yYjloQ0pON2VSWFZBYTVldmJ0TGI5N2psYlcwZVRuSURZaUM1NkYzVkh4NGVNRUtjd0F0M3RMTno2X0RSNG9VbF91V2lDOUh0OG5nSDJiY2M4cDdrM1lGRnNicldnNXBBQTBDRFVzNHdJQQ?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Wed, 12 Aug 2026 23:45:01 GMT",
-      "description": "Cerebras shares plummet 16% after results fail to impress investors Reuters",
-      "score": 0.0,
-      "title_vi": "Cổ phiếu Cerebras lao dốc 16% sau khi kết quả kinh doanh không gây ấn tượng với nhà đầu tư - Reuters",
-      "title_en": "Cerebras shares plummet 16% after results fail to impress investors - Reuters",
-      "summary_vi": "Cổ phiếu Cerebras giảm mạnh 16% sau khi kết quả không gây ấn tượng với nhà đầu tư",
-      "summary_en": "Cerebras shares plummet 16% after results fail to impress investors Reuters",
+      "summary_vi": "URL bài viết: https://sharktastica.co.uk/articles/pc-fxt-45 URL bình luận: https://news.ycombinator.com/item?id=49280103 Điểm: 67 # Bình luận: 20",
+      "summary_en": "Article URL: https://sharktastica.co.uk/articles/pc-fxt-45 Comments URL: https://news.ycombinator.com/item?id=49280103 Points: 67 # Comments: 20",
       "meta": {}
     },
     {
@@ -553,226 +598,142 @@
       "category": "technology",
       "market": "global",
       "published": "Wed, 12 Aug 2026 23:43:48 +0000",
-      "description": "Article URL: https://adapt.com/blog/build-wide-ship-narrow Comments URL: https://news.ycombinator.com/item?id=49280047 Points: 34 # Comments: 1",
+      "description": "Article URL: https://adapt.com/blog/build-wide-ship-narrow Comments URL: https://news.ycombinator.com/item?id=49280047 Points: 78 # Comments: 18",
       "score": 0.0,
       "title_vi": "Xây dựng rộng, vận chuyển thu hẹp",
       "title_en": "Build Wide, Ship Narrow",
-      "summary_vi": "URL bài viết: https://adapt.com/blog/build-wide-ship-narrow URL bình luận: https://news.ycombinator.com/item?id=49280047 Điểm: 34 # Bình luận: 1",
-      "summary_en": "Article URL: https://adapt.com/blog/build-wide-ship-narrow Comments URL: https://news.ycombinator.com/item?id=49280047 Points: 34 # Comments: 1",
-      "meta": {}
-    },
-    {
-      "title": "Soaring AI hyperscaler default hedges aren't what they seem - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMFFnWUNMaWpDeWFxYlNzUndyNi16SWZKVmEyZ3hDckhWTlJNMGROV2VfMngxbzljVDhkRE9YTFluaVJQbVBJb1FvREFmREZlVGl1TjAtZzNmMjFnNm1HdW5lM3ZOellSMHA2M1lXYklvSVRKdWJ5Tk1abnZyZ2V4WWlZZGtrOW9GelhCZlV6dGpIamZzWFZ0djNfY0lIcXRsYTdtSExzZ2ZMWHN2NHRkMC1OajNEOW1qeFZpNzZndmpXUnZHblE?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Wed, 12 Aug 2026 23:30:38 GMT",
-      "description": "Soaring AI hyperscaler default hedges aren't what they seem Reuters",
-      "score": 0.0,
-      "title_vi": "Các biện pháp phòng ngừa mặc định của công cụ siêu quy mô AI tăng vọt không giống như những gì chúng tưởng - Reuters",
-      "title_en": "Soaring AI hyperscaler default hedges aren't what they seem - Reuters",
-      "summary_vi": "Các hàng rào mặc định siêu quy mô AI tăng vọt không giống như những gì chúng tưởng",
-      "summary_en": "Soaring AI hyperscaler default hedges aren't what they seem Reuters",
-      "meta": {}
-    },
-    {
-      "title": "Principia Mathematica is modern and insightful",
-      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Wed, 12 Aug 2026 23:26:21 +0000",
-      "description": "Article URL: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html Comments URL: https://news.ycombinator.com/item?id=49279928 Points: 55 # Comments: 19",
-      "score": 0.0,
-      "title_vi": "Principia Mathematica hiện đại và sâu sắc",
-      "title_en": "Principia Mathematica is modern and insightful",
-      "summary_vi": "URL bài viết: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html URL nhận xét: https://news.ycombinator.com/item?id=49279928 Điểm: 55 # Nhận xét: 19",
-      "summary_en": "Article URL: https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html Comments URL: https://news.ycombinator.com/item?id=49279928 Points: 55 # Comments: 19",
-      "meta": {}
-    },
-    {
-      "title": "Foreign banks eye bigger Vietnam role as growth ambitions fuel funding crunch - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZDBBWFpQUFNwaHVrWlFsQWtHMGxDTXFoOEI0Q2E4MzNsa0NCSS1TdXFFNVd2WTV5cEFtQ2JmQkVjMWUxb010N1IyLW1TSmxUVlNqZXNQN3VERVdXVHdMWkVYbTBQMkVsQVNPX0pWNlI2RExTZlFaZUJOY0pMRmFPR041aFh0aFZQemJ5R1N2bmx3NC1jSldDQmYwaDFqOXFYN1VPbGVYdU95ZmtwVkJNQXg3eTZoSE9LU2wtcFBWTll1bFVEb05CVg?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Wed, 12 Aug 2026 23:22:58 GMT",
-      "description": "Foreign banks eye bigger Vietnam role as growth ambitions fuel funding crunch Reuters",
-      "score": 0.0,
-      "title_vi": "Các ngân hàng nước ngoài để mắt tới vai trò lớn hơn của Việt Nam khi tham vọng tăng trưởng thúc đẩy khủng hoảng nguồn vốn - Reuters",
-      "title_en": "Foreign banks eye bigger Vietnam role as growth ambitions fuel funding crunch - Reuters",
-      "summary_vi": "Các ngân hàng nước ngoài để mắt tới vai trò lớn hơn của Việt Nam khi tham vọng tăng trưởng thúc đẩy khủng hoảng tài trợ",
-      "summary_en": "Foreign banks eye bigger Vietnam role as growth ambitions fuel funding crunch Reuters",
+      "summary_vi": "URL bài viết: https://adapt.com/blog/build-wide-ship-narrow URL bình luận: https://news.ycombinator.com/item?id=49280047 Điểm: 78 # Bình luận: 18",
+      "summary_en": "Article URL: https://adapt.com/blog/build-wide-ship-narrow Comments URL: https://news.ycombinator.com/item?id=49280047 Points: 78 # Comments: 18",
       "meta": {}
     }
   ],
   "insights": {
     "status": "ready",
     "model": "z-ai/glm-5.2",
-    "daily_thesis_vi": "Tin tức ngày 13/8/2026 cho thấy sự bùng nổ hạ tầng AI, lo ngại về quyền dữ liệu và chi phí năng lượng. Các doanh nghiệp cần công cụ quản lý agent, bảo vệ bản quyền AI và tối ưu hóa chi phí.",
-    "daily_thesis_en": "Aug 13, 2026 news highlights AI infrastructure booms, data rights concerns, and energy costs. Businesses need agent management, AI copyright protection, and cost optimization tools.",
+    "daily_thesis_vi": "Tin tức hôm nay nhấn mạnh sự chuyển dịch mạnh mẽ sang tự động hóa AI, số hóa giáo dục/y tế tại Việt Nam và nhu cầu quản lý dữ liệu/chuỗi cung ứng toàn cầu, tạo ra các cơ hội SaaS thực tế.",
+    "daily_thesis_en": "Today's news highlights a strong shift towards AI automation, Vietnam's education/health digitization, and global data/supply chain management needs, creating pragmatic SaaS opportunities.",
     "opportunities": [
       {
-        "name_vi": "Quản lý ranh giới bảo mật cho AI Agent",
-        "name_en": "AI Agent Trust Boundary Management",
-        "pain_vi": "Các doanh nghiệp khó kiểm soát và giới hạn quyền truy cập của AI agent, dẫn đến rủi ro rò rỉ dữ liệu và mất kiểm soát hệ thống.",
-        "pain_en": "Businesses struggle to restrict AI agent access, risking data leaks and uncontrolled system actions.",
-        "audience_vi": "Doanh nghiệp áp dụng AI, đội ngũ CNTT, bộ phận bảo mật",
-        "audience_en": "AI-adopting enterprises, IT teams, security departments",
-        "mvp_vi": "Tạo lớp trung gian giám sát và chặn các truy cập vượt quyền của AI agent.",
-        "mvp_en": "Build a middleware layer monitoring and blocking unauthorized AI agent actions.",
-        "scope": "global",
-        "score": 82,
-        "evidence_ids": [
-          3,
-          28
-        ],
-        "risks_vi": "Cạnh tranh với các tính năng bảo mật mặc định của nền tảng lớn.",
-        "risks_en": "Competing with default security features of major platforms.",
-        "sources": [
-          {
-            "title": "trycompai/crm",
-            "url": "https://github.com/trycompai/crm",
-            "source": "GitHub"
-          },
-          {
-            "title": "Building Security Agents That Cannot Escape Their Trust Boundary",
-            "url": "https://cynative.com/blog/agent-trust-boundaries/",
-            "source": "Hacker News"
-          }
-        ]
-      },
-      {
-        "name_vi": "Bảo vệ và quản lý bản quyền nội dung AI",
-        "name_en": "AI Content Provenance & Rights Management",
-        "pain_vi": "Người sáng tạo nội dung lo ngài dữ liệu bị các nền tảng AI lấy để huấn luyện mà không có sự đồng ý hoặc trả phí.",
-        "pain_en": "Creators worry their data is used by AI platforms for training without consent or compensation.",
-        "audience_vi": "Streamer, YouTuber, nhà sáng tạo nội dung số",
-        "audience_en": "Streamers, YouTubers, digital content creators",
-        "mvp_vi": "Công cụ chặn bot thu thập dữ liệu và dán nhãn bản quyền kỹ thuật số cho nội dung.",
-        "mvp_en": "Tool to block scraping bots and apply digital watermarks to content.",
-        "scope": "global",
-        "score": 75,
-        "evidence_ids": [
-          2,
-          24
-        ],
-        "risks_vi": "Nền tảng lớn có thể thay đổi API để vô hiệu hóa công cụ chặn.",
-        "risks_en": "Major platforms may change APIs to disable blocking tools.",
-        "sources": [
-          {
-            "title": "guillaumemeyer/watermarks-remover",
-            "url": "https://github.com/guillaumemeyer/watermarks-remover",
-            "source": "GitHub"
-          },
-          {
-            "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
-            "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-            "source": "TechCrunch"
-          }
-        ]
-      },
-      {
-        "name_vi": "Công cụ tối ưu hóa chi phí năng lượng cho hộ gia đình",
-        "name_en": "Household Energy Cost Optimizer",
-        "pain_vi": "Chi phí năng lượng tăng cao khiến hộ gia đình thu nhập thấp gặp khó khăn tài chính vào mùa đông.",
-        "pain_en": "Rising energy costs strain low-income households financially during winter.",
-        "audience_vi": "Hộ gia đình, người tiêu dùng lo ngại chi phí",
-        "audience_en": "Households, cost-conscious consumers",
-        "mvp_vi": "Ứng dụng theo dõi tiêu thụ điện và gợi ý giảm chi phí dựa trên dữ liệu công tơ thông minh.",
-        "mvp_en": "App tracking electricity usage and suggesting cost reductions via smart meter data.",
-        "scope": "global",
-        "score": 68,
-        "evidence_ids": [
-          15,
-          17,
-          18
-        ],
-        "risks_vi": "Phụ thuộc vào khả năng tích hợp với hệ thống công tơ của các công ty điện lực.",
-        "risks_en": "Depends on integration capabilities with utility company meter systems.",
-        "sources": [
-          {
-            "title": "SEN. KUSHNER SUPPORTS $86 MILLION PLAN FOR LOW-INCOME ENERGY ASSISTANCE THIS WINTER - Connecticut Senate Democrats (.gov)",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXFvaFJQX0tTUmVUYmYtdEFhdFg2V3ZqRVlBT0VwYm5OdmcySi1USlFod3oxRzRHSzdTc08zWWxwNW51SGVDcUJDR3dVODI4QzZ6eFg1T0RyaXlIU3RuVkhsUndJZGtVNkswa0h5TWQxek9JdmJva1JPdU5uUzdfbVJnMGJNaXQ3Wl93UXplQk1YdmZ2d3hGdFNvX21URGRDZVhkYnk5M25GYWU1OFNfMw?oc=5",
-            "source": "Google News Social Needs"
-          },
-          {
-            "title": "MidAmerican Energy crews work to restore power to QC residents - OurQuadCities",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMVZQNER4Tmx4SmQ2bVp0b1l0Z1pWUVJ2b2QyT1JQVnRCSmN0b1hSOWxxcmdKUlNjYmRLTVBUWEJMWFVvTVhCbWhWMzZ1NnNwRWI1OUdPN05OdVUxZnBLSEVjaFJhcUd0dC1VZkg4d3luQ1lGZUNJM3VDT0VzVzBzcHV3MlhET0tUNV9IamdvTUVaYUpvbldJMi0xRG13V3k1VWtVREYwVWZOZWwwRUHSAbMBQVVfeXFMTzB3OUJyeGl2d0lxWE5YczYxVlZuUUY5cmJKb0hQblJaRE1yNXN1MVc5WTBRdE9WamY5b195UWY5dW9EZ3p0bGVSTWhkdjNoenhWem5oMjZsYUtTWUNINFdrdDZCcHI2YTVweTZLdFYwZGJkYmxzV0lIaTNSaU1GdGs3RFFvdU1ubGNNdHdUWkNoOElRWDZ4cG5yanhCWWVtaEs5UTZBMVJkRGFxczdHMFRFRVE?oc=5",
-            "source": "Google News Social Needs"
-          },
-          {
-            "title": "NV Energy provides update on emergency power shutoffs - KTVN",
-            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcVlJRWM5WW40TzVWLTFlWW5MdVAtTWQtSURCWnItS1gwUHBsYl9SLVh3bE05MksteXZCNnFOZjhHcmdOcW93WUNyOE0xVU4zNjRKNTFlemt0RWxDSWtBVXlwTlRxYVlMY1g4Z1F2VXVPXy1QaEp1Qmh6bWRyV0ZzN2JTRldJcEMtUG5wWUVmYzlCYi1US1I0NTQzeEN5dWF0Q1F2MS1EbExxNHNWQjZJQTJzR2pxRm1IUkJKSGFiOVppNm9kbC1EMldnZERoZVlwM2c?oc=5",
-            "source": "Google News Social Needs"
-          }
-        ]
-      },
-      {
-        "name_vi": "Nền tảng quản lý tài chính cá nhân theo lạm phát",
-        "name_en": "Inflation-Driven Personal Finance Platform",
-        "pain_vi": "Lạm phát và lãi suất tiết kiệm cao làm thay đổi hành vi đầu tư, người dân cần công cụ tái cơ cấu danh mục.",
-        "pain_en": "Inflation and high savings rates alter investment behavior; people need portfolio restructuring tools.",
-        "audience_vi": "Nhà đầu tư cá nhân tại Việt Nam",
-        "audience_en": "Retail investors in Vietnam",
-        "mvp_vi": "Máy tính tài chính so sánh lợi nhuận tiết kiệm và cổ phiếu, gợi ý phân bổ vốn.",
-        "mvp_en": "Finance calculator comparing savings yields and stocks, suggesting capital allocation.",
+        "name_vi": "Nền tảng tuân thủ ESG cho SME",
+        "name_en": "SME ESG Compliance Platform",
+        "pain_vi": "Các doanh nghiệp vừa và nhỏ gặp khó khăn trong việc thiết lập tiêu chuẩn ESG cơ bản và báo cáo nhanh để đáp ứng yêu cầu từ đối tác.",
+        "pain_en": "SMEs struggle to establish basic ESG baselines and report quickly to meet partner and regulatory demands.",
+        "audience_vi": "Doanh nghiệp vừa và nhỏ tại Việt Nam",
+        "audience_en": "Small and medium enterprises in Vietnam",
+        "mvp_vi": "Mẫu báo cáo ESG tự động và theo dõi chỉ số cơ bản trên cloud.",
+        "mvp_en": "Cloud-based automated ESG reporting templates and basic metric tracking.",
         "scope": "vietnam",
-        "score": 71,
-        "evidence_ids": [
-          26,
-          27
-        ],
-        "risks_vi": "Yêu cầu tuân thủ nghiêm ngặt các quy định về tư vấn tài chính.",
-        "risks_en": "Strict financial advisory regulatory compliance required.",
-        "sources": [
-          {
-            "title": "US consumer inflation mild in July, economy still not out of the woods - reuters.com",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONVo4RlREbjZCeDFybnNPaTFlMDl0SnhGblQ3ZjE4NzA2WlVKU0diWDJqN1lPWXFvVk13eDY5TVhKYXROYXVJb2tLRzM0YVFaNXEzRWxLNWI0blFUSHZqbVN6aVRrMWFPR3Foa0hJd1FLZTluRVAtWlp0d3k1U1doeUhRVlRoRFltSzRneHcyYw?oc=5",
-            "source": "Google News Reuters Finance"
-          },
-          {
-            "title": "'Investors will be scared if savings interest rates exceed 10%'",
-            "url": "https://vnexpress.net/nha-dau-tu-se-so-hai-neu-lai-suat-tiet-kiem-vuot-10-5108173.html",
-            "source": "VnExpress Kinh doanh"
-          }
-        ]
-      },
-      {
-        "name_vi": "Chuyển đổi tài liệu doanh nghiệp sang Markdown",
-        "name_en": "Enterprise Document to Markdown Pipeline",
-        "pain_vi": "Xử lý khối lượng lớn tài liệu đa định dạng để đưa vào hệ thống AI tốn nhiều thời gian và chi phí.",
-        "pain_en": "Processing large volumes of multi-format documents for AI ingestion is time-consuming and costly.",
-        "audience_vi": "Doanh nghiệp xây dựng hệ thống RAG, nhà phát triển AI",
-        "audience_en": "Enterprises building RAG systems, AI developers",
-        "mvp_vi": "API chuyển đổi hàng loạt PDF, Word, Excel sang Markdown sạch để huấn luyện AI.",
-        "mvp_en": "API batch converting PDFs, Word, Excel to clean Markdown for AI training.",
-        "scope": "global",
         "score": 78,
         "evidence_ids": [
-          1,
-          34
+          12
         ],
-        "risks_vi": "Cạnh tranh với các thư viện mã nguồn mở miễn phí hiện có.",
-        "risks_en": "Competing with existing free open-source libraries.",
+        "risks_vi": "Chi phí chuyển đổi thấp và thiếu quy định bắt buộc từ chính phủ.",
+        "risks_en": "Low switching costs and lack of strict government mandates.",
+        "sources": [
+          {
+            "title": "ESG strategy for small and medium-sized enterprises: Building a 'baseline' and initially 'winning quickly' - VietnamFinance",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZUJRRDRxN01HcldMM0s3S3F2TlhhT3pubkl4ZUQ0UE9MMExYb1hOZkM3a2ZScGY3c3lFYlBhWEFaUU4wcVZ1ZDhWZGlzRjN5LUExUnFJTUJHV1NOUUVseFdaLWtwV2JqdUt5MWdaU2pNVFUwRzdwcWlLc01KOGRING02bkNYZWNvRHQyVC1ubUFMUTM0QzBUUTlTdVhmTE1UX0dqWjMzZHpNOGM3T0NWWWdNZVF4Nnl5MHZtd0w4RmM?oc=5",
+            "source": "Google News Nhu cầu Việt Nam"
+          }
+        ]
+      },
+      {
+        "name_vi": "Công cụ chuyển đổi tài liệu sang Markdown",
+        "name_en": "Document to Markdown Conversion API",
+        "pain_vi": "Các nhà phát triển và doanh nghiệp tốn nhiều thời gian xử lý tài liệu đa dạng định dạng để đưa vào hệ thống AI.",
+        "pain_en": "Developers and businesses waste time processing multi-format documents for AI ingestion.",
+        "audience_vi": "Nhà phát triển phần mềm toàn cầu",
+        "audience_en": "Global software developers",
+        "mvp_vi": "API chuyển đổi PDF, Word, Excel sang Markdown sạch.",
+        "mvp_en": "API converting PDF, Word, Excel to clean Markdown.",
+        "scope": "global",
+        "score": 85,
+        "evidence_ids": [
+          2
+        ],
+        "risks_vi": "Cạnh tranh gay gắt từ các công cụ mã nguồn mở hiện có.",
+        "risks_en": "Intense competition from existing open-source tools.",
         "sources": [
           {
             "title": "firecrawl/anydoc",
             "url": "https://github.com/firecrawl/anydoc",
             "source": "GitHub"
-          },
+          }
+        ]
+      },
+      {
+        "name_vi": "CRM tối ưu cho AI Agent",
+        "name_en": "Agentic-first CRM",
+        "pain_vi": "CRM truyền thống không được thiết kế để tương tác và quản lý qua các AI Agent tự động.",
+        "pain_en": "Traditional CRMs are not designed for automated AI agent interaction and management.",
+        "audience_vi": "Doanh nghiệp công nghệ toàn cầu",
+        "audience_en": "Global tech enterprises",
+        "mvp_vi": "Hệ thống CRM có API cho phép AI Agent đọc và cập nhật dữ liệu.",
+        "mvp_en": "CRM system with APIs allowing AI agents to read and update data.",
+        "scope": "global",
+        "score": 82,
+        "evidence_ids": [
+          3
+        ],
+        "risks_vi": "Khó thuyết phục doanh nghiệp thay đổi hệ thống CRM hiện tại.",
+        "risks_en": "Hard to persuade businesses to switch from existing CRM systems.",
+        "sources": [
           {
-            "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
-            "url": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
-            "source": "TechCrunch"
+            "title": "trycompai/crm",
+            "url": "https://github.com/trycompai/crm",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Quản lý trạm y tế số",
+        "name_en": "Digital Health Station Manager",
+        "pain_vi": "Các trạm y tế xã cần phần mềm quản lý bệnh nhân, lịch hẹn và hồ sơ sức khỏe số hóa.",
+        "pain_en": "Commune health stations need software to manage patients, appointments, and digital health records.",
+        "audience_vi": "Trạm y tế xã tại Việt Nam",
+        "audience_en": "Commune health stations in Vietnam",
+        "mvp_vi": "Ứng dụng web quản lý hồ sơ y tế và đặt lịch khám cơ bản.",
+        "mvp_en": "Web app for basic health record management and appointment booking.",
+        "scope": "vietnam",
+        "score": 75,
+        "evidence_ids": [
+          11
+        ],
+        "risks_vi": "Ngân sách công hạn hẹp và quy trình đấu thầu phức tạp.",
+        "risks_en": "Limited public budgets and complex procurement processes.",
+        "sources": [
+          {
+            "title": "Gia Lam commune launches digital health station model - Vietnam.vn",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMbkJkNnNXXzFpSHZ0NWhJZHNNQXQ2NTZFd3p6YW9FdzlSWHlDZzlzLXYxNlF2Nk9DUHRFV2g5ZEZMMEZjUFE1dFREcmk0ZVNWY1VFdm9oaXN1M0d0ZXdPR0FMQkNpSzhRMWxIZ29R?oc=5",
+            "source": "Google News Nhu cầu Việt Nam"
+          }
+        ]
+      },
+      {
+        "name_vi": "Tự động hóa tích hợp API đa nền tảng",
+        "name_en": "Multi-platform API Integration Automation",
+        "pain_vi": "Doanh nghiệp mất nhiều thời gian lập trình kết nối thủ công giữa các phần mềm và API khác nhau.",
+        "pain_en": "Businesses waste time manually coding integrations between different software and APIs.",
+        "audience_vi": "Đội ngũ IT và nhà phát triển toàn cầu",
+        "audience_en": "Global IT teams and developers",
+        "mvp_vi": "Công cụ tự động tạo code kết nối API dựa trên mô tả văn bản.",
+        "mvp_en": "Tool auto-generating API integration code based on text descriptions.",
+        "scope": "global",
+        "score": 80,
+        "evidence_ids": [
+          32
+        ],
+        "risks_vi": "Tính ổn định của code tự động sinh ra với các API phức tạp.",
+        "risks_en": "Stability of auto-generated code with complex APIs.",
+        "sources": [
+          {
+            "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+            "url": "https://www.ballet.dev/",
+            "source": "Hacker News"
           }
         ]
       }
     ]
   },
-  "warnings": [
-    "Gemini opportunity analysis failed: TimeoutError",
-    "Gemini quota unavailable; preserved the last successful opportunity analysis."
-  ]
+  "warnings": []
 }
