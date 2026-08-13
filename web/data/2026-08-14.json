@@ -1,0 +1,751 @@
+{
+  "date": "2026-08-14",
+  "generated_at": "2026-08-13T21:02:22.347019+00:00",
+  "markets": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7798.9902,
+      "change_pct": 0.65,
+      "currency": "USD"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "price": 26803.0254,
+      "change_pct": 0.81,
+      "currency": "USD"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "price": 4406.0,
+      "change_pct": -0.07,
+      "currency": "USD"
+    },
+    {
+      "name": "Crude Oil",
+      "symbol": "CL=F",
+      "price": 81.16,
+      "change_pct": -2.53,
+      "currency": "USD"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC-USD",
+      "price": 63335.0312,
+      "change_pct": -0.11,
+      "currency": "USD"
+    },
+    {
+      "name": "USD/VND",
+      "symbol": "VND=X",
+      "price": 26068.0,
+      "change_pct": 0.07,
+      "currency": "VND"
+    }
+  ],
+  "items": [
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T11:56:32Z",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "score": 38193.48,
+      "title_vi": "deepseek-ai/deepseek-khai thác",
+      "title_en": "deepseek-ai/deepseek-harness",
+      "summary_vi": "Khai thác DeepSeek: Mọi thứ đều là Plugin.",
+      "summary_en": "DeepSeek Harness: Everything is a Plugin.",
+      "meta": {
+        "stars": 38088,
+        "forks": 2972,
+        "language": "TypeScript",
+        "stars_per_day": 38088.0
+      }
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "score": 1777.66,
+      "title_vi": "guillaumemeyer/loại bỏ hình mờ",
+      "title_en": "guillaumemeyer/watermarks-remover",
+      "summary_vi": "Loại bỏ các dấu xuất xứ AI của nhiều nhà cung cấp: Vệ sinh văn bản Unicode, móc viết lại thống kê và C2PA/siêu dữ liệu từ PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "summary_en": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "meta": {
+        "stars": 5077,
+        "forks": 510,
+        "language": "Python",
+        "stars_per_day": 1692.3
+      }
+    },
+    {
+      "title": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-03T16:36:14Z",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "score": 1518.67,
+      "title_vi": "firecrawl/anydoc",
+      "title_en": "firecrawl/anydoc",
+      "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
+      "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "meta": {
+        "stars": 15643,
+        "forks": 846,
+        "language": "Rust",
+        "stars_per_day": 1422.1
+      }
+    },
+    {
+      "title": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T13:15:23Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "score": 1086.26,
+      "title_vi": "Leutenegger/book-to-skill",
+      "title_en": "Leutenegger/book-to-skill",
+      "summary_vi": "Biến bất kỳ cuốn sách kỹ thuật PDF nào thành kỹ năng Mã Claude - sẵn sàng để nghiên cứu, tham khảo và sử dụng trong khi bạn làm việc.",
+      "summary_en": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "meta": {
+        "stars": 1017,
+        "forks": 131,
+        "language": "Python",
+        "stars_per_day": 1017.0
+      }
+    },
+    {
+      "title": "trycompai/crm",
+      "url": "https://github.com/trycompai/crm",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-31T21:38:51Z",
+      "description": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "score": 689.13,
+      "title_vi": "thửcompai/crm",
+      "title_en": "trycompai/crm",
+      "summary_vi": "Comp AI CRM là một CRM mã nguồn mở được thiết kế cho các đại lý AI. CRM ưu tiên tác nhân.",
+      "summary_en": "Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.",
+      "meta": {
+        "stars": 8383,
+        "forks": 980,
+        "language": "TypeScript",
+        "stars_per_day": 598.8
+      }
+    },
+    {
+      "title": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-10T09:06:43Z",
+      "description": "",
+      "score": 494.78,
+      "title_vi": "SMNETSTUDIO/WeChat-AI",
+      "title_en": "SMNETSTUDIO/WeChat-AI",
+      "summary_vi": "SMNETSTUDIO/WeChat-AI",
+      "summary_en": "SMNETSTUDIO/WeChat-AI",
+      "meta": {
+        "stars": 1682,
+        "forks": 1214,
+        "language": "TypeScript",
+        "stars_per_day": 420.5
+      }
+    },
+    {
+      "title": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-05T01:19:41Z",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "score": 373.16,
+      "title_vi": "KKKKhazix/chữ viết của con người",
+      "title_en": "KKKKhazix/human-writing",
+      "summary_vi": "Làm cho tiếng Trung được viết bởi AI đọc giống như một người cụ thể đang nói. Kỹ năng sáng tạo và sửa đổi phổ quát, có sẵn ngay lập tức.",
+      "summary_en": "Make the Chinese written by AI read like a specific person speaking. Universal creation and revision skills, available right out of the box.",
+      "meta": {
+        "stars": 2649,
+        "forks": 221,
+        "language": "Python",
+        "stars_per_day": 294.3
+      }
+    },
+    {
+      "title": "ShawnPana/phone-harness",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-07T22:28:53Z",
+      "description": "let your agent control your phone",
+      "score": 318.73,
+      "title_vi": "ShawnPana/dây điện thoại",
+      "title_en": "ShawnPana/phone-harness",
+      "summary_vi": "hãy để người đại diện của bạn điều khiển điện thoại của bạn",
+      "summary_en": "let your agent control your phone",
+      "meta": {
+        "stars": 1710,
+        "forks": 152,
+        "language": "Python",
+        "stars_per_day": 244.3
+      }
+    },
+    {
+      "title": "oil-oil/oil-motion",
+      "url": "https://github.com/oil-oil/oil-motion",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-07T12:36:33Z",
+      "description": "Create smooth, responsive interactive web animations.",
+      "score": 314.72,
+      "title_vi": "dầu-dầu/dầu-chuyển động",
+      "title_en": "oil-oil/oil-motion",
+      "summary_vi": "Tạo hoạt ảnh web tương tác mượt mà, đáp ứng.",
+      "summary_en": "Create smooth, responsive interactive web animations.",
+      "meta": {
+        "stars": 1683,
+        "forks": 126,
+        "language": "Python",
+        "stars_per_day": 240.4
+      }
+    },
+    {
+      "title": "genspark-ai/genoffice",
+      "url": "https://github.com/genspark-ai/genoffice",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-07-31T09:40:58Z",
+      "description": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
+      "score": 290.46,
+      "title_vi": "genspark-ai/genoffice",
+      "title_en": "genspark-ai/genoffice",
+      "summary_vi": "Bộ ứng dụng văn phòng AI mã nguồn mở, miễn phí dành cho macOS, Windows & Linux — Chỉnh sửa Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF và Markdown bằng các tác nhân AI tích hợp.",
+      "summary_en": "Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.",
+      "meta": {
+        "stars": 2948,
+        "forks": 525,
+        "language": "TypeScript",
+        "stars_per_day": 210.6
+      }
+    },
+    {
+      "title": "Pacific Northwest targets 14 GW clean energy buildout by 2032 - Latitude Media",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdXVKWHdmZ0VBaTU3MlBrYW1ZRGRzS1BYd182ZTVyNERjVmRSRzV0elZNaTE0SFVyQmtyZEgzMmVIU3AyT1dlRFhzTUVGTWhMa2pqNV9tbVJzSmdiX01ZOG9ibDZqTGJ4c1BvVWV6QS1yYlVNR1RyQVFSWE5BcFl3NEdkb2w1OTV1S1MxY3hKbkpqTkJFZGg5d2JVd3dXdw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 20:55:56 GMT",
+      "description": "Pacific Northwest targets 14 GW clean energy buildout by 2032 Latitude Media",
+      "score": 0.0,
+      "title_vi": "Tây Bắc Thái Bình Dương đặt mục tiêu xây dựng năng lượng sạch 14 GW vào năm 2032 - Latitude Media",
+      "title_en": "Pacific Northwest targets 14 GW clean energy buildout by 2032 - Latitude Media",
+      "summary_vi": "Tây Bắc Thái Bình Dương đặt mục tiêu xây dựng năng lượng sạch 14 GW vào năm 2032 Latitude Media",
+      "summary_en": "Pacific Northwest targets 14 GW clean energy buildout by 2032 Latitude Media",
+      "meta": {}
+    },
+    {
+      "title": "MASH Camp lets students explore healthcare careers - WWNY",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdlZZYVE2dmhtTmtMdi1mOTlwWlo4UGJwZWZmVWRvRHR1eUc5SFBNdEJaM1pkblZBRHJBRzJNRkpIQ1NIMllmWFR4VjJneEhuakJ1ck9TYlhxbGYxbHhkSHJWQktCR2ZNVmhnNnJaX1l5QTc5RC0ybms3RXRraFpCTGZ3MFdlclRiUFlJMVJ3?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 20:53:00 GMT",
+      "description": "MASH Camp lets students explore healthcare careers WWNY",
+      "score": 0.0,
+      "title_vi": "Trại MASH cho phép học sinh khám phá nghề nghiệp chăm sóc sức khỏe - WWNY",
+      "title_en": "MASH Camp lets students explore healthcare careers - WWNY",
+      "summary_vi": "Trại MASH cho phép học sinh khám phá nghề nghiệp chăm sóc sức khỏe WWNY",
+      "summary_en": "MASH Camp lets students explore healthcare careers WWNY",
+      "meta": {}
+    },
+    {
+      "title": "The Differences Between IEPs and 504 Plans: A Special Education Explainer - Education Week",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUm1TMGZvLVphUFdSSnJKaDVqM3JOM29ETTZ2M29jejQwNXdJaXZzblAycnZ1VnZaYjhHQWlfNHhLOTQ2bjhIVnljQVgwUWZuMi1ySUdZSHFnb2pKOUVGZW1jVFNMRFdsSGZoanpRQjJlb0JLV0Z2VDBweXlCb1I1OUh5bDFqOEdoc2xZRjV3R0xoMU9BTDhoYU5MVW90LTB3ZkR3RmpkTG12LUpzckZwTWE1RVo1MTA0ZWlpZGFR?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 20:49:04 GMT",
+      "description": "The Differences Between IEPs and 504 Plans: A Special Education Explainer Education Week",
+      "score": 0.0,
+      "title_vi": "Sự khác biệt giữa IEP và Kế hoạch 504: Người giải thích về Giáo dục Đặc biệt - Tuần Giáo dục",
+      "title_en": "The Differences Between IEPs and 504 Plans: A Special Education Explainer - Education Week",
+      "summary_vi": "Sự khác biệt giữa IEP và Kế hoạch 504: Tuần Giáo dục Giải thích về Giáo dục Đặc biệt",
+      "summary_en": "The Differences Between IEPs and 504 Plans: A Special Education Explainer Education Week",
+      "meta": {}
+    },
+    {
+      "title": "Meta and Netflix Surge, Lifting Communication Services Above S&P 500 by 0.91 Point - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTNuaEkySzA2MTZvY3R6dUVuQ1BlOU4yY0ZqRnIzeThBN1NSdlBGdW9hRmV4UHJONkNSZ2k4RzJUNkhDR1RUbFF1aEtNaVA4NFk5aWdhMm1neHQxcm9ybFR1aFdYOVVpTFFkTXlPZU5NY0FBQTFzMUIyMWtGcHZTU1NKc1g2RHpvdGtYYXJaYkpFLUtQLUxqbnRCVFQ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 20:47:54 GMT",
+      "description": "Meta and Netflix Surge, Lifting Communication Services Above S&P 500 by 0.91 Point TechStock²",
+      "score": 0.0,
+      "title_vi": "Sự đột biến của Meta và Netflix, nâng dịch vụ truyền thông lên trên S&P 500 thêm 0,91 điểm - TechStock²",
+      "title_en": "Meta and Netflix Surge, Lifting Communication Services Above S&P 500 by 0.91 Point - TechStock²",
+      "summary_vi": "Sự đột biến của Meta và Netflix, nâng dịch vụ truyền thông lên trên S&P 500 thêm 0,91 điểm TechStock²",
+      "summary_en": "Meta and Netflix Surge, Lifting Communication Services Above S&P 500 by 0.91 Point TechStock²",
+      "meta": {}
+    },
+    {
+      "title": "Duke Energy restores 85% of Greater Cincinnati outages; crews on track to restore nearly all remaining outages Thursday - Duke Energy | News Center",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQN1hINDc3OGxiaXk3RWpueW9MZjNQZmlDbkdiUjZwV0dJTUx0dHB6R0xwbHRsOUVaY3FCaWdoQlZtVmhkeVJOcjhQTy0tT1paUUlUdlhTaWNScW9xeTAyUnFDT3FNbzdZVWN6ZXVBbnpuc1AyYUxUWjBwX1dkd1MyS3I5ZnlYdUNINmdlOVVmN1lVZTNfc2tsaHYySUh5QVNIMk9DMHE4ZHZValNOeTJOazJBMG5ILTV6MmpBczRwLTZsWmpVZWs3UHVuZ2pLTHFIeHBtMjZ0S01jNV90NGlpN2JsS3hnNnJhaEln?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 20:47:18 GMT",
+      "description": "Duke Energy restores 85% of Greater Cincinnati outages; crews on track to restore nearly all remaining outages Thursday Duke Energy | News Center",
+      "score": 0.0,
+      "title_vi": "Duke Energy khôi phục 85% số lần mất điện ở Greater Cincinnati; các đội đang trên đà khôi phục gần như tất cả các lần mất điện còn lại Thứ năm - Duke Energy | Trung tâm tin tức",
+      "title_en": "Duke Energy restores 85% of Greater Cincinnati outages; crews on track to restore nearly all remaining outages Thursday - Duke Energy | News Center",
+      "summary_vi": "Duke Energy khôi phục 85% số lần mất điện ở Greater Cincinnati; các đội đang tiến hành khôi phục gần như tất cả các lần mất điện còn lại Thứ năm Duke Energy | Trung tâm tin tức",
+      "summary_en": "Duke Energy restores 85% of Greater Cincinnati outages; crews on track to restore nearly all remaining outages Thursday Duke Energy | News Center",
+      "meta": {}
+    },
+    {
+      "title": "La Porte ISD faces public education challenges head on as they welcome student back to school - ABC13 Houston",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRXdTOVFXXzRpSWRqV0x2cElYaGxMUUU4ajhNbzBzQVFVZlM2SU94QXBNLVAzUC1xd3cxZFJnQm5FbVhBUXFaQWR2RWdOekJVSWVJOHlTVTkzU1l0eDhHUUMyZm1fSlZjQlVjOGN0TE1Ia3I1bXBJc0hwTElhMjVWSHJfcE9uVG50X3NuSDkyUWNGUEt5cllCa29CZW05SGN2dWpMSW90Zmhhc0k3aWpTQ0ZR?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 20:38:47 GMT",
+      "description": "La Porte ISD faces public education challenges head on as they welcome student back to school ABC13 Houston",
+      "score": 0.0,
+      "title_vi": "La Porte ISD phải đối mặt với những thách thức giáo dục công cộng khi chào đón học sinh trở lại trường - ABC13 Houston",
+      "title_en": "La Porte ISD faces public education challenges head on as they welcome student back to school - ABC13 Houston",
+      "summary_vi": "La Porte ISD phải đối mặt với những thách thức giáo dục công cộng khi chào đón học sinh trở lại trường học ABC13 Houston",
+      "summary_en": "La Porte ISD faces public education challenges head on as they welcome student back to school ABC13 Houston",
+      "meta": {}
+    },
+    {
+      "title": "Scoop: Sizable Energy is raising $25M to store, generate energy at sea - Axios",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUdhWk5VcTQ3SXFKdXprY2k0ZHBwM3lxUy1uNXN1Mm1kaEhHdHA0RlZSWEtJdUV0RUZtR2xrNmExZDIxSXRPXy1WY19IaDZ5T0stOWZOUUJTVkppT1ZiOFRSUUJsV1BHQ2FJb2k3ZlNDTUdLVGdSUVNZTTA3M0FKR0NTSlk3cURsZGZWTmMtcGt5YkNkSDc0?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 20:37:17 GMT",
+      "description": "Scoop: Sizable Energy is raising $25M to store, generate energy at sea Axios",
+      "score": 0.0,
+      "title_vi": "Scoop: Sizable Energy đang huy động 25 triệu đô la để lưu trữ, tạo ra năng lượng trên biển - Axios",
+      "title_en": "Scoop: Sizable Energy is raising $25M to store, generate energy at sea - Axios",
+      "summary_vi": "Tin tức: Sizable Energy đang huy động 25 triệu đô la để lưu trữ, tạo ra năng lượng trên biển Axios",
+      "summary_en": "Scoop: Sizable Energy is raising $25M to store, generate energy at sea Axios",
+      "meta": {}
+    },
+    {
+      "title": "Briefing on Higher Education Campus Safety and Security - National Governors Association",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa0RMZ2R5czhjRWs4SThBR1lFVUVJTlpaS0JFMmpoWGtnWVZmb0lXNFRXTEg3aUpwT0dKcWVGZHV5ODB5Nk5HdFRKcUc0aG9wVzFnMkFZckk0bWxwZUFjSDdmWFc1VDRtZDhhWExRM2JWTFBnMjA2cThyQVdQQnpVV0xZOWxLQUltSERXci1B?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 20:35:34 GMT",
+      "description": "Briefing on Higher Education Campus Safety and Security National Governors Association",
+      "score": 0.0,
+      "title_vi": "Tóm tắt về An toàn và An ninh trong khuôn viên trường Đại học - Hiệp hội Thống đốc Quốc gia",
+      "title_en": "Briefing on Higher Education Campus Safety and Security - National Governors Association",
+      "summary_vi": "Tóm tắt về An toàn và An ninh trong khuôn viên trường Đại học Hiệp hội Thống đốc Quốc gia",
+      "summary_en": "Briefing on Higher Education Campus Safety and Security National Governors Association",
+      "meta": {}
+    },
+    {
+      "title": "Bloom Healthcare Looks To LEAD Model, Technology To Support In-Home Primary Care - homehealthcarenews.com",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWDJqNjRmRmRxX042bmlCb19fMTk0VVAtOHBGR2ZEYTNoeXlLSGF3TWt0MjU5UVMwZmE1TzRmRWxPU3VsS2E2eUFkajFmM19tSUJkLThKRExVanc0VmtvZTN3Zk1lblJDQkFDbmZJaHJnNDJSb25vc3p4aXl0U1JaNUwyYW41UVluTmxkd3paSDhPeDNfTzN3R0Z4SUJIcnFJenk0TmtNY3FBZGwxc0NXLWJ4ZFROSE0yQktn?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 20:35:09 GMT",
+      "description": "Bloom Healthcare Looks To LEAD Model, Technology To Support In-Home Primary Care homehealthcarenews.com",
+      "score": 0.0,
+      "title_vi": "Bloom Healthcare mong muốn mô hình DẪN ĐẦU, công nghệ hỗ trợ chăm sóc ban đầu tại nhà - homehealthcarenews.com",
+      "title_en": "Bloom Healthcare Looks To LEAD Model, Technology To Support In-Home Primary Care - homehealthcarenews.com",
+      "summary_vi": "Bloom Healthcare mong muốn mô hình DẪN ĐẦU, công nghệ hỗ trợ chăm sóc ban đầu tại nhà homehealthcarenews.com",
+      "summary_en": "Bloom Healthcare Looks To LEAD Model, Technology To Support In-Home Primary Care homehealthcarenews.com",
+      "meta": {}
+    },
+    {
+      "title": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "url": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 20:14:39 +0000",
+      "description": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "score": 0.0,
+      "title_vi": "Databricks muốn huy động 1 tỷ USD, các nhà đầu tư muốn 15 tỷ USD. Nó giải quyết được 5 tỷ đô la với mức định giá 190 tỷ đô la.",
+      "title_en": "Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.",
+      "summary_vi": "AI rất đắt tiền, Ali Ghodsi nói với TechCrunch. Với rất nhiều nhà đầu tư muốn tham gia vòng mới nhất của mình, anh ấy đã đồng ý với nhiều hơn dự định.",
+      "summary_en": "AI is expensive, Ali Ghodsi tells TechCrunch. With so many investors wanting into his latest round, he said yes to more than planned.",
+      "meta": {}
+    },
+    {
+      "title": "NP-Overrated",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 20:14:17 +0000",
+      "description": "Article URL: https://gruhn.me/blog/2026-08-13/ Comments URL: https://news.ycombinator.com/item?id=49291268 Points: 9 # Comments: 0",
+      "score": 0.0,
+      "title_vi": "NP-được đánh giá quá cao",
+      "title_en": "NP-Overrated",
+      "summary_vi": "URL bài viết: https://gruhn.me/blog/2026-08-13/ URL bình luận: https://news.ycombinator.com/item?id=49291268 Điểm: 9 # Bình luận: 0",
+      "summary_en": "Article URL: https://gruhn.me/blog/2026-08-13/ Comments URL: https://news.ycombinator.com/item?id=49291268 Points: 9 # Comments: 0",
+      "meta": {}
+    },
+    {
+      "title": "Nhựa sinh học tìm chỗ đứng",
+      "url": "https://vnexpress.net/nhua-sinh-hoc-tim-cho-dung-5108012.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Fri, 14 Aug 2026 03:00:00 +0700",
+      "description": "Nhựa sinh học thường dùng để đúc muỗng nĩa, ống hút và dần phổ biến nhưng vẫn gặp rào cản về giá và hạ tầng xử lý sau sử dụng.",
+      "score": 0.0,
+      "title_vi": "Nhựa sinh học tìm chỗ đứng",
+      "title_en": "Bioplastics find a place",
+      "summary_vi": "Nhựa sinh học thường dùng để đúc muỗng nĩa, ống hút và dần phổ biến nhưng vẫn gặp rào cản về giá và hạ tầng xử lý sau sử dụng.",
+      "summary_en": "Bioplastics are often used to mold spoons and forks and straws and are gradually becoming popular but still face barriers in terms of price and post-use treatment infrastructure.",
+      "meta": {}
+    },
+    {
+      "title": "Nhiều cơ hội startup không yêu cầu 'công nghệ đột phá'",
+      "url": "https://vnexpress.net/nhieu-co-hoi-startup-khong-yeu-cau-cong-nghe-dot-pha-5108706.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Fri, 14 Aug 2026 02:59:38 +0700",
+      "description": "Nhiều bài toán vận hành đô thị thông minh, chuỗi cung ứng đang chờ startup giải quyết mà không bắt buộc có 'công nghệ đột phá', theo chuyên gia.",
+      "score": 0.0,
+      "title_vi": "Nhiều cơ hội startup không yêu cầu 'công nghệ đột phá'",
+      "title_en": "Many startup opportunities don't require 'breakthrough technology'",
+      "summary_vi": "Nhiều bài toán vận hành đô thị thông minh, chuỗi cung ứng đang chờ startup giải quyết mà không bắt buộc có 'công nghệ đột phá', theo chuyên gia.",
+      "summary_en": "Many problems of smart urban operations and supply chains are waiting for startups to solve without requiring 'breakthrough technology', according to experts.",
+      "meta": {}
+    },
+    {
+      "title": "How Gödel's Proof Works",
+      "url": "https://www.quantamagazine.org/how-godels-proof-works-20200714/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 19:44:46 +0000",
+      "description": "Article URL: https://www.quantamagazine.org/how-godels-proof-works-20200714/ Comments URL: https://news.ycombinator.com/item?id=49290969 Points: 20 # Comments: 5",
+      "score": 0.0,
+      "title_vi": "Bằng chứng của Gödel hoạt động như thế nào",
+      "title_en": "How Gödel's Proof Works",
+      "summary_vi": "URL bài viết: https://www.quantamagazine.org/how-godels-proof-works-20200714/ URL bình luận: https://news.ycombinator.com/item?id=49290969 Điểm: 20 # Bình luận: 5",
+      "summary_en": "Article URL: https://www.quantamagazine.org/how-godels-proof-works-20200714/ Comments URL: https://news.ycombinator.com/item?id=49290969 Points: 20 # Comments: 5",
+      "meta": {}
+    },
+    {
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 19:25:38 +0000",
+      "description": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 20 # Comments: 7",
+      "score": 0.0,
+      "title_vi": "Cách các tổ chức sử dụng AI: Bằng chứng từ ChatGPT [pdf]",
+      "title_en": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "summary_vi": "URL bài viết: https://cdn.openai.com/pdf/how- Organisations-use-chatgpt.pdf URL bình luận: https://news.ycombinator.com/item?id=49290768 Điểm: 20 # Bình luận: 7",
+      "summary_en": "Article URL: https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf Comments URL: https://news.ycombinator.com/item?id=49290768 Points: 20 # Comments: 7",
+      "meta": {}
+    },
+    {
+      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 19:22:40 +0000",
+      "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "score": 0.0,
+      "title_vi": "OpenAI giới thiệu 'Siêu nhanh', một chế độ mới giúp GPT-5.6 Sol hoạt động với tốc độ gấp 14 lần",
+      "title_en": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
+      "summary_vi": "OpenAI đang tung ra bản xem trước phiên bản tăng tốc của mô hình mới nhất, mạnh mẽ nhất của mình nhằm nỗ lực thu hút người dùng doanh nghiệp.",
+      "summary_en": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
+      "meta": {}
+    },
+    {
+      "title": "Breakingviews - Thoma Bravo puts a price on insurer worries - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaTBWSU1teEFKWm91UFhPQnF2Z0JvSlVWdjl3TC1TUmVhZDdnc0ZSa3FTXzBWc1JFaFJUb19tU2xid0FDZjFEeVp0M1ZQY0dxWHZuUlJrb2lHN053dldYZFZKMHVGX01NV1BON2lzYWljQ1Vaa3dOTlptSmRzRXNoejV4LVhFNjdLMGswcHNhcWhudkRMN2k2ZWxfcVVfdmlS?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 19:20:39 GMT",
+      "description": "Breakingviews - Thoma Bravo puts a price on insurer worries Reuters",
+      "score": 0.0,
+      "title_vi": "Breakingviews - Thoma Bravo đặt giá cho những lo lắng của công ty bảo hiểm - Reuters",
+      "title_en": "Breakingviews - Thoma Bravo puts a price on insurer worries - Reuters",
+      "summary_vi": "Breakingviews - Thoma Bravo đặt giá cho những lo lắng của công ty bảo hiểm Reuters",
+      "summary_en": "Breakingviews - Thoma Bravo puts a price on insurer worries Reuters",
+      "meta": {}
+    },
+    {
+      "title": "IBM partners with OpenAI to bolster enterprise AI push",
+      "url": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 19:19:49 +0000",
+      "description": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "score": 0.0,
+      "title_vi": "IBM hợp tác với OpenAI để tăng cường phát triển AI cho doanh nghiệp",
+      "title_en": "IBM partners with OpenAI to bolster enterprise AI push",
+      "summary_vi": "IBM có kế hoạch đào tạo và cấp chứng chỉ cho hàng chục nghìn chuyên gia tư vấn về công nghệ của OpenAI như một phần của thỏa thuận này.",
+      "summary_en": "IBM plans to train and certify tens of thousands of consultants on OpenAI's technologies as part of this deal.",
+      "meta": {}
+    },
+    {
+      "title": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbDFoSlRtR1RvcWRPUmFxenVMN09MZU0wMEpuTlI3a19xamlXeXlQcHZReEt3WXFXU3llTDdvQVZTZExrZFRVWGdrNDFxRnRTLVRJeXBxejlXd3hmSmhFdFNqY1FlRXkwTVpfeUJhODdfSGFuWFplcXRTeElXX0hFZkhhUFVlYmN6ekNZ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 19:11:11 GMT",
+      "description": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say Reuters",
+      "score": 0.0,
+      "title_vi": "ĐỘC QUYỀN: Silver Lake đang đàm phán để mua Workday, các nguồn tin cho biết - Reuters",
+      "title_en": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say - Reuters",
+      "summary_vi": "ĐỘC QUYỀN: Silver Lake đang đàm phán để mua Workday, các nguồn tin cho biết Reuters",
+      "summary_en": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say Reuters",
+      "meta": {}
+    },
+    {
+      "title": "'Chưa ai bán điện mặt trời dư lên lưới'",
+      "url": "https://vnexpress.net/chua-ai-ban-dien-mat-troi-du-len-luoi-5108854.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Fri, 14 Aug 2026 02:06:18 +0700",
+      "description": "Dù đã có thể bán đến 50% sản lượng điện mặt trời mái nhà tự dùng lên lưới quốc gia, đến nay chưa ai tham gia giao dịch.",
+      "score": 0.0,
+      "title_vi": "'Chưa ai bán điện mặt trời dư lên lưới'",
+      "title_en": "'No one has sold excess solar power to the grid'",
+      "summary_vi": "Dù đã có thể bán đến 50% sản lượng điện mặt trời mái nhà tự dùng lên lưới quốc gia, đến nay chưa ai tham gia giao dịch.",
+      "summary_en": "Although it is possible to sell up to 50% of self-consumed rooftop solar power output to the national grid, up to now no one has participated in the transaction.",
+      "meta": {}
+    },
+    {
+      "title": "Exclusive-Silver Lake in talks to buy Workday, sources say By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbTVuTFhvZElnc0gtWS1sa0NYWUhVSG1nZjFyRG9iSjQzTk5fQTU2SUlQYUJzUUN4Yy1ZRGRTclZNNlhlSXYwU0hpdS1MRXFlMUM3a0ZIdGprU1dlQjZ0Vy1pRzZkR2VUM2pGMmYzNUFxZWUwaFZNeGJUd0UwcEFjelNxM3piTGJjaXpGeGRCUTVfd3dybGY1THQzNkdLTC1KbHdQbkExODRINVhLVWRBTTFTQQ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 18:50:11 GMT",
+      "description": "Exclusive-Silver Lake in talks to buy Workday, sources say By Reuters Investing.com",
+      "score": 0.0,
+      "title_vi": "Các nguồn tin cho biết Silver Lake độc ​​quyền đang đàm phán để mua Workday Theo Reuters - Investing.com",
+      "title_en": "Exclusive-Silver Lake in talks to buy Workday, sources say By Reuters - Investing.com",
+      "summary_vi": "Các nguồn tin cho biết Silver Lake độc ​​quyền đang đàm phán để mua Workday Theo Reuters Investing.com",
+      "summary_en": "Exclusive-Silver Lake in talks to buy Workday, sources say By Reuters Investing.com",
+      "meta": {}
+    },
+    {
+      "title": "CEO Dragon Capital: 'Lãi suất thời gian tới sẽ không tăng cao hay giảm mạnh đột ngột'",
+      "url": "https://vnexpress.net/ceo-dragon-capital-lai-suat-thoi-gian-toi-se-khong-tang-cao-hay-giam-manh-dot-ngot-5108932.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Fri, 14 Aug 2026 01:48:04 +0700",
+      "description": "Ông Lê Anh Tuấn, Tổng giám đốc Dragon Capital, dự báo diễn biến lãi suất thời gian tới sẽ ổn định hơn, không tăng cao hay giảm mạnh đột ngột.",
+      "score": 0.0,
+      "title_vi": "CEO Dragon Capital: 'Lãi suất thời gian tới sẽ không tăng cao hay giảm mạnh đột ngột'",
+      "title_en": "Dragon Capital CEO: 'Interest rates will not increase or decrease suddenly in the near future'",
+      "summary_vi": "Ông Lê Anh Tuấn, Tổng giám đốc Dragon Capital, dự báo diễn biến lãi suất thời gian tới sẽ ổn định hơn, không tăng cao hay giảm mạnh đột ngột.",
+      "summary_en": "Mr. Le Anh Tuan, General Director of Dragon Capital, forecasts that interest rate developments in the coming time will be more stable, without sudden increases or sharp drops.",
+      "meta": {}
+    },
+    {
+      "title": "Understanding is the new bottleneck",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 18:47:19 +0000",
+      "description": "Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck Comments URL: https://news.ycombinator.com/item?id=49290299 Points: 45 # Comments: 29",
+      "score": 0.0,
+      "title_vi": "Sự hiểu biết là nút thắt mới",
+      "title_en": "Understanding is the new bottleneck",
+      "summary_vi": "URL bài viết: https://www.geoffreylitt.com/2026/07/02/under Hiểu-is-the-new-bottleneck URL bình luận: https://news.ycombinator.com/item?id=49290299 Điểm: 45 # Bình luận: 29",
+      "summary_en": "Article URL: https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck Comments URL: https://news.ycombinator.com/item?id=49290299 Points: 45 # Comments: 29",
+      "meta": {}
+    },
+    {
+      "title": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "url": "https://github.com/systemd/systemd/issues/40262",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 13 Aug 2026 18:41:01 +0000",
+      "description": "Article URL: https://github.com/systemd/systemd/issues/40262 Comments URL: https://news.ycombinator.com/item?id=49290215 Points: 66 # Comments: 18",
+      "score": 0.0,
+      "title_vi": "Dòng nhật ký đơn là 49KB+ (ext4) / 110KB+ (btrfs) của ghi đĩa systemd-journald",
+      "title_en": "Single log line is 49KB+ (ext4) / 110KB+ (btrfs) of systemd-journald disk writes",
+      "summary_vi": "URL bài viết: https://github.com/systemd/systemd/issues/40262 URL bình luận: https://news.ycombinator.com/item?id=49290215 Điểm: 66 # Bình luận: 18",
+      "summary_en": "Article URL: https://github.com/systemd/systemd/issues/40262 Comments URL: https://news.ycombinator.com/item?id=49290215 Points: 66 # Comments: 18",
+      "meta": {}
+    }
+  ],
+  "insights": {
+    "status": "ready",
+    "model": "z-ai/glm-5.2",
+    "daily_thesis_vi": "Sự bùng nổ của các tác nhân AI và nhu cầu số hóa doanh nghiệp đang tạo ra cơ hội lớn cho các công cụ SaaS giải quyết điểm nghẽn hiểu dữ liệu, tự động hóa văn phòng và quản lý tác nhân.",
+    "daily_thesis_en": "The boom in AI agents and enterprise digitization creates massive SaaS opportunities for tools solving data understanding bottlenecks, office automation, and agent management.",
+    "opportunities": [
+      {
+        "name_vi": "Nền tảng quản lý tác nhân AI",
+        "name_en": "AI Agent Management Platform",
+        "pain_vi": "Doanh nghiệp thiếu hệ thống trung tâm để quản lý, tương tác và phân tích các tác nhân AI hoạt động độc lập.",
+        "pain_en": "Businesses lack a central system to manage, interact with, and analyze independent AI agents.",
+        "audience_vi": "Đội ngũ vận hành và CNTT doanh nghiệp",
+        "audience_en": "Enterprise IT and operations teams",
+        "mvp_vi": "CRM tích hợp API cho phép theo dõi và giao việc cho tác nhân AI.",
+        "mvp_en": "CRM with API integration to track and assign tasks to AI agents.",
+        "scope": "global",
+        "score": 82,
+        "evidence_ids": [
+          5,
+          1
+        ],
+        "risks_vi": "Cạnh tranh cao từ các nền tảng CRM lớn tích hợp sẵn AI.",
+        "risks_en": "High competition from major CRM platforms with built-in AI.",
+        "sources": [
+          {
+            "title": "trycompai/crm",
+            "url": "https://github.com/trycompai/crm",
+            "source": "GitHub"
+          },
+          {
+            "title": "deepseek-ai/deepseek-harness",
+            "url": "https://github.com/deepseek-ai/deepseek-harness",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Công cụ chuyển đổi tài liệu sạch",
+        "name_en": "Clean Document Conversion Tool",
+        "pain_vi": "Xử lý tài liệu đa định dạng để đưa vào LLM tốn nhiều thời gian và dễ lỗi định dạng.",
+        "pain_en": "Processing multi-format documents for LLM ingestion is time-consuming and prone to formatting errors.",
+        "audience_vi": "Nhà phát triển AI và công ty xử lý dữ liệu",
+        "audience_en": "AI developers and data processing firms",
+        "mvp_vi": "API chuyển đổi PDF, Word, Excel sang Markdown chuẩn xác bằng Rust.",
+        "mvp_en": "API converting PDF, Word, Excel to clean Markdown using Rust.",
+        "scope": "global",
+        "score": 88,
+        "evidence_ids": [
+          3,
+          10
+        ],
+        "risks_vi": "Dễ bị sao chép bởi các thư viện mã nguồn mở miễn phí.",
+        "risks_en": "Easily replicated by free open-source libraries.",
+        "sources": [
+          {
+            "title": "firecrawl/anydoc",
+            "url": "https://github.com/firecrawl/anydoc",
+            "source": "GitHub"
+          },
+          {
+            "title": "genspark-ai/genoffice",
+            "url": "https://github.com/genspark-ai/genoffice",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "SaaS tối ưu hóa bán điện mặt trời",
+        "name_en": "Solar Power Trading SaaS",
+        "pain_vi": "Hộ kinh doanh không tối ưu được doanh thu bán điện mặt trời dư thừa lên lưới quốc gia.",
+        "pain_en": "Households cannot optimize revenue from selling excess rooftop solar power to the national grid.",
+        "audience_vi": "Chủ hộ có lắp điện mặt trời tại Việt Nam",
+        "audience_en": "Vietnamese households with rooftop solar",
+        "mvp_vi": "Ứng dụng theo dõi sản lượng và tự động đề xuất tỷ lệ bán điện tối ưu.",
+        "mvp_en": "App tracking output and automatically suggesting optimal power selling ratios.",
+        "scope": "vietnam",
+        "score": 75,
+        "evidence_ids": [
+          30
+        ],
+        "risks_vi": "Phụ thuộc vào chính sách bán điện của EVN.",
+        "risks_en": "Depends on EVN's power purchasing policies.",
+        "sources": [
+          {
+            "title": "'No one has sold excess solar power to the grid'",
+            "url": "https://vnexpress.net/chua-ai-ban-dien-mat-troi-du-len-luoi-5108854.html",
+            "source": "VnExpress Kinh doanh"
+          }
+        ]
+      },
+      {
+        "name_vi": "Hệ thống điều phối tác nhân điện thoại",
+        "name_en": "Phone Agent Orchestrator",
+        "pain_vi": "Tự động hóa tác vụ trên điện thoại cá nhân phức tạp và thiếu giải pháp SaaS an toàn.",
+        "pain_en": "Automating tasks on personal phones is complex and lacks secure SaaS solutions.",
+        "audience_vi": "Người dùng cá nhân và nhân viên văn phòng",
+        "audience_en": "Individual users and office workers",
+        "mvp_vi": "Ứng dụng chạy nền cho phép AI điều khiển điện thoại thực hiện lệnh cơ bản.",
+        "mvp_en": "Background app allowing AI to control phones for basic commands.",
+        "scope": "global",
+        "score": 68,
+        "evidence_ids": [
+          8
+        ],
+        "risks_vi": "Rủi ro bảo mật và lỗ hổng quyền truy cập thiết bị.",
+        "risks_en": "Security risks and device access permission vulnerabilities.",
+        "sources": [
+          {
+            "title": "ShawnPana/phone-harness",
+            "url": "https://github.com/ShawnPana/phone-harness",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Nền tảng nhân bản giọng viết",
+        "name_en": "Voice Writing Cloning Platform",
+        "pain_vi": "Nội dung do AI tạo ra thiếu tính cá nhân, không phản ánh đúng giọng văn của thương hiệu.",
+        "pain_en": "AI-generated content lacks personalization and fails to reflect the brand's specific voice.",
+        "audience_vi": "Nhà tiếp thị nội dung và thương hiệu",
+        "audience_en": "Content marketers and brands",
+        "mvp_vi": "Công cụ chỉnh sửa văn bản AI để khớp với phong cách viết của người dùng.",
+        "mvp_en": "AI text editor that matches the user's specific writing style.",
+        "scope": "global",
+        "score": 72,
+        "evidence_ids": [
+          7
+        ],
+        "risks_vi": "Khó duy trì tính tự nhiên và đa dạng ngữ cảnh của văn bản.",
+        "risks_en": "Hard to maintain natural flow and context diversity in text.",
+        "sources": [
+          {
+            "title": "KKKKhazix/human-writing",
+            "url": "https://github.com/KKKKhazix/human-writing",
+            "source": "GitHub"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}
