@@ -1,0 +1,781 @@
+{
+  "date": "2026-08-15",
+  "generated_at": "2026-08-14T20:44:44.468103+00:00",
+  "markets": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7785.7598,
+      "change_pct": -0.17,
+      "currency": "USD"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "price": 26729.1641,
+      "change_pct": -0.28,
+      "currency": "USD"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "price": 4429.5,
+      "change_pct": 1.51,
+      "currency": "USD"
+    },
+    {
+      "name": "Crude Oil",
+      "symbol": "CL=F",
+      "price": 82.3,
+      "change_pct": 1.29,
+      "currency": "USD"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC-USD",
+      "price": 62834.7812,
+      "change_pct": -0.89,
+      "currency": "USD"
+    },
+    {
+      "name": "USD/VND",
+      "symbol": "VND=X",
+      "price": 26147.0,
+      "change_pct": 0.3,
+      "currency": "VND"
+    }
+  ],
+  "items": [
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T11:56:32Z",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "score": 47379.57,
+      "title_vi": "deepseek-ai/deepseek-khai thác",
+      "title_en": "deepseek-ai/deepseek-harness",
+      "summary_vi": "Khai thác DeepSeek: Mọi thứ đều là Plugin.",
+      "summary_en": "DeepSeek Harness: Everything is a Plugin.",
+      "meta": {
+        "stars": 94530,
+        "forks": 8703,
+        "language": "TypeScript",
+        "stars_per_day": 47265.0
+      }
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "score": 2051.43,
+      "title_vi": "guillaumemeyer/loại bỏ hình mờ",
+      "title_en": "guillaumemeyer/watermarks-remover",
+      "summary_vi": "Loại bỏ các dấu xuất xứ AI của nhiều nhà cung cấp: Vệ sinh văn bản Unicode, móc viết lại thống kê và C2PA/siêu dữ liệu từ PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "summary_en": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "meta": {
+        "stars": 7847,
+        "forks": 821,
+        "language": "Python",
+        "stars_per_day": 1961.8
+      }
+    },
+    {
+      "title": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-03T16:36:14Z",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "score": 1435.93,
+      "title_vi": "firecrawl/anydoc",
+      "title_en": "firecrawl/anydoc",
+      "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
+      "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "meta": {
+        "stars": 16069,
+        "forks": 882,
+        "language": "Rust",
+        "stars_per_day": 1339.1
+      }
+    },
+    {
+      "title": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T16:30:50Z",
+      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "score": 934.0,
+      "title_vi": "mọi nơi-phòng thí nghiệm/deepseek-khai thác-máy tính để bàn",
+      "title_en": "anywhere-labs/deepseek-harness-desktop",
+      "summary_vi": "Trải nghiệm máy tính để bàn hiện đại được xây dựng cho hệ sinh thái DeepSeek Harness (DSH)",
+      "summary_en": "A modern desktop experience built for the DeepSeek Harness (DSH) ecosystem",
+      "meta": {
+        "stars": 1719,
+        "forks": 90,
+        "language": "TypeScript",
+        "stars_per_day": 859.5
+      }
+    },
+    {
+      "title": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-12T05:15:20Z",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "score": 711.88,
+      "title_vi": "zhu1090093659/dsh-web-ui",
+      "title_en": "zhu1090093659/dsh-web-ui",
+      "summary_vi": "Bộ sưu tập plugin và giao diện cho giao diện người dùng web DeepSeek Harness (DSH) - bảng tác vụ, biểu đồ git, bảng điều khiển bên phải, giao diện người dùng di động từ xa, thú cưng, số liệu thống kê mã thông báo trực tiếp và trung tâm giao diện.",
+      "summary_en": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "meta": {
+        "stars": 1909,
+        "forks": 95,
+        "language": "TypeScript",
+        "stars_per_day": 636.3
+      }
+    },
+    {
+      "title": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T13:15:23Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "score": 599.67,
+      "title_vi": "Leutenegger/book-to-skill",
+      "title_en": "Leutenegger/book-to-skill",
+      "summary_vi": "Biến bất kỳ cuốn sách kỹ thuật PDF nào thành kỹ năng Mã Claude - sẵn sàng để nghiên cứu, tham khảo và sử dụng trong khi bạn làm việc.",
+      "summary_en": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "meta": {
+        "stars": 1060,
+        "forks": 135,
+        "language": "Python",
+        "stars_per_day": 530.0
+      }
+    },
+    {
+      "title": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T13:55:31Z",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "score": 594.07,
+      "title_vi": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "title_en": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "summary_vi": "Danh sách bổ trợ được tuyển chọn dành cho Khai thác DeepSeek (dsh) · Khai thác DeepSeek Danh sách bổ trợ được tuyển chọn cho Khai thác DeepSeek",
+      "summary_en": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness A curated list of plugins for DeepSeek Harness",
+      "meta": {
+        "stars": 1049,
+        "forks": 230,
+        "language": "Python",
+        "stars_per_day": 524.5
+      }
+    },
+    {
+      "title": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-10T09:06:43Z",
+      "description": "",
+      "score": 416.24,
+      "title_vi": "SMNETSTUDIO/WeChat-AI",
+      "title_en": "SMNETSTUDIO/WeChat-AI",
+      "summary_vi": "SMNETSTUDIO/WeChat-AI",
+      "summary_en": "SMNETSTUDIO/WeChat-AI",
+      "meta": {
+        "stars": 1709,
+        "forks": 1224,
+        "language": "TypeScript",
+        "stars_per_day": 341.8
+      }
+    },
+    {
+      "title": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-05T01:19:41Z",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "score": 349.43,
+      "title_vi": "KKKKhazix/chữ viết của con người",
+      "title_en": "KKKKhazix/human-writing",
+      "summary_vi": "Làm cho tiếng Trung được viết bởi AI đọc giống như một người cụ thể đang nói. Kỹ năng sáng tạo và sửa đổi phổ quát, có sẵn ngay lập tức.",
+      "summary_en": "Make the Chinese written by AI read like a specific person speaking. Universal creation and revision skills, available right out of the box.",
+      "meta": {
+        "stars": 2704,
+        "forks": 223,
+        "language": "Python",
+        "stars_per_day": 270.4
+      }
+    },
+    {
+      "title": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-11T18:58:55Z",
+      "description": "",
+      "score": 296.17,
+      "title_vi": "milind-soni/OpenMausBot",
+      "title_en": "milind-soni/OpenMausBot",
+      "summary_vi": "milind-soni/OpenMausBot",
+      "summary_en": "milind-soni/OpenMausBot",
+      "meta": {
+        "stars": 912,
+        "forks": 165,
+        "language": "TypeScript",
+        "stars_per_day": 228.0
+      }
+    },
+    {
+      "title": "WATCH: Texas Education Commissioner to discuss 2026 A-F accountability ratings - WFAA",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOHl3ZjYwcml5M19NUU8tS2VYeDdQV3JxVkd6c3E1UHhYUVdSd1RmVFA0cGZxRjdOSE1hcVhDTUpEeE9nZk9WazdLbnhNRVd2MnYzeTFaVEttdHNiN25WeWt1R1lMVU5iQ1JobDFyd2pfbUszTUtqLU8xSHNrbmpCNXdjSWNqcWI0WndPQjh4OXdYdjY3SnFURDFOcHNma0NHLXF0Y1NHaXdyOEUybkRJbGY4c0dDSDA5NkxPVzlreW1YX2trOWZVN3dua2Q1d25xYXV0TW1CYUJTT3ZOTDJORmRxWEJxcXJMMER2dHN1RXV4RVd6ODg3b1FSVQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 20:38:00 GMT",
+      "description": "WATCH: Texas Education Commissioner to discuss 2026 A-F accountability ratings WFAA",
+      "score": 0.0,
+      "title_vi": "XEM: Ủy viên Giáo dục Texas thảo luận về xếp hạng trách nhiệm giải trình A-F năm 2026 - WFAA",
+      "title_en": "WATCH: Texas Education Commissioner to discuss 2026 A-F accountability ratings - WFAA",
+      "summary_vi": "XEM: Ủy viên Giáo dục Texas thảo luận về xếp hạng trách nhiệm giải trình A-F năm 2026 WFAA",
+      "summary_en": "WATCH: Texas Education Commissioner to discuss 2026 A-F accountability ratings WFAA",
+      "meta": {}
+    },
+    {
+      "title": "Self-driving trucks are officially testing on California highways",
+      "url": "https://techcrunch.com/2026/08/14/self-driving-trucks-are-officially-testing-on-california-highways/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 20:37:49 +0000",
+      "description": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+      "score": 0.0,
+      "title_vi": "Xe tải tự lái chính thức được thử nghiệm trên đường cao tốc California",
+      "title_en": "Self-driving trucks are officially testing on California highways",
+      "summary_vi": "Aurora Innovation và Kodiak AI, hai công ty phát triển xe tải tự lái, đã nhận được giấy phép từ Bộ phương tiện cơ giới California.",
+      "summary_en": "Aurora Innovation and Kodiak AI, two companies developing self-driving trucks, have received permits from the California Department of Motor Vehicles.",
+      "meta": {}
+    },
+    {
+      "title": "Winter Park considers safety education for young e-bike riders - cfpublic.org",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdUlkcnlMZVpIdVVyXzhWSEFrRDZlZEVaUHhtS1A4WDBzNzk5emZQLWlnRWwwNF93a1d5VWdMUWVMZzBIQ2lJWHNiV0IyWXg1d2tLSk0wbUphTDB2ZWMwVmtZTnExS041RXJ6NXJfTXZUMFFMeUthdWJkNFRYczRyN1JFZVJWWTdiNzJOdmlBdERKWlNqOGNDZWd4bXlSM0UzU2pXYlFBMFFNdzE5?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 20:37:00 GMT",
+      "description": "Winter Park considers safety education for young e-bike riders cfpublic.org",
+      "score": 0.0,
+      "title_vi": "Winter Park xem xét việc giáo dục an toàn cho thanh niên đi xe đạp điện - cfpublic.org",
+      "title_en": "Winter Park considers safety education for young e-bike riders - cfpublic.org",
+      "summary_vi": "Winter Park xem xét việc giáo dục an toàn cho thanh niên đi xe đạp điện cfpublic.org",
+      "summary_en": "Winter Park considers safety education for young e-bike riders cfpublic.org",
+      "meta": {}
+    },
+    {
+      "title": "Weekly roundup: Orange County School of the Arts student pushes to expand multilingual learning opportunities, and more - OCDE Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWTRRUjJ0THVzcXVKdjBWTUJFVWRjV2I5dVdSbXY4OENnbHJETWRndkVraUd1cUhmZ0hpeG9jT0dvNkF0blZUclJZMC0zdzRKU0xLS2otV3NEaFJRWjE1aS02djlWT2dGbFkwWmV1RU5vdzhFWmtHQ1Q3NmJGU1VlQTU4OEo0SUtHUTZfcmhyOEVfN3FITDdMY2Q5NHFGblhYZUNoVzk2aWxUbVliWmlZZjJsWlBmUGUtS09vQ3EtdV9mQndyN0tfNDR6a3hNc0h3bmxIUV81Q3NOSWs?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 20:35:25 GMT",
+      "description": "Weekly roundup: Orange County School of the Arts student pushes to expand multilingual learning opportunities, and more OCDE Newsroom",
+      "score": 0.0,
+      "title_vi": "Tổng hợp hàng tuần: Học sinh Trường Nghệ thuật Quận Cam nỗ lực mở rộng các cơ hội học tập đa ngôn ngữ và hơn thế nữa - Phòng tin tức OCDE",
+      "title_en": "Weekly roundup: Orange County School of the Arts student pushes to expand multilingual learning opportunities, and more - OCDE Newsroom",
+      "summary_vi": "Tổng hợp hàng tuần: Học sinh Trường Nghệ thuật Quận Cam nỗ lực mở rộng các cơ hội học tập đa ngôn ngữ và hơn thế nữa Phòng tin tức OCDE",
+      "summary_en": "Weekly roundup: Orange County School of the Arts student pushes to expand multilingual learning opportunities, and more OCDE Newsroom",
+      "meta": {}
+    },
+    {
+      "title": "State announces $700 million in higher education improvements - The Tri-City Record",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVpjN083VFpldmFRTEMxRk5vLUd2cU8wU1JMQ1A5UHpBWFV4bjRNWUdmUGxnSXpDZ3ZjZjcwTHhIYjZLeUEyd00zR1RwY2dWR3hvX3d3WVY1eEtyWnM2VGozemJUUEF2UmZEQXFJUklhOVdYbVVHNmcyRG5SdVdzR29hY0FjWkstUHVUbERidHd5RGRGSWNPQnFOQ0Ffb2FsMzRpVg?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 20:33:24 GMT",
+      "description": "State announces $700 million in higher education improvements The Tri-City Record",
+      "score": 0.0,
+      "title_vi": "Tiểu bang công bố 700 triệu đô la để cải thiện giáo dục đại học - The Tri-City Record",
+      "title_en": "State announces $700 million in higher education improvements - The Tri-City Record",
+      "summary_vi": "Tiểu bang công bố 700 triệu USD cải thiện giáo dục đại học The Tri-City Record",
+      "summary_en": "State announces $700 million in higher education improvements The Tri-City Record",
+      "meta": {}
+    },
+    {
+      "title": "A Day to Learn, Lead, and Reimagine Education - Connecticut Education Association",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1sTUpxaWk0S3lwZ3NVVEFkUjZaS1ZPYU14TDBINXE4LWpjdjhIeERrLVFRcnd2alVxclhkNTJNelRYZENHbVhBakhIaGl1Yy1iZjE5M3ZCUXZ5Q0w1di1Ed2ZfSTRJdFE0eVZURw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 20:31:14 GMT",
+      "description": "A Day to Learn, Lead, and Reimagine Education Connecticut Education Association",
+      "score": 0.0,
+      "title_vi": "Một ngày để học hỏi, lãnh đạo và định hình lại giáo dục - Hiệp hội giáo dục Connecticut",
+      "title_en": "A Day to Learn, Lead, and Reimagine Education - Connecticut Education Association",
+      "summary_vi": "Một ngày để học hỏi, lãnh đạo và định hình lại giáo dục Hiệp hội giáo dục Connecticut",
+      "summary_en": "A Day to Learn, Lead, and Reimagine Education Connecticut Education Association",
+      "meta": {}
+    },
+    {
+      "title": "Duke Energy called it retirement; ex-manager's suit alleges she was fired - hcamag.com",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbmdiYU90S21hQmp5eWRTak1MQ28wdU9ESDg1OXZQOEtpc0FuMDR6Z2xlb2NlTEJabk9PQzBzaHBCejZraFBPS0lHdEZHTVFjbW5hN3hKMGtlT3k0NVQ3Vk5STGd1OEY1eFltWXhEODE2TV9GWDMyVlE4Mjd2TGdWSVBtX1hudnE0UUFCWkhnbnJnNHdyQlBrS1hpRWRMZk91YUNiUE1ncDg4WWdOQXJBdEZzT0VxdFlKQVFNbGhZemlRNFJ1dEpaRjhPQWw5RVU?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 20:28:47 GMT",
+      "description": "Duke Energy called it retirement; ex-manager's suit alleges she was fired hcamag.com",
+      "score": 0.0,
+      "title_vi": "Duke Energy gọi đó là nghỉ hưu; vụ kiện của cựu quản lý cáo buộc cô bị sa thải - hcamag.com",
+      "title_en": "Duke Energy called it retirement; ex-manager's suit alleges she was fired - hcamag.com",
+      "summary_vi": "Duke Energy gọi đó là nghỉ hưu; vụ kiện của cựu quản lý cáo buộc cô bị sa thải hcamag.com",
+      "summary_en": "Duke Energy called it retirement; ex-manager's suit alleges she was fired hcamag.com",
+      "meta": {}
+    },
+    {
+      "title": "Culinary Union opens fourth healthcare facility in Las Vegas - Las Vegas Sun",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVpBT0ZzOHBWSWpyMWFNNVV1VlE5RGl1Z1FFUjRqR00xMkIyMFNyaThGdmdvRlo5dDZoVzNZSzBrNFNsay1jSGRSNjR5bjRudXNSMVZjb2VSdjlLQWNXWmN4emx5MmVwQ1o5LVllUHAydFJBenJSZ1BlMUM2NElBTzhsakpRdm5MU1Q2czlZeXAtdXVIYmhv?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 20:24:00 GMT",
+      "description": "Culinary Union opens fourth healthcare facility in Las Vegas Las Vegas Sun",
+      "score": 0.0,
+      "title_vi": "Liên minh ẩm thực mở cơ sở chăm sóc sức khỏe thứ tư ở Las Vegas - Las Vegas Sun",
+      "title_en": "Culinary Union opens fourth healthcare facility in Las Vegas - Las Vegas Sun",
+      "summary_vi": "Liên minh ẩm thực mở cơ sở chăm sóc sức khỏe thứ tư ở Las Vegas Las Vegas Sun",
+      "summary_en": "Culinary Union opens fourth healthcare facility in Las Vegas Las Vegas Sun",
+      "meta": {}
+    },
+    {
+      "title": "Texas schools see modest improvement in 2026 A-F ratings. Here’s how they fared - Houston Public Media",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSE1JMGlaa2xYbTNtLXJHbjBDbmNuM1NjWGNmM1Q0bkJRYWc3cEVUZEdqa3ozeHR0a0xRS0JQOFhycjQtUzZ2aGVIVlg5U0ZrXzhnR0RZd2hNcWlGNFBsbTB2V2lQc0NaN0RScEpwTGJqSHZGUE1OVERhaU1ZdWxjZmVKa3NXV2hSdUdoQk1EZFlvR2VTSFo1WmhFU0ZLSVJsQTlUbkpGVnZzOERKTXVfWFVTTGRhelNGSXNxS3A4UjRnLUR4Q1hJQUlTeHo0dEtUd3F6XzdDUEhaenotcnN5eDA5a1k2eGVDWTNrc05xY3Rtd9IB-gFBVV95cUxOZGNUOHlVb3lSRkswSFgxUkladFJRYmNQaHlIX3k5MVYwZDRQQklKSmdDcjc0T2kxMFV1SWx6T25haVNNTFF3cmhzZ21HWG9CZjBKZ29DNEdGM0h4MEZ6MVBwcU80RTdxMDdwdm5kYTVYTDZwbXE1NTlDX1BTOWRXa1hBWWhDbllta05JN2U1RVBuOWdjaVpQc0xuZWxkb1IwV3FzTmlLWjE5aWxNUXVCOTA1QVZwYnVuTEwycjc3c2RWUFBJOGc0ZkNrSy1CV1hNZS0xbndpUWVmOFVfaW44cmlfcjNNT0tRdmNNT3NDVEhsb01HZzdhLXZR?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 20:23:57 GMT",
+      "description": "Texas schools see modest improvement in 2026 A-F ratings. Here’s how they fared Houston Public Media",
+      "score": 0.0,
+      "title_vi": "Các trường học ở Texas nhận thấy sự cải thiện khiêm tốn về xếp hạng A-F năm 2026. Đây là cách họ thực hiện - Houston Public Media",
+      "title_en": "Texas schools see modest improvement in 2026 A-F ratings. Here’s how they fared - Houston Public Media",
+      "summary_vi": "Các trường học ở Texas nhận thấy sự cải thiện khiêm tốn về xếp hạng A-F năm 2026. Đây là cách họ đối xử với Houston Public Media",
+      "summary_en": "Texas schools see modest improvement in 2026 A-F ratings. Here’s how they fared Houston Public Media",
+      "meta": {}
+    },
+    {
+      "title": "Alphabet's SpaceX bet grows 100-fold over a decade to $94 billion - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNOGlSVjd0am5adkxrNm1hX0c3RFVTN0JmZzBjVVluX3M1bjNUWndRRjlGV2IyT1dTbHdHYzh6MlNzOC0zNDFjejRiRzVOcmZCcE9PVEFHV2JxblZsM2xCa0JBcFl2T0FJRzVoUWVvR2FRd0hiOUZuWlZITHVxR0NONDljUm9YT2xMVVk1WjFJUWFzNVdPQmsyV1czWEdxRGRQQVJXWkZjQm1wRUZyZ3lZWQ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 20:13:14 GMT",
+      "description": "Alphabet's SpaceX bet grows 100-fold over a decade to $94 billion Reuters",
+      "score": 0.0,
+      "title_vi": "Vụ đặt cược SpaceX của Alphabet tăng gấp 100 lần trong một thập kỷ lên 94 tỷ USD - Reuters",
+      "title_en": "Alphabet's SpaceX bet grows 100-fold over a decade to $94 billion - Reuters",
+      "summary_vi": "Vụ đặt cược SpaceX của Alphabet tăng gấp 100 lần trong một thập kỷ lên 94 tỷ USD",
+      "summary_en": "Alphabet's SpaceX bet grows 100-fold over a decade to $94 billion Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Every exterior shot in The Taking of Pelham 123",
+      "url": "https://iafisher.com/2026/07/pelham-123",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 20:10:49 +0000",
+      "description": "Article URL: https://iafisher.com/2026/07/pelham-123 Comments URL: https://news.ycombinator.com/item?id=49303957 Points: 4 # Comments: 0",
+      "score": 0.0,
+      "title_vi": "Mọi cảnh quay bên ngoài trong The Take of Pelham 123",
+      "title_en": "Every exterior shot in The Taking of Pelham 123",
+      "summary_vi": "URL bài viết: https://iafisher.com/2026/07/pelham-123 URL bình luận: https://news.ycombinator.com/item?id=49303957 Điểm: 4 # Bình luận: 0",
+      "summary_en": "Article URL: https://iafisher.com/2026/07/pelham-123 Comments URL: https://news.ycombinator.com/item?id=49303957 Points: 4 # Comments: 0",
+      "meta": {}
+    },
+    {
+      "title": "FTC probes health records giant Epic Systems, sources say By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZHBwUWF5UE5EWDVLamVwbVo5OGpYemxyYzB6QndtVEgtR0RsUTd3VzFQV3VOUHE3bFdHTE03WHFhTS1ORjRsNHdLWkc0QXlHSVRQY3RZZzdFaUowa3hncTFSLS14djkzeDZvb21vQ1ZHRTc5TmVRWGZaV1lFUGd3S0lsMk5jT2VETndpS1Y1VkowbUVCQWtSdU5oZHVWekZJTGg4VElyRjhjVGIyeGFkOTFYQQ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 20:07:45 GMT",
+      "description": "FTC probes health records giant Epic Systems, sources say By Reuters Investing.com",
+      "score": 0.0,
+      "title_vi": "Các nguồn tin cho biết FTC điều tra hồ sơ sức khỏe gã khổng lồ Epic Systems Theo Reuters - Investing.com",
+      "title_en": "FTC probes health records giant Epic Systems, sources say By Reuters - Investing.com",
+      "summary_vi": "Các nguồn tin cho biết FTC điều tra hồ sơ sức khỏe gã khổng lồ Epic Systems Theo Reuters Investing.com",
+      "summary_en": "FTC probes health records giant Epic Systems, sources say By Reuters Investing.com",
+      "meta": {}
+    },
+    {
+      "title": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOHAzWlJUdUZ3VndvNDNVbU1vRjMwalBSZUxCVHVwWFBaWnJuend3SXZVMDI3YjA0c2F6SWh2emFEM2lPRWtOWV85MmRRTlYxUWxBbkE4S0dha0toS2xnVXh5UmVNcGxzWWxOQzlrRGRGLW03UGxSa2ZLLUk5SjRlX041LWFWdEV0cDJwLUlKZGlVU1FEbWV5SFYwZ0w1bGVOeW9HWTRtV1pvbkZ6TDNNZ183eXFTTWVmZ0E?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 20:06:10 GMT",
+      "description": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial Reuters",
+      "score": 0.0,
+      "title_vi": "Cơ quan quản lý Hoa Kỳ phê duyệt điều lệ ngân hàng cho công ty tiền điện tử được Trump hậu thuẫn World Liberty Financial - Reuters",
+      "title_en": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial - Reuters",
+      "summary_vi": "Cơ quan quản lý Hoa Kỳ phê duyệt điều lệ ngân hàng cho công ty tiền điện tử được Trump hậu thuẫn World Liberty Financial Reuters",
+      "summary_en": "US regulator approves bank charter for Trump-backed crypto company World Liberty Financial Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Jason Arday: Former Cambridge university professor found dead",
+      "url": "https://www.bbc.com/news/articles/c1j1ye6n30no",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 19:51:49 +0000",
+      "description": "Article URL: https://www.bbc.com/news/articles/c1j1ye6n30no Comments URL: https://news.ycombinator.com/item?id=49303774 Points: 15 # Comments: 1",
+      "score": 0.0,
+      "title_vi": "Jason Arday: Cựu giáo sư đại học Cambridge được tìm thấy đã chết",
+      "title_en": "Jason Arday: Former Cambridge university professor found dead",
+      "summary_vi": "URL bài viết: https://www.bbc.com/news/articles/c1j1ye6n30no URL bình luận: https://news.ycombinator.com/item?id=49303774 Điểm: 15 # Bình luận: 1",
+      "summary_en": "Article URL: https://www.bbc.com/news/articles/c1j1ye6n30no Comments URL: https://news.ycombinator.com/item?id=49303774 Points: 15 # Comments: 1",
+      "meta": {}
+    },
+    {
+      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
+      "url": "https://arxiv.org/abs/2608.11158",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 19:41:42 +0000",
+      "description": "Article URL: https://arxiv.org/abs/2608.11158 Comments URL: https://news.ycombinator.com/item?id=49303652 Points: 5 # Comments: 1",
+      "score": 0.0,
+      "title_vi": "Giới hạn dưới và giới hạn trên mới cho hằng số Grothendieck",
+      "title_en": "New Lower and Upper Bounds for the Grothendieck Constant",
+      "summary_vi": "URL bài viết: https://arxiv.org/abs/2608.11158 URL bình luận: https://news.ycombinator.com/item?id=49303652 Điểm: 5 # Bình luận: 1",
+      "summary_en": "Article URL: https://arxiv.org/abs/2608.11158 Comments URL: https://news.ycombinator.com/item?id=49303652 Points: 5 # Comments: 1",
+      "meta": {}
+    },
+    {
+      "title": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "url": "https://techcrunch.com/2026/08/14/thrives-joshua-kushner-chides-silicon-valley-vcs-over-ai-euphoria/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 19:33:00 +0000",
+      "description": "The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+      "score": 0.0,
+      "title_vi": "Joshua Kushner của Thrive chê bai các VC ở Thung lũng Silicon về sự hưng phấn của AI",
+      "title_en": "Thrive’s Joshua Kushner chides Silicon Valley VCs over AI euphoria",
+      "summary_vi": "Cơ hội về AI là rất lớn nhưng “sẽ là một sai lầm nghiêm trọng trong suy nghĩ của chúng tôi nếu để sự phấn khích làm suy yếu kỷ luật đầu tư của chúng tôi”, Kushner cảnh báo trong lá thư đầu tư đầu tiên của mình.",
+      "summary_en": "The AI opportunity is huge but \"it would also be a grave error in our minds to let excitement weaken our investment discipline,\" Kushner warns in his first-ever investment letter.",
+      "meta": {}
+    },
+    {
+      "title": "Anthropic Risk August 2026 [pdf]",
+      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 19:32:15 +0000",
+      "description": "Article URL: https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf Comments URL: https://news.ycombinator.com/item?id=49303540 Points: 13 # Comments: 0",
+      "score": 0.0,
+      "title_vi": "Rủi ro nhân loại Tháng 8 năm 2026 [pdf]",
+      "title_en": "Anthropic Risk August 2026 [pdf]",
+      "summary_vi": "URL bài viết: https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf URL bình luận: https://news.ycombinator.com/item?id=49303540 Điểm: 13 # Bình luận: 0",
+      "summary_en": "Article URL: https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf Comments URL: https://news.ycombinator.com/item?id=49303540 Points: 13 # Comments: 0",
+      "meta": {}
+    },
+    {
+      "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+      "url": "https://www.aletheionagi.com",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 19:28:17 +0000",
+      "description": "Article URL: https://www.aletheionagi.com Comments URL: https://news.ycombinator.com/item?id=49303499 Points: 3 # Comments: 0",
+      "score": 0.0,
+      "title_vi": "Hiện HN: AletheionAGI – Thực thi nối đất cho tác nhân AI",
+      "title_en": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
+      "summary_vi": "URL bài viết: https://www.aletheionagi.com URL bình luận: https://news.ycombinator.com/item?id=49303499 Điểm: 3 # Bình luận: 0",
+      "summary_en": "Article URL: https://www.aletheionagi.com Comments URL: https://news.ycombinator.com/item?id=49303499 Points: 3 # Comments: 0",
+      "meta": {}
+    },
+    {
+      "title": "How Claude's text watermarking works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 19:15:51 +0000",
+      "description": "Article URL: https://www.anthropic.com/news/claude-text-watermark Comments URL: https://news.ycombinator.com/item?id=49303350 Points: 33 # Comments: 34",
+      "score": 0.0,
+      "title_vi": "Cách hoạt động của hình mờ văn bản của Claude",
+      "title_en": "How Claude's text watermarking works",
+      "summary_vi": "URL bài viết: https://www.anthropic.com/news/claude-text-watermark URL bình luận: https://news.ycombinator.com/item?id=49303350 Điểm: 33 # Bình luận: 34",
+      "summary_en": "Article URL: https://www.anthropic.com/news/claude-text-watermark Comments URL: https://news.ycombinator.com/item?id=49303350 Points: 33 # Comments: 34",
+      "meta": {}
+    },
+    {
+      "title": "US retail sales post first decline in nine months in July - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSUpsdlVVb2FPYVpWSk4wT3hkMFo0eHhoZDBfemp1cVJ5b0pVeUREcVRMRE8yQjlYVE9NdDQ2VmlVbEt0RHZXYUgwYlZGNnVuMUgxUW9FdDRORnU1TGI5b0xWZGdTNzNQQXlzb1pfdDNkejhDX1RqZmpoamstRXZoYjExRnZ0WWdVMVRR?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 19:08:50 GMT",
+      "description": "US retail sales post first decline in nine months in July Reuters",
+      "score": 0.0,
+      "title_vi": "Doanh số bán lẻ của Mỹ giảm lần đầu tiên sau 9 tháng vào tháng 7 - Reuters",
+      "title_en": "US retail sales post first decline in nine months in July - Reuters",
+      "summary_vi": "Doanh số bán lẻ của Mỹ giảm lần đầu tiên sau 9 tháng vào tháng 7",
+      "summary_en": "US retail sales post first decline in nine months in July Reuters",
+      "meta": {}
+    },
+    {
+      "title": "S&P 500 falls from record high as investors weigh data, Middle East tensions - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOODBmUXllM0JmeFUycXhzSF9tekVEc094VlpCWnFsZ1JsMHo2Y2JEMGJnUmlPLWZOZEFJRy01UnR6VHdRODJMUEJlY3IxeXlXYWNrZHN2YUhoaS1EeVRyZDJCTUlvRkw0Rmp3d1MtZjBIb2dwVnhGbTg2YTc4MF9ONmVRdm9VTVBSdXVyY0VFZHUxRFhoTWJRUkg2YWI0SEw5WVVyYjZraTdFeG1zQTVJTWhXSFdDSnBLUVhXTXBR?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 18:47:48 GMT",
+      "description": "S&P 500 falls from record high as investors weigh data, Middle East tensions Reuters",
+      "score": 0.0,
+      "title_vi": "S&P 500 rớt khỏi mức cao kỷ lục khi nhà đầu tư cân nhắc dữ liệu, căng thẳng ở Trung Đông - Reuters",
+      "title_en": "S&P 500 falls from record high as investors weigh data, Middle East tensions - Reuters",
+      "summary_vi": "S&P 500 rớt khỏi mức cao kỷ lục khi nhà đầu tư cân nhắc dữ liệu, căng thẳng ở Trung Đông",
+      "summary_en": "S&P 500 falls from record high as investors weigh data, Middle East tensions Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Brazil's big banks shun riskier lending as household debt strains grow - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzdZbVFwak93VzlpdllZVXdNT0pqYjVYdE9keTNjNjVvMFBpdTY2bGs0cEhmS1lYRHkxOVBhaklmWkEzWm1nclBPUkd3UXhVcVVrYWduZ1ZVMHFpS0pWdGkxYkwxdHNFbWFaV0RQSXRGWDQwRGpadlBmVXUwN1FuMFFwazlqNjRScm5KWGlyM20tc3NWSkZDOFEtdTBkZFlSQ2o2NFJNcVBRQ1VlRGFxc08teGFNY2hiTi1N?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 17:50:53 GMT",
+      "description": "Brazil's big banks shun riskier lending as household debt strains grow Reuters",
+      "score": 0.0,
+      "title_vi": "Các ngân hàng lớn của Brazil tránh cho vay rủi ro hơn khi căng thẳng nợ hộ gia đình gia tăng - Reuters",
+      "title_en": "Brazil's big banks shun riskier lending as household debt strains grow - Reuters",
+      "summary_vi": "Các ngân hàng lớn của Brazil tránh cho vay rủi ro hơn khi căng thẳng nợ hộ gia đình gia tăng",
+      "summary_en": "Brazil's big banks shun riskier lending as household debt strains grow Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Oil Falls Over 1% as Markets Await Outcome of Iran-US Talks, US Stocks Data - EnergyNow",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONEJBLW9EdENnQWM0aGU4cjJ2YWM5bUM0Z3ExT0Nrdm9oRE5fUHloTHd1MEhTdGhPV2hzd3FzY04xNHptOEd4ZXJsU0RHeXpqY0RiNHlSS1MyOS13MlhYSmRPOGZPZTlFM0xzM1c2MldkYVN6QWVzdldDaHFOOGJ6M0FhN0MtM0xwMzdicWVXRExhVXM0eU5LbVlEQ2VTWjFLaUtYS0ZR?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 17:49:29 GMT",
+      "description": "Oil Falls Over 1% as Markets Await Outcome of Iran-US Talks, US Stocks Data EnergyNow",
+      "score": 0.0,
+      "title_vi": "Dầu giảm hơn 1% khi thị trường chờ đợi kết quả của cuộc đàm phán Iran-Mỹ, dữ liệu chứng khoán Mỹ - EnergyNow",
+      "title_en": "Oil Falls Over 1% as Markets Await Outcome of Iran-US Talks, US Stocks Data - EnergyNow",
+      "summary_vi": "Dầu giảm hơn 1% khi thị trường chờ đợi kết quả của cuộc đàm phán Iran-Mỹ, dữ liệu chứng khoán Mỹ EnergyNow",
+      "summary_en": "Oil Falls Over 1% as Markets Await Outcome of Iran-US Talks, US Stocks Data EnergyNow",
+      "meta": {}
+    },
+    {
+      "title": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaE14cERmMFhqTWJMbFBLWlkzaEp2VGpQOGlWUlRDZmNPZnRkT203U3VBQ3Y2TTUtQTNaSEtJbm9LbDVDSU9hS2hRTnpCaHVxVnUxLXJJUUFlV1NTSUdWanhsRlBmUWhNN05ZZTlCRUMtUnhraVhaSjFoS2Z5dU9GNF95bWdoWll6ZzdJMGY1WDBNWElXakhRZ0hvV0lCTmR4X05LYTN6VDZYMVQwb1g1MjhiaXJvS01Ob0lyUkhuSQ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 14 Aug 2026 17:26:57 GMT",
+      "description": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster Reuters",
+      "score": 0.0,
+      "title_vi": "Hai vết loang xuất hiện ở vùng Vịnh khi vụ tràn dầu lớn ngoài khơi Oman đe dọa thảm họa - Reuters",
+      "title_en": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster - Reuters",
+      "summary_vi": "Hai vết loang xuất hiện ở vùng Vịnh khi vụ tràn dầu lớn ngoài khơi Oman đe dọa thảm họa",
+      "summary_en": "Two slicks appear in Gulf as huge oil spill off Oman threatens disaster Reuters",
+      "meta": {}
+    }
+  ],
+  "insights": {
+    "status": "ready",
+    "model": "z-ai/glm-5.2",
+    "daily_thesis_vi": "Sự bùng nổ hệ sinh thái DeepSeek và các công cụ xử lý AI cho thấy nhu cầu lớn về quản lý plugin, chuyển đổi tài liệu và tùy chỉnh văn bản do AI tạo ra.",
+    "daily_thesis_en": "The DeepSeek ecosystem boom and AI text manipulation tools reveal massive demand for plugin management, document conversion, and customizing AI-generated content.",
+    "opportunities": [
+      {
+        "name_vi": "Cửa hàng Plugin DeepSeek",
+        "name_en": "DeepSeek Plugin Store",
+        "pain_vi": "Người dùng khó tìm, quản lý và cài đặt các plugin DeepSeek phù hợp cho công việc.",
+        "pain_en": "Users struggle to find, manage, and install suitable DeepSeek plugins for their workflows.",
+        "audience_vi": "Nhà phát triển và người dùng DeepSeek toàn cầu.",
+        "audience_en": "Global DeepSeek developers and users.",
+        "mvp_vi": "Sàn phân phối plugin với tính năng tìm kiếm, đánh giá và cài đặt một cú nhấp.",
+        "mvp_en": "Plugin marketplace with search, reviews, and one-click install.",
+        "scope": "global",
+        "score": 85,
+        "evidence_ids": [
+          1,
+          4,
+          5,
+          7
+        ],
+        "risks_vi": "Sự cạnh tranh từ cửa hàng chính thức của DeepSeek.",
+        "risks_en": "Competition from an official DeepSeek store.",
+        "sources": [
+          {
+            "title": "deepseek-ai/deepseek-harness",
+            "url": "https://github.com/deepseek-ai/deepseek-harness",
+            "source": "GitHub"
+          },
+          {
+            "title": "anywhere-labs/deepseek-harness-desktop",
+            "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+            "source": "GitHub"
+          },
+          {
+            "title": "zhu1090093659/dsh-web-ui",
+            "url": "https://github.com/zhu1090093659/dsh-web-ui",
+            "source": "GitHub"
+          },
+          {
+            "title": "awesome-dsh-plugin/awesome-dsh-plugin",
+            "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Công cụ Nhân bản Văn phong AI",
+        "name_en": "AI Style Humanizer",
+        "pain_vi": "Văn bản do AI tạo ra bị cứng nhắc, dễ bị phát hiện và thiếu giọng điệu cá nhân.",
+        "pain_en": "AI-generated text is rigid, easily detectable, and lacks personal tone.",
+        "audience_vi": "Nhà sáng tạo nội dung, người làm marketing.",
+        "audience_en": "Content creators, marketers.",
+        "mvp_vi": "Tiện ích mở rộng viết lại văn bản AI theo phong cách người dùng đã học.",
+        "mvp_en": "Extension rewriting AI text to match learned user styles.",
+        "scope": "global",
+        "score": 78,
+        "evidence_ids": [
+          2,
+          9,
+          29
+        ],
+        "risks_vi": "Dịch vụ có thể bị lạm dụng cho mục đích lừa đảo.",
+        "risks_en": "Service could be abused for deceptive practices.",
+        "sources": [
+          {
+            "title": "guillaumemeyer/watermarks-remover",
+            "url": "https://github.com/guillaumemeyer/watermarks-remover",
+            "source": "GitHub"
+          },
+          {
+            "title": "KKKKhazix/human-writing",
+            "url": "https://github.com/KKKKhazix/human-writing",
+            "source": "GitHub"
+          },
+          {
+            "title": "How Claude's text watermarking works",
+            "url": "https://www.anthropic.com/news/claude-text-watermark",
+            "source": "Hacker News"
+          }
+        ]
+      },
+      {
+        "name_vi": "Dịch vụ Chuyển đổi Tài liệu Markdown",
+        "name_en": "Markdown Document Conversion API",
+        "pain_vi": "Trích xuất dữ liệu sạch từ PDF, Word, Excel sang định dạng AI dễ dùng rất mất thời gian.",
+        "pain_en": "Extracting clean data from PDF, Word, Excel to AI-friendly formats is time-consuming.",
+        "audience_vi": "Nhà phát triển ứng dụng AI và RAG.",
+        "audience_en": "AI and RAG application developers.",
+        "mvp_vi": "API chuyển đổi hàng loạt tài liệu đa định dạng sang Markdown sạch.",
+        "mvp_en": "API converting multi-format documents to clean Markdown.",
+        "scope": "global",
+        "score": 82,
+        "evidence_ids": [
+          3,
+          6
+        ],
+        "risks_vi": "Lỗi phân tích cú pháp với các bố cục tài liệu phức tạp.",
+        "risks_en": "Parsing errors with complex document layouts.",
+        "sources": [
+          {
+            "title": "firecrawl/anydoc",
+            "url": "https://github.com/firecrawl/anydoc",
+            "source": "GitHub"
+          },
+          {
+            "title": "Leutenegger/book-to-skill",
+            "url": "https://github.com/Leutenegger/book-to-skill",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Nền tảng Quản lý An toàn Xe điện",
+        "name_en": "E-bike Safety Platform",
+        "pain_vi": "Thiếu chương trình giáo dục an toàn cho người đi xe điện trẻ tuổi.",
+        "pain_en": "Lack of safety education programs for young e-bike riders.",
+        "audience_vi": "Chính quyền địa phương và trường học.",
+        "audience_en": "Local governments and schools.",
+        "mvp_vi": "Ứng dụng học tập an toàn giao thông có theo dõi tiến độ cho thanh thiếu niên.",
+        "mvp_en": "Gamified traffic safety learning app with progress tracking for teens.",
+        "scope": "global",
+        "score": 65,
+        "evidence_ids": [
+          13
+        ],
+        "risks_vi": "Khó thuyết phục chính quyền mua sắm công nghệ.",
+        "risks_en": "Difficult to convince governments to procure tech.",
+        "sources": [
+          {
+            "title": "Winter Park considers safety education for young e-bike riders - cfpublic.org",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdUlkcnlMZVpIdVVyXzhWSEFrRDZlZEVaUHhtS1A4WDBzNzk5emZQLWlnRWwwNF93a1d5VWdMUWVMZzBIQ2lJWHNiV0IyWXg1d2tLSk0wbUphTDB2ZWMwVmtZTnExS041RXJ6NXJfTXZUMFFMeUthdWJkNFRYczRyN1JFZVJWWTdiNzJOdmlBdERKWlNqOGNDZWd4bXlSM0UzU2pXYlFBMFFNdzE5?oc=5",
+            "source": "Google News Social Needs"
+          }
+        ]
+      },
+      {
+        "name_vi": "Hệ thống Đánh giá Giáo dục Tự động",
+        "name_en": "Automated Education Rating System",
+        "pain_vi": "Các trường học tốn nhiều nguồn lực để đối phó với hệ thống xếp loại A-F phức tạp.",
+        "pain_en": "Schools spend excessive resources navigating complex A-F accountability ratings.",
+        "audience_vi": "Quản lý trường học và khu học chánh.",
+        "audience_en": "School administrators and districts.",
+        "mvp_vi": "Phần mềm phân tích dữ liệu dự báo và tối ưu hóa điểm xếp loại.",
+        "mvp_en": "Data analytics software forecasting and optimizing rating scores.",
+        "scope": "global",
+        "score": 60,
+        "evidence_ids": [
+          11,
+          19
+        ],
+        "risks_vi": "Thay đổi quy định đánh giá làm phần mềm lỗi thời nhanh chóng.",
+        "risks_en": "Regulatory changes make software obsolete quickly.",
+        "sources": [
+          {
+            "title": "WATCH: Texas Education Commissioner to discuss 2026 A-F accountability ratings - WFAA",
+            "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQOHl3ZjYwcml5M19NUU8tS2VYeDdQV3JxVkd6c3E1UHhYUVdSd1RmVFA0cGZxRjdOSE1hcVhDTUpEeE9nZk9WazdLbnhNRVd2MnYzeTFaVEttdHNiN25WeWt1R1lMVU5iQ1JobDFyd2pfbUszTUtqLU8xSHNrbmpCNXdjSWNqcWI0WndPQjh4OXdYdjY3SnFURDFOcHNma0NHLXF0Y1NHaXdyOEUybkRJbGY4c0dDSDA5NkxPVzlreW1YX2trOWZVN3dua2Q1d25xYXV0TW1CYUJTT3ZOTDJORmRxWEJxcXJMMER2dHN1RXV4RVd6ODg3b1FSVQ?oc=5",
+            "source": "Google News Social Needs"
+          },
+          {
+            "title": "Texas schools see modest improvement in 2026 A-F ratings. Here’s how they fared - Houston Public Media",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOSE1JMGlaa2xYbTNtLXJHbjBDbmNuM1NjWGNmM1Q0bkJRYWc3cEVUZEdqa3ozeHR0a0xRS0JQOFhycjQtUzZ2aGVIVlg5U0ZrXzhnR0RZd2hNcWlGNFBsbTB2V2lQc0NaN0RScEpwTGJqSHZGUE1OVERhaU1ZdWxjZmVKa3NXV2hSdUdoQk1EZFlvR2VTSFo1WmhFU0ZLSVJsQTlUbkpGVnZzOERKTXVfWFVTTGRhelNGSXNxS3A4UjRnLUR4Q1hJQUlTeHo0dEtUd3F6XzdDUEhaenotcnN5eDA5a1k2eGVDWTNrc05xY3Rtd9IB-gFBVV95cUxOZGNUOHlVb3lSRkswSFgxUkladFJRYmNQaHlIX3k5MVYwZDRQQklKSmdDcjc0T2kxMFV1SWx6T25haVNNTFF3cmhzZ21HWG9CZjBKZ29DNEdGM0h4MEZ6MVBwcU80RTdxMDdwdm5kYTVYTDZwbXE1NTlDX1BTOWRXa1hBWWhDbllta05JN2U1RVBuOWdjaVpQc0xuZWxkb1IwV3FzTmlLWjE5aWxNUXVCOTA1QVZwYnVuTEwycjc3c2RWUFBJOGc0ZkNrSy1CV1hNZS0xbndpUWVmOFVfaW44cmlfcjNNT0tRdmNNT3NDVEhsb01HZzdhLXZR?oc=5",
+            "source": "Google News Social Needs"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}
