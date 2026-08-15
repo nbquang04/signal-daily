@@ -1,0 +1,763 @@
+{
+  "date": "2026-08-16",
+  "generated_at": "2026-08-15T20:37:37.327086+00:00",
+  "markets": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7785.7598,
+      "change_pct": -0.17,
+      "currency": "USD"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "price": 26729.1602,
+      "change_pct": -0.28,
+      "currency": "USD"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "price": 4380.3999,
+      "change_pct": 0.38,
+      "currency": "USD"
+    },
+    {
+      "name": "Crude Oil",
+      "symbol": "CL=F",
+      "price": 82.4,
+      "change_pct": 1.42,
+      "currency": "USD"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC-USD",
+      "price": 63000.0,
+      "change_pct": 0.04,
+      "currency": "USD"
+    },
+    {
+      "name": "USD/VND",
+      "symbol": "VND=X",
+      "price": 26147.0,
+      "change_pct": 0.3,
+      "currency": "VND"
+    }
+  ],
+  "items": [
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T11:56:32Z",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "score": 38171.79,
+      "title_vi": "deepseek-ai/deepseek-khai thác",
+      "title_en": "deepseek-ai/deepseek-harness",
+      "summary_vi": "Khai thác DeepSeek: Mọi thứ đều là Plugin.",
+      "summary_en": "DeepSeek Harness: Everything is a Plugin.",
+      "meta": {
+        "stars": 114166,
+        "forks": 11100,
+        "language": "TypeScript",
+        "stars_per_day": 38055.3
+      }
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "score": 2010.29,
+      "title_vi": "guillaumemeyer/loại bỏ hình mờ",
+      "title_en": "guillaumemeyer/watermarks-remover",
+      "summary_vi": "Loại bỏ các dấu xuất xứ AI của nhiều nhà cung cấp: Vệ sinh văn bản Unicode, móc viết lại thống kê và C2PA/siêu dữ liệu từ PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "summary_en": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "meta": {
+        "stars": 9593,
+        "forks": 987,
+        "language": "Python",
+        "stars_per_day": 1918.6
+      }
+    },
+    {
+      "title": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T16:30:50Z",
+      "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
+      "score": 1991.18,
+      "title_vi": "mọi nơi-phòng thí nghiệm/deepseek-khai thác-máy tính để bàn",
+      "title_en": "anywhere-labs/deepseek-harness-desktop",
+      "summary_vi": "Trải nghiệm máy tính để bàn hiện đại được xây dựng cho hệ sinh thái DeepSeek Harness (DSH)",
+      "summary_en": "A modern desktop experience built for the DeepSeek Harness (DSH) ecosystem",
+      "meta": {
+        "stars": 5714,
+        "forks": 241,
+        "language": "TypeScript",
+        "stars_per_day": 1904.7
+      }
+    },
+    {
+      "title": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-03T16:36:14Z",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "score": 1347.97,
+      "title_vi": "firecrawl/anydoc",
+      "title_en": "firecrawl/anydoc",
+      "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
+      "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "meta": {
+        "stars": 16263,
+        "forks": 903,
+        "language": "Rust",
+        "stars_per_day": 1251.0
+      }
+    },
+    {
+      "title": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T13:55:31Z",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "score": 1063.57,
+      "title_vi": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "title_en": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "summary_vi": "Danh sách bổ trợ được tuyển chọn dành cho Khai thác DeepSeek (dsh) · Khai thác DeepSeek Danh sách bổ trợ được tuyển chọn cho Khai thác DeepSeek",
+      "summary_en": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness A curated list of plugins for DeepSeek Harness",
+      "meta": {
+        "stars": 2951,
+        "forks": 592,
+        "language": "Python",
+        "stars_per_day": 983.7
+      }
+    },
+    {
+      "title": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-12T05:15:20Z",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "score": 750.21,
+      "title_vi": "zhu1090093659/dsh-web-ui",
+      "title_en": "zhu1090093659/dsh-web-ui",
+      "summary_vi": "Bộ sưu tập plugin và giao diện cho giao diện người dùng web DeepSeek Harness (DSH) - bảng tác vụ, biểu đồ git, bảng điều khiển bên phải, giao diện người dùng di động từ xa, thú cưng, số liệu thống kê mã thông báo trực tiếp và trung tâm giao diện.",
+      "summary_en": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "meta": {
+        "stars": 2685,
+        "forks": 149,
+        "language": "TypeScript",
+        "stars_per_day": 671.2
+      }
+    },
+    {
+      "title": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T12:49:31Z",
+      "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
+      "score": 488.67,
+      "title_vi": "cch1money/dsh-TUI",
+      "title_en": "ccch1money/dsh-TUI",
+      "summary_vi": "Một công việc bổ sung nhằm giải quyết các điểm yếu của thiết bị đầu cuối chính thức TUI của DSH, dành riêng cho tất cả những người đam mê công nghệ thích cli: plug-in thiết bị đầu cuối tương tác toàn màn hình kiểu Claude Code - thanh trên cùng của pixel cá voi, dòng trạng thái công việc theo thời gian thực, mở rộng luồng suy nghĩ, nhấp đúp vào Esc để quay lại, thanh tiến trình theo ngữ cảnh + đồng hồ đo TPS. npm cài đặt bằng một cú nhấp chuột.",
+      "summary_en": "A complementary work to solve the pain points of DSH's official terminal TUI, dedicated to all geeks who prefer cli: Claude Code style full-screen interactive terminal plug-in - pixel whale top bar, real-time work status line, thinking flow expansion, double-click Esc to roll back, contextual progress bar + TPS meter. npm one-click installation.",
+      "meta": {
+        "stars": 1252,
+        "forks": 55,
+        "language": "TypeScript",
+        "stars_per_day": 417.3
+      }
+    },
+    {
+      "title": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T13:15:23Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "score": 443.21,
+      "title_vi": "Leutenegger/book-to-skill",
+      "title_en": "Leutenegger/book-to-skill",
+      "summary_vi": "Biến bất kỳ cuốn sách kỹ thuật PDF nào thành kỹ năng Mã Claude - sẵn sàng để nghiên cứu, tham khảo và sử dụng trong khi bạn làm việc.",
+      "summary_en": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "meta": {
+        "stars": 1119,
+        "forks": 141,
+        "language": "Python",
+        "stars_per_day": 373.0
+      }
+    },
+    {
+      "title": "SMNETSTUDIO/WeChat-AI",
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-10T09:06:43Z",
+      "description": "",
+      "score": 362.9,
+      "title_vi": "SMNETSTUDIO/WeChat-AI",
+      "title_en": "SMNETSTUDIO/WeChat-AI",
+      "summary_vi": "SMNETSTUDIO/WeChat-AI",
+      "summary_en": "SMNETSTUDIO/WeChat-AI",
+      "meta": {
+        "stars": 1730,
+        "forks": 1240,
+        "language": "TypeScript",
+        "stars_per_day": 288.3
+      }
+    },
+    {
+      "title": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-12T13:48:50Z",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "score": 347.37,
+      "title_vi": "dmmulroy/chống trượt",
+      "title_en": "dmmulroy/anti-slop",
+      "summary_vi": "Các quy tắc Oxlint có ý kiến ​​​​để từ chối các mẫu TypeScript và JavaScript có bằng chứng thấp",
+      "summary_en": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "meta": {
+        "stars": 1109,
+        "forks": 16,
+        "language": "TypeScript",
+        "stars_per_day": 277.2
+      }
+    },
+    {
+      "title": "Parkland College launches manufacturing apprenticeship with energy company - WCIA.com",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdWx0S0c2QTlvLXVrZ3cycnRRVHQ5VW1EREdRVC1RdGotSXRNVUp6UVRPb3VEZzQwQnR1VFRNMkVsZW0ybGZScndiU25Zb2VNdDkzeHROczZOVnV6SlVtVnpZZlhXR0hIN0pOSEtJN21EWU9kWXFEOG1UaEhWNG9VempENjE1eGV2aWx1SkVfZW82MmpINkZac1FjaVVTQ1lBUHR1TDlUek5yQzhrVno4aUtiSzI2aWJUeUHSAb8BQVVfeXFMT3NEQkhQeWdQWUtzRXdCODltdUs5SEpwUGNCUWs2SzdZQm82akFYb0hPeXA3MkN4b2R0Wm14T1lUMk4wMTZWaTZ2bmFobDd2YzN0eVJRYVlmSjhLOG9DODN6ekpiRUIwbERMNmlFUXZPQVJnbC0ycFVQbmJ5bGFxUHpzdnVXMHpTYlFUNXEwZ25nRXZNbjlCNy1DdG4tck02ODQtZVpjU3kzS3dfV1RKeWNUUzNwZ0N1bmtEUnlCa1k?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 20:25:55 GMT",
+      "description": "Parkland College launches manufacturing apprenticeship with energy company WCIA.com",
+      "score": 0.0,
+      "title_vi": "Parkland College triển khai chương trình học nghề sản xuất với công ty năng lượng - WCIA.com",
+      "title_en": "Parkland College launches manufacturing apprenticeship with energy company - WCIA.com",
+      "summary_vi": "Cao đẳng Parkland triển khai chương trình học nghề sản xuất với công ty năng lượng WCIA.com",
+      "summary_en": "Parkland College launches manufacturing apprenticeship with energy company WCIA.com",
+      "meta": {}
+    },
+    {
+      "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUl9uNHR3TU5Ka1phR1hoNEk2VE00SmhPVDQyQTRpWkdDelA2XzB1c2NaTkRPTlk5d2FZa1hHaURPNUV0SUloMkN1cl9XWmc1VEFzc0lkY0w4N1VMdzRFeDZfbFg5OGxIZlFsdk9qQXcwNkgxT3p6TDdVZzR4ZEhvVVpBMDc5SEROazE0dTl4eDU0emx1OFRuZzRWQUQ2UEx4ZTdOcGJCR2NnVVc2QlNmejU4MW1CcmFWdDQxeFl0MThlcXJMeVFZTktOelAzWGRiM0JZTmFwTFJPcV9t?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 20:17:17 GMT",
+      "description": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says marketscreener.com",
+      "score": 0.0,
+      "title_vi": "Nvidia để mắt đầu tư 3 tỷ USD vào SB Energy theo thỏa thuận trung tâm dữ liệu OpenAI, Information cho biết",
+      "title_en": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - marketscreener.com",
+      "summary_vi": "Nvidia để mắt đầu tư 3 tỷ USD vào SB Energy theo thỏa thuận trung tâm dữ liệu OpenAI, Information cho biết marketscreener.com",
+      "summary_en": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says marketscreener.com",
+      "meta": {}
+    },
+    {
+      "title": "Nvidia weighs $3 bln in SB Energy for Ohio AI data center - The Information - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaFVMTFg4MlRCREViSjI0Uy1Sb2ZuX3JZWDFJaWhIbF9YdFEyUlBybU9qYmY1QXh3dzNvbDhhOUJXbm1kYVlIYUxSMmpfaW52UHJYNTNlNVFDYll2Y0RqWVg0Uzd4b2RWQlppQXVvSTd6VHctYkFaWTdEUFpkTFE2VXFnS3R4S2VrbGdZc01XWmE3bm8zVlBqbXBGS0RGT0ttUjRySHZhR1NyOHZqRVhabk1OVmp1UUlJbE5IUWlxT0dpb21TZFIzRTdR?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 20:10:45 GMT",
+      "description": "Nvidia weighs $3 bln in SB Energy for Ohio AI data center - The Information Investing.com",
+      "score": 0.0,
+      "title_vi": "Nvidia đầu tư 3 tỷ USD vào SB Energy cho trung tâm dữ liệu AI ở Ohio - Thông tin - Investing.com",
+      "title_en": "Nvidia weighs $3 bln in SB Energy for Ohio AI data center - The Information - Investing.com",
+      "summary_vi": "Nvidia đầu tư 3 tỷ USD vào SB Energy cho trung tâm dữ liệu AI ở Ohio - The Information Investing.com",
+      "summary_en": "Nvidia weighs $3 bln in SB Energy for Ohio AI data center - The Information Investing.com",
+      "meta": {}
+    },
+    {
+      "title": "Corporate and Community Education: How Mohave College Strengthens Mohave County - thebee.news",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQLW9mQUFDaXpyMThremkzYVcyaVhmUVhoVlRJTDFBYkV0RHJja1pZZktmM2RwQW1EbC1oUzBrVWtSX1BRNnNmQmhWV0tDMF91bmN3dE5SdjRMWG5ZYXZKb0NONUdpbk9yQ3JGT2lDQlRXTkE0RmlzUWItemlLT2p1bE9CRFN1OVZhX3V6X196XzZQdG1ydGJGRU9GZ05NVDhQVVo2cGtR?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 19:58:23 GMT",
+      "description": "Corporate and Community Education: How Mohave College Strengthens Mohave County thebee.news",
+      "score": 0.0,
+      "title_vi": "Giáo dục doanh nghiệp và cộng đồng: Cao đẳng Mohave củng cố Quận Mohave như thế nào - thebee.news",
+      "title_en": "Corporate and Community Education: How Mohave College Strengthens Mohave County - thebee.news",
+      "summary_vi": "Giáo dục doanh nghiệp và cộng đồng: Cao đẳng Mohave củng cố Quận Mohave như thế nào thebee.news",
+      "summary_en": "Corporate and Community Education: How Mohave College Strengthens Mohave County thebee.news",
+      "meta": {}
+    },
+    {
+      "title": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQQ3F1cWFaYW9hT1dFYnNDWFZ6SGVvaE1TT2NCSnRuajRzYWdJQ1ptQ2p2SGRtTEhWNnVWNFdyM29Lei14S0tHTUFIMXRoZ3hKTzZYR2w5dTBkZTVBNngwUlhYQTZSVVp5SjFPVGI5bjFwYVF2Vjdoby1yUzdOX0gwRDhUZ3dYZXd3WjA0VmRGNUFNU3E2dUR2S24tQWkzOTgyVjhCUWlMWmNnV21xaUFVUkg5bHJhem5uemUyQ2o4eGRqMmxKd05pMlJtZUExNTlISWYyZDcxYmhDUU9GRHBnRzZRbkxjRG5tMDc5aml5bTRxeEZyT1FV?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 19:56:19 GMT",
+      "description": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports By Reuters Investing.com",
+      "score": 0.0,
+      "title_vi": "Nvidia đang đàm phán để đầu tư 3 tỷ USD vào SB Energy như một phần của thỏa thuận trung tâm dữ liệu OpenAI, Thông tin đưa tin Theo Reuters - Investing.com",
+      "title_en": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports By Reuters - Investing.com",
+      "summary_vi": "Nvidia đang đàm phán để đầu tư 3 tỷ USD vào SB Energy như một phần của thỏa thuận trung tâm dữ liệu OpenAI, Thông tin đưa tin Theo Reuters Investing.com",
+      "summary_en": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports By Reuters Investing.com",
+      "meta": {}
+    },
+    {
+      "title": "Royal estates rent out homes that fail to meet legal energy efficiency standards - The Guardian",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjk3SXl4WkxfZ1daTk5mc1psWmwtaWVQbUhEcmZfT2xFazJrWlFtODZ2R0Q4M0lVNzZDRHI5eUNYaG00MXpTcTZsSVVMMW5RTzE4UHBYYTBJYV9fNFo4bGQzQjB5ZjhDUnlmZ09QVlkzZk1IeENZY2FsM3VtaTFwcnNiTUpuUnRfLWZxMG9zYXFOeVpDVzhSb1ZFMVhVRk9GNkVsRHo5YnJ1b2Y0TC1jVklfRFF4TXppMlV3RlpZZjQ0RnFHZ1c4?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 19:45:00 GMT",
+      "description": "Royal estates rent out homes that fail to meet legal energy efficiency standards The Guardian",
+      "score": 0.0,
+      "title_vi": "Các điền trang hoàng gia cho thuê những ngôi nhà không đáp ứng tiêu chuẩn tiết kiệm năng lượng hợp pháp - The Guardian",
+      "title_en": "Royal estates rent out homes that fail to meet legal energy efficiency standards - The Guardian",
+      "summary_vi": "Bất động sản hoàng gia cho thuê những ngôi nhà không đáp ứng tiêu chuẩn tiết kiệm năng lượng hợp pháp",
+      "summary_en": "Royal estates rent out homes that fail to meet legal energy efficiency standards The Guardian",
+      "meta": {}
+    },
+    {
+      "title": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 19:38:53 GMT",
+      "description": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports Reuters",
+      "score": 0.0,
+      "title_vi": "Nvidia đang đàm phán để đầu tư 3 tỷ USD vào SB Energy như một phần của thỏa thuận trung tâm dữ liệu OpenAI, Thông tin đưa tin - Reuters",
+      "title_en": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports - Reuters",
+      "summary_vi": "Nvidia đang đàm phán để đầu tư 3 tỷ USD vào SB Energy như một phần của thỏa thuận trung tâm dữ liệu OpenAI, Information đưa tin Reuters",
+      "summary_en": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQSnlkeUFDa1lfaGNhaWhoVV9Sa3VwNUNQbU1sQ3NJV3VhbERMWXRxaWRNdDhuazNFTWRvNXpLc2NEZGhEQVVpS2wtV0lKZHdaNHIxZzN0S3J6VFNaNTZNdm5YQVcwMF9IYWFtWncyWXBfdkZ0MGxfM1M0b3lVMHBzN21rblF5d2hYdFVEelp1b0tUQUs4YS1wZmI0OE5EZWJVNUo0Z2stSi1jNTQ3Rkp5RjVWVGFMYUl5ck5BdzkyS3lQZVVqajZKRnRmQ3BNNVFQX3RpZkVjVnFqaU14UHVoX096UVlWRXV4RXNKWkxJVlBvaU5EdEVrUFlGZkwwOUFYRVdPNUpkcTc?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 19:34:43 GMT",
+      "description": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports TradingView",
+      "score": 0.0,
+      "title_vi": "Nvidia đang đàm phán để đầu tư 3 tỷ USD vào SB Energy như một phần của thỏa thuận trung tâm dữ liệu OpenAI, Thông tin đưa tin - TradingView",
+      "title_en": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports - TradingView",
+      "summary_vi": "Nvidia đang đàm phán để đầu tư 3 tỷ USD vào SB Energy như một phần của thỏa thuận trung tâm dữ liệu OpenAI, thông tin TradingView đưa tin",
+      "summary_en": "Nvidia in talks to invest $3 billion in SB Energy as part of OpenAI data center deal, the Information reports TradingView",
+      "meta": {}
+    },
+    {
+      "title": "So How Is AI Drug Discovery Doing, Really?",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 19:12:53 +0000",
+      "description": "Article URL: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 30 # Comments: 15",
+      "score": 0.0,
+      "title_vi": "Vậy việc khám phá thuốc AI thực sự hoạt động như thế nào?",
+      "title_en": "So How Is AI Drug Discovery Doing, Really?",
+      "summary_vi": "URL bài viết: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really URL bình luận: https://news.ycombinator.com/item?id=49313367 Điểm: 30 # Bình luận: 15",
+      "summary_en": "Article URL: https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 30 # Comments: 15",
+      "meta": {}
+    },
+    {
+      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 18:58:39 +0000",
+      "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "score": 0.0,
+      "title_vi": "Anthropic chia sẻ thêm thông tin chi tiết về cách hoạt động của hình mờ mới của Claude",
+      "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "summary_vi": "Hình mờ thực sự sẽ hoạt động như thế nào? Nó có thể được ẩn bằng cách chỉnh sửa? Và điều này ảnh hưởng đến mã như thế nào?",
+      "summary_en": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "meta": {}
+    },
+    {
+      "title": "First human trials of designer protein therapies stun US neuroscientists",
+      "url": "https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 18:37:09 +0000",
+      "description": "Article URL: https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08 Comments URL: https://news.ycombinator.com/item?id=49313097 Points: 17 # Comments: 30",
+      "score": 0.0,
+      "title_vi": "Những thử nghiệm đầu tiên trên người về liệu pháp protein thiết kế đã khiến các nhà thần kinh học Hoa Kỳ choáng váng",
+      "title_en": "First human trials of designer protein therapies stun US neuroscientists",
+      "summary_vi": "URL bài viết: https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenic-brain-therapy/104/web/2026/08 URL bình luận: https://news.ycombinator.com/item?id=49313097 Điểm: 17 # Bình luận: 30",
+      "summary_en": "Article URL: https://cen.acs.org/biological-chemistry/biotechnology/human-trial-chemogenetic-brain-therapy/104/web/2026/08 Comments URL: https://news.ycombinator.com/item?id=49313097 Points: 17 # Comments: 30",
+      "meta": {}
+    },
+    {
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 18:33:25 +0000",
+      "description": "Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer Comments URL: https://news.ycombinator.com/item?id=49313047 Points: 0 # Comments: 0",
+      "score": 0.0,
+      "title_vi": "Voltair (YC W26) đang thuê một kỹ sư bay thử nghiệm",
+      "title_en": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "summary_vi": "URL bài viết: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer URL nhận xét: https://news.ycombinator.com/item?id=49313047 Điểm: 0 # Nhận xét: 0",
+      "summary_en": "Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer Comments URL: https://news.ycombinator.com/item?id=49313047 Points: 0 # Comments: 0",
+      "meta": {}
+    },
+    {
+      "title": "UK's Burnham urges reflection on death of academic Arday - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMGRVd2o3N0NVMl9rek5FaXJmMGVxN0pTcWFyc3lScVRpTE5DQ0hYYmNLaDB3MUY3UHNTcFBlN0ZfbUwyalNMVHFvSWN5eE4tOHVNTHVfWm9jTm03Y3gyUGVpVVpVczRKV3dPdVFob2x3MHE4LUEwSHZFMk11N0lRaTg1ZGxGdUNDZ1IyMFUtWmFITDhIaHNZeDNldTVvZ0tDWWc3VzlxV0dvOW5f?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 18:32:19 GMT",
+      "description": "UK's Burnham urges reflection on death of academic Arday Reuters",
+      "score": 0.0,
+      "title_vi": "Burnham của Vương quốc Anh kêu gọi suy ngẫm về cái chết của học giả Arday - Reuters",
+      "title_en": "UK's Burnham urges reflection on death of academic Arday - Reuters",
+      "summary_vi": "Burnham của Vương quốc Anh kêu gọi suy ngẫm về cái chết của học giả Arday Reuters",
+      "summary_en": "UK's Burnham urges reflection on death of academic Arday Reuters",
+      "meta": {}
+    },
+    {
+      "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 18:13:02 +0000",
+      "description": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 221 # Comments: 188",
+      "score": 0.0,
+      "title_vi": "AI không phải là nhà toán học có tư duy vượt trội Đó là việc nhớ đến họ",
+      "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+      "summary_vi": "URL bài viết: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians URL bình luận: https://news.ycombinator.com/item?id=49312845 Điểm: 221 # Bình luận: 188",
+      "summary_en": "Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 221 # Comments: 188",
+      "meta": {}
+    },
+    {
+      "title": "Thunderbird's Desktop Calendar Visual Redesign",
+      "url": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 18:09:42 +0000",
+      "description": "Article URL: https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/ Comments URL: https://news.ycombinator.com/item?id=49312823 Points: 27 # Comments: 6",
+      "score": 0.0,
+      "title_vi": "Thiết kế lại trực quan lịch máy tính để bàn của Thunderbird",
+      "title_en": "Thunderbird's Desktop Calendar Visual Redesign",
+      "summary_vi": "URL bài viết: https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/ URL bình luận: https://news.ycombinator.com/item?id=49312823 Điểm: 27 # Bình luận: 6",
+      "summary_en": "Article URL: https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/ Comments URL: https://news.ycombinator.com/item?id=49312823 Points: 27 # Comments: 6",
+      "meta": {}
+    },
+    {
+      "title": "BriskDB",
+      "url": "https://github.com/schapman1974/briskdb",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 17:56:57 +0000",
+      "description": "Article URL: https://github.com/schapman1974/briskdb Comments URL: https://news.ycombinator.com/item?id=49312707 Points: 13 # Comments: 4",
+      "score": 0.0,
+      "title_vi": "BriskDB",
+      "title_en": "BriskDB",
+      "summary_vi": "URL bài viết: https://github.com/schapman1974/briskdb URL bình luận: https://news.ycombinator.com/item?id=49312707 Điểm: 13 # Bình luận: 4",
+      "summary_en": "Article URL: https://github.com/schapman1974/briskdb Comments URL: https://news.ycombinator.com/item?id=49312707 Points: 13 # Comments: 4",
+      "meta": {}
+    },
+    {
+      "title": "Kim cương nhân tạo bền gấp 5 lần kim cương tự nhiên",
+      "url": "https://vnexpress.net/kim-cuong-nhan-tao-ben-gap-5-lan-kim-cuong-tu-nhien-5108676.html",
+      "source": "VnExpress Số hóa",
+      "category": "technology",
+      "market": "vietnam",
+      "published": "Sun, 16 Aug 2026 00:00:00 +0700",
+      "description": "Các nhà khoa học Trung Quốc sử dụng mạng lưới ống nano carbon để tạo ra cấu trúc hỗ trợ bên trong giúp vật liệu bền hơn gấp 5 lần kim cương tự nhiên.",
+      "score": 0.0,
+      "title_vi": "Kim cương nhân tạo bền gấp 5 lần kim cương tự nhiên",
+      "title_en": "Artificial diamonds are 5 times more durable than natural diamonds",
+      "summary_vi": "Các nhà khoa học Trung Quốc sử dụng mạng lưới ống nano carbon để tạo ra cấu trúc hỗ trợ bên trong giúp vật liệu bền hơn gấp 5 lần kim cương tự nhiên.",
+      "summary_en": "Chinese scientists used a carbon nanotube network to create an internal support structure that makes the material five times stronger than natural diamond.",
+      "meta": {}
+    },
+    {
+      "title": "PayPal Shares End at $61.67, Surpassing Recent $60.50 Buyout Bid - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV2VlNGtodGp1cjBiWGlIeTF4ODRNRWQxRWttRWJSeXRXS3ZhWHdQTmFOLWFEaXY5eVJPWDV2Tm5hT1J3RlBKTmJtMGthU2dSTFJSNFpJZ2FTOER4MF9nUmxJRUpncE5XZVBGUnBwZ19neFhHTWc3MWFZYXduSkd5S0FBNWhHZU1GMTllNVNYZ1ctQQ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 14:52:39 GMT",
+      "description": "PayPal Shares End at $61.67, Surpassing Recent $60.50 Buyout Bid TechStock²",
+      "score": 0.0,
+      "title_vi": "Cổ phiếu PayPal kết thúc ở mức 61,67 USD, vượt qua giá thầu mua lại 60,50 USD gần đây - TechStock²",
+      "title_en": "PayPal Shares End at $61.67, Surpassing Recent $60.50 Buyout Bid - TechStock²",
+      "summary_vi": "Cổ phiếu PayPal kết thúc ở mức 61,67 USD, vượt qua giá thầu mua lại 60,50 USD gần đây TechStock²",
+      "summary_en": "PayPal Shares End at $61.67, Surpassing Recent $60.50 Buyout Bid TechStock²",
+      "meta": {}
+    },
+    {
+      "title": "A tale of two buildings: how quake rescue efforts differed in Colombia and Venezuela - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZDhuLU1pS1kxTnhFbndFY2w2aHZ0UzVCRkpwT3d3Q1FocGJ2cUZqZGFUaEE3MkFNVEZ4bXd3M0RmM3ZNanV6ZVo4TUl5azlkclRhTGZKZVlEdTgybXhSYlo5MXRqUFNzU0pJTnBFOS0yWmpheEZMb01wUzhiM0s5bUx4WUVtczhJN3djRDVLbWozWkYyYnpXNWZQd1RzZmUxSThGUU9BTDU5WFB6QXhhcFUwTXlhY0FMQUN4eWV6ZUw4RzEyc2ZV?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 13:59:59 GMT",
+      "description": "A tale of two buildings: how quake rescue efforts differed in Colombia and Venezuela Reuters",
+      "score": 0.0,
+      "title_vi": "Câu chuyện về hai tòa nhà: nỗ lực cứu hộ động đất khác nhau như thế nào ở Colombia và Venezuela - Reuters",
+      "title_en": "A tale of two buildings: how quake rescue efforts differed in Colombia and Venezuela - Reuters",
+      "summary_vi": "Câu chuyện về hai tòa nhà: nỗ lực cứu hộ động đất khác nhau như thế nào ở Colombia và Venezuela Reuters",
+      "summary_en": "A tale of two buildings: how quake rescue efforts differed in Colombia and Venezuela Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Former Reuters Correspondent To Lead Malta’s First Financial Journalism Programme - Lovin Malta",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb2JXNVh3RWgyQTdqSEFqQ2d1NzFNN21hX2Z4aWhvcktBUlE4MWV5YmI1ZVU5RGszbGZ5eUVEODdER3dqdFItX1R6dWdaZGpOakdEVjRWSXZfWXZfdFRuV1lQV2YydE5LdEd0Q2RjYUs1NS1Tb2FyTmJrVWt3cG5zRmlCRTFHZW42WHlCMGFMWUU5OWJpdzN0blFZc2J1aUFuNkw5SlZ2ZmpzNE9jVWhqbFM0N2ZMZw?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 13:53:50 GMT",
+      "description": "Former Reuters Correspondent To Lead Malta’s First Financial Journalism Programme Lovin Malta",
+      "score": 0.0,
+      "title_vi": "Cựu phóng viên Reuters dẫn dắt Chương trình báo chí tài chính đầu tiên của Malta - Lovin Malta",
+      "title_en": "Former Reuters Correspondent To Lead Malta’s First Financial Journalism Programme - Lovin Malta",
+      "summary_vi": "Cựu phóng viên Reuters dẫn dắt Chương trình báo chí tài chính đầu tiên của Malta Lovin Malta",
+      "summary_en": "Former Reuters Correspondent To Lead Malta’s First Financial Journalism Programme Lovin Malta",
+      "meta": {}
+    },
+    {
+      "title": "HDBank quay số kỳ 4 chương trình 'Tiết kiệm tỷ phú'",
+      "url": "https://vnexpress.net/hdbank-quay-so-ky-4-chuong-trinh-tiet-kiem-ty-phu-5109528.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sat, 15 Aug 2026 19:00:00 +0700",
+      "description": "Khách hàng tham gia \"Tiết kiệm Tỷ phú - Hè vàng đại cát\" có cơ hội nhận sổ tiết kiệm đến 200 triệu đồng, chuyến du lịch Hàn Quốc và giải 16 lượng vàng.",
+      "score": 0.0,
+      "title_vi": "HDBank quay số kỳ 4 chương trình 'Tiết kiệm tỷ phú'",
+      "title_en": "HDBank draws round 4 of the 'Billionaire Savings' program",
+      "summary_vi": "Khách hàng tham gia \"Tiết kiệm Tỷ phú - Hè vàng đại cát\" có cơ hội nhận sổ tiết kiệm đến 200 triệu đồng, chuyến du lịch Hàn Quốc và giải 16 lượng vàng.",
+      "summary_en": "Customers participating in \"Billionaire Savings - Great Golden Summer\" have the opportunity to receive a savings book of up to 200 million VND, a trip to Korea and a prize of 16 taels of gold.",
+      "meta": {}
+    },
+    {
+      "title": "The Week in Breakingviews: When fund managers fret - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVzVCV3lyelhUU2p2aWU2b0JJVXdBNGFSc1k1MEZsYUZaRHF3YVpPRnExdGdQX29GOW1LS1QxdkM1bEtsTlRmVEs4RUNmRG9kcS1IbDcyeW9qaU1XN2JWcXNtWDgzVmRvLWRsUkRpb202VFdJbTNwMDU4a3V1bmRuSk5iVjBoT1R4QkFjODR2R1F4cFE?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 10:00:40 GMT",
+      "description": "The Week in Breakingviews: When fund managers fret Reuters",
+      "score": 0.0,
+      "title_vi": "Tuần trong Breakingviews: Khi các nhà quản lý quỹ băn khoăn - Reuters",
+      "title_en": "The Week in Breakingviews: When fund managers fret - Reuters",
+      "summary_vi": "Tuần trong Breakingviews: Khi các nhà quản lý quỹ băn khoăn Reuters",
+      "summary_en": "The Week in Breakingviews: When fund managers fret Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Xe tải điện Trung Quốc bùng nổ tại châu Á do xung đột Iran",
+      "url": "https://vnexpress.net/xe-tai-dien-trung-quoc-bung-no-tai-chau-a-do-xung-dot-iran-5109488.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sat, 15 Aug 2026 16:06:15 +0700",
+      "description": "Lượng xe tải điện Trung Quốc xuất sang Nam Á tăng gấp 5, còn Đông Nam Á tăng gấp 3 sau xung đột Trung Đông đẩy giá nhiên liệu tăng vọt.",
+      "score": 0.0,
+      "title_vi": "Xe tải điện Trung Quốc bùng nổ tại châu Á do xung đột Iran",
+      "title_en": "Chinese electric trucks are booming in Asia due to the Iran conflict",
+      "summary_vi": "Lượng xe tải điện Trung Quốc xuất sang Nam Á tăng gấp 5, còn Đông Nam Á tăng gấp 3 sau xung đột Trung Đông đẩy giá nhiên liệu tăng vọt.",
+      "summary_en": "The number of Chinese electric trucks exported to South Asia increased fivefold, while Southeast Asia tripled after the Middle East conflict sent fuel prices soaring.",
+      "meta": {}
+    },
+    {
+      "title": "VIX Holds at 14.56 Despite 6% Oil Jolt as Analysts Flag Increased Tail Risk - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZUll0MHpUN1E0NGFOcEJsZzRJN2JRX19lS091aC00cHJIaGpPTXlJeWF3VDhLVXVnTko1SFBTcGJFdDhZWHFMN2V3V1BFS25KUFlMemVRUDM3NFR0VzhGVHNDZjNvalFEZXU2Sl90X0gtTVhzVmFwT0tvNlE1NU0?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 08:42:54 GMT",
+      "description": "VIX Holds at 14.56 Despite 6% Oil Jolt as Analysts Flag Increased Tail Risk TechStock²",
+      "score": 0.0,
+      "title_vi": "VIX giữ ở mức 14,56 mặc dù giá dầu giảm 6% khi các nhà phân tích cảnh báo rủi ro đuôi gia tăng - TechStock²",
+      "title_en": "VIX Holds at 14.56 Despite 6% Oil Jolt as Analysts Flag Increased Tail Risk - TechStock²",
+      "summary_vi": "VIX giữ ở mức 14,56 mặc dù giá dầu giảm 6% khi các nhà phân tích cảnh báo rủi ro đuôi gia tăng TechStock²",
+      "summary_en": "VIX Holds at 14.56 Despite 6% Oil Jolt as Analysts Flag Increased Tail Risk TechStock²",
+      "meta": {}
+    }
+  ],
+  "insights": {
+    "status": "ready",
+    "model": "z-ai/glm-5.2",
+    "daily_thesis_vi": "Dữ liệu cho thấy sự bùng nổ của hệ sinh thái plugin AI (DeepSeek) và nhu cầu xử lý tài liệu khổng lồ. Đồng thời, biến động địa chính trị đang thúc đẩy chuyển đổi năng lượng và vận tải điện tại châu Á.",
+    "daily_thesis_en": "Evidence shows a boom in AI plugin ecosystems (DeepSeek) and massive document processing needs. Simultaneously, geopolitical shifts are accelerating energy and electric transport transitions in Asia.",
+    "opportunities": [
+      {
+        "name_vi": "Quản lý Plugin AI Doanh nghiệp",
+        "name_en": "Enterprise AI Plugin Manager",
+        "pain_vi": "Hệ sinh thái plugin AI (như DeepSeek) đang phát triển hỗn loạn, khiến doanh nghiệp khó quản lý, bảo mật và triển khai các plugin nội bộ cho nhân viên.",
+        "pain_en": "AI plugin ecosystems like DeepSeek are growing chaotically, making it hard for businesses to manage, secure, and deploy internal plugins for employees.",
+        "audience_vi": "Các công ty công nghệ và đội ngũ phát triển phần mềm sử dụng AI coding assistant.",
+        "audience_en": "Tech companies and software development teams using AI coding assistants.",
+        "mvp_vi": "Bảng điều khiển web để cài đặt, phân quyền và theo dõi hiệu suất các plugin DSH cho đội ngũ doanh nghiệp.",
+        "mvp_en": "A web dashboard to install, manage permissions, and track DSH plugin performance for enterprise teams.",
+        "scope": "global",
+        "score": 82,
+        "evidence_ids": [
+          1,
+          3,
+          5,
+          6
+        ],
+        "risks_vi": "Vòng đời plugin ngắn, rủi ro bảo mật khi chạy code bên thứ ba.",
+        "risks_en": "Short plugin lifecycles, security risks from running third-party code.",
+        "sources": [
+          {
+            "title": "deepseek-ai/deepseek-harness",
+            "url": "https://github.com/deepseek-ai/deepseek-harness",
+            "source": "GitHub"
+          },
+          {
+            "title": "anywhere-labs/deepseek-harness-desktop",
+            "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+            "source": "GitHub"
+          },
+          {
+            "title": "awesome-dsh-plugin/awesome-dsh-plugin",
+            "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+            "source": "GitHub"
+          },
+          {
+            "title": "zhu1090093659/dsh-web-ui",
+            "url": "https://github.com/zhu1090093659/dsh-web-ui",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Dịch vụ Tái cấu trúc Tài liệu Sạch",
+        "name_en": "Clean Document Conversion API",
+        "pain_vi": "Các mô hình AI cần dữ liệu Markdown sạch, nhưng doanh nghiệp đang lãng phí thời gian chuyển đổi thủ công từ PDF, Word, Excel sang định dạng chuẩn.",
+        "pain_en": "AI models need clean Markdown data, but businesses waste time manually converting PDFs, Word, and Excel files into standard formats.",
+        "audience_vi": "Các startup AI, nhóm dữ liệu và nhà phát triển xây dựng RAG.",
+        "audience_en": "AI startups, data teams, and developers building RAG pipelines.",
+        "mvp_vi": "API và thư viện mã nguồn chuyển đổi hàng loạt tài liệu đa định dạng sang Markdown sạch sẽ bằng Rust.",
+        "mvp_en": "An API and library for batch converting multi-format documents to clean Markdown using Rust.",
+        "scope": "global",
+        "score": 88,
+        "evidence_ids": [
+          4
+        ],
+        "risks_vi": "Cạnh tranh từ các công cụ mã nguồn mở khác, biên lợi nhuận thấp.",
+        "risks_en": "Competition from other open-source tools, low profit margins.",
+        "sources": [
+          {
+            "title": "firecrawl/anydoc",
+            "url": "https://github.com/firecrawl/anydoc",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Quản lý Tuân thủ Năng lượng Bất động sản",
+        "name_en": "Real Estate Energy Compliance Manager",
+        "pain_vi": "Chủ cho thuê gặp khó khăn trong việc theo dõi và tuân thủ các tiêu chuẩn hiệu quả năng lượng pháp lý, dẫn đến rủi ro bị phạt.",
+        "pain_en": "Landlords struggle to track and comply with legal energy efficiency standards, risking fines and legal issues.",
+        "audience_vi": "Các công ty quản lý bất động sản và chủ nhà đầu tư.",
+        "audience_en": "Property management firms and real estate investors.",
+        "mvp_vi": "Phần mềm SaaS theo dõi chứng chỉ năng lượng, cảnh báo hạn mức và tự động hóa báo cáo tuân thủ.",
+        "mvp_en": "SaaS software tracking energy certificates, alerting on deadlines, and automating compliance reporting.",
+        "scope": "global",
+        "score": 65,
+        "evidence_ids": [
+          16
+        ],
+        "risks_vi": "Phức tạp về pháp lý tại từng khu vực, tệp khách hàng phân mảnh.",
+        "risks_en": "Complex regional legal requirements, fragmented customer base.",
+        "sources": [
+          {
+            "title": "Royal estates rent out homes that fail to meet legal energy efficiency standards - The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcjk3SXl4WkxfZ1daTk5mc1psWmwtaWVQbUhEcmZfT2xFazJrWlFtODZ2R0Q4M0lVNzZDRHI5eUNYaG00MXpTcTZsSVVMMW5RTzE4UHBYYTBJYV9fNFo4bGQzQjB5ZjhDUnlmZ09QVlkzZk1IeENZY2FsM3VtaTFwcnNiTUpuUnRfLWZxMG9zYXFOeVpDVzhSb1ZFMVhVRk9GNkVsRHo5YnJ1b2Y0TC1jVklfRFF4TXppMlV3RlpZZjQ0RnFHZ1c4?oc=5",
+            "source": "Google News Social Needs"
+          }
+        ]
+      },
+      {
+        "name_vi": "Nền tảng Quản lý Đội xe Tải điện",
+        "name_en": "Electric Truck Fleet Management",
+        "pain_vi": "Chi phí nhiên liệu tăng khiến vận tải chuyển sang xe tải điện, nhưng thiếu nền tảng quản lý trạm sạc và định tuyến tối ưu cho xe điện.",
+        "pain_en": "Rising fuel costs push transport to electric trucks, but there is a lack of platforms for managing charging stations and EV route optimization.",
+        "audience_vi": "Các công ty logistics và vận tải hàng hóa tại Đông Nam Á.",
+        "audience_en": "Logistics and freight transport companies in Southeast Asia.",
+        "mvp_vi": "Ứng dụng theo dõi pin, định tuyến trạm sạc và dự báo chi phí vận hành cho đội xe tải điện.",
+        "mvp_en": "An app tracking battery levels, routing to charging stations, and forecasting operating costs for electric truck fleets.",
+        "scope": "both",
+        "score": 78,
+        "evidence_ids": [
+          33
+        ],
+        "risks_vi": "Cơ sở hạ tầng trạm sạc chưa đồng bộ, chi phí đầu tư ban đầu cao.",
+        "risks_en": "Inconsistent charging infrastructure, high initial investment costs.",
+        "sources": [
+          {
+            "title": "Chinese electric trucks are booming in Asia due to the Iran conflict",
+            "url": "https://vnexpress.net/xe-tai-dien-trung-quoc-bung-no-tai-chau-a-do-xung-dot-iran-5109488.html",
+            "source": "VnExpress Kinh doanh"
+          }
+        ]
+      },
+      {
+        "name_vi": "Kiểm toán và Xóa Watermark AI",
+        "name_en": "AI Watermark Auditing & Removal",
+        "pain_vi": "Các nền tảng AI tích hợp watermark gây lo ngại về quyền riêng tư và kiểm soát nội dung, khiến người dùng cần công cụ quản lý dấu vết AI.",
+        "pain_en": "AI platforms embedding watermarks raise privacy and content control concerns, prompting users to need tools to manage AI provenance marks.",
+        "audience_vi": "Các cơ quan truyền thông, nhà xuất bản và người sáng tạo nội dung.",
+        "audience_en": "Media agencies, publishers, and content creators.",
+        "mvp_vi": "Công cụ quét metadata, phát hiện watermark C2PA và cung cấp báo cáo minh bạch về nguồn gốc tài liệu.",
+        "mvp_en": "A tool scanning metadata, detecting C2PA watermarks, and providing transparent reports on document provenance.",
+        "scope": "global",
+        "score": 70,
+        "evidence_ids": [
+          2,
+          20
+        ],
+        "risks_vi": "Rủi ro pháp lý về vi phạm bản quyền và đạo đức AI, chính sách thay đổi liên tục.",
+        "risks_en": "Legal risks regarding copyright infringement and AI ethics, constantly changing policies.",
+        "sources": [
+          {
+            "title": "guillaumemeyer/watermarks-remover",
+            "url": "https://github.com/guillaumemeyer/watermarks-remover",
+            "source": "GitHub"
+          },
+          {
+            "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+            "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+            "source": "TechCrunch"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}
