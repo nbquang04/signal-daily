@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated_at": "2026-08-15T10:38:17.537896+00:00",
+  "generated_at": "2026-08-15T15:35:45.846317+00:00",
   "markets": [
     {
       "name": "S&P 500",
@@ -33,8 +33,8 @@
     {
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 62960.1289,
-      "change_pct": -0.02,
+      "price": 63009.9805,
+      "change_pct": 0.05,
       "currency": "USD"
     },
     {
@@ -54,36 +54,16 @@
       "market": "global",
       "published": "2026-08-13T11:56:32Z",
       "description": "DeepSeek Harness: Everything is a Plugin.",
-      "score": 53163.72,
+      "score": 55813.71,
       "title_vi": "deepseek-ai/deepseek-khai thác",
       "title_en": "deepseek-ai/deepseek-harness",
       "summary_vi": "Khai thác DeepSeek: Mọi thứ đều là Plugin.",
       "summary_en": "DeepSeek Harness: Everything is a Plugin.",
       "meta": {
-        "stars": 106096,
-        "forks": 10182,
+        "stars": 111395,
+        "forks": 10777,
         "language": "TypeScript",
-        "stars_per_day": 53048.0
-      }
-    },
-    {
-      "title": "guillaumemeyer/watermarks-remover",
-      "url": "https://github.com/guillaumemeyer/watermarks-remover",
-      "source": "GitHub",
-      "category": "github",
-      "market": "global",
-      "published": "2026-08-11T16:32:38Z",
-      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "score": 2355.62,
-      "title_vi": "guillaumemeyer/loại bỏ hình mờ",
-      "title_en": "guillaumemeyer/watermarks-remover",
-      "summary_vi": "Loại bỏ các dấu xuất xứ AI của nhiều nhà cung cấp: Vệ sinh văn bản Unicode, móc viết lại thống kê và C2PA/siêu dữ liệu từ PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "summary_en": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "meta": {
-        "stars": 9058,
-        "forks": 926,
-        "language": "Python",
-        "stars_per_day": 2264.5
+        "stars_per_day": 55697.5
       }
     },
     {
@@ -94,16 +74,36 @@
       "market": "global",
       "published": "2026-08-13T16:30:50Z",
       "description": "为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验",
-      "score": 2066.86,
+      "score": 2641.4,
       "title_vi": "mọi nơi-phòng thí nghiệm/deepseek-khai thác-máy tính để bàn",
       "title_en": "anywhere-labs/deepseek-harness-desktop",
       "summary_vi": "Trải nghiệm máy tính để bàn hiện đại được xây dựng cho hệ sinh thái DeepSeek Harness (DSH)",
       "summary_en": "A modern desktop experience built for the DeepSeek Harness (DSH) ecosystem",
       "meta": {
-        "stars": 3968,
-        "forks": 170,
+        "stars": 5112,
+        "forks": 213,
         "language": "TypeScript",
-        "stars_per_day": 1984.0
+        "stars_per_day": 2556.0
+      }
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "score": 2430.94,
+      "title_vi": "guillaumemeyer/loại bỏ hình mờ",
+      "title_en": "guillaumemeyer/watermarks-remover",
+      "summary_vi": "Loại bỏ các dấu xuất xứ AI của nhiều nhà cung cấp: Vệ sinh văn bản Unicode, móc viết lại thống kê và C2PA/siêu dữ liệu từ PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "summary_en": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "meta": {
+        "stars": 9358,
+        "forks": 958,
+        "language": "Python",
+        "stars_per_day": 2339.5
       }
     },
     {
@@ -114,16 +114,16 @@
       "market": "global",
       "published": "2026-08-03T16:36:14Z",
       "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
-      "score": 1445.25,
+      "score": 1449.53,
       "title_vi": "firecrawl/anydoc",
       "title_en": "firecrawl/anydoc",
       "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
       "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
       "meta": {
-        "stars": 16180,
-        "forks": 893,
+        "stars": 16231,
+        "forks": 898,
         "language": "Rust",
-        "stars_per_day": 1348.3
+        "stars_per_day": 1352.6
       }
     },
     {
@@ -134,16 +134,16 @@
       "market": "global",
       "published": "2026-08-13T13:55:31Z",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "score": 1172.43,
+      "score": 1428.01,
       "title_vi": "awesome-dsh-plugin/awesome-dsh-plugin",
       "title_en": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "summary_vi": "Danh sách các plugin được tuyển chọn dành cho Khai thác DeepSeek (dsh) · Khai thác DeepSeek Danh sách các plugin được tuyển chọn cho Khai thác DeepSeek",
+      "summary_vi": "Danh sách bổ trợ được tuyển chọn dành cho Khai thác DeepSeek (dsh) · Khai thác DeepSeek Danh sách bổ trợ được tuyển chọn cho Khai thác DeepSeek",
       "summary_en": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness A curated list of plugins for DeepSeek Harness",
       "meta": {
-        "stars": 2191,
-        "forks": 403,
+        "stars": 2698,
+        "forks": 519,
         "language": "Python",
-        "stars_per_day": 1095.5
+        "stars_per_day": 1349.0
       }
     },
     {
@@ -154,36 +154,16 @@
       "market": "global",
       "published": "2026-08-12T05:15:20Z",
       "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-      "score": 852.52,
+      "score": 934.18,
       "title_vi": "zhu1090093659/dsh-web-ui",
       "title_en": "zhu1090093659/dsh-web-ui",
       "summary_vi": "Bộ sưu tập plugin và giao diện cho giao diện người dùng web DeepSeek Harness (DSH) - bảng tác vụ, biểu đồ git, bảng điều khiển bên phải, giao diện người dùng di động từ xa, thú cưng, số liệu thống kê mã thông báo trực tiếp và trung tâm giao diện.",
       "summary_en": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "meta": {
-        "stars": 2325,
-        "forks": 120,
+        "stars": 2567,
+        "forks": 135,
         "language": "TypeScript",
-        "stars_per_day": 775.0
-      }
-    },
-    {
-      "title": "Leutenegger/book-to-skill",
-      "url": "https://github.com/Leutenegger/book-to-skill",
-      "source": "GitHub",
-      "category": "github",
-      "market": "global",
-      "published": "2026-08-13T13:15:23Z",
-      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "score": 616.48,
-      "title_vi": "Leutenegger/book-to-skill",
-      "title_en": "Leutenegger/book-to-skill",
-      "summary_vi": "Biến bất kỳ cuốn sách kỹ thuật PDF nào thành kỹ năng Mã Claude - sẵn sàng để nghiên cứu, tham khảo và sử dụng trong khi bạn làm việc.",
-      "summary_en": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
-      "meta": {
-        "stars": 1093,
-        "forks": 138,
-        "language": "Python",
-        "stars_per_day": 546.5
+        "stars_per_day": 855.7
       }
     },
     {
@@ -194,16 +174,36 @@
       "market": "global",
       "published": "2026-08-13T12:49:31Z",
       "description": "解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流式展开、双击 Esc 回滚、上下文进度条 + TPS 仪表。npm 一键安装。",
-      "score": 610.37,
-      "title_vi": "cch1money/dsh-TUI",
-      "title_en": "ccch1money/dsh-TUI",
+      "score": 671.93,
+      "title_vi": "cch1mintry/dsh-TUI",
+      "title_en": "ccch1mintry/dsh-TUI",
       "summary_vi": "Một công việc bổ sung nhằm giải quyết các điểm yếu của thiết bị đầu cuối chính thức TUI của DSH, dành riêng cho tất cả những người đam mê công nghệ thích cli: plug-in thiết bị đầu cuối tương tác toàn màn hình kiểu Claude Code - thanh trên cùng của pixel cá voi, dòng trạng thái công việc theo thời gian thực, mở rộng luồng suy nghĩ, nhấp đúp vào Esc để quay lại, thanh tiến trình theo ngữ cảnh + đồng hồ đo TPS. npm cài đặt bằng một cú nhấp chuột.",
       "summary_en": "A complementary work to solve the pain points of DSH's official terminal TUI, dedicated to all geeks who prefer cli: Claude Code style full-screen interactive terminal plug-in - pixel whale top bar, real-time work status line, thinking flow expansion, double-click Esc to roll back, contextual progress bar + TPS meter. npm one-click installation.",
       "meta": {
-        "stars": 1081,
-        "forks": 44,
+        "stars": 1202,
+        "forks": 54,
         "language": "TypeScript",
-        "stars_per_day": 540.5
+        "stars_per_day": 601.0
+      }
+    },
+    {
+      "title": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T13:15:23Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "score": 623.09,
+      "title_vi": "Leutenegger/book-to-skill",
+      "title_en": "Leutenegger/book-to-skill",
+      "summary_vi": "Biến bất kỳ cuốn sách kỹ thuật PDF nào thành kỹ năng Mã Claude - sẵn sàng để nghiên cứu, tham khảo và sử dụng trong khi bạn làm việc.",
+      "summary_en": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "meta": {
+        "stars": 1106,
+        "forks": 140,
+        "language": "Python",
+        "stars_per_day": 553.0
       }
     },
     {
@@ -214,171 +214,171 @@
       "market": "global",
       "published": "2026-08-10T09:06:43Z",
       "description": "",
-      "score": 420.15,
+      "score": 420.56,
       "title_vi": "SMNETSTUDIO/WeChat-AI",
       "title_en": "SMNETSTUDIO/WeChat-AI",
       "summary_vi": "SMNETSTUDIO/WeChat-AI",
       "summary_en": "SMNETSTUDIO/WeChat-AI",
       "meta": {
-        "stars": 1728,
-        "forks": 1239,
+        "stars": 1730,
+        "forks": 1240,
         "language": "TypeScript",
-        "stars_per_day": 345.6
+        "stars_per_day": 346.0
       }
     },
     {
-      "title": "KKKKhazix/human-writing",
-      "url": "https://github.com/KKKKhazix/human-writing",
+      "title": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop",
       "source": "GitHub",
       "category": "github",
       "market": "global",
-      "published": "2026-08-05T01:19:41Z",
-      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
-      "score": 351.5,
-      "title_vi": "KKKKhazix/chữ viết của con người",
-      "title_en": "KKKKhazix/human-writing",
-      "summary_vi": "Làm cho tiếng Trung được viết bởi AI đọc giống như một người cụ thể đang nói. Kỹ năng sáng tạo và sửa đổi phổ quát, có sẵn ngay lập tức.",
-      "summary_en": "Make the Chinese written by AI read like a specific person speaking. Universal creation and revision skills, available right out of the box.",
+      "published": "2026-08-12T13:48:50Z",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "score": 413.75,
+      "title_vi": "dmmulroy/chống trượt",
+      "title_en": "dmmulroy/anti-slop",
+      "summary_vi": "Các quy tắc Oxlint có ý kiến ​​​​để từ chối các mẫu TypeScript và JavaScript có bằng chứng thấp",
+      "summary_en": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
       "meta": {
-        "stars": 2724,
-        "forks": 224,
-        "language": "Python",
-        "stars_per_day": 272.4
+        "stars": 1033,
+        "forks": 13,
+        "language": "TypeScript",
+        "stars_per_day": 344.3
       }
     },
     {
-      "title": "T1 Energy (TE) Is Down 12.6% After Dilutive Stock Offering And Wider Losses - Has The Bull Case Changed? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORldRSU45RzdwYzNEaVFqeUpPMkhxbHlEN2pBRTZOaXViMWdiUWlfWW9sNEpGSkJnQUR6WVczb2Q3Y0FaY1lNOWt4QUdydFI1LXBtQVY5aUJNOHVKbUFDZzB1eGx0dVZmVDRNLXVEbF9SdTNKUW5MQ1Nxb1E3TWFvYTY0UjJzanRubnJIWmNPTmNNOHMwZDJVV0JheTlEZFo1RGd3ZWNRa3VRWUNab2RJaGlLbHQ2czNQSnZoRGhXSFlxZnRlT2IxcU930gHPAUFVX3lxTFBlTXNiUlRDT2pWaWJ0amxVMkozdmZKN1k2eVFISlFQVWI2ZHp6Y1pGNlZEZGR1UDhHb0lNYmJIQnc0THVMSjJKT1JXSDdwODQ2UlRFemZiYjFwQzFnQXYyZ0F4bk5oWlJGYnRQWkVTSU8wek01OUhxd3NJNVdGR0FvdDlNOWgzTHc3dmdGQm5uVlRyQjNpTlNjOU1xU0tZVEZQUlJrNjlIMzFWMHFiMUxyeXpBeE4wNEEyUXp1ZWszejQtU0gtVHhLTVdiT0tIdw?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
+      "title": "Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+      "source": "Hacker News",
+      "category": "technology",
       "market": "global",
-      "published": "Sat, 15 Aug 2026 10:33:50 GMT",
-      "description": "T1 Energy (TE) Is Down 12.6% After Dilutive Stock Offering And Wider Losses - Has The Bull Case Changed? simplywall.st",
+      "published": "Sat, 15 Aug 2026 14:08:55 +0000",
+      "description": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 26 # Comments: 25",
       "score": 0.0,
-      "title_vi": "T1 Energy (TE) Giảm 12,6% sau khi chào bán cổ phiếu pha loãng và thua lỗ nhiều hơn - Trường hợp tăng giá đã thay đổi? - đơn giảnwall.st",
-      "title_en": "T1 Energy (TE) Is Down 12.6% After Dilutive Stock Offering And Wider Losses - Has The Bull Case Changed? - simplywall.st",
-      "summary_vi": "T1 Energy (TE) Giảm 12,6% sau khi chào bán cổ phiếu pha loãng và thua lỗ nhiều hơn - Trường hợp tăng giá đã thay đổi? đơn giảnwall.st",
-      "summary_en": "T1 Energy (TE) Is Down 12.6% After Dilutive Stock Offering And Wider Losses - Has The Bull Case Changed? simplywall.st",
+      "title_vi": "Doanh số bán sách cũ đang bùng nổ. Có phải vì AI không?",
+      "title_en": "Secondhand book sales are booming. Is it because of AI?",
+      "summary_vi": "URL bài viết: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o URL bình luận: https://news.ycombinator.com/item?id=49310725 Điểm: 26 # Bình luận: 25",
+      "summary_en": "Article URL: https://www.bbc.co.uk/news/articles/cp3rprx2wl4o Comments URL: https://news.ycombinator.com/item?id=49310725 Points: 26 # Comments: 25",
       "meta": {}
     },
     {
-      "title": "Ủy ban Văn hóa và Xã hội làm việc với Ủy ban nhân dân tỉnh Phú Thọ - Báo Đại biểu Nhân dân",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVUM4RFhkN2FEa015STJDT0RNcVR0dlJBVTBITjVzajRiZlF3ZFFvbnZNLThFVXFvT1R4ZnU0a1ZxNXRnbUQ1RFJKYjREY3Bvd1JVRXJhMlNkOFFsaXBFSzl2cWVzbk5HbVQzRmRvV05CSXZiSDhzYzRxakxBT1NHVVFLX2lFS3BQSE9VbjdqUnRMdTFGODNWQVB0ekJWcHVfbU95Mnk2cHVSUQ?oc=5",
-      "source": "Google News Nhu cầu Việt Nam",
-      "category": "society",
-      "market": "vietnam",
-      "published": "Sat, 15 Aug 2026 10:28:01 GMT",
-      "description": "Ủy ban Văn hóa và Xã hội làm việc với Ủy ban nhân dân tỉnh Phú Thọ Báo Đại biểu Nhân dân",
-      "score": 0.0,
-      "title_vi": "Ủy ban Văn hóa và Xã hội làm việc với Ủy ban nhân dân tỉnh Phú Thọ - Báo Đại biểu Nhân dân",
-      "title_en": "The Culture and Society Committee worked with the People's Committee of Phu Tho province - People's Delegation Newspaper",
-      "summary_vi": "Ủy ban Văn hóa và Xã hội làm việc với Ủy ban nhân dân tỉnh Phú Thọ Báo Đại biểu Nhân dân",
-      "summary_en": "The Culture and Society Committee worked with the People's Committee of Phu Tho province People's Delegation Newspaper",
-      "meta": {}
-    },
-    {
-      "title": "Chủ động chuẩn bị đội ngũ, thực hiện nhiệm vụ năm học 2026 - 2027 - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb2tZQzVXVEZSdDREbktyTHhZaURrcFM5U1JCSlNOdS1LeDEyalpfTUo0RTNiUXk2dFRXQmMtS25JcUVBaXVLYjUzZGlVU3Q1M1ptQnk5ZGtseG40OHlKOTg2b2w1TlI3aTBXRENzRnd4Y2ZNWkJfbWlidUZweGhkYTN1RTdhMlNlMWpUYm93?oc=5",
-      "source": "Google News Nhu cầu Việt Nam",
-      "category": "society",
-      "market": "vietnam",
-      "published": "Sat, 15 Aug 2026 10:17:47 GMT",
-      "description": "Chủ động chuẩn bị đội ngũ, thực hiện nhiệm vụ năm học 2026 - 2027 Vietnam.vn",
-      "score": 0.0,
-      "title_vi": "Chủ động chuẩn bị đội ngũ, thực hiện nhiệm vụ năm học 2026 - 2027 - Vietnam.vn",
-      "title_en": "Proactively prepare the team to carry out tasks for the 2026 - 2027 school year - Vietnam.vn",
-      "summary_vi": "Chủ động chuẩn bị đội ngũ, thực hiện nhiệm vụ năm học 2026 - 2027 Vietnam.vn",
-      "summary_en": "Proactively prepare the team to carry out tasks for the 2026 - 2027 school year Vietnam.vn",
-      "meta": {}
-    },
-    {
-      "title": "Phú Thọ kiến nghị tháo gỡ điểm nghẽn trong phát triển giáo dục, y tế, văn hóa - Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVlYSU1Zdm5aQlcxUDI1aFZqZFhnUXlEQkRMclJoMlZBaTFLYnZiYnMwSzBWMzlFdXJyTkFURFNHQnF2Wl9YVjdDS1o2V3hDR2JUVXRLLXZYcVhRc1ZVLWtKTHFSM3JzTlgyMkQ3eElCaUJERG90aDBXc3AyT3FLbWoyT1RJRXEySTVJa3lQWUUyWlZGNDlOZVludEN6UzQ?oc=5",
-      "source": "Google News Nhu cầu Việt Nam",
-      "category": "society",
-      "market": "vietnam",
-      "published": "Sat, 15 Aug 2026 10:10:27 GMT",
-      "description": "Phú Thọ kiến nghị tháo gỡ điểm nghẽn trong phát triển giáo dục, y tế, văn hóa Vietnam.vn",
-      "score": 0.0,
-      "title_vi": "Phú Thọ kiến nghị tháo gỡ điểm nghẽn trong phát triển giáo dục, y tế, văn hóa - Vietnam.vn",
-      "title_en": "Phu Tho proposes to remove bottlenecks in the development of education, health care, and culture - Vietnam.vn",
-      "summary_vi": "Phú Thọ kiến nghị tháo gỡ điểm nghẽn trong phát triển giáo dục, y tế, văn hóa Vietnam.vn",
-      "summary_en": "Phu Tho proposes to remove bottlenecks in the development of education, health care, and culture Vietnam.vn",
-      "meta": {}
-    },
-    {
-      "title": "In a Heartbeat: Navigating the intersection of AI and personal healthcare - TribLIVE.com",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTVFfVURuRGNvZnNubDlsR0JwVzQyLWV5X3VOeUsxcUJUeWIwSVVqSXFtTnlDVFNack9Bbm5Venp2NVFSZ3BTUll6U2UzeU5YLVdoUk5FR1FMem8zTTNyV1pDUmhrY2k4VmJELUducUFpcGpQaGJESEFhcE9VM0o1OUNmTTU3V1psSFVJUWRibVRPWXh0dEtRcFJfcmZCNWRPMmFVYWhaMkVVQzltZDNF?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
+      "title": "Writergate: Zig I/O Interface Overhaul",
+      "url": "https://alexrios.me/blog/writergate/",
+      "source": "Hacker News",
+      "category": "technology",
       "market": "global",
-      "published": "Sat, 15 Aug 2026 10:05:09 GMT",
-      "description": "In a Heartbeat: Navigating the intersection of AI and personal healthcare TribLIVE.com",
+      "published": "Sat, 15 Aug 2026 13:59:47 +0000",
+      "description": "Article URL: https://alexrios.me/blog/writergate/ Comments URL: https://news.ycombinator.com/item?id=49310623 Points: 20 # Comments: 6",
       "score": 0.0,
-      "title_vi": "Trong nhịp tim: Điều hướng sự giao thoa giữa AI và chăm sóc sức khỏe cá nhân - TribLIVE.com",
-      "title_en": "In a Heartbeat: Navigating the intersection of AI and personal healthcare - TribLIVE.com",
-      "summary_vi": "Trong nhịp tim: Điều hướng sự giao thoa giữa AI và chăm sóc sức khỏe cá nhân TribLIVE.com",
-      "summary_en": "In a Heartbeat: Navigating the intersection of AI and personal healthcare TribLIVE.com",
+      "title_vi": "Writergate: Đại tu giao diện Zig I/O",
+      "title_en": "Writergate: Zig I/O Interface Overhaul",
+      "summary_vi": "URL bài viết: https://alexrios.me/blog/writergate/ URL bình luận: https://news.ycombinator.com/item?id=49310623 Điểm: 20 # Bình luận: 6",
+      "summary_en": "Article URL: https://alexrios.me/blog/writergate/ Comments URL: https://news.ycombinator.com/item?id=49310623 Points: 20 # Comments: 6",
       "meta": {}
     },
     {
-      "title": "Khẩn trương sắp xếp trường học; bảo đảm chế độ, chính sách đối với cán bộ quản lý, giáo viên, nhân viên - xaydungchinhsach.chinhphu.vn",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVZod1JOZ1c4TVVIbHhYMUJvQmR3YnlEVkR1WUlpblRTODVjcHl0T0J2Z09HcnFHS3NSTURvcF9WMDhBcWZERW5PdzM0T1hjcFFsLUFITTZxblgtMjRYYWhQcHFVVi1wUlFCcjZMbURrbkk3b3BkaDBUNUFKNEpmSjlOd3NqWmJLaGRMUTdjUXBWajBKMG1jLWJIR2hTT3VESTFCYUktTTFGT2E5RTN0M3VST3ByUnpDUUNhOVpvMWtwQnFhbTE2UURLSWtpekp0NWJiODY5TGRsOVEyWEZUU3RhdDFYazAtaGlLbHUyRQ?oc=5",
-      "source": "Google News Nhu cầu Việt Nam",
-      "category": "society",
-      "market": "vietnam",
-      "published": "Sat, 15 Aug 2026 10:04:00 GMT",
-      "description": "Khẩn trương sắp xếp trường học; bảo đảm chế độ, chính sách đối với cán bộ quản lý, giáo viên, nhân viên xaydungchinhsach.chinhphu.vn",
-      "score": 0.0,
-      "title_vi": "Khẩn trương sắp xếp trường học; bảo đảm chế độ, chính sách đối với cán bộ quản lý, giáo viên, nhân viên - xaydungchinhsach.chinhphu.vn",
-      "title_en": "Urgently arrange schools; ensure regimes and policies for managers, teachers, and employees - xaydungchinhsach.chinhphu.vn",
-      "summary_vi": "Khẩn trương sắp xếp trường học; bảo đảm chế độ, chính sách đối với cán bộ quản lý, giáo viên, nhân viên xaydungchinhsach.chinhphu.vn",
-      "summary_en": "Urgently arrange schools; Ensuring regimes and policies for managers, teachers, and employees of xadungchinhsach.chinhphu.vn",
-      "meta": {}
-    },
-    {
-      "title": "Where healthcare could sway voters, Democratic canvassers ramp up an old tactic: talking to people - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeUpPUVQza2w1eGlRWE9xYmNlV3ppWUh4aDVLWlNZZGlNbTVpQkFJS0JlbVpCU2swSk5qSW50WXVHZ3VlSGVIVWIxekVPTlIwc3I5UFBuY1BUc1Fva1dORVZaSDFmdWVCOVVKeHJtQnR1c1J2V1lqakNwYTM2dFY3ajJvOUFoQy1Vbm5LaUx3eklaNWM?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
+      "title": "Show HN: Quasicrystals Animation Playground with WebXR",
+      "url": "https://hypnagogic-quasicrystals.github.io/",
+      "source": "Hacker News",
+      "category": "technology",
       "market": "global",
-      "published": "Sat, 15 Aug 2026 10:02:00 GMT",
-      "description": "Where healthcare could sway voters, Democratic canvassers ramp up an old tactic: talking to people The Guardian",
+      "published": "Sat, 15 Aug 2026 13:48:43 +0000",
+      "description": "Hi! This is my little project introducing quasicrystals animations with some parameters. It uses a custom shader to allow higher resolution. Not all combinations look equally good. For example the \"Spectrum\" color palette IMO makes sense only for low values of \"Tempo\" and \"Pattern Density\". If you have VR googles, I recommend trying the WebXR version - it's really nice. Comments URL: https://news.ycombinator.com/item?id=49310533 Points: 8 # Comments: 4",
       "score": 0.0,
-      "title_vi": "Nơi chăm sóc sức khỏe có thể ảnh hưởng đến cử tri, những người vận động tranh cử của Đảng Dân chủ áp dụng một chiến thuật cũ: nói chuyện với mọi người - The Guardian",
-      "title_en": "Where healthcare could sway voters, Democratic canvassers ramp up an old tactic: talking to people - The Guardian",
-      "summary_vi": "Khi dịch vụ chăm sóc sức khỏe có thể ảnh hưởng đến cử tri, những người vận động tranh cử của Đảng Dân chủ lại áp dụng một chiến thuật cũ: nói chuyện với mọi người",
-      "summary_en": "Where healthcare could sway voters, Democratic canvassers ramp up an old tactic: talking to people The Guardian",
+      "title_vi": "Show HN: Sân chơi hoạt hình Quasicrystals với WebXR",
+      "title_en": "Show HN: Quasicrystals Animation Playground with WebXR",
+      "summary_vi": "CHÀO! Đây là dự án nhỏ của tôi giới thiệu hoạt hình giả tinh thể với một số thông số. Nó sử dụng một shader tùy chỉnh để cho phép độ phân giải cao hơn. Không phải tất cả sự kết hợp đều tốt như nhau. Ví dụ: bảng màu \"Phổ\" IMO chỉ có ý nghĩa đối với các giá trị thấp của \"Tốc độ\" và \"Mật độ mẫu\". Nếu bạn có Google VR, tôi khuyên bạn nên thử phiên bản WebXR - nó thực sự rất hay. URL nhận xét: https://news.ycombinator.com/item?id=49310533 Điểm: 8 # Nhận xét: 4",
+      "summary_en": "Hi! This is my little project introducing quasicrystals animations with some parameters. It uses a custom shader to allow higher resolution. Not all combinations look equally good. For example the \"Spectrum\" color palette IMO makes sense only for low values of \"Tempo\" and \"Pattern Density\". If you have VR googles, I recommend trying the WebXR version - it's really nice. Comments URL: https://news.ycombinator.com/item?id=49310533 Points: 8 # Comments: 4",
       "meta": {}
     },
     {
-      "title": "The Week in Breakingviews: When fund managers fret - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVzVCV3lyelhUU2p2aWU2b0JJVXdBNGFSc1k1MEZsYUZaRHF3YVpPRnExdGdQX29GOW1LS1QxdkM1bEtsTlRmVEs4RUNmRG9kcS1IbDcyeW9qaU1XN2JWcXNtWDgzVmRvLWRsUkRpb202VFdJbTNwMDU4a3V1bmRuSk5iVjBoT1R4QkFjODR2R1F4cFE?oc=5",
-      "source": "Google News Reuters Finance",
+      "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 13:43:46 +0000",
+      "description": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 13 # Comments: 5",
+      "score": 0.0,
+      "title_vi": "Yadda 3.0.0: BDD trong thời đại tác nhân AI",
+      "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
+      "summary_vi": "URL bài viết: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html URL bình luận: https://news.ycombinator.com/item?id=49310495 Điểm: 13 # Bình luận: 5",
+      "summary_en": "Article URL: http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html Comments URL: https://news.ycombinator.com/item?id=49310495 Points: 13 # Comments: 5",
+      "meta": {}
+    },
+    {
+      "title": "Could a computer scientist build a brain?",
+      "url": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 13:26:28 +0000",
+      "description": "Article URL: https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/ Comments URL: https://news.ycombinator.com/item?id=49310362 Points: 4 # Comments: 1",
+      "score": 0.0,
+      "title_vi": "Một nhà khoa học máy tính có thể tạo ra một bộ não?",
+      "title_en": "Could a computer scientist build a brain?",
+      "summary_vi": "URL bài viết: https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/ URL bình luận: https://news.ycombinator.com/item?id=49310362 Điểm: 4 # Bình luận: 1",
+      "summary_en": "Article URL: https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/ Comments URL: https://news.ycombinator.com/item?id=49310362 Points: 4 # Comments: 1",
+      "meta": {}
+    },
+    {
+      "title": "Brazilian election filter in X For You timeline",
+      "url": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 13:18:27 +0000",
+      "description": "Article URL: https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs Comments URL: https://news.ycombinator.com/item?id=49310291 Points: 34 # Comments: 25",
+      "score": 0.0,
+      "title_vi": "Bộ lọc bầu cử Brazil trong dòng thời gian X For You",
+      "title_en": "Brazilian election filter in X For You timeline",
+      "summary_vi": "URL bài viết: https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs URL bình luận: https://news.ycombinator.com/item?id=49310291 Điểm: 34 # Bình luận: 25",
+      "summary_en": "Article URL: https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs Comments URL: https://news.ycombinator.com/item?id=49310291 Points: 34 # Comments: 25",
+      "meta": {}
+    },
+    {
+      "title": "388 years ago, Galileo worked out why human giants can't exist",
+      "url": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 13:15:48 +0000",
+      "description": "Article URL: https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/ Comments URL: https://news.ycombinator.com/item?id=49310277 Points: 20 # Comments: 17",
+      "score": 0.0,
+      "title_vi": "388 năm trước, Galileo đã tìm ra lý do tại sao loài người khổng lồ không thể tồn tại",
+      "title_en": "388 years ago, Galileo worked out why human giants can't exist",
+      "summary_vi": "URL bài viết: https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/ URL bình luận: https://news.ycombinator.com/item?id=49310277 Điểm: 20 # Bình luận: 17",
+      "summary_en": "Article URL: https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/ Comments URL: https://news.ycombinator.com/item?id=49310277 Points: 20 # Comments: 17",
+      "meta": {}
+    },
+    {
+      "title": "Every fusion startup that has raised over $100M",
+      "url": "https://techcrunch.com/2026/08/15/every-fusion-startup-that-has-raised-over-100m/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Sat, 15 Aug 2026 13:15:20 +0000",
+      "description": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "score": 0.0,
+      "title_vi": "Mỗi công ty khởi nghiệp hợp nhất đã huy động được hơn 100 triệu đô la",
+      "title_en": "Every fusion startup that has raised over $100M",
+      "summary_vi": "Cho đến nay, các công ty khởi nghiệp hợp nhất đã huy động được 7,1 tỷ USD, phần lớn trong số đó thuộc về một số ít công ty.",
+      "summary_en": "Fusion startups have raised $7.1 billion to date, with the majority of it going to a handful of companies.",
+      "meta": {}
+    },
+    {
+      "title": "HDBank quay số kỳ 4 chương trình 'Tiết kiệm tỷ phú'",
+      "url": "https://vnexpress.net/hdbank-quay-so-ky-4-chuong-trinh-tiet-kiem-ty-phu-5109528.html",
+      "source": "VnExpress Kinh doanh",
       "category": "finance",
-      "market": "global",
-      "published": "Sat, 15 Aug 2026 10:00:40 GMT",
-      "description": "The Week in Breakingviews: When fund managers fret Reuters",
+      "market": "vietnam",
+      "published": "Sat, 15 Aug 2026 19:00:00 +0700",
+      "description": "Khách hàng tham gia \"Tiết kiệm Tỷ phú - Hè vàng đại cát\" có cơ hội nhận sổ tiết kiệm đến 200 triệu đồng, chuyến du lịch Hàn Quốc và giải 16 lượng vàng.",
       "score": 0.0,
-      "title_vi": "Tuần trong Breakingviews: Khi các nhà quản lý quỹ băn khoăn - Reuters",
-      "title_en": "The Week in Breakingviews: When fund managers fret - Reuters",
-      "summary_vi": "Tuần trong Breakingviews: Khi các nhà quản lý quỹ băn khoăn Reuters",
-      "summary_en": "The Week in Breakingviews: When fund managers fret Reuters",
-      "meta": {}
-    },
-    {
-      "title": "Why CMS’ Medicaid waiver pullback matters to providers - Modern Healthcare",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPak90RFlGcDJwWXJ5eXIyZDBVYms2S2hCX3BWNFZsVDdvQVI3WUVJdFNMWGZYNTlQTFptbVlNYnFld0x6QmRFZU9XQ1JSWDFDSVF2eEYxWm95Wm5FV0pGTzF3WTNSNGpjS3RDdjVJTUNhWENrTkY3bUVnT0FISUNHWDB5YTE2QS03TU9WbldzQnN1dw?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Sat, 15 Aug 2026 10:00:00 GMT",
-      "description": "Why CMS’ Medicaid waiver pullback matters to providers Modern Healthcare",
-      "score": 0.0,
-      "title_vi": "Tại sao việc rút lại miễn trừ Medicaid của CMS lại quan trọng đối với các nhà cung cấp - Modern Healthcare",
-      "title_en": "Why CMS’ Medicaid waiver pullback matters to providers - Modern Healthcare",
-      "summary_vi": "Tại sao việc rút lại miễn trừ Medicaid của CMS lại quan trọng đối với các nhà cung cấp Chăm sóc sức khỏe hiện đại",
-      "summary_en": "Why CMS’ Medicaid waiver pullback matters to providers Modern Healthcare",
+      "title_vi": "HDBank quay số kỳ 4 chương trình 'Tiết kiệm tỷ phú'",
+      "title_en": "HDBank draws round 4 of the 'Billionaire Savings' program",
+      "summary_vi": "Khách hàng tham gia \"Tiết kiệm Tỷ phú - Hè vàng đại cát\" có cơ hội nhận sổ tiết kiệm đến 200 triệu đồng, chuyến du lịch Hàn Quốc và giải 16 lượng vàng.",
+      "summary_en": "Customers participating in \"Billionaire Savings - Great Golden Summer\" have the opportunity to receive a savings book of up to 200 million VND, a trip to Korea and a prize of 16 taels of gold.",
       "meta": {}
     },
     {
@@ -397,51 +397,6 @@
       "meta": {}
     },
     {
-      "title": "VIX Holds at 14.56 Despite 6% Oil Jolt as Analysts Flag Increased Tail Risk - TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZUll0MHpUN1E0NGFOcEJsZzRJN2JRX19lS091aC00cHJIaGpPTXlJeWF3VDhLVXVnTko1SFBTcGJFdDhZWHFMN2V3V1BFS25KUFlMemVRUDM3NFR0VzhGVHNDZjNvalFEZXU2Sl90X0gtTVhzVmFwT0tvNlE1NU0?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Sat, 15 Aug 2026 08:42:54 GMT",
-      "description": "VIX Holds at 14.56 Despite 6% Oil Jolt as Analysts Flag Increased Tail Risk TechStock²",
-      "score": 0.0,
-      "title_vi": "VIX giữ ở mức 14,56 mặc dù giá dầu giảm 6% khi các nhà phân tích cảnh báo rủi ro đuôi gia tăng - TechStock²",
-      "title_en": "VIX Holds at 14.56 Despite 6% Oil Jolt as Analysts Flag Increased Tail Risk - TechStock²",
-      "summary_vi": "VIX giữ ở mức 14,56 mặc dù giá dầu giảm 6% khi các nhà phân tích cảnh báo rủi ro đuôi gia tăng TechStock²",
-      "summary_en": "VIX Holds at 14.56 Despite 6% Oil Jolt as Analysts Flag Increased Tail Risk TechStock²",
-      "meta": {}
-    },
-    {
-      "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-      "url": "https://uecker.codeberg.page/2026-07-14.html",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Sat, 15 Aug 2026 07:59:42 +0000",
-      "description": "Article URL: https://uecker.codeberg.page/2026-07-14.html Comments URL: https://news.ycombinator.com/item?id=49308685 Points: 9 # Comments: 0",
-      "score": 0.0,
-      "title_vi": "Sử dụng các hàm lồng nhau của GCC với con trỏ rộng và không có tấm bạt lò xo II",
-      "title_en": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-      "summary_vi": "URL bài viết: https://uecker.codeberg.page/2026-07-14.html URL bình luận: https://news.ycombinator.com/item?id=49308685 Điểm: 9 # Bình luận: 0",
-      "summary_en": "Article URL: https://uecker.codeberg.page/2026-07-14.html Comments URL: https://news.ycombinator.com/item?id=49308685 Points: 9 # Comments: 0",
-      "meta": {}
-    },
-    {
-      "title": "'Ngôi sao bán dẫn' CXMT trở thành công ty giá trị nhất Trung Quốc",
-      "url": "https://vnexpress.net/ngoi-sao-ban-dan-cxmt-tro-thanh-cong-ty-gia-tri-nhat-trung-quoc-5109468.html",
-      "source": "VnExpress Số hóa",
-      "category": "technology",
-      "market": "vietnam",
-      "published": "Sat, 15 Aug 2026 14:49:18 +0700",
-      "description": "CXMT vượt Tencent trở thành công ty Trung Quốc có giá trị vốn hóa cao nhất, cho thấy nhu cầu bộ nhớ tăng cao trong cơn sốt từ AI tại thị trường này.",
-      "score": 0.0,
-      "title_vi": "'Ngôi sao bán dẫn' CXMT trở thành công ty giá trị nhất Trung Quốc",
-      "title_en": "'Semiconductor star' CXMT becomes China's most valuable company",
-      "summary_vi": "CXMT vượt Tencent trở thành công ty Trung Quốc có giá trị vốn hóa cao nhất, cho thấy nhu cầu bộ nhớ tăng cao trong cơn sốt từ AI tại thị trường này.",
-      "summary_en": "CXMT surpasses Tencent to become the Chinese company with the highest market capitalization, showing increased memory demand amid the AI ​​craze in this market.",
-      "meta": {}
-    },
-    {
       "title": "Phó thủ tướng Phạm Gia Túc: Dung Quất cần thu hút dự án công nghệ cao",
       "url": "https://vnexpress.net/pho-thu-tuong-pham-gia-tuc-dung-quat-can-thu-hut-du-an-cong-nghe-cao-5109355.html",
       "source": "VnExpress Kinh doanh",
@@ -454,21 +409,6 @@
       "title_en": "Deputy Prime Minister Pham Gia Tuc: Dung Quat needs to attract high-tech projects",
       "summary_vi": "Sau 30 năm phát triển thành trung tâm lọc dầu và công nghiệp nặng, Dụng Quất cần thu hút các dự án công nghệ cao, theo Phó thủ tướng Thường trực Phạm Gia Túc.",
       "summary_en": "After 30 years of developing into an oil refining and heavy industry center, Dung Quat needs to attract high-tech projects, according to Permanent Deputy Prime Minister Pham Gia Tuc.",
-      "meta": {}
-    },
-    {
-      "title": "Belgium’s €9 Million Gold Find Is Tiny Beside the Flows Driving GLD - TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZjlvT3h5Qkd5MEpfWjR3U1BPY0dIelEzTTJVNWtqSnN0d1c1T1J1SG9YZnFObGhGbWw2TVZSVW9xYVpHRVJOWHotWjRSQlMwSmdiQjZmblJQTUNtWlJhbnZiSldLVmxlOU5nNlhLNlV5WWJzelRSaWVJLXB4eDRkR3NHQWR2ZDdQT3NXWWJSb0I?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Sat, 15 Aug 2026 07:04:06 GMT",
-      "description": "Belgium’s €9 Million Gold Find Is Tiny Beside the Flows Driving GLD TechStock²",
-      "score": 0.0,
-      "title_vi": "Số vàng được tìm thấy trị giá 9 triệu euro của Bỉ thật nhỏ bé bên cạnh dòng chảy thúc đẩy GLD - TechStock²",
-      "title_en": "Belgium’s €9 Million Gold Find Is Tiny Beside the Flows Driving GLD - TechStock²",
-      "summary_vi": "Số vàng được tìm thấy trị giá 9 triệu euro của Bỉ chỉ là nhỏ bé bên cạnh dòng chảy thúc đẩy GLD TechStock²",
-      "summary_en": "Belgium’s €9 Million Gold Find Is Tiny Beside the Flows Driving GLD TechStock²",
       "meta": {}
     },
     {
@@ -487,36 +427,6 @@
       "meta": {}
     },
     {
-      "title": "4 dòng máy lau sàn hút bụi cao cấp 2026",
-      "url": "https://vnexpress.net/4-dong-may-lau-san-hut-bui-cao-cap-2026-5109340.html",
-      "source": "VnExpress Số hóa",
-      "category": "technology",
-      "market": "vietnam",
-      "published": "Sat, 15 Aug 2026 13:00:00 +0700",
-      "description": "Số bình chọn thứ hai của \"Sản phẩm tôi yêu 2026\" là cuộc đua của 4 máy lau sàn hút bụi cao cấp được bán chính hãng với giá từ 9,9 triệu đến 19,9 triệu đồng.",
-      "score": 0.0,
-      "title_vi": "4 dòng máy lau sàn hút bụi cao cấp 2026",
-      "title_en": "4 lines of high-end vacuum cleaning machines in 2026",
-      "summary_vi": "Số bình chọn thứ hai của \"Sản phẩm tôi yêu 2026\" là cuộc đua của 4 máy lau sàn hút bụi cao cấp được bán chính hãng với giá từ 9,9 triệu đến 19,9 triệu đồng.",
-      "summary_en": "The second number of votes of \"Products I love 2026\" is the race of 4 high-end vacuum cleaners sold genuine at prices from 9.9 million to 19.9 million VND.",
-      "meta": {}
-    },
-    {
-      "title": "Ask HN: How do you keep up with HN these days?",
-      "url": "https://news.ycombinator.com/item?id=49308059",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Sat, 15 Aug 2026 05:59:12 +0000",
-      "description": "In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder. How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more. Comments URL: https://news.ycombinator.com/item?id=49308059 Points: 39 # Comments: 67",
-      "score": 0.0,
-      "title_vi": "Hỏi HN: dạo này bạn theo dõi HN thế nào?",
-      "title_en": "Ask HN: How do you keep up with HN these days?",
-      "summary_vi": "Khoảng 2-3 năm trở lại đây, phần lớn là do AI nên việc theo dõi những bài viết thú vị trên HN ngày càng khó khăn hơn. Làm thế nào để bạn đối phó với nó? Bên cạnh giải pháp đơn giản là ngày càng bỏ qua những điều thú vị. URL nhận xét: https://news.ycombinator.com/item?id=49308059 Điểm: 39 # Nhận xét: 67",
-      "summary_en": "In the last 2-3 years, mostly because of AI, keeping up with interesting articles on HN has become harder and harder. How do you deal with it? Besides the simple solution of simply ignoring interesting stuff more and more. Comments URL: https://news.ycombinator.com/item?id=49308059 Points: 39 # Comments: 67",
-      "meta": {}
-    },
-    {
       "title": "Doanh số bán lẻ của Mỹ bất ngờ giảm",
       "url": "https://vnexpress.net/doanh-so-ban-le-cua-my-bat-ngo-giam-5109449.html",
       "source": "VnExpress Kinh doanh",
@@ -532,107 +442,77 @@
       "meta": {}
     },
     {
-      "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "url": "https://chenxiachan.github.io/thoughtdag/",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Sat, 15 Aug 2026 04:42:07 +0000",
-      "description": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 35 # Comments: 12",
-      "score": 0.0,
-      "title_vi": "Hiển thị HN: ThoughtDAG – Biểu đồ ngữ cảnh có thể chỉnh sửa cho các cuộc hội thoại LLM",
-      "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "summary_vi": "URL bài viết: https://chenxiachan.github.io/thoughtdag/ URL bình luận: https://news.ycombinator.com/item?id=49307700 Điểm: 35 # Bình luận: 12",
-      "summary_en": "Article URL: https://chenxiachan.github.io/thoughtdag/ Comments URL: https://news.ycombinator.com/item?id=49307700 Points: 35 # Comments: 12",
-      "meta": {}
-    },
-    {
-      "title": "The other Sean Byrne doesn't exist",
-      "url": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Sat, 15 Aug 2026 04:18:44 +0000",
-      "description": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 162 # Comments: 87",
-      "score": 0.0,
-      "title_vi": "Sean Byrne khác không tồn tại",
-      "title_en": "The other Sean Byrne doesn't exist",
-      "summary_vi": "URL bài viết: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ URL bình luận: https://news.ycombinator.com/item?id=49307592 Điểm: 162 # Bình luận: 87",
-      "summary_en": "Article URL: https://conic.al/writing/the-other-sean-byrne-doesnt-exist/ Comments URL: https://news.ycombinator.com/item?id=49307592 Points: 162 # Comments: 87",
-      "meta": {}
-    },
-    {
-      "title": "Dow Jones Falls 108 Points as Small Caps Open a 1.7-Point Weekly Gap - TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcmhQOGFlbG1adGtLOGJXclJGaVllbU54WHo0ZTJDMWdFX2QySE1GMG51U2NESlFabWE5aldzbFlsNzJxTHRKbzlxSVFBRjYteklENGR4YmFxRFp6NEs5OFRwSWpOLVVpTlV3TER6X2YwNEFHWVMxM2xLLTVueHdCd2p1Z3JGbko4ZnFhOFBIRGxyaGc?oc=5",
-      "source": "Google News Reuters Finance",
+      "title": "Nhà đầu tư có thể mở tài khoản chứng khoán 100% online",
+      "url": "https://vnexpress.net/nha-dau-tu-co-the-mo-tai-khoan-chung-khoan-100-online-5109410.html",
+      "source": "VnExpress Kinh doanh",
       "category": "finance",
-      "market": "global",
-      "published": "Sat, 15 Aug 2026 04:06:51 GMT",
-      "description": "Dow Jones Falls 108 Points as Small Caps Open a 1.7-Point Weekly Gap TechStock²",
-      "score": 0.0,
-      "title_vi": "Dow Jones giảm 108 điểm khi các cổ phiếu vốn hóa nhỏ mở ra khoảng cách 1,7 điểm hàng tuần - TechStock²",
-      "title_en": "Dow Jones Falls 108 Points as Small Caps Open a 1.7-Point Weekly Gap - TechStock²",
-      "summary_vi": "Dow Jones giảm 108 điểm khi các cổ phiếu vốn hóa nhỏ mở ra khoảng cách 1,7 điểm hàng tuần TechStock²",
-      "summary_en": "Dow Jones Falls 108 Points as Small Caps Open a 1.7-Point Weekly Gap TechStock²",
-      "meta": {}
-    },
-    {
-      "title": "Tác nhân AI 'cản trở, đấu đá nhau' khi làm nhiệm vụ",
-      "url": "https://vnexpress.net/tac-nhan-ai-can-tro-dau-da-nhau-khi-lam-nhiem-vu-5109287.html",
-      "source": "VnExpress Số hóa",
-      "category": "technology",
       "market": "vietnam",
-      "published": "Sat, 15 Aug 2026 10:00:00 +0700",
-      "description": "Khi được giao nhiệm vụ với mục tiêu mâu thuẫn nhau, các tác nhân của Anthropic tìm cách cản trở và làm hại đối phương.",
+      "published": "Sat, 15 Aug 2026 10:55:55 +0700",
+      "description": "Theo dự thảo, các công ty chứng khoán sẽ được phép giao kết hợp đồng với khách hàng bằng hình thức điện tử, giúp mở tài khoản online hoàn toàn.",
       "score": 0.0,
-      "title_vi": "Tác nhân AI 'cản trở, đấu đá nhau' khi làm nhiệm vụ",
-      "title_en": "AI agents 'obstruct and fight with each other' when performing tasks",
-      "summary_vi": "Khi được giao nhiệm vụ với mục tiêu mâu thuẫn nhau, các tác nhân của Anthropic tìm cách cản trở và làm hại đối phương.",
-      "summary_en": "When tasked with conflicting goals, Anthropic agents seek to hinder and harm their opponents.",
+      "title_vi": "Nhà đầu tư có thể mở tài khoản chứng khoán 100% online",
+      "title_en": "Investors can open securities accounts 100% online",
+      "summary_vi": "Theo dự thảo, các công ty chứng khoán sẽ được phép giao kết hợp đồng với khách hàng bằng hình thức điện tử, giúp mở tài khoản online hoàn toàn.",
+      "summary_en": "According to the draft, securities companies will be allowed to enter into contracts with customers electronically, helping to open accounts completely online.",
       "meta": {}
     },
     {
-      "title": "Show HN: Deltix – AI Driven Testing",
-      "url": "https://app.deltix.ai",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Sat, 15 Aug 2026 02:42:14 +0000",
-      "description": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 32 # Comments: 9",
+      "title": "Công ty mẹ Google lãi gấp 100 lần từ khoản đầu tư vào SpaceX",
+      "url": "https://vnexpress.net/cong-ty-me-google-lai-gap-100-lan-tu-khoan-dau-tu-vao-spacex-5109400.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sat, 15 Aug 2026 10:08:47 +0700",
+      "description": "Khoản tiền 900 triệu USD mà Alphabet - công ty mẹ Google rót vào SpaceX hơn 10 năm trước hiện có giá hơn 90 tỷ USD.",
       "score": 0.0,
-      "title_vi": "Hiện HN: Deltix – Thử nghiệm dựa trên AI",
-      "title_en": "Show HN: Deltix – AI Driven Testing",
-      "summary_vi": "URL bài viết: https://app.deltix.ai URL bình luận: https://news.ycombinator.com/item?id=49307099 Điểm: 32 # Bình luận: 9",
-      "summary_en": "Article URL: https://app.deltix.ai Comments URL: https://news.ycombinator.com/item?id=49307099 Points: 32 # Comments: 9",
+      "title_vi": "Công ty mẹ Google lãi gấp 100 lần từ khoản đầu tư vào SpaceX",
+      "title_en": "Parent company Google profited 100 times more from its investment in SpaceX",
+      "summary_vi": "Khoản tiền 900 triệu USD mà Alphabet - công ty mẹ Google rót vào SpaceX hơn 10 năm trước hiện có giá hơn 90 tỷ USD.",
+      "summary_en": "The $900 million that Alphabet - Google's parent company - poured into SpaceX more than 10 years ago is now worth more than $90 billion.",
+      "meta": {}
+    },
+    {
+      "title": "Hơn 25 tỷ U-Point của Techcombank được quy đổi mỗi tháng",
+      "url": "https://vnexpress.net/hon-25-ty-u-point-cua-techcombank-duoc-quy-doi-moi-thang-5109358.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sat, 15 Aug 2026 09:00:00 +0700",
+      "description": "Trung bình hơn 25 tỷ U-Point được khách hàng quy đổi mỗi tháng thông qua tính năng \"Tối ưu lợi ích với U-Point\" trên Techcombank Sinh lời tự động.",
+      "score": 0.0,
+      "title_vi": "Hơn 25 tỷ U-Point của Techcombank được quy đổi mỗi tháng",
+      "title_en": "More than 25 billion Techcombank U-Points are converted every month",
+      "summary_vi": "Trung bình hơn 25 tỷ U-Point được khách hàng quy đổi mỗi tháng thông qua tính năng \"Tối ưu lợi ích với U-Point\" trên Techcombank Sinh lời tự động.",
+      "summary_en": "On average, more than 25 billion U-Points are converted by customers each month through the \"Optimize benefits with U-Points\" feature on Techcombank Automatic Profit.",
       "meta": {}
     }
   ],
   "insights": {
     "status": "ready",
     "model": "z-ai/glm-5.2",
-    "daily_thesis_vi": "Các nhà phát triển đang gặp khó khăn với việc quản lý plugin AI và trích xuất tài liệu, trong đó các doanh nghiệp và người dùng công nghệ toàn cầu đang vật lộn với quá tải thông tin AI và rủi ro vận hành do giá dầu tăng.",
-    "daily_thesis_en": "Developers struggle with AI plugin management and document extraction, while global businesses and tech users grapple with AI information overload and operational risks from rising oil prices.",
+    "daily_thesis_vi": "Các công cụ AI agent và tài liệu chuyển đổi đang bùng nổ, trong khi Việt Nam thúc đẩy số hóa tài chính và logistics điện để đối phó giá nhiên liệu tăng.",
+    "daily_thesis_en": "AI agent tooling and document conversion are booming globally, while Vietnam accelerates digital finance and electric logistics to counter rising fuel costs.",
     "opportunities": [
       {
-        "name_vi": "Quản lý Plugin AI",
-        "name_en": "AI Plugin Management",
-        "pain_vi": "Sự bùng nổ plugin AI gây phân mảnh, khó quản lý và thiếu UI/UX chuẩn cho người dùng cuối.",
-        "pain_en": "AI plugin explosion causes fragmentation, management difficulties, and lack of standard UI/UX for end-users.",
-        "audience_vi": "Nhà phát triển và người dùng AI",
-        "audience_en": "AI developers and users",
-        "mvp_vi": "Bảng điều khiển quản lý plugin tập trung với giao diện Web UI và TUI thân thiện.",
-        "mvp_en": "Centralized plugin management dashboard with friendly Web UI and TUI interface.",
+        "name_vi": "Quản lý Plugin AI Agent",
+        "name_en": "AI Agent Plugin Manager",
+        "pain_vi": "Lập trình viên gặp khó khăn trong việc cài đặt, quản lý và tùy chỉnh giao diện cho các plugin AI agent ngày càng nhiều.",
+        "pain_en": "Developers struggle to install, manage, and customize interfaces for the rapidly growing number of AI agent plugins.",
+        "audience_vi": "Lập trình viên và kỹ sư AI toàn cầu.",
+        "audience_en": "Global developers and AI engineers.",
+        "mvp_vi": "Giao diện desktop quản lý plugin AI tập trung, tích hợp bảng tác vụ và theo dõi token.",
+        "mvp_en": "A unified desktop UI for managing AI plugins, featuring a task board and token monitoring.",
         "scope": "global",
-        "score": 85,
+        "score": 78,
         "evidence_ids": [
           1,
-          3,
+          2,
           5,
           6,
-          8
+          7
         ],
-        "risks_vi": "Rủi ro cạnh tranh trực tiếp từ các nhà cung cấp nền tảng AI lớn.",
-        "risks_en": "Direct competition risk from major AI platform providers.",
+        "risks_vi": "Rủi ro cạnh tranh cao từ cộng đồng mã nguồn mở và thay đổi API nhanh chóng.",
+        "risks_en": "High competition from open-source community and rapid API changes.",
         "sources": [
           {
             "title": "deepseek-ai/deepseek-harness",
@@ -655,76 +535,106 @@
             "source": "GitHub"
           },
           {
-            "title": "ccch1money/dsh-TUI",
+            "title": "ccch1mintry/dsh-TUI",
             "url": "https://github.com/ccch1mneyyy/dsh-TUI",
             "source": "GitHub"
           }
         ]
       },
       {
-        "name_vi": "Chuyển đổi tài liệu sang Markdown",
-        "name_en": "Document to Markdown Conversion",
-        "pain_vi": "Trích xuất dữ liệu sạch từ nhiều định dạng tài liệu phức tạp để đưa vào LLM rất mất thời gian.",
-        "pain_en": "Extracting clean data from complex document formats for LLM ingestion is time-consuming.",
-        "audience_vi": "Nhà phát triển ứng dụng AI và RAG",
-        "audience_en": "AI and RAG application developers",
-        "mvp_vi": "API chuyển đổi tài liệu đa định dạng sang Markdown sạch với tốc độ cao.",
-        "mvp_en": "High-speed API converting multi-format documents to clean Markdown.",
+        "name_vi": "Chuyển đổi Tài liệu Markdown",
+        "name_en": "Document to Markdown Converter",
+        "pain_vi": "Doanh nghiệp cần chuyển đổi định dạng tài liệu đa dạng sang Markdown sạch để huấn luyện AI và RAG.",
+        "pain_en": "Businesses need to convert diverse document formats to clean Markdown for AI training and RAG.",
+        "audience_vi": "Doanh nghiệp AI và nhóm phát triển phần mềm.",
+        "audience_en": "AI enterprises and software development teams.",
+        "mvp_vi": "API và thư viện chuyển đổi PDF, Word, Excel sang Markdown nhanh chóng bằng Rust.",
+        "mvp_en": "A fast Rust-based API and library converting PDF, Word, Excel to Markdown.",
         "scope": "global",
-        "score": 80,
+        "score": 82,
         "evidence_ids": [
-          4
+          4,
+          8
         ],
-        "risks_vi": "Cạnh tranh khốc liệt từ các công cụ mã nguồn mở hiện có.",
-        "risks_en": "Fierce competition from existing open-source tools.",
+        "risks_vi": "Khó duy trì độ chính xác với bố cục tài liệu phức tạp và bảng biểu.",
+        "risks_en": "Hard to maintain accuracy with complex document layouts and tables.",
         "sources": [
           {
             "title": "firecrawl/anydoc",
             "url": "https://github.com/firecrawl/anydoc",
             "source": "GitHub"
+          },
+          {
+            "title": "Leutenegger/book-to-skill",
+            "url": "https://github.com/Leutenegger/book-to-skill",
+            "source": "GitHub"
           }
         ]
       },
       {
-        "name_vi": "Tóm tắt tin tức công nghệ bằng AI",
-        "name_en": "AI Tech News Summarization",
-        "pain_vi": "Quá tải thông tin công nghệ do AI khiến người dùng khó theo dõi và cập nhật kiến thức.",
-        "pain_en": "AI-driven tech information overload makes it hard for users to keep up and stay updated.",
-        "audience_vi": "Độc giả Hacker News và chuyên gia công nghệ",
-        "audience_en": "Hacker News readers and tech professionals",
-        "mvp_vi": "Dịch vụ tóm tắt và phân loại bài viết công nghệ nổi bật hàng ngày bằng AI.",
-        "mvp_en": "AI service summarizing and categorizing daily top tech articles.",
+        "name_vi": "Kiểm toán Dấu vết AI",
+        "name_en": "AI Provenance Auditor",
+        "pain_vi": "Các tổ chức cần phát hiện và tùy chỉnh dấu vết AI trong văn bản và hình ảnh để tuân thủ chính sách.",
+        "pain_en": "Organizations need to detect and customize AI provenance marks in text and images for policy compliance.",
+        "audience_vi": "Nhà xuất bản, cơ quan truyền thông và doanh nghiệp tuân thủ.",
+        "audience_en": "Publishers, media agencies, and compliance enterprises.",
+        "mvp_vi": "Công cụ quét tệp phát hiện và xóa dấu vết AI, hỗ trợ nhiều định dạng.",
+        "mvp_en": "A file-scanning tool to detect and remove AI watermarks across multiple formats.",
         "scope": "global",
-        "score": 75,
+        "score": 68,
         "evidence_ids": [
-          28
+          3
         ],
-        "risks_vi": "Khó duy trì chất lượng tóm tắt và độ chính xác của thông tin.",
-        "risks_en": "Hard to maintain summary quality and information accuracy.",
+        "risks_vi": "Rủi ro pháp lý về việc xóa dấu vết bản quyền và yêu cầu tuân thủ liên tục.",
+        "risks_en": "Legal risks regarding watermark removal and continuous compliance requirements.",
         "sources": [
           {
-            "title": "Ask HN: How do you keep up with HN these days?",
-            "url": "https://news.ycombinator.com/item?id=49308059",
-            "source": "Hacker News"
+            "title": "guillaumemeyer/watermarks-remover",
+            "url": "https://github.com/guillaumemeyer/watermarks-remover",
+            "source": "GitHub"
           }
         ]
       },
       {
-        "name_vi": "Quản lý đội xe điện",
-        "name_en": "Electric Fleet Management",
-        "pain_vi": "Giá dầu tăng vọt do xung đột địa chính trị thúc đẩy nhu cầu chuyển đổi sang xe tải điện.",
-        "pain_en": "Surging oil prices from geopolitical conflicts drive the need to switch to electric trucks.",
-        "audience_vi": "Công ty vận tải và logistics tại Châu Á",
-        "audience_en": "Transportation and logistics companies in Asia",
-        "mvp_vi": "Phần mềm quản lý và tối ưu hóa hoạt động cho đội xe tải điện.",
-        "mvp_en": "Management and optimization software for electric truck fleets.",
-        "scope": "both",
-        "score": 70,
+        "name_vi": "Mở tài khoản chứng khoán trực tuyến",
+        "name_en": "Online Securities Onboarding",
+        "pain_vi": "Nhà đầu tư cá nhân cần mở tài khoản chứng khoán 100% trực tuyến một cách nhanh chóng và an toàn.",
+        "pain_en": "Retail investors need to open securities accounts 100% online quickly and securely.",
+        "audience_vi": "Nhà đầu tư cá nhân tại Việt Nam.",
+        "audience_en": "Retail investors in Vietnam.",
+        "mvp_vi": "Nền tảng eKYC tích hợp giúp công ty chứng khoán mở tài khoản điện tử tuân thủ pháp luật.",
+        "mvp_en": "An integrated eKYC platform enabling securities firms to open compliant electronic accounts.",
+        "scope": "vietnam",
+        "score": 75,
+        "evidence_ids": [
+          24
+        ],
+        "risks_vi": "Yêu cầu cấp phép chặt chẽ và rủi ro bảo mật dữ liệu cá nhân.",
+        "risks_en": "Strict licensing requirements and personal data security risks.",
+        "sources": [
+          {
+            "title": "Investors can open securities accounts 100% online",
+            "url": "https://vnexpress.net/nha-dau-tu-co-the-mo-tai-khoan-chung-khoan-100-online-5109410.html",
+            "source": "VnExpress Kinh doanh"
+          }
+        ]
+      },
+      {
+        "name_vi": "Quản lý đội xe tải điện",
+        "name_en": "Electric Truck Fleet Management",
+        "pain_vi": "Doanh nghiệp vận tải cần chuyển đổi và quản lý đội xe tải điện để giảm chi phí nhiên liệu đang tăng vọt.",
+        "pain_en": "Logistics firms need to transition to and manage electric truck fleets to cut soaring fuel costs.",
+        "audience_vi": "Công ty vận tải và logistics tại Việt Nam và Đông Nam Á.",
+        "audience_en": "Logistics and transportation companies in Vietnam and Southeast Asia.",
+        "mvp_vi": "Phần mềm quản lý đội xe tải điện, theo dõi pin và tối ưu hóa lộ trình.",
+        "mvp_en": "Electric truck fleet management software tracking battery and optimizing routes.",
+        "scope": "vietnam",
+        "score": 72,
         "evidence_ids": [
           20
         ],
-        "risks_vi": "Chi phí đầu tư ban đầu cao và hạ tầng trạm sạc chưa hoàn thiện.",
-        "risks_en": "High initial investment costs and incomplete charging station infrastructure.",
+        "risks_vi": "Chi phí đầu tư phần cứng ban đầu cao và thiếu hạ tầng trạm sạc.",
+        "risks_en": "High initial hardware investment costs and lack of charging station infrastructure.",
         "sources": [
           {
             "title": "Chinese electric trucks are booming in Asia due to the Iran conflict",
@@ -732,44 +642,12 @@
             "source": "VnExpress Kinh doanh"
           }
         ]
-      },
-      {
-        "name_vi": "Quản lý nhân sự giáo dục",
-        "name_en": "Education HR Management",
-        "pain_vi": "Khâu sắp xếp trường lớp và đảm bảo chế độ cho giáo viên gặp nhiều điểm nghẽn hành chính.",
-        "pain_en": "School arrangement and ensuring teacher policies face many administrative bottlenecks.",
-        "audience_vi": "Sở giáo dục và các trường học tại Việt Nam",
-        "audience_en": "Education departments and schools in Vietnam",
-        "mvp_vi": "Hệ thống SaaS tự động hóa quy trình nhân sự và phân bổ giáo viên.",
-        "mvp_en": "SaaS system automating HR processes and teacher allocation.",
-        "scope": "vietnam",
-        "score": 65,
-        "evidence_ids": [
-          13,
-          14,
-          16
-        ],
-        "risks_vi": "Thị trường ngách, phụ thuộc vào ngân sách nhà nước và rào cản pháp lý.",
-        "risks_en": "Niche market, dependent on state budgets and legal barriers.",
-        "sources": [
-          {
-            "title": "Proactively prepare the team to carry out tasks for the 2026 - 2027 school year - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb2tZQzVXVEZSdDREbktyTHhZaURrcFM5U1JCSlNOdS1LeDEyalpfTUo0RTNiUXk2dFRXQmMtS25JcUVBaXVLYjUzZGlVU3Q1M1ptQnk5ZGtseG40OHlKOTg2b2w1TlI3aTBXRENzRnd4Y2ZNWkJfbWlidUZweGhkYTN1RTdhMlNlMWpUYm93?oc=5",
-            "source": "Google News Nhu cầu Việt Nam"
-          },
-          {
-            "title": "Phu Tho proposes to remove bottlenecks in the development of education, health care, and culture - Vietnam.vn",
-            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcVlYSU1Zdm5aQlcxUDI1aFZqZFhnUXlEQkRMclJoMlZBaTFLYnZiYnMwSzBWMzlFdXJyTkFURFNHQnF2Wl9YVjdDS1o2V3hDR2JUVXRLLXZYcVhRc1ZVLWtKTHFSM3JzTlgyMkQ3eElCaUJERG90aDBXc3AyT3FLbWoyT1RJRXEySTVJa3lQWUUyWlZGNDlOZVludEN6UzQ?oc=5",
-            "source": "Google News Nhu cầu Việt Nam"
-          },
-          {
-            "title": "Urgently arrange schools; ensure regimes and policies for managers, teachers, and employees - xaydungchinhsach.chinhphu.vn",
-            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVZod1JOZ1c4TVVIbHhYMUJvQmR3YnlEVkR1WUlpblRTODVjcHl0T0J2Z09HcnFHS3NSTURvcF9WMDhBcWZERW5PdzM0T1hjcFFsLUFITTZxblgtMjRYYWhQcHFVVi1wUlFCcjZMbURrbkk3b3BkaDBUNUFKNEpmSjlOd3NqWmJLaGRMUTdjUXBWajBKMG1jLWJIR2hTT3VESTFCYUktTTFGT2E5RTN0M3VST3ByUnpDUUNhOVpvMWtwQnFhbTE2UURLSWtpekp0NWJiODY5TGRsOVEyWEZUU3RhdDFYazAtaGlLbHUyRQ?oc=5",
-            "source": "Google News Nhu cầu Việt Nam"
-          }
-        ]
       }
     ]
   },
-  "warnings": []
+  "warnings": [
+    "Feed Google News Reuters Finance failed: HTTPError",
+    "Feed Google News Social Needs failed: HTTPError",
+    "Feed Google News Nhu cầu Việt Nam failed: HTTPError"
+  ]
 }
