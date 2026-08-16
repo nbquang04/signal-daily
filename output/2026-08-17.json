@@ -1,0 +1,763 @@
+{
+  "date": "2026-08-17",
+  "generated_at": "2026-08-16T20:37:00.583169+00:00",
+  "markets": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7785.7598,
+      "change_pct": -0.17,
+      "currency": "USD"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "price": 26729.1602,
+      "change_pct": -0.28,
+      "currency": "USD"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "price": 4437.2998,
+      "change_pct": 1.69,
+      "currency": "USD"
+    },
+    {
+      "name": "Crude Oil",
+      "symbol": "CL=F",
+      "price": 82.4,
+      "change_pct": 1.42,
+      "currency": "USD"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC-USD",
+      "price": 63042.9609,
+      "change_pct": 0.03,
+      "currency": "USD"
+    },
+    {
+      "name": "USD/VND",
+      "symbol": "VND=X",
+      "price": 26147.0,
+      "change_pct": 0.3,
+      "currency": "VND"
+    }
+  ],
+  "items": [
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T11:56:32Z",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "score": 32717.53,
+      "title_vi": "deepseek-ai/deepseek-khai thác",
+      "title_en": "deepseek-ai/deepseek-harness",
+      "summary_vi": "Khai thác DeepSeek: Mọi thứ đều là Plugin.",
+      "summary_en": "DeepSeek Harness: Everything is a Plugin.",
+      "meta": {
+        "stars": 130399,
+        "forks": 13037,
+        "language": "TypeScript",
+        "stars_per_day": 32599.8
+      }
+    },
+    {
+      "title": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T16:30:50Z",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案",
+      "score": 2290.07,
+      "title_vi": "mọi nơi-phòng thí nghiệm/deepseek-khai thác-máy tính để bàn",
+      "title_en": "anywhere-labs/deepseek-harness-desktop",
+      "summary_vi": "Một giải pháp máy tính để bàn hiện đại dành cho hệ sinh thái plug-in DeepSeek Harness (DSH)",
+      "summary_en": "A modern desktop solution for the DeepSeek Harness (DSH) plug-in ecosystem",
+      "meta": {
+        "stars": 8797,
+        "forks": 369,
+        "language": "TypeScript",
+        "stars_per_day": 2199.2
+      }
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "score": 1943.48,
+      "title_vi": "guillaumemeyer/loại bỏ hình mờ",
+      "title_en": "guillaumemeyer/watermarks-remover",
+      "summary_vi": "Loại bỏ các dấu xuất xứ AI của nhiều nhà cung cấp: Vệ sinh văn bản Unicode, móc viết lại thống kê và C2PA/siêu dữ liệu từ PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "summary_en": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "meta": {
+        "stars": 11102,
+        "forks": 1153,
+        "language": "Python",
+        "stars_per_day": 1850.3
+      }
+    },
+    {
+      "title": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T13:55:31Z",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "score": 1331.14,
+      "title_vi": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "title_en": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "summary_vi": "Danh sách bổ trợ được tuyển chọn dành cho Khai thác DeepSeek (dsh) · Khai thác DeepSeek Danh sách bổ trợ được tuyển chọn cho Khai thác DeepSeek",
+      "summary_en": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness A curated list of plugins for DeepSeek Harness",
+      "meta": {
+        "stars": 4984,
+        "forks": 868,
+        "language": "Python",
+        "stars_per_day": 1246.0
+      }
+    },
+    {
+      "title": "firecrawl/anydoc",
+      "url": "https://github.com/firecrawl/anydoc",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-03T16:36:14Z",
+      "description": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "score": 1270.93,
+      "title_vi": "firecrawl/anydoc",
+      "title_en": "firecrawl/anydoc",
+      "summary_vi": "Chuyển đổi Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV và PDF để xóa Markdown. Được xây dựng bằng Rust, với các liên kết Node.js và Python.",
+      "summary_en": "Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.",
+      "meta": {
+        "stars": 16434,
+        "forks": 927,
+        "language": "Rust",
+        "stars_per_day": 1173.9
+      }
+    },
+    {
+      "title": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-12T05:15:20Z",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "score": 762.13,
+      "title_vi": "zhu1090093659/dsh-web-ui",
+      "title_en": "zhu1090093659/dsh-web-ui",
+      "summary_vi": "Bộ sưu tập plugin và giao diện cho giao diện người dùng web DeepSeek Harness (DSH) - bảng tác vụ, biểu đồ git, bảng điều khiển bên phải, giao diện người dùng di động từ xa, thú cưng, số liệu thống kê mã thông báo trực tiếp và trung tâm giao diện.",
+      "summary_en": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "meta": {
+        "stars": 3404,
+        "forks": 204,
+        "language": "TypeScript",
+        "stars_per_day": 680.8
+      }
+    },
+    {
+      "title": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T12:49:31Z",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "score": 457.12,
+      "title_vi": "ccch1mining/dsh-TUI",
+      "title_en": "ccch1mining/dsh-TUI",
+      "summary_vi": "Các plug-in bổ sung TUI có trong tài khoản công khai chính thức của DSH: Claude Code wind, thanh trên cùng của cá voi/trạng thái thời gian thực/tư duy phát trực tuyến/nhấp đúp vào Esc để quay lại/tiến trình ngữ cảnh + TPS. npm cài đặt bằng một cú nhấp chuột.  WeChat chính thức của DSH có plugin TUI nổi bật - Kiểu mã Claude: thanh cá voi, trạng thái trực tiếp, truyền phát suy nghĩ, khôi phục Esc đôi, thanh ngữ cảnh + TPS. npm chỉ bằng một cú nhấp chuột.",
+      "summary_en": "TUI fill-in plug-ins included in DSH official public account: Claude Code wind, whale top bar/real-time status/streaming thinking/double-click Esc to roll back/context progress + TPS. npm one-click installation.  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "meta": {
+        "stars": 1535,
+        "forks": 65,
+        "language": "TypeScript",
+        "stars_per_day": 383.8
+      }
+    },
+    {
+      "title": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-12T13:48:50Z",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "score": 396.46,
+      "title_vi": "dmmulroy/chống trượt",
+      "title_en": "dmmulroy/anti-slop",
+      "summary_vi": "Các quy tắc Oxlint có ý kiến ​​​​để từ chối các mẫu TypeScript và JavaScript có bằng chứng thấp",
+      "summary_en": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "meta": {
+        "stars": 1613,
+        "forks": 26,
+        "language": "TypeScript",
+        "stars_per_day": 322.6
+      }
+    },
+    {
+      "title": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T13:15:23Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "score": 358.24,
+      "title_vi": "Leutenegger/book-to-skill",
+      "title_en": "Leutenegger/book-to-skill",
+      "summary_vi": "Biến bất kỳ cuốn sách kỹ thuật PDF nào thành kỹ năng Mã Claude - sẵn sàng để nghiên cứu, tham khảo và sử dụng trong khi bạn làm việc.",
+      "summary_en": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "meta": {
+        "stars": 1151,
+        "forks": 141,
+        "language": "Python",
+        "stars_per_day": 287.8
+      }
+    },
+    {
+      "title": "Small-tailqwq/dsh-deep-whale",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T13:02:14Z",
+      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "score": 341.67,
+      "title_vi": "Cá voi đuôi nhỏqwq/dsh-sâu",
+      "title_en": "Small-tailqwq/dsh-deep-whale",
+      "summary_vi": "DSH Web Whale Girl Skin Series (Deep Sea Maid Workshop Maid-atelier)——CC BY-NC-SA 4.0",
+      "summary_en": "DSH Web Whale Girl Skin Series (Deep Sea Maid Workshop maid-atelier)——CC BY-NC-SA 4.0",
+      "meta": {
+        "stars": 1087,
+        "forks": 37,
+        "language": "TypeScript",
+        "stars_per_day": 271.8
+      }
+    },
+    {
+      "title": "Ro’s Will Flaherty: Healthcare Marketing Needs ‘Real Human Stories’ - Beet.TV",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdlpfQVdSbGdrSTZWU3JESTdHZUVNUUlIclQ5cG9DNGpYQ2Q2TjFaVUpzVWZvLVdGckVaeU9xbTNCLWZucEdIN0JTa0QyM092NWFDQTBYZ0FaYzhfZkQzR1BFc3pETk5IdDZxZE1NUXFjSC16d3o3LVBhb0djbThNdTg2R3FQNUE1WUhrX3NBS2MyaFBuV0dtNHpoODE?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 20:32:57 GMT",
+      "description": "Ro’s Will Flaherty: Healthcare Marketing Needs ‘Real Human Stories’ Beet.TV",
+      "score": 0.0,
+      "title_vi": "Ro’s Will Flaherty: Tiếp thị chăm sóc sức khỏe cần ‘Những câu chuyện có thật về con người’ - Beet.TV",
+      "title_en": "Ro’s Will Flaherty: Healthcare Marketing Needs ‘Real Human Stories’ - Beet.TV",
+      "summary_vi": "Ro's Will Flaherty: Tiếp thị chăm sóc sức khỏe cần 'Những câu chuyện có thật về con người' Beet.TV",
+      "summary_en": "Ro’s Will Flaherty: Healthcare Marketing Needs ‘Real Human Stories’ Beet.TV",
+      "meta": {}
+    },
+    {
+      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 20:32:01 +0000",
+      "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "score": 0.0,
+      "title_vi": "Tại sao mọi người không mua tương lai AI của Mark Zuckerberg",
+      "title_en": "Why people aren’t buying Mark Zuckerberg’s AI future",
+      "summary_vi": "Trong tập mới nhất của podcast Equity, chúng tôi thảo luận lý do tại sao không phải ai cũng tin tưởng vào tầm nhìn của Zuckerberg.",
+      "summary_en": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+      "meta": {}
+    },
+    {
+      "title": "Flagler County Education Foundation Helps Students Start the School Year Ready for Success - Flagler News Weekly",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRUs1enkxTXQ2NS12N2FCVnROWTdLMWRQdjJvYUFfS25JUUJHZDZGTWZOTlowVWNkM3d5aDNldFVWSzNoRXkwYU5VTlgtWE4xQkRDcDZ4b3RsTVFCX1NuTG9pcXE1cW4xMW14d0xpeUw1aktsVE83MU5faXQ2N01pQkRyb2ZfODc5cHM4R1RCMC1OTzNlRUF2U3lJRkRZazM1VjhWay1nUUFtdjRlR21aRzVLSDhGZWpXVGQ4d25pSFFBNTQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 20:26:07 GMT",
+      "description": "Flagler County Education Foundation Helps Students Start the School Year Ready for Success Flagler News Weekly",
+      "score": 0.0,
+      "title_vi": "Tổ chức Giáo dục Quận Flagler Giúp Học sinh Bắt đầu Năm học Sẵn sàng để Thành công - Flagler News Weekly",
+      "title_en": "Flagler County Education Foundation Helps Students Start the School Year Ready for Success - Flagler News Weekly",
+      "summary_vi": "Tổ chức Giáo dục Quận Flagler Giúp Học sinh Sẵn sàng cho Năm học Mới để Thành công Flagler News Weekly",
+      "summary_en": "Flagler County Education Foundation Helps Students Start the School Year Ready for Success Flagler News Weekly",
+      "meta": {}
+    },
+    {
+      "title": "Perdoceo Education (PRDO), Why Is It Getting Fresh Attention? - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdDZ0MWo3YTBxUlE2NUpIcnFyejlBRllkWFRxaExsZ0MwUmdQMzhLQm9kQVNFOS1Ca1dQb1N4b3Y3d3dFUlowSFRKcC1yclpmd2k5Q3d4Tl9RaUg2ZUp5c2lxaUJ0c3J1aHM0ZGtyMDM1T0VqUnE2U3JxdXRqUFlqYkllWnZlSTFhd2M5VVMxeDZLaWNqb1R6X2dQNFRSa09NZzJMa2tyNTVNdVd3VUc5dG9CeEhQdTFLVFhESEJuMkg4djhVT0FZSG04VG42c1p1MVJ1R2JCT01sdHfSAeABQVVfeXFMTnRPSF9PWjF1b3dZWFUxN2RNbkpyYTVOaDdyUmJ2VnhhOF9yQklTTmZSb2pZUTBlclpBcHBpUnQ4NkREWnFnSVNtZzB1NUFOOXN0YWtDbWF0WHB0TndGdjdDYXNydkI1TC1KUGJ2UUtaZlNuWXM0OFlQWks0aUlHUDBpMDBHMUl6RDVsdEJSWkNqV252ckdhVm50SFdCUUhvV1Q1UEFxT2J3dmdNdEFfMF9YX2VsNkdLampXRGgtVkd2UXdCbU4yTVBCcnhtS1ZmQW9kbFhkRkZHeUFxbEJvc0o?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 20:24:01 GMT",
+      "description": "Perdoceo Education (PRDO), Why Is It Getting Fresh Attention? simplywall.st",
+      "score": 0.0,
+      "title_vi": "Perdoceo Education (PRDO), Tại sao nó lại nhận được sự chú ý mới? - đơn giảnwall.st",
+      "title_en": "Perdoceo Education (PRDO), Why Is It Getting Fresh Attention? - simplywall.st",
+      "summary_vi": "Perdoceo Education (PRDO), Tại sao nó lại nhận được sự chú ý mới? đơn giảnwall.st",
+      "summary_en": "Perdoceo Education (PRDO), Why Is It Getting Fresh Attention? simplywall.st",
+      "meta": {}
+    },
+    {
+      "title": "3 Nuclear Energy Stocks Powering The AI Data Center Buildout - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY3doWFdPWjBIX0JKWmtCM0ROTFdOaFJORzFTYzA1cnR0LTdPWUdtSl91LUthbldTeC1lR3N6dFItU1JBQXNBM2JqV2x2UlN1YnpyZzhXMFd2dHpWenpaeGRCSzNfbld0Sk1nVGNGREh3TGJiWEpEaUdrTzlYNlJNWjl2LV9BUm5HV1Z5MlN0YV84Z2xjZDdzYUI2YmxXMDkzYUJQMGgwRHZqWndOUzl5cElOaXB1RGR2R2luLWtOa3ExNUtScVpzRWZGUjlCeTTSAdQBQVVfeXFMTWw4a1hHaHJmcTROZ01nbGthdlp2Y0dTS19pcVBrNkdTbVZUbktMRWcweWROZ1JqRXhJTGU3S2hjSW5kc1RvVmdzZkVFcWdvRGtxQXFodlJiUl9PVlNnQU5kWmJhVHpEUjNjWWlNSDY5YkwwQ3cwdWZaVHpQMFRLR3pFS2RodmRta2VkSG5IemdzMVBEYlVrSEpSX3c1Q0pGUEMyb3RVdXN6UFVJOGtYaWVjYWRvSF82b0ZJbTRKOVZCd2phbzhVUXo3d3JKUGd2QTNmZkw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 20:24:00 GMT",
+      "description": "3 Nuclear Energy Stocks Powering The AI Data Center Buildout simplywall.st",
+      "score": 0.0,
+      "title_vi": "3 cổ phiếu năng lượng hạt nhân cung cấp năng lượng cho việc xây dựng trung tâm dữ liệu AI - Simplywall.st",
+      "title_en": "3 Nuclear Energy Stocks Powering The AI Data Center Buildout - simplywall.st",
+      "summary_vi": "3 nguồn năng lượng hạt nhân cung cấp năng lượng cho quá trình xây dựng trung tâm dữ liệu AI simplewall.st",
+      "summary_en": "3 Nuclear Energy Stocks Powering The AI Data Center Buildout simplywall.st",
+      "meta": {}
+    },
+    {
+      "title": "Amazon Faces 2.2% Decline in July Online Sales as AWS Remains a Buffer - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcHlMbTR5cUZlZ19HTktVU05HN2ZRZ3hUeEFhVW1TQmRKVmt1b2NETzdYdkRVcHE4M3I1b3ZseUdRemZNME1JRjNiMkdUVzJyUzdac0djdUJTMXlTekQtT1NsbWhYSTdXM2RWbnJJa2F3R3RiQ3VhZkdGTmM1anZMY2hqLTgydS1xVnFR?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 20:15:57 GMT",
+      "description": "Amazon Faces 2.2% Decline in July Online Sales as AWS Remains a Buffer TechStock²",
+      "score": 0.0,
+      "title_vi": "Amazon đối mặt với mức giảm 2,2% trong doanh số bán hàng trực tuyến trong tháng 7 do AWS vẫn là bộ đệm - TechStock²",
+      "title_en": "Amazon Faces 2.2% Decline in July Online Sales as AWS Remains a Buffer - TechStock²",
+      "summary_vi": "Amazon đối mặt với sự sụt giảm 2,2% trong doanh số bán hàng trực tuyến trong tháng 7 do AWS vẫn là vùng đệm TechStock²",
+      "summary_en": "Amazon Faces 2.2% Decline in July Online Sales as AWS Remains a Buffer TechStock²",
+      "meta": {}
+    },
+    {
+      "title": "Two Days of Agricultural Law Education in West Virginia - Morning Ag Clips",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRHFjRlJPNU9jbHozZGxGcUxWLXdrVkt4RDgwOEI2eTFyZXZaN0hJVFdnMmNyMlhFdmVoQUJFaEZ4MHVvVHdLdDdxSFlGMXNPTFZVNHpGZEhneFZZTDFHMGVMajNGaGJJV3hGT2xEaGk1SkF2amk1alFWdVF0QzNCWk11cmxMMXdRX1Q2Ulg3azA?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 20:09:50 GMT",
+      "description": "Two Days of Agricultural Law Education in West Virginia Morning Ag Clips",
+      "score": 0.0,
+      "title_vi": "Hai ngày Giáo dục Luật Nông nghiệp ở Tây Virginia - Morning Ag Clips",
+      "title_en": "Two Days of Agricultural Law Education in West Virginia - Morning Ag Clips",
+      "summary_vi": "Hai ngày Giáo dục Luật Nông nghiệp ở Tây Virginia Morning Ag Clips",
+      "summary_en": "Two Days of Agricultural Law Education in West Virginia Morning Ag Clips",
+      "meta": {}
+    },
+    {
+      "title": "Cam Skattebo's return brings positive, tough energy to Giants huddle - Giants Wire",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdzlicTZ1cmFha212Ql8yUkExMkkyYjZ1OXVHZ3c3dUE3WVc4UkhzR0FnYmo4NHZfSVFqLWd2WDcwTWJjNEtBQkpSaVkwNmJ1MUdpWDlfaS1yTVdmWE42anhOUlF4XzdraUhrZ0Y0RjUwVmFEYnNsRVZEeWVhRndoSks4YW81ajVaUFU3OG1iT1ZvZzROWmNIaEI3cFJxeXM2SXdHOEc0QzVCck1wXzhNakVBRTA2LWYxS2dyTzAxYk9ERnVGRmlsR3RSSDdxRWhSTG5UVV9jczhFTmVYR0dlbnpyVmNtdw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 20:00:00 GMT",
+      "description": "Cam Skattebo's return brings positive, tough energy to Giants huddle Giants Wire",
+      "score": 0.0,
+      "title_vi": "Sự trở lại của Cam Skattebo mang lại nguồn năng lượng tích cực, cứng rắn cho cuộc trò chuyện nhóm của Người khổng lồ - Giants Wire",
+      "title_en": "Cam Skattebo's return brings positive, tough energy to Giants huddle - Giants Wire",
+      "summary_vi": "Sự trở lại của Cam Skattebo mang lại nguồn năng lượng tích cực, cứng rắn cho Giants Wire",
+      "summary_en": "Cam Skattebo's return brings positive, tough energy to Giants huddle Giants Wire",
+      "meta": {}
+    },
+    {
+      "title": "Universities of Wisconsin asks for $330M for workforce, healthcare - Superior Telegram",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVNmOHQ0bzhIQ2hUNU11OFRhb0M2azYzWGpqV0Z6TkVkdWV0TzgwZVVJeTlFU2VVdHdSblRhUncxTHJBME5KcnlyaDhEQUdaaUthM1V0dmVaTjZZWXFlRkZXZG5TVGk4cHEtWDlhS0s5SFRGUDV3VmpUb3c4dHZ1cXJaVXRLLWQ0OWFvVTdQMWJsblJHMWlvX2xsZlFZbHlEemNJZEpqUTJjS0xaNzBkemdn?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 19:50:53 GMT",
+      "description": "Universities of Wisconsin asks for $330M for workforce, healthcare Superior Telegram",
+      "score": 0.0,
+      "title_vi": "Các trường đại học Wisconsin yêu cầu 330 triệu đô la cho lực lượng lao động, chăm sóc sức khỏe - Superior Telegram",
+      "title_en": "Universities of Wisconsin asks for $330M for workforce, healthcare - Superior Telegram",
+      "summary_vi": "Các trường đại học Wisconsin yêu cầu 330 triệu đô la cho lực lượng lao động, chăm sóc sức khỏe Superior Telegram",
+      "summary_en": "Universities of Wisconsin asks for $330M for workforce, healthcare Superior Telegram",
+      "meta": {}
+    },
+    {
+      "title": "Jennings County High School senior dies in rollover crash - WDRB",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa29VTS1VYkRZSFpvc2ExUDF0YjIzNzR6bk1iN3lSOHhjVElsUlZuR0dqdV9maHliSndxVEQwalRzQlRhN2MxRVlnMXdPVjd5WWNWSDRkOWJ4aG9EMEhnTmlWdDVPT3JwcjFidnhGazBSUEFLamF2WHlVVTZGRUZIYjBicThvdEpMU19ETE5UV2Y3QzBqOWxMaW8wamxqcWJMdjVfQ19YT1I2MVB4cDlEUWpfY0h4Vmt0SmFwVkhLbEwycjZldGJWRWdFeE00dk0wTlQzWnQySkpTZUU?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 19:47:00 GMT",
+      "description": "Jennings County High School senior dies in rollover crash WDRB",
+      "score": 0.0,
+      "title_vi": "Học sinh cuối cấp trường trung học quận Jennings chết trong vụ tai nạn lật xe - WDRB",
+      "title_en": "Jennings County High School senior dies in rollover crash - WDRB",
+      "summary_vi": "Học sinh cuối cấp trường trung học quận Jennings chết trong vụ tai nạn lật xe WDRB",
+      "summary_en": "Jennings County High School senior dies in rollover crash WDRB",
+      "meta": {}
+    },
+    {
+      "title": "The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank",
+      "url": "https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 19:41:18 +0000",
+      "description": "Article URL: https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/ Comments URL: https://news.ycombinator.com/item?id=49322979 Points: 10 # Comments: 5",
+      "score": 0.0,
+      "title_vi": "Dự án tiền điện tử của Trump vừa tiến một bước gần hơn để trở thành ngân hàng",
+      "title_en": "The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank",
+      "summary_vi": "URL bài viết: https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/ URL bình luận: https://news.ycombinator.com/item?id=49322979 Điểm: 10 # Bình luận: 5",
+      "summary_en": "Article URL: https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/ Comments URL: https://news.ycombinator.com/item?id=49322979 Points: 10 # Comments: 5",
+      "meta": {}
+    },
+    {
+      "title": "Ford Stock Faces Trade-Rule Cost Equal to 19% of Profit Forecast - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdWxRelU4YWJBdmNscWRETnhBUHhmc0J5Slk3MjNJanBKUmxYcWJmYVlINXdrc05EX0p5bUQ3N2VpZ0hKZVRSM3NpWjFHZ1dFMlFHSm14REFFcmY5eE8zTXRrRFg2dXZhNHd0eEtLQXpqaTJRU0JwYzQ1TFdtVDdTbjR2NnRqVVpBZ3pQWA?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 19:15:53 GMT",
+      "description": "Ford Stock Faces Trade-Rule Cost Equal to 19% of Profit Forecast TechStock²",
+      "score": 0.0,
+      "title_vi": "Cổ phiếu Ford phải đối mặt với chi phí theo quy định thương mại bằng 19% dự báo lợi nhuận - TechStock²",
+      "title_en": "Ford Stock Faces Trade-Rule Cost Equal to 19% of Profit Forecast - TechStock²",
+      "summary_vi": "Cổ phiếu Ford phải đối mặt với chi phí theo quy định thương mại bằng 19% dự báo lợi nhuận TechStock²",
+      "summary_en": "Ford Stock Faces Trade-Rule Cost Equal to 19% of Profit Forecast TechStock²",
+      "meta": {}
+    },
+    {
+      "title": "Models Are Getting Dumber on Purpose",
+      "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 19:04:26 +0000",
+      "description": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 113 # Comments: 67",
+      "score": 0.0,
+      "title_vi": "Người mẫu ngày càng ngu ngốc hơn",
+      "title_en": "Models Are Getting Dumber on Purpose",
+      "summary_vi": "URL bài viết: https://w4g1.dev/blog/models-are-getting-dumber-on-Purpose URL bình luận: https://news.ycombinator.com/item?id=49322695 Điểm: 113 # Bình luận: 67",
+      "summary_en": "Article URL: https://w4g1.dev/blog/models-are-getting-dumber-on-purpose Comments URL: https://news.ycombinator.com/item?id=49322695 Points: 113 # Comments: 67",
+      "meta": {}
+    },
+    {
+      "title": "Wendy’s shares could reach 9x EBITDA with a 20% buyout premium - TechStock²",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSkN6X0t3LXB0MDc3MDA2WnFaeVpzVE43ZjhXY0lXd1dpSzNqbVNIY2h6Ml9MOHdSdkh4bXFBZkNWamdTWFc1eGs5bHdQemZmUFhaTmJTVHByZWVpaFV6UWZHaFIyVzhScERTekNGdW5NU1NuTEtSNnpaOGlDbnVJREhVVklrVm85Y1VOcHBrWWg4SW1weTJZ?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 18:57:55 GMT",
+      "description": "Wendy’s shares could reach 9x EBITDA with a 20% buyout premium TechStock²",
+      "score": 0.0,
+      "title_vi": "Cổ phiếu của Wendy có thể đạt EBITDA gấp 9 lần với phí mua lại 20% - TechStock²",
+      "title_en": "Wendy’s shares could reach 9x EBITDA with a 20% buyout premium - TechStock²",
+      "summary_vi": "Cổ phiếu của Wendy có thể đạt EBITDA gấp 9 lần với mức phí mua lại 20% TechStock²",
+      "summary_en": "Wendy’s shares could reach 9x EBITDA with a 20% buyout premium TechStock²",
+      "meta": {}
+    },
+    {
+      "title": "Protobuf has LSP support. You're welcome",
+      "url": "https://buf.build/blog/protobuf-lsp",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 18:48:27 +0000",
+      "description": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 35 # Comments: 9",
+      "score": 0.0,
+      "title_vi": "Protobuf có hỗ trợ LSP. Không có gì",
+      "title_en": "Protobuf has LSP support. You're welcome",
+      "summary_vi": "URL bài viết: https://buf.build/blog/protobuf-lsp URL bình luận: https://news.ycombinator.com/item?id=49322573 Điểm: 35 # Bình luận: 9",
+      "summary_en": "Article URL: https://buf.build/blog/protobuf-lsp Comments URL: https://news.ycombinator.com/item?id=49322573 Points: 35 # Comments: 9",
+      "meta": {}
+    },
+    {
+      "title": "US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Gain & Nasdaq Futures Point Higher Ahead of Wall Street Opening; Check Monday Market Outlook & Key Things To Watch - The Sunday Guardian",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPenZpRVlQQV90M1J6UkJYMnB3RHh3cDhXdEZrR2N4WXVROEtvdERJMl9lcElwSnk2ZE95cmt2bWVHV2VEdXJwRU1yaXNhb1lRVHNuQkx5NjVBc0tHaER3TTRFRG1JSTltQ1JfX3hFM2NMRkRPeTJiS3IwbmFrdDMwNFVuTVJlY1A5eXgxc1RQUV9CS0NmVXZhLTRXb0xMU3g5ZmdIU3NUdGczTEdPRU53UTlEZTh1UFpFQVB1VWw4b182LUVGa3MtLTl4czNiUDFEOUMwLW1SZjFZcDNvY1Jlci1fS21xNXNoU3dwTG9TTWNfdC1XU0k5M2dDekFPMkNrOUZIMHplYkNOVlV0VHM5aFhfM3V2Q09KODJUV3gwZ2hvYUY1QVBmbWZpbW1Vb0VPQWlYQS1ZcGVGMkNPcnZiNGVRQU5sbWtyM1HSAc8CQVVfeXFMT2tlYngxSEVzYUI3YllydVpaVFpxLS1pbnBZUlNzS1ZJOGlpT2xHeTZuMFBpc0lMeHdFN1ZIUHdtUllvak9uZ3hTQTF1S0hmNWNfRk1TUnRIc2V0aUJieDJhR25NWVZHd1VkNmcxY3pHb1BXQzZkQnM0YVlUdjhGck9icElMeDVBQnZEQ1EyWktlQVhZb0VVZDdqTzRaTjZlcDk1SVd6Wkl5Mk43NHNCbUJDZTIyOWNKSlloZjdQTENVeUJvMFdGeEh1VThYM3hyYXZnd0F2MC1zZEEzMXMxb1NOaTRGNmpfeVJQWWlLa2ZfSXJhOEE1MDJtY1pidUthcUs2X1VaWjREQnhoNUxZQUlKektPekFQZkhHVU1KRGgzR1V1MmtYRHlrcFJhNW1rNEIzUFFfS0ZYVUplSW1saFdYWVEtaXpJTzdHeGE3cEk?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 18:28:15 GMT",
+      "description": "US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Gain & Nasdaq Futures Point Higher Ahead of Wall Street Opening; Check Monday Market Outlook & Key Things To Watch The Sunday Guardian",
+      "score": 0.0,
+      "title_vi": "Dự đoán thị trường chứng khoán Hoa Kỳ: Hợp đồng tương lai Dow Jones tăng, Hợp đồng tương lai S&P 500 tăng & Hợp đồng tương lai Nasdaq tăng cao hơn trước khi Phố Wall mở cửa; Kiểm tra triển vọng thị trường thứ Hai và những điều quan trọng cần theo dõi - The Sunday Guardian",
+      "title_en": "US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Gain & Nasdaq Futures Point Higher Ahead of Wall Street Opening; Check Monday Market Outlook & Key Things To Watch - The Sunday Guardian",
+      "summary_vi": "Dự đoán thị trường chứng khoán Hoa Kỳ: Hợp đồng tương lai Dow Jones tăng, Hợp đồng tương lai S&P 500 tăng & Hợp đồng tương lai Nasdaq tăng cao hơn trước khi Phố Wall mở cửa; Kiểm tra triển vọng thị trường thứ Hai và những điều quan trọng cần theo dõi The Sunday Guardian",
+      "summary_en": "US Stock Market Prediction: Dow Jones Futures Rise, S&P 500 Futures Gain & Nasdaq Futures Point Higher Ahead of Wall Street Opening; Check Monday Market Outlook & Key Things To Watch The Sunday Guardian",
+      "meta": {}
+    },
+    {
+      "title": "MathCode, Mathematical Coding Agent",
+      "url": "https://math-ai-org.github.io/mathcode/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 18:17:10 +0000",
+      "description": "Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 27 # Comments: 9",
+      "score": 0.0,
+      "title_vi": "MathCode, Tác nhân mã hóa toán học",
+      "title_en": "MathCode, Mathematical Coding Agent",
+      "summary_vi": "URL bài viết: https://math-ai-org.github.io/mathcode/ URL bình luận: https://news.ycombinator.com/item?id=49322330 Điểm: 27 # Bình luận: 9",
+      "summary_en": "Article URL: https://math-ai-org.github.io/mathcode/ Comments URL: https://news.ycombinator.com/item?id=49322330 Points: 27 # Comments: 9",
+      "meta": {}
+    },
+    {
+      "title": "At AI-fueled market party, Wall Street eyes the rates punch bowl - livemint.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWm5uV0lyWlhvemkyMHR0WUVfczRodkYxYjhoOTRwbkR6Y3lkQTRjc3YwZERHRVI4d1RGbHgtVG84ZnVSWS1ySFRXY3JDWHlsVGtKV256Z2hlNGZVNjZuaEtwekw3ZWhwMkdKdWFNeWVOX2VmeU9vRnRTb2Q2XzZzdDljVktwZ0RORF9hazBJMGlRQlZQOWtpdjFoMERwZHdRUjI5dHlLbWFxUHVTaUR5ZXdfS0g1SnNxbjZDcFlrM2d2RzJtcG1XMHBkN2VPUdIB0wFBVV95cUxNaW9pNUYwQXVYSWNqdGlIUG1oMWhrZmp5cDVGMmFFRHFvTzlPYUo4dUJ5LXcxblZ0SW05WnBTakVZbVhBSjJpaFZMdnNhTnh5QUFKU0tQSV91NnpwbDI3QmQ1bnRQZEF2UWd5cmE3akVhLThlVlc3VFMxR3pXX05JellfTmdXYWpOUGM4azNZNDJUUFRWNm45dDVYalV1OHRNTHh3UlhSZmM4cGpXOWFwVjlFU1pua3pocGtKNFZHT3JBU3UydjV3NmdfMXFHcG00M0hB?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 17:50:40 GMT",
+      "description": "At AI-fueled market party, Wall Street eyes the rates punch bowl livemint.com",
+      "score": 0.0,
+      "title_vi": "Tại bữa tiệc thị trường được hỗ trợ bởi AI, Phố Wall để mắt đến tỷ giá",
+      "title_en": "At AI-fueled market party, Wall Street eyes the rates punch bowl - livemint.com",
+      "summary_vi": "Tại bữa tiệc thị trường được hỗ trợ bởi AI, Phố Wall để mắt đến bảng tỷ giá livemint.com",
+      "summary_en": "At AI-fueled market party, Wall Street eyes the rates punch bowl livemint.com",
+      "meta": {}
+    },
+    {
+      "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "url": "https://news.ycombinator.com/item?id=49322107",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 17:49:46 +0000",
+      "description": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and then disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this. Comments URL: https://news.ycombinator.com/item?id=49322107 Points: 112 # Comments: 30",
+      "score": 0.0,
+      "title_vi": "Nói với HN: Cloudflare âm thầm đưa phân tích của mình khi bạn chuyển đổi máy chủ tên",
+      "title_en": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+      "summary_vi": "Một vài giờ trước, tôi đã chuyển máy chủ tên của mình sang Cloudflare để cho phép nhóm R2 phân phát thông qua tên miền phụ của riêng tôi và tôi phát hiện ra rằng nó đã âm thầm đưa một đoạn mã phân tích JS vào textlog.cc trang web không có JS chỉ có HTML của tôi — Tôi phải truy cập trang tổng quan Analytics, Thêm trang web vào phần phân tích rồi tắt đoạn mã đó. Tôi thấy cách tiếp cận này hoàn toàn xâm lấn, bạn nên chọn tham gia các tính năng như vậy chứ không cần phải chọn không tham gia. Chỉ là một lời cảnh báo cho những người có thể không biết về điều này. URL nhận xét: https://news.ycombinator.com/item?id=49322107 Điểm: 112 # Nhận xét: 30",
+      "summary_en": "A few hours ago I switched my nameservers to Cloudflare in order to enable R2 bucket serving through my own subdomain, and I found out that it silently had injected a JS analytics snippet in my HTML-only JS-free site textlog.cc — I had to go to the Analytics dashboard, Add the site to the analytics and then disable the snippet. I find this approach entirely invasive, you should opt-in to features like that not have to opt-out. Just a warning out there to folks who might not be aware of this. Comments URL: https://news.ycombinator.com/item?id=49322107 Points: 112 # Comments: 30",
+      "meta": {}
+    },
+    {
+      "title": "VN-Index có thể lùi về 1.700 điểm trước cú hích nâng hạng FTSE",
+      "url": "https://vnexpress.net/vn-index-co-the-lui-ve-1-700-diem-truoc-cu-hich-nang-hang-ftse-5109688.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Mon, 17 Aug 2026 00:10:00 +0700",
+      "description": "Các công ty chứng khoán cho rằng VN-Index có thể điều chỉnh về vùng 1.700 điểm trước khi thị trường đón dòng tiền từ đợt nâng hạng của FTSE Russell.",
+      "score": 0.0,
+      "title_vi": "VN-Index có thể lùi về 1.700 điểm trước cú hích nâng hạng FTSE",
+      "title_en": "VN-Index may retreat to 1,700 points before the push to upgrade FTSE",
+      "summary_vi": "Các công ty chứng khoán cho rằng VN-Index có thể điều chỉnh về vùng 1.700 điểm trước khi thị trường đón dòng tiền từ đợt nâng hạng của FTSE Russell.",
+      "summary_en": "Securities companies believe that the VN-Index may adjust to the 1,700 point area before the market receives cash flow from the upgrade of FTSE Russell.",
+      "meta": {}
+    },
+    {
+      "title": "Mỹ thiếu nhân lực để phá thế thống trị khoáng sản của Trung Quốc",
+      "url": "https://vnexpress.net/my-thieu-nhan-luc-de-pha-the-thong-tri-khoang-san-cua-trung-quoc-5109777.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Mon, 17 Aug 2026 00:08:00 +0700",
+      "description": "Mỹ tăng tốc đầu tư sản xuất khoáng sản thiết yếu để giảm phụ thuộc Trung Quốc, nhưng gặp nút thắt ở khâu thiếu hụt nhân sự.",
+      "score": 0.0,
+      "title_vi": "Mỹ thiếu nhân lực để phá thế thống trị khoáng sản của Trung Quốc",
+      "title_en": "The US lacks the manpower to break China's mineral dominance",
+      "summary_vi": "Mỹ tăng tốc đầu tư sản xuất khoáng sản thiết yếu để giảm phụ thuộc Trung Quốc, nhưng gặp nút thắt ở khâu thiếu hụt nhân sự.",
+      "summary_en": "The United States accelerated investment in essential mineral production to reduce dependence on China, but encountered a bottleneck in personnel shortage.",
+      "meta": {}
+    },
+    {
+      "title": "Kinh tế Nga ngày càng xuất hiện nhiều vết nứt",
+      "url": "https://vnexpress.net/kinh-te-nga-ngay-cang-xuat-hien-nhieu-vet-nut-5109712.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Mon, 17 Aug 2026 00:05:00 +0700",
+      "description": "Nga vẫn tăng trưởng, nhưng rào cản cũng đang nhiều lên, từ lạm phát cao, thâm hụt ngân sách phình to đến nguồn thu dầu khí giảm.",
+      "score": 0.0,
+      "title_vi": "Kinh tế Nga ngày càng xuất hiện nhiều vết nứt",
+      "title_en": "The Russian economy is showing more and more cracks",
+      "summary_vi": "Nga vẫn tăng trưởng, nhưng rào cản cũng đang nhiều lên, từ lạm phát cao, thâm hụt ngân sách phình to đến nguồn thu dầu khí giảm.",
+      "summary_en": "Russia is still growing, but barriers are also increasing, from high inflation, ballooning budget deficits to falling oil and gas revenues.",
+      "meta": {}
+    },
+    {
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 16 Aug 2026 17:01:07 +0000",
+      "description": "Article URL: https://rvembedded.com/blog_post/12/ Comments URL: https://news.ycombinator.com/item?id=49321717 Points: 189 # Comments: 107",
+      "score": 0.0,
+      "title_vi": "Một kỹ sư nhúng ở thế giới thứ 3 trả lời \"Đáng lẽ họ nên biết rõ hơn về RISC-V\"",
+      "title_en": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "summary_vi": "URL bài viết: https://rvembedded.com/blog_post/12/ URL bình luận: https://news.ycombinator.com/item?id=49321717 Điểm: 189 # Bình luận: 107",
+      "summary_en": "Article URL: https://rvembedded.com/blog_post/12/ Comments URL: https://news.ycombinator.com/item?id=49321717 Points: 189 # Comments: 107",
+      "meta": {}
+    },
+    {
+      "title": "AI biến vệ tinh thành 'bộ não' trên quỹ đạo",
+      "url": "https://vnexpress.net/ai-bien-ve-tinh-thanh-bo-nao-tren-quy-dao-5107464.html",
+      "source": "VnExpress Số hóa",
+      "category": "technology",
+      "market": "vietnam",
+      "published": "Mon, 17 Aug 2026 00:00:00 +0700",
+      "description": "AI đang thay đổi hoạt động của vệ tinh từ những cỗ máy truyền dữ liệu thô về Trái Đất sang hệ thống tự phân tích thông tin và xử lý sự cố khẩn cấp.",
+      "score": 0.0,
+      "title_vi": "AI biến vệ tinh thành 'bộ não' trên quỹ đạo",
+      "title_en": "AI turns satellites into 'brains' in orbit",
+      "summary_vi": "AI đang thay đổi hoạt động của vệ tinh từ những cỗ máy truyền dữ liệu thô về Trái Đất sang hệ thống tự phân tích thông tin và xử lý sự cố khẩn cấp.",
+      "summary_en": "AI is changing satellite operations from machines that transmit raw data back to Earth to systems that automatically analyze information and handle emergency incidents.",
+      "meta": {}
+    }
+  ],
+  "insights": {
+    "status": "ready",
+    "model": "z-ai/glm-5.2",
+    "daily_thesis_vi": "Các nhà phát triển đang vật lộn với sự phình to của plugin AI và các quy trình làm việc phức tạp, trong đó các doanh nghiệp cần các công cụ gỡ rối AI và chuyển đổi tài liệu sạch.",
+    "daily_thesis_en": "Developers struggle with AI plugin sprawl and complex workflows, while businesses need clean document conversion and AI code-quality guardrails.",
+    "opportunities": [
+      {
+        "name_vi": "Quản lý Plugin AI",
+        "name_en": "AI Plugin Manager",
+        "pain_vi": "Sự bùng nổ của hệ sinh thái plugin AI gây khó khăn cho việc quản lý và tùy chỉnh giao diện.",
+        "pain_en": "AI plugin ecosystem sprawl makes managing and customizing interfaces difficult for developers.",
+        "audience_vi": "Nhà phát triển phần mềm",
+        "audience_en": "Software developers",
+        "mvp_vi": "Bảng điều khiển trung tâm để cài đặt, theo dõi và tùy biến plugin AI.",
+        "mvp_en": "Centralized dashboard to install, track, and customize AI plugins.",
+        "scope": "global",
+        "score": 82,
+        "evidence_ids": [
+          1,
+          2,
+          4,
+          6
+        ],
+        "risks_vi": "Dễ bị thay thế bởi các nền tảng mã nguồn mở.",
+        "risks_en": "Easily replaced by open-source platforms.",
+        "sources": [
+          {
+            "title": "deepseek-ai/deepseek-harness",
+            "url": "https://github.com/deepseek-ai/deepseek-harness",
+            "source": "GitHub"
+          },
+          {
+            "title": "anywhere-labs/deepseek-harness-desktop",
+            "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+            "source": "GitHub"
+          },
+          {
+            "title": "awesome-dsh-plugin/awesome-dsh-plugin",
+            "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+            "source": "GitHub"
+          },
+          {
+            "title": "zhu1090093659/dsh-web-ui",
+            "url": "https://github.com/zhu1090093659/dsh-web-ui",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Chuyển đổi tài liệu Markdown",
+        "name_en": "Markdown Document Converter",
+        "pain_vi": "Chuyển đổi tài liệu đa định dạng sang Markdown sạch cho LLM tốn nhiều thời gian.",
+        "pain_en": "Converting multi-format documents to clean Markdown for LLMs is time-consuming.",
+        "audience_vi": "Nhà phát triển AI và kỹ sư dữ liệu",
+        "audience_en": "AI developers and data engineers",
+        "mvp_vi": "API chuyển đổi PDF, Word, Excel sang Markdown sạch giữ nguyên cấu trúc.",
+        "mvp_en": "API converting PDF, Word, Excel to clean Markdown retaining structure.",
+        "scope": "global",
+        "score": 88,
+        "evidence_ids": [
+          5
+        ],
+        "risks_vi": "Cạnh tranh gay gắt từ các công cụ mã nguồn mở.",
+        "risks_en": "Intense competition from open-source tools.",
+        "sources": [
+          {
+            "title": "firecrawl/anydoc",
+            "url": "https://github.com/firecrawl/anydoc",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Kiểm soát chất lượng mã AI",
+        "name_en": "AI Code Quality Guardrails",
+        "pain_vi": "Mã do AI tạo ra thường có chất lượng thấp và thiếu bằng chứng, gây rủi ro hệ thống.",
+        "pain_en": "AI-generated code often has low quality and lacks evidence, posing system risks.",
+        "audience_vi": "Nhà phát triển và nhóm kỹ thuật phần mềm",
+        "audience_en": "Software developers and engineering teams",
+        "mvp_vi": "Tiện ích Linter phát hiện và chặn các mẫu mã TypeScript/JS rủi ro do AI tạo.",
+        "mvp_en": "Linter plugin detecting and blocking risky AI-generated TypeScript/JS patterns.",
+        "scope": "global",
+        "score": 85,
+        "evidence_ids": [
+          8,
+          23
+        ],
+        "risks_vi": "Cần cập nhật liên tục các quy tắc phát hiện.",
+        "risks_en": "Requires constant updates to detection rules.",
+        "sources": [
+          {
+            "title": "dmmulroy/anti-slop",
+            "url": "https://github.com/dmmulroy/anti-slop",
+            "source": "GitHub"
+          },
+          {
+            "title": "Models Are Getting Dumber on Purpose",
+            "url": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+            "source": "Hacker News"
+          }
+        ]
+      },
+      {
+        "name_vi": "Tạo kỹ năng từ sách kỹ thuật",
+        "name_en": "Technical Book to Skill",
+        "pain_vi": "Khó chuyển hóa kiến thức từ sách PDF kỹ thuật thành kỹ năng thực hành ngay lập tức.",
+        "pain_en": "Hard to turn technical PDF book knowledge into immediately actionable skills.",
+        "audience_vi": "Lập trình viên và người học kỹ thuật",
+        "audience_en": "Developers and technical learners",
+        "mvp_vi": "Công cụ chuyển sách PDF thành gói kỹ năng AI để tra cứu khi làm việc.",
+        "mvp_en": "Tool converting PDFs into AI skill packages for in-work reference.",
+        "scope": "global",
+        "score": 78,
+        "evidence_ids": [
+          9
+        ],
+        "risks_vi": "Vấn đề bản quyền nội dung sách điện tử.",
+        "risks_en": "E-book content copyright issues.",
+        "sources": [
+          {
+            "title": "Leutenegger/book-to-skill",
+            "url": "https://github.com/Leutenegger/book-to-skill",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Bảo vệ quyền riêng tư web",
+        "name_en": "Web Privacy Protector",
+        "pain_vi": "Các nhà cung cấp CDN lặng lẽ chèn script theo dõi vào trang web tĩnh, vi phạm quyền riêng tư.",
+        "pain_en": "CDN providers silently inject tracking scripts into static sites, violating privacy.",
+        "audience_vi": "Quản trị viên web và người dùng cá nhân",
+        "audience_en": "Web admins and individual users",
+        "mvp_vi": "Công cụ quét và tự động chặn các script theo dõi bị chèn lén.",
+        "mvp_en": "Tool scanning and automatically blocking secretly injected tracking scripts.",
+        "scope": "global",
+        "score": 75,
+        "evidence_ids": [
+          29
+        ],
+        "risks_vi": "Có thể bị nhà cung cấp CDN chặn ngược.",
+        "risks_en": "May be counter-blocked by CDN providers.",
+        "sources": [
+          {
+            "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+            "url": "https://news.ycombinator.com/item?id=49322107",
+            "source": "Hacker News"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}
