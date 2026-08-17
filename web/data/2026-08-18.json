@@ -1,0 +1,763 @@
+{
+  "date": "2026-08-18",
+  "generated_at": "2026-08-17T20:42:01.798325+00:00",
+  "markets": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7745.0601,
+      "change_pct": -0.52,
+      "currency": "USD"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "price": 26644.9102,
+      "change_pct": -0.32,
+      "currency": "USD"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "price": 4471.5,
+      "change_pct": 2.08,
+      "currency": "USD"
+    },
+    {
+      "name": "Crude Oil",
+      "symbol": "CL=F",
+      "price": 84.85,
+      "change_pct": 2.97,
+      "currency": "USD"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC-USD",
+      "price": 64337.8398,
+      "change_pct": 2.42,
+      "currency": "USD"
+    },
+    {
+      "name": "USD/VND",
+      "symbol": "VND=X",
+      "price": 26200.0,
+      "change_pct": 0.2,
+      "currency": "VND"
+    }
+  ],
+  "items": [
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T11:56:32Z",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "score": 29962.53,
+      "title_vi": "deepseek-ai/deepseek-khai thác",
+      "title_en": "deepseek-ai/deepseek-harness",
+      "summary_vi": "Khai thác DeepSeek: Mọi thứ đều là Plugin.",
+      "summary_en": "DeepSeek Harness: Everything is a Plugin.",
+      "meta": {
+        "stars": 149217,
+        "forks": 15283,
+        "language": "TypeScript",
+        "stars_per_day": 29843.4
+      }
+    },
+    {
+      "title": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T16:30:50Z",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "score": 2408.17,
+      "title_vi": "mọi nơi-phòng thí nghiệm/deepseek-khai thác-máy tính để bàn",
+      "title_en": "anywhere-labs/deepseek-harness-desktop",
+      "summary_vi": "Một giải pháp máy tính để bàn hiện đại được xây dựng cho hệ sinh thái plug-in DeepSeek Harness (DSH). Mọi thứ đều là một \"plug-in\" và bản thân máy tính để bàn cũng là một \"plug-in\".",
+      "summary_en": "A modern desktop solution built for the DeepSeek Harness (DSH) plug-in ecosystem. Everything is a \"plug-in\", and the desktop itself is also a \"plug-in\".",
+      "meta": {
+        "stars": 11573,
+        "forks": 517,
+        "language": "TypeScript",
+        "stars_per_day": 2314.6
+      }
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "score": 1992.66,
+      "title_vi": "guillaumemeyer/loại bỏ hình mờ",
+      "title_en": "guillaumemeyer/watermarks-remover",
+      "summary_vi": "Loại bỏ các dấu xuất xứ AI của nhiều nhà cung cấp: Vệ sinh văn bản Unicode, móc viết lại thống kê và C2PA/siêu dữ liệu từ PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "summary_en": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "meta": {
+        "stars": 13284,
+        "forks": 1439,
+        "language": "Python",
+        "stars_per_day": 1897.7
+      }
+    },
+    {
+      "title": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T13:55:31Z",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "score": 1595.87,
+      "title_vi": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "title_en": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "summary_vi": "Danh sách bổ trợ được tuyển chọn dành cho Khai thác DeepSeek (dsh) · Khai thác DeepSeek Danh sách bổ trợ được tuyển chọn cho Khai thác DeepSeek",
+      "summary_en": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness A curated list of plugins for DeepSeek Harness",
+      "meta": {
+        "stars": 7533,
+        "forks": 1084,
+        "language": "Python",
+        "stars_per_day": 1506.6
+      }
+    },
+    {
+      "title": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-12T05:15:20Z",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "score": 764.32,
+      "title_vi": "zhu1090093659/dsh-web-ui",
+      "title_en": "zhu1090093659/dsh-web-ui",
+      "summary_vi": "Bộ sưu tập plugin và giao diện cho giao diện người dùng web DeepSeek Harness (DSH) - bảng tác vụ, biểu đồ git, bảng điều khiển bên phải, giao diện người dùng di động từ xa, thú cưng, số liệu thống kê mã thông báo trực tiếp và trung tâm giao diện.",
+      "summary_en": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "meta": {
+        "stars": 4087,
+        "forks": 250,
+        "language": "TypeScript",
+        "stars_per_day": 681.2
+      }
+    },
+    {
+      "title": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-12T13:48:50Z",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "score": 460.4,
+      "title_vi": "dmmulroy/chống trượt",
+      "title_en": "dmmulroy/anti-slop",
+      "summary_vi": "Các quy tắc Oxlint có ý kiến ​​​​để từ chối các mẫu TypeScript và JavaScript có bằng chứng thấp",
+      "summary_en": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "meta": {
+        "stars": 2298,
+        "forks": 39,
+        "language": "TypeScript",
+        "stars_per_day": 383.0
+      }
+    },
+    {
+      "title": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T12:49:31Z",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "score": 435.99,
+      "title_vi": "ccch1mining/dsh-TUI",
+      "title_en": "ccch1mining/dsh-TUI",
+      "summary_vi": "Các plug-in bổ sung TUI có trong tài khoản công khai chính thức của DSH: Claude Code wind, thanh trên cùng của cá voi/trạng thái thời gian thực/tư duy phát trực tuyến/nhấp đúp vào Esc để quay lại/tiến trình ngữ cảnh + TPS. npm cài đặt bằng một cú nhấp chuột.  WeChat chính thức của DSH có plugin TUI nổi bật - Kiểu mã Claude: thanh cá voi, trạng thái trực tiếp, truyền phát suy nghĩ, khôi phục Esc đôi, thanh ngữ cảnh + TPS. npm chỉ bằng một cú nhấp chuột.",
+      "summary_en": "TUI fill-in plug-ins included in DSH official public account: Claude Code wind, whale top bar/real-time status/streaming thinking/double-click Esc to roll back/context progress + TPS. npm one-click installation.  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "meta": {
+        "stars": 1805,
+        "forks": 80,
+        "language": "TypeScript",
+        "stars_per_day": 361.0
+      }
+    },
+    {
+      "title": "Small-tailqwq/dsh-deep-whale",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T13:02:14Z",
+      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "score": 320.9,
+      "title_vi": "Cá voi đuôi nhỏqwq/dsh-sâu",
+      "title_en": "Small-tailqwq/dsh-deep-whale",
+      "summary_vi": "DSH Web Whale Girl Skin Series (Deep Sea Maid Workshop Maid-atelier)——CC BY-NC-SA 4.0",
+      "summary_en": "DSH Web Whale Girl Skin Series (Deep Sea Maid Workshop maid-atelier)——CC BY-NC-SA 4.0",
+      "meta": {
+        "stars": 1248,
+        "forks": 41,
+        "language": "TypeScript",
+        "stars_per_day": 249.6
+      }
+    },
+    {
+      "title": "pathwaycom/arc-task-gen",
+      "url": "https://github.com/pathwaycom/arc-task-gen",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-04T12:59:02Z",
+      "description": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
+      "score": 317.7,
+      "title_vi": "pathcom/arc-task-gen",
+      "title_en": "pathwaycom/arc-task-gen",
+      "summary_vi": "Tạo các nhiệm vụ kiểu ARC-AGI-1 ban đầu được phân phối phù hợp với tập hợp đánh giá công khai.",
+      "summary_en": "Generates original ARC-AGI-1-style tasks distribution-matched to the public eval set.",
+      "meta": {
+        "stars": 3313,
+        "forks": 19,
+        "language": "Python",
+        "stars_per_day": 236.6
+      }
+    },
+    {
+      "title": "Leutenegger/book-to-skill",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T13:15:23Z",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "score": 305.7,
+      "title_vi": "Leutenegger/book-to-skill",
+      "title_en": "Leutenegger/book-to-skill",
+      "summary_vi": "Biến bất kỳ cuốn sách kỹ thuật PDF nào thành kỹ năng Mã Claude - sẵn sàng để nghiên cứu, tham khảo và sử dụng trong khi bạn làm việc.",
+      "summary_en": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "meta": {
+        "stars": 1175,
+        "forks": 142,
+        "language": "Python",
+        "stars_per_day": 235.0
+      }
+    },
+    {
+      "title": "Senator Honig Welcomes $1.387 Million In Special Education Support For Canton, New Hartford, Region 10 Schools, Simsbury and Torrington - Connecticut Senate Democrats (.gov)",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQzhFZVlrelBwbFVMeEpOSmNWQTNWQ2dhcmZseGdkb2ViX3I4SHlLdWtEZWNvQmlSaW41M3E1SThZZWZIakZEbDlTSGk3cnptLTFKSlprT3phRnVnQW5DX2JvWll0bWg5UlAzRFVGbEg5YjQyTWJndjZtYU1yT1EtcnYzUEtDTFJQVUZsOEJTUDFsSVBSdWVLT3dSbGN4RkRNdkhMTGJZempOa25DRGlTNURROXhIdHp1Z2YxdDd2djZrVzFPUVNld2pkOS1WWWFMUWRfVllLZGRmZlM0WS1DWjF3dEx0YUxOeWxKblVxeVZlZzg?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 20:40:14 GMT",
+      "description": "Senator Honig Welcomes $1.387 Million In Special Education Support For Canton, New Hartford, Region 10 Schools, Simsbury and Torrington Connecticut Senate Democrats (.gov)",
+      "score": 0.0,
+      "title_vi": "Thượng nghị sĩ Honig hoan nghênh khoản hỗ trợ giáo dục đặc biệt trị giá 1,387 triệu USD cho các trường học ở Canton, New Hartford, Khu vực 10, Simsbury và Torrington - Đảng Dân chủ Thượng viện Connecticut (.gov)",
+      "title_en": "Senator Honig Welcomes $1.387 Million In Special Education Support For Canton, New Hartford, Region 10 Schools, Simsbury and Torrington - Connecticut Senate Democrats (.gov)",
+      "summary_vi": "Thượng nghị sĩ Honig hoan nghênh khoản hỗ trợ giáo dục đặc biệt trị giá 1,387 triệu USD cho các trường học ở Canton, New Hartford, Khu vực 10, Simsbury và Torrington Connecticut của Đảng Dân chủ Thượng viện (.gov)",
+      "summary_en": "Senator Honig Welcomes $1.387 Million In Special Education Support For Canton, New Hartford, Region 10 Schools, Simsbury and Torrington Connecticut Senate Democrats (.gov)",
+      "meta": {}
+    },
+    {
+      "title": "Energy Secretary Chris Wright Celebrates ‘American Energy Comeback’ in Permian Basin - Texas Scorecard",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLUl4c2VlTVdXQm1JQzVhS3d6MFJjdklxa0lWWTB2YmZ3cGRDa1dlRWZyY2hoNjdMVXdlRVZBUTRYR21rRGhEZW1fUHFlN3AweElTNGRDMkpNVVJCZVN1QkZzZnpNb3p6dmd4b0ZnLWY3U0pHME12T1l1WFVsNjhwUzN5Yi12bW1venZXZm9sa3gzSzVScmc3YkJhRDBoQ3N5TkJQMmxsNEdxM1k1TkRXUFBkWllDLTA3SkE?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 20:39:16 GMT",
+      "description": "Energy Secretary Chris Wright Celebrates ‘American Energy Comeback’ in Permian Basin Texas Scorecard",
+      "score": 0.0,
+      "title_vi": "Bộ trưởng Năng lượng Chris Wright kỷ niệm 'Sự trở lại năng lượng của Mỹ' ở lưu vực Permian - Thẻ điểm Texas",
+      "title_en": "Energy Secretary Chris Wright Celebrates ‘American Energy Comeback’ in Permian Basin - Texas Scorecard",
+      "summary_vi": "Bộ trưởng Năng lượng Chris Wright kỷ niệm 'Sự trở lại năng lượng của Mỹ' ở lưu vực Permian Thẻ điểm Texas",
+      "summary_en": "Energy Secretary Chris Wright Celebrates ‘American Energy Comeback’ in Permian Basin Texas Scorecard",
+      "meta": {}
+    },
+    {
+      "title": "Education Department Will Keep Sending Most K-12 Funds Through Its Own System - Education Week",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMTBYczhYRjYtc19zeDUtdE8zN21mV2x3ZmVEN2p5OGF5MFExT0hXRHdrd0w2OHBaWjJPT1pPNXFOTWlXekZrQkJ0R1NDYjR2X28xMmxRTFQ0cWVMZDhNczVXYmRmcXRNcWRIWHhmX1dpcnYtMUdHTkpYT3RpTG8yRjM2M1BNeDFmQVBYMGx6OVVkbUhUelBPQUZ6eW16T0N0c0kzNFcxbEJ5TzlKd2lFZzdKanRsZTQ0WXRXX3FmdWdEUQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 20:38:50 GMT",
+      "description": "Education Department Will Keep Sending Most K-12 Funds Through Its Own System Education Week",
+      "score": 0.0,
+      "title_vi": "Bộ Giáo dục sẽ tiếp tục gửi hầu hết quỹ K-12 thông qua hệ thống riêng của mình - Tuần giáo dục",
+      "title_en": "Education Department Will Keep Sending Most K-12 Funds Through Its Own System - Education Week",
+      "summary_vi": "Bộ Giáo dục sẽ tiếp tục gửi hầu hết các quỹ K-12 thông qua Tuần lễ Giáo dục Hệ thống của riêng mình",
+      "summary_en": "Education Department Will Keep Sending Most K-12 Funds Through Its Own System Education Week",
+      "meta": {}
+    },
+    {
+      "title": "Agreement advances Texas gas-plus-nuclear concept to next phase -- ANS / Nuclear Newswire - ans.org",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcDRtZmViYkloZFFMUDVsaERsUzNHVDdWQlB6d1BOMS1IaF9hYWFfcElNTGdCLS1HQTFvbkpndEhrOGJNcm9KdHNLM0hWQW1BUVBZdWJjZ0xXcHhwdW9DNHhHWEQtUFozd1o3VmtxR3FYd1NIVEQzeUJoemlqM1hremR5TGdzN0x2M1VpanhTWGNPT1hoN0czTW03ckhzc29IWWc?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 20:35:49 GMT",
+      "description": "Agreement advances Texas gas-plus-nuclear concept to next phase -- ANS / Nuclear Newswire ans.org",
+      "score": 0.0,
+      "title_vi": "Thỏa thuận nâng khái niệm khí đốt cộng với hạt nhân của Texas sang giai đoạn tiếp theo -- ANS / Nuclear Newswire - ans.org",
+      "title_en": "Agreement advances Texas gas-plus-nuclear concept to next phase -- ANS / Nuclear Newswire - ans.org",
+      "summary_vi": "Thỏa thuận nâng cao khái niệm khí đốt cộng với hạt nhân của Texas sang giai đoạn tiếp theo -- ANS / Nuclear Newswire ans.org",
+      "summary_en": "Agreement advances Texas gas-plus-nuclear concept to next phase -- ANS / Nuclear Newswire ans.org",
+      "meta": {}
+    },
+    {
+      "title": "Illinois Begins New School Year with High Marks in National Education Rankings - The State of Illinois Newsroom",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSzRHbkxzN01BNlFzbHdTamU5b0Y2QjZnMEw0VEo3eXNJZVpiQWVEdGl6Q1dodUtuMkl4Y1hsVnpLdmRDOGhCc2Y3UXdDU2ZhTm13ckJpUHdwZUt5bXI2ajJVZHRCVUZlNzZ3T1hiZVdBN2F6U0F5UWotMHZwS1k1cE45Tm5KMDROTTRWSW9mZG0?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 20:34:59 GMT",
+      "description": "Illinois Begins New School Year with High Marks in National Education Rankings The State of Illinois Newsroom",
+      "score": 0.0,
+      "title_vi": "Illinois bắt đầu năm học mới với điểm cao trong bảng xếp hạng giáo dục quốc gia - Phòng tin tức của bang Illinois",
+      "title_en": "Illinois Begins New School Year with High Marks in National Education Rankings - The State of Illinois Newsroom",
+      "summary_vi": "Illinois bắt đầu năm học mới với điểm cao trong bảng xếp hạng giáo dục quốc gia Phòng tin tức bang Illinois",
+      "summary_en": "Illinois Begins New School Year with High Marks in National Education Rankings The State of Illinois Newsroom",
+      "meta": {}
+    },
+    {
+      "title": "Registration open for NAMI Tx Panhandle free mental health education program - NewsChannel 10",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN0hQbUJwaW5QWjFhcktfbXhSa0lTVTNDVTNQM3Y1a2NDbU5ub1h5Mk9DYXZpN0ZxOExqdnNBc05JVXUtNlJhMmptal9UQUhLbF9LanBjYnlQWnVVYWdFdDhlMGJtOGFVSWZGRDNVcy1sVS1QY1pORkFnOUZHeTBFQ3ZxWHJrQmxWcE05YURTdko5WHhqZ3RtckI0aGVlckY4SmQwOG5SVklQa1U0cEZZb2xGbGnSAcgBQVVfeXFMUHZTSi1vZ2VxUjRjMWQ3RWUtTk9fa0JYX3VZZTNqX04zOGF6cG9FZjZNWFJHZW1jTmJPbVhRaUFpVFRrRFFNb3lOYTFhMVA5YUl1M0ExbXVpcHJUbFd6ZUVjaU90X0dtUTdjQVgyeUw2S3h3Y3NTeU5YU3k2c1l5VW55d2ZKTUxvNlV0RkI0enZpd09ud0FvTldPQ1F5TWlVUWZoVGVxTkNKMmZpbnhaaW1GV2FsVEdOcGtQTUM3V1RZZ0MxbW1BTW4?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 20:32:00 GMT",
+      "description": "Registration open for NAMI Tx Panhandle free mental health education program NewsChannel 10",
+      "score": 0.0,
+      "title_vi": "Mở đăng ký cho chương trình giáo dục sức khỏe tâm thần miễn phí NAMI Tx Panhandle - NewsChannel 10",
+      "title_en": "Registration open for NAMI Tx Panhandle free mental health education program - NewsChannel 10",
+      "summary_vi": "Mở đăng ký cho chương trình giáo dục sức khỏe tâm thần miễn phí NAMI Tx Panhandle NewsChannel 10",
+      "summary_en": "Registration open for NAMI Tx Panhandle free mental health education program NewsChannel 10",
+      "meta": {}
+    },
+    {
+      "title": "Corvus Energy Partners With Belga Marine To Support Battery-Powered OSVs In Brazil - oceannews.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU2huc2VReVFEcWw3SDcxSlRDRDVEcTdqWVZmM1ZZMC1Oc1ZxLVlIX3hNSXlnZ0E0bC1wdUVaVUV6V0F5ZVNFV19ndzJuVDYzX2ZsQ3l3NVo2MHpCb3U4ejljX1lVZG1aN2lKTUoya0d6VF9pSzZZNjlnQ3A4bDN4cUpPZVFOTHl3VVU1NWR6NDFLamtEc0Nxek05TFZuSDdKemJibExzSl9UR2ZFSEc1RDViN2dINkVOU3NRcWNn?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 20:26:30 GMT",
+      "description": "Corvus Energy Partners With Belga Marine To Support Battery-Powered OSVs In Brazil oceannews.com",
+      "score": 0.0,
+      "title_vi": "Corvus Energy hợp tác với Belga Marine để hỗ trợ OSV chạy bằng pin ở Brazil - Oceannews.com",
+      "title_en": "Corvus Energy Partners With Belga Marine To Support Battery-Powered OSVs In Brazil - oceannews.com",
+      "summary_vi": "Corvus Energy hợp tác với Belga Marine để hỗ trợ OSV chạy bằng pin ở Brazil Oceannews.com",
+      "summary_en": "Corvus Energy Partners With Belga Marine To Support Battery-Powered OSVs In Brazil oceannews.com",
+      "meta": {}
+    },
+    {
+      "title": "Deployable Energy and Hornbeck Offshore Partner to Bring Nuclear Power to Maritime Markets - oceannews.com",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYUZKXzFld0cwMi1uNEthUVBJTkVyNDVHTVNKRUNBSURWc3B5OHZpOUI2TkRXcnVIUXZqWFhqWHZRUXBKeUYxY3NpUkZ0cEhMSjM4cHFjZUZ2OFJxdWVaX3hJUU9aSTlkNlVoMWVvdlctNVVmeVVaeTFZc29oR2pVa3BHYllwWThacFJIRzhCT2xHclczOGhMZk0ybUk5dHJFS0dpenpadThlMUxXSTdMRFFfZ1VtRERmNTBXazR6clVibWc?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 20:24:38 GMT",
+      "description": "Deployable Energy and Hornbeck Offshore Partner to Bring Nuclear Power to Maritime Markets oceannews.com",
+      "score": 0.0,
+      "title_vi": "Năng lượng có thể triển khai và Đối tác ngoài khơi Hornbeck để đưa năng lượng hạt nhân đến các thị trường hàng hải - Oceannews.com",
+      "title_en": "Deployable Energy and Hornbeck Offshore Partner to Bring Nuclear Power to Maritime Markets - oceannews.com",
+      "summary_vi": "Năng lượng có thể triển khai và Đối tác ngoài khơi Hornbeck để đưa năng lượng hạt nhân đến các thị trường hàng hải Oceannews.com",
+      "summary_en": "Deployable Energy and Hornbeck Offshore Partner to Bring Nuclear Power to Maritime Markets oceannews.com",
+      "meta": {}
+    },
+    {
+      "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
+      "url": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 20:18:35 +0000",
+      "description": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
+      "score": 0.0,
+      "title_vi": "Các nhà điều tra cho biết số lượng người dùng Apple 'chưa từng có' nhận được cảnh báo phần mềm gián điệp gần đây",
+      "title_en": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
+      "summary_vi": "Các chuyên gia an ninh mạng điều tra các cuộc tấn công phần mềm gián điệp cho biết số người nhận được thông báo về mối đe dọa gần đây từ Apple cao bất thường.",
+      "summary_en": "Cybersecurity experts who investigate spyware attacks say the number of people who received a recent threat notification from Apple is unusually high.",
+      "meta": {}
+    },
+    {
+      "title": "Wall Street indexes slip as oil prices rise, retail results awaited - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 20:13:32 GMT",
+      "description": "Wall Street indexes slip as oil prices rise, retail results awaited Reuters",
+      "score": 0.0,
+      "title_vi": "Chỉ số Phố Wall trượt dốc khi giá dầu tăng, kết quả bán lẻ đang chờ đợi - Reuters",
+      "title_en": "Wall Street indexes slip as oil prices rise, retail results awaited - Reuters",
+      "summary_vi": "Chỉ số Phố Wall trượt dốc khi giá dầu tăng, kết quả bán lẻ đang chờ đợi",
+      "summary_en": "Wall Street indexes slip as oil prices rise, retail results awaited Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Won and yen: 2 currencies, 2 very different problems - Nikkei Asia",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMkdFNDZTUWlfSDNleFlMcTVaX3pGWHY4aHdiYmV0RmVCNDEwOEY2dkFpd3RsMXkyWDdNeF9aWTJuMDBzYno5QXJyUFJOajdnaE9MM3lueFoySWNTUXVzSzFKN1dHdW1HVlZSQnh3M3l5M1VGclF5MU9udGZWQlIxTGxUYWYza2hGQ1E?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 20:05:00 GMT",
+      "description": "Won and yen: 2 currencies, 2 very different problems Nikkei Asia",
+      "score": 0.0,
+      "title_vi": "Won và Yên: 2 đồng tiền, 2 vấn đề rất khác nhau - Nikkei Asia",
+      "title_en": "Won and yen: 2 currencies, 2 very different problems - Nikkei Asia",
+      "summary_vi": "Won và Yên: 2 đồng tiền, 2 vấn đề rất khác nhau Nikkei Asia",
+      "summary_en": "Won and yen: 2 currencies, 2 very different problems Nikkei Asia",
+      "meta": {}
+    },
+    {
+      "title": "Will you have spent more of your life with computers than your family?",
+      "url": "https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 19:56:30 +0000",
+      "description": "Article URL: https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/ Comments URL: https://news.ycombinator.com/item?id=49336672 Points: 37 # Comments: 21",
+      "score": 0.0,
+      "title_vi": "Liệu bạn có dành nhiều thời gian trong cuộc đời mình với máy tính hơn là gia đình mình không?",
+      "title_en": "Will you have spent more of your life with computers than your family?",
+      "summary_vi": "URL bài viết: https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/ URL bình luận: https://news.ycombinator.com/item?id=49336672 Điểm: 37 # Bình luận: 21",
+      "summary_en": "Article URL: https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/ Comments URL: https://news.ycombinator.com/item?id=49336672 Points: 37 # Comments: 21",
+      "meta": {}
+    },
+    {
+      "title": "AI;DR (AI; Didn't Read)",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 19:47:15 +0000",
+      "description": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 187 # Comments: 85",
+      "score": 0.0,
+      "title_vi": "AI;DR (AI; ​​Chưa đọc)",
+      "title_en": "AI;DR (AI; Didn't Read)",
+      "summary_vi": "URL bài viết: https://www.rickmanelius.com/p/aidr-ai-didnt-read URL bình luận: https://news.ycombinator.com/item?id=49336573 Điểm: 187 # Bình luận: 85",
+      "summary_en": "Article URL: https://www.rickmanelius.com/p/aidr-ai-didnt-read Comments URL: https://news.ycombinator.com/item?id=49336573 Points: 187 # Comments: 85",
+      "meta": {}
+    },
+    {
+      "title": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "url": "https://techcrunch.com/2026/08/17/save-up-to-300-on-your-techcrunch-disrupt-2026-pass-until-august-21/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 19:33:51 +0000",
+      "description": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "score": 0.0,
+      "title_vi": "Tiết kiệm tới 300 đô la khi mua thẻ TechCrunch Disrupt 2026 cho đến ngày 21 tháng 8",
+      "title_en": "Save up to $300 on your TechCrunch Disrupt 2026 pass until August 21",
+      "summary_vi": "Nếu bạn đang đi vòng quanh Disrupt, thì bây giờ là thời điểm tốt nhất để khóa thẻ của bạn và bắt đầu sẵn sàng tham gia phần còn lại của buổi họp mặt cộng đồng khởi nghiệp ở San Francisco từ ngày 13 đến ngày 15 tháng 10 tại Moscone West!",
+      "summary_en": "If you’ve been circling around Disrupt, then now’s the best time to lock in your pass and start getting ready to join the rest of the startup community gathering in San Francisco from October 13-15 at Moscone West!",
+      "meta": {}
+    },
+    {
+      "title": "India has paved the way for charging merchants a fee on UPI transactions",
+      "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 19:25:11 +0000",
+      "description": "Article URL: https://www.bbc.com/news/articles/c8xnwqe00v1o Comments URL: https://news.ycombinator.com/item?id=49336304 Points: 20 # Comments: 5",
+      "score": 0.0,
+      "title_vi": "Ấn Độ đã mở đường cho việc tính phí giao dịch UPI cho người bán",
+      "title_en": "India has paved the way for charging merchants a fee on UPI transactions",
+      "summary_vi": "URL bài viết: https://www.bbc.com/news/articles/c8xnwqe00v1o URL bình luận: https://news.ycombinator.com/item?id=49336304 Điểm: 20 # Bình luận: 5",
+      "summary_en": "Article URL: https://www.bbc.com/news/articles/c8xnwqe00v1o Comments URL: https://news.ycombinator.com/item?id=49336304 Points: 20 # Comments: 5",
+      "meta": {}
+    },
+    {
+      "title": "Spotify’s new Playlist Notes let users and editors explain their song picks",
+      "url": "https://techcrunch.com/2026/08/17/spotifys-new-playlist-notes-let-users-and-editors-explain-their-song-picks/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 19:24:43 +0000",
+      "description": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and others.",
+      "score": 0.0,
+      "title_vi": "Ghi chú danh sách phát mới của Spotify cho phép người dùng và biên tập viên giải thích các lựa chọn bài hát của họ",
+      "title_en": "Spotify’s new Playlist Notes let users and editors explain their song picks",
+      "summary_vi": "Spotify ra mắt tính năng mới mang đến cho người dùng cơ hội giải thích những câu chuyện và lý do đằng sau bản nhạc yêu thích của họ. Các biên tập viên cũng sẽ sử dụng tính năng này trên các danh sách phát hàng đầu như RapCaviar và các danh sách phát khác.",
+      "summary_en": "Spotify launches a new feature that gives users a chance to explain the stories and reasoning behind their favorite music. Editors will be using the feature, too, on top playlists like RapCaviar and others.",
+      "meta": {}
+    },
+    {
+      "title": "Breakingviews - Trumps laugh all the way to the bank charter - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZGpwZjVOdGpfd0VCSlRuQjR5QXhWRnl4Yi1YT1RnNUNZZW41YmNsVlBzQi1hR3ZIUXdLU00zZnZtamdrTTBkOUpkdHE1ZXNHSVJNZ1NUR19WcmxaU18zTjdWeDFJVGhHZnNyZ3ZIb19BM3JBZ3BXMk5aRjl3UWN5UHRsVUliSzdsd1g5Zk1XM2dZVHpIaHh4dHB3?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 19:22:12 GMT",
+      "description": "Breakingviews - Trumps laugh all the way to the bank charter Reuters",
+      "score": 0.0,
+      "title_vi": "Breakingviews - Trump cười nhạo điều lệ ngân hàng - Reuters",
+      "title_en": "Breakingviews - Trumps laugh all the way to the bank charter - Reuters",
+      "summary_vi": "Breakingviews - Trump cười nhạo điều lệ ngân hàng Reuters",
+      "summary_en": "Breakingviews - Trumps laugh all the way to the bank charter Reuters",
+      "meta": {}
+    },
+    {
+      "title": "What Flock’s defenders are missing",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/",
+      "source": "MIT Technology Review",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 19:16:09 +0000",
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent…",
+      "score": 0.0,
+      "title_vi": "Những gì người bảo vệ Flock đang thiếu",
+      "title_en": "What Flock’s defenders are missing",
+      "summary_vi": "Câu chuyện này ban đầu xuất hiện trong Thuật toán, bản tin hàng tuần của chúng tôi về AI. Để nhận những câu chuyện như thế này trong hộp thư đến của bạn trước tiên, hãy đăng ký tại đây. Flock, gã khổng lồ công nghệ cảnh sát nổi tiếng với mạng lưới khoảng 120.000 đầu đọc biển số xe tự động trên khắp nước Mỹ, đã công bố một số thay đổi đối với nền tảng của mình vào thứ Năm tuần trước. Các bản cập nhật nhằm ngăn chặn…",
+      "summary_en": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent…",
+      "meta": {}
+    },
+    {
+      "title": "AirTag reveals Amazon is trashing rare books to train AI",
+      "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 19:06:11 +0000",
+      "description": "Article URL: https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=49336050 Points: 108 # Comments: 67",
+      "score": 0.0,
+      "title_vi": "AirTag tiết lộ Amazon đang vứt bỏ những cuốn sách hiếm để đào tạo AI",
+      "title_en": "AirTag reveals Amazon is trashing rare books to train AI",
+      "summary_vi": "URL bài viết: https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/ URL bình luận: https://news.ycombinator.com/item?id=49336050 Điểm: 108 # Bình luận: 67",
+      "summary_en": "Article URL: https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/ Comments URL: https://news.ycombinator.com/item?id=49336050 Points: 108 # Comments: 67",
+      "meta": {}
+    },
+    {
+      "title": "Canadian miner NexGen Energy holds talks with BHP as it seeks $1 billion for uranium project - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd3djNHpLcE13bUN0Ry01bnIyejBKQWdjQWtHcHZ5UjVzYlpNb3pib2RPcElvOVQ5RXNOd0RJcHRJcEZKN0xrZ3RzUHdkUTJla21TZDRnN3hwQUcwR2FuRy1hNUl6NkkzSjg2V2pIZmZMNFV5aUhJeUpaZUk1V3dZeGJwcjk1enJKcWJCbTFHZUk3bHN6SmctQ1hWN3Mtb3hiU1d3cXJVeW5PY2MwYWpEOXRYd1I3TU1yLWhiX1RKX3RUSnY1bEdR?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 17:41:33 GMT",
+      "description": "Canadian miner NexGen Energy holds talks with BHP as it seeks $1 billion for uranium project Reuters",
+      "score": 0.0,
+      "title_vi": "Công ty khai thác Canada NexGen Energy đàm phán với BHP khi họ tìm kiếm 1 tỷ USD cho dự án uranium - Reuters",
+      "title_en": "Canadian miner NexGen Energy holds talks with BHP as it seeks $1 billion for uranium project - Reuters",
+      "summary_vi": "Công ty khai thác Canada NexGen Energy đàm phán với BHP khi họ tìm kiếm 1 tỷ USD cho dự án uranium",
+      "summary_en": "Canadian miner NexGen Energy holds talks with BHP as it seeks $1 billion for uranium project Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Why Thomson Reuters Corp stock is sliding today - Wealth Awesome",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa182MnlSMFR5M21sU256LS15ZHh6c3lkMC1PXzExNHg5TEZ5a1VOaWRLTnc3RmU4eEZCTDZXSEN0cVExcUdtOExJbkYyQjlhdVFxN0ptS1U3NHlBSUM5bVFJeTN2Z1dTMUhQd2RuM0U0Wk9yaEYwLXFwZDVUa3VPd2ZvMUlWeGdHd0E?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 17:36:33 GMT",
+      "description": "Why Thomson Reuters Corp stock is sliding today Wealth Awesome",
+      "score": 0.0,
+      "title_vi": "Tại sao cổ phiếu Thomson Reuters Corp hôm nay trượt dốc - Wealth Awesome",
+      "title_en": "Why Thomson Reuters Corp stock is sliding today - Wealth Awesome",
+      "summary_vi": "Tại sao cổ phiếu Thomson Reuters Corp hôm nay trượt dốc Wealth Awesome",
+      "summary_en": "Why Thomson Reuters Corp stock is sliding today Wealth Awesome",
+      "meta": {}
+    },
+    {
+      "title": "Breakingviews - Frequent flyers chart promising financial path - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZjdWdmZNSHlnclM1N3NUTE5XbERXYU9JaWthSzZFWS1HSGdVbFRZM3BmN2htc3B6Q1BFbmQxQmF2cG16S0N1QTc1eEJHR1NINTlvS1FMejFzLVVxTkJweWlybmo4d2dVaXdlM1F2UUNOaUwtSzRfNExpbi0zYkdYYnZ1cWM3a05leXhoOHI4djk1SkowaFdOcU9RSVRyWWFIUGtscGoyRDltdWc?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 17:30:11 GMT",
+      "description": "Breakingviews - Frequent flyers chart promising financial path Reuters",
+      "score": 0.0,
+      "title_vi": "Breakingviews - Biểu đồ khách hàng thường xuyên hứa hẹn con đường tài chính - Reuters",
+      "title_en": "Breakingviews - Frequent flyers chart promising financial path - Reuters",
+      "summary_vi": "Breakingviews - Biểu đồ khách hàng thường xuyên hứa hẹn con đường tài chính Reuters",
+      "summary_en": "Breakingviews - Frequent flyers chart promising financial path Reuters",
+      "meta": {}
+    },
+    {
+      "title": "US midterm election betting races past 2024 congressional total, data shows - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRTlZOFNWUzdBOGtidV90M3M3UV91anMxQW1IUWJJLXhSanhNRGFUaDhad3Z1bl84QkQxaVBlLUdsa29vc3d4bEtDbkdjM255Z2FFTVZxWXlNNGJNR2Zzb1NzbEdCclp6TmRlMmtMUFNqYzV6ckg4cEdra0YyZmtGSFI3LTFnNjdUbUZHZHRjQXZLLXJBa0haOERGVW5VUklxeWx3ei01c09iSHhqREZBd3ZLWVN1NWJ5c3JGMWVGTWVMakdyNFE?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 17:11:52 GMT",
+      "description": "US midterm election betting races past 2024 congressional total, data shows Reuters",
+      "score": 0.0,
+      "title_vi": "Dữ liệu cho thấy cá cược bầu cử giữa nhiệm kỳ của Hoa Kỳ vượt quá tổng số quốc hội năm 2024",
+      "title_en": "US midterm election betting races past 2024 congressional total, data shows - Reuters",
+      "summary_vi": "Dữ liệu cho thấy cá cược bầu cử giữa nhiệm kỳ của Hoa Kỳ vượt quá tổng số quốc hội năm 2024",
+      "summary_en": "US midterm election betting races past 2024 congressional total, data shows Reuters",
+      "meta": {}
+    },
+    {
+      "title": "General Atlantic picks JPMorgan to lead revived IPO effort, source says By Reuters - Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQl84WkwzNktlNVU0WEx4a0dicEcyX01wbE9CV1FCaXhNWi1QdU1qX053c3B2LWdKMXF5b19SLXdwdXo1SE12aW54eDhFNVpFNGxaM29fd2JNbU4zQWRlYWh0T292UlRmeDFzVVU1M3pqaGtzZ0ZwcHc5X0Z4aFFoNWxjSVNxbWJaajRnQmxoQUNrcVZQRWtVODRFYmV1bTNiZ3FocEwzbE8xQlVmcXFhcGx1UThtZ0RsMjlNUDJFRzlPUk1hOFE?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Mon, 17 Aug 2026 17:06:48 GMT",
+      "description": "General Atlantic picks JPMorgan to lead revived IPO effort, source says By Reuters Investing.com",
+      "score": 0.0,
+      "title_vi": "General Atlantic chọn JPMorgan để dẫn đầu nỗ lực hồi sinh IPO, nguồn tin cho biết Theo Reuters - Investing.com",
+      "title_en": "General Atlantic picks JPMorgan to lead revived IPO effort, source says By Reuters - Investing.com",
+      "summary_vi": "General Atlantic chọn JPMorgan để dẫn đầu nỗ lực hồi sinh IPO, nguồn tin cho biết Theo Reuters Investing.com",
+      "summary_en": "General Atlantic picks JPMorgan to lead revived IPO effort, source says By Reuters Investing.com",
+      "meta": {}
+    }
+  ],
+  "insights": {
+    "status": "ready",
+    "model": "z-ai/glm-5.2",
+    "daily_thesis_vi": "Sự bùng nổ hệ sinh thái plugin DeepSeek và cảnh báo spyware Apple cho thấy nhu cầu cấp thiết về công cụ quản lý AI và bảo mật. Đồng thời, thị trường lo ngại về thông tin quá tải và chi phí giao dịch.",
+    "daily_thesis_en": "The DeepSeek plugin ecosystem boom and Apple spyware alerts reveal urgent needs for AI management and security. Meanwhile, markets show anxiety regarding information overload and transaction costs.",
+    "opportunities": [
+      {
+        "name_vi": "Quản lý và phân phối Plugin AI",
+        "name_en": "AI Plugin Management",
+        "pain_vi": "Hệ sinh thái plugin DeepSeek đang phát triển quá nhanh, thiếu một nền tảng quản lý, cài đặt và cập nhật tập trung an toàn cho người dùng.",
+        "pain_en": "DeepSeek plugin ecosystem is growing too fast, lacking a secure centralized platform for users to manage, install, and update plugins.",
+        "audience_vi": "Nhà phát triển và người dùng DeepSeek",
+        "audience_en": "DeepSeek developers and users",
+        "mvp_vi": "Cửa hàng ứng dụng web để duyệt, đánh giá và cài đặt plugin DeepSeek với xác thực bảo mật cơ bản.",
+        "mvp_en": "A web app store to browse, review, and install DeepSeek plugins with basic security verification.",
+        "scope": "global",
+        "score": 82,
+        "evidence_ids": [
+          1,
+          2,
+          4,
+          5,
+          7
+        ],
+        "risks_vi": "DeepSeek có thể ra mắt cửa hàng ứng dụng chính thức, làm giảm nhu cầu bên thứ ba.",
+        "risks_en": "DeepSeek might launch an official app store, reducing third-party demand.",
+        "sources": [
+          {
+            "title": "deepseek-ai/deepseek-harness",
+            "url": "https://github.com/deepseek-ai/deepseek-harness",
+            "source": "GitHub"
+          },
+          {
+            "title": "anywhere-labs/deepseek-harness-desktop",
+            "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+            "source": "GitHub"
+          },
+          {
+            "title": "awesome-dsh-plugin/awesome-dsh-plugin",
+            "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+            "source": "GitHub"
+          },
+          {
+            "title": "zhu1090093659/dsh-web-ui",
+            "url": "https://github.com/zhu1090093659/dsh-web-ui",
+            "source": "GitHub"
+          },
+          {
+            "title": "ccch1mining/dsh-TUI",
+            "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Quản lý và xác thực nguồn gốc AI",
+        "name_en": "AI Provenance Management",
+        "pain_vi": "Các công cụ xóa watermark AI xuất hiện, gây khó khăn cho việc phân biệt nội dung do con người hay AI tạo ra.",
+        "pain_en": "AI watermark removal tools are emerging, making it difficult to distinguish human vs AI-generated content.",
+        "audience_vi": "Nhà báo, nhà xuất bản và nền tảng nội dung",
+        "audience_en": "Journalists, publishers, and content platforms",
+        "mvp_vi": "API phát hiện nội dung đã bị xóa watermark AI dựa trên phân tích thống kê và metadata.",
+        "mvp_en": "An API to detect AI watermark-stripped content via statistical analysis and metadata inspection.",
+        "scope": "global",
+        "score": 75,
+        "evidence_ids": [
+          3
+        ],
+        "risks_vi": "Kỹ thuật xóa watermark ngày càng tinh vi, khó phát hiện chính xác 100%.",
+        "risks_en": "Watermark removal techniques are becoming sophisticated, making 100% accurate detection hard.",
+        "sources": [
+          {
+            "title": "guillaumemeyer/watermarks-remover",
+            "url": "https://github.com/guillaumemeyer/watermarks-remover",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Bảo vệ thiết bị khỏi Spyware",
+        "name_en": "Device Spyware Protection",
+        "pain_vi": "Số lượng cảnh báo spyware nhắm mục tiêu vào người dùng Apple tăng cao, gây lo ngại về rò rỉ dữ liệu cá nhân.",
+        "pain_en": "Unprecedented number of Apple users receiving spyware alerts, causing severe anxiety over personal data leaks.",
+        "audience_vi": "Người dùng thiết bị Apple nhạy cảm",
+        "audience_en": "Sensitive Apple device users",
+        "mvp_vi": "Ứng dụng quét thiết bị phát hiện các dấu hiệu bị theo dõi và cung cấp hướng dẫn cách ly.",
+        "mvp_en": "A device scanning app to detect tracking indicators and provide quarantine guidance.",
+        "scope": "global",
+        "score": 88,
+        "evidence_ids": [
+          19
+        ],
+        "risks_vi": "Apple có thể tích hợp sẵn tính năng bảo vệ, làm giảm nhu cầu ứng dụng bên thứ ba.",
+        "risks_en": "Apple may integrate built-in protection features, reducing third-party app demand.",
+        "sources": [
+          {
+            "title": "‘Unprecedented’ number of Apple users received recent spyware alert, say investigators",
+            "url": "https://techcrunch.com/2026/08/17/unprecedented-number-of-apple-users-received-recent-spyware-alert-say-investigators/",
+            "source": "TechCrunch"
+          }
+        ]
+      },
+      {
+        "name_vi": "Tóm tắt thông tin chống quá tải",
+        "name_en": "Anti-Overload Summarizer",
+        "pain_vi": "Người dùng bị quá tải bởi các nội dung AI dài dòng và vô giá trị, làm giảm năng suất tiếp nhận thông tin.",
+        "pain_en": "Users are overwhelmed by long, worthless AI-generated content, reducing information consumption productivity.",
+        "audience_vi": "Nhân viên tri thức và người đọc tin tức",
+        "audience_en": "Knowledge workers and news readers",
+        "mvp_vi": "Tiện ích trình duyệt lọc và tóm tắt nhanh các bài viết dài, loại bỏ nội dung rác do AI tạo.",
+        "mvp_en": "A browser extension to quickly filter and summarize long articles, removing AI-generated fluff.",
+        "scope": "global",
+        "score": 70,
+        "evidence_ids": [
+          23
+        ],
+        "risks_vi": "Khó xác định chính xác đâu là nội dung 'vô giá trị' để tránh xóa nhầm thông tin quan trọng.",
+        "risks_en": "Hard to accurately define 'worthless' content without accidentally removing key information.",
+        "sources": [
+          {
+            "title": "AI;DR (AI; Didn't Read)",
+            "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+            "source": "Hacker News"
+          }
+        ]
+      },
+      {
+        "name_vi": "Tối ưu hóa phí giao dịch UPI",
+        "name_en": "UPI Fee Optimizer",
+        "pain_vi": "Ấn Độ cho phép thu phí giao dịch UPI, gây áp lực chi phí lên các doanh nghiệp nhỏ.",
+        "pain_en": "India allowing UPI transaction fees puts cost pressure on small businesses.",
+        "audience_vi": "Doanh nghiệp nhỏ và người bán hàng",
+        "audience_en": "Small businesses and merchants",
+        "mvp_vi": "Công cụ SaaS định tuyến giao dịch UPI qua các kênh rẻ nhất để tối ưu hóa chi phí.",
+        "mvp_en": "A SaaS tool routing UPI transactions through the cheapest channels to optimize costs.",
+        "scope": "global",
+        "score": 65,
+        "evidence_ids": [
+          25
+        ],
+        "risks_vi": "Chính sách phí có thể thay đổi nhanh chóng, đòi hỏi cập nhật phần mềm liên tục.",
+        "risks_en": "Fee policies may change rapidly, requiring continuous software updates.",
+        "sources": [
+          {
+            "title": "India has paved the way for charging merchants a fee on UPI transactions",
+            "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+            "source": "Hacker News"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}
