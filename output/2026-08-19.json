@@ -1,0 +1,769 @@
+{
+  "date": "2026-08-19",
+  "generated_at": "2026-08-18T20:38:42.969553+00:00",
+  "markets": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7691.7598,
+      "change_pct": -0.69,
+      "currency": "USD"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "price": 26289.7109,
+      "change_pct": -1.33,
+      "currency": "USD"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "price": 4392.2998,
+      "change_pct": -0.58,
+      "currency": "USD"
+    },
+    {
+      "name": "Crude Oil",
+      "symbol": "CL=F",
+      "price": 84.21,
+      "change_pct": -0.34,
+      "currency": "USD"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC-USD",
+      "price": 64596.4102,
+      "change_pct": 0.14,
+      "currency": "USD"
+    },
+    {
+      "name": "USD/VND",
+      "symbol": "VND=X",
+      "price": 26175.0,
+      "change_pct": -0.1,
+      "currency": "VND"
+    }
+  ],
+  "items": [
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T11:56:32Z",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "score": 26779.16,
+      "title_vi": "deepseek-ai/deepseek-khai thác",
+      "title_en": "deepseek-ai/deepseek-harness",
+      "summary_vi": "Khai thác DeepSeek: Mọi thứ đều là Plugin.",
+      "summary_en": "DeepSeek Harness: Everything is a Plugin.",
+      "meta": {
+        "stars": 159956,
+        "forks": 16715,
+        "language": "TypeScript",
+        "stars_per_day": 26659.3
+      }
+    },
+    {
+      "title": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T16:30:50Z",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "score": 2351.97,
+      "title_vi": "mọi nơi-phòng thí nghiệm/deepseek-khai thác-máy tính để bàn",
+      "title_en": "anywhere-labs/deepseek-harness-desktop",
+      "summary_vi": "Một giải pháp máy tính để bàn hiện đại được xây dựng cho hệ sinh thái plug-in DeepSeek Harness (DSH). Mọi thứ đều là một \"plug-in\" và bản thân máy tính để bàn cũng là một \"plug-in\".",
+      "summary_en": "A modern desktop solution built for the DeepSeek Harness (DSH) plug-in ecosystem. Everything is a \"plug-in\", and the desktop itself is also a \"plug-in\".",
+      "meta": {
+        "stars": 13541,
+        "forks": 609,
+        "language": "TypeScript",
+        "stars_per_day": 2256.8
+      }
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "score": 1895.88,
+      "title_vi": "guillaumemeyer/loại bỏ hình mờ",
+      "title_en": "guillaumemeyer/watermarks-remover",
+      "summary_vi": "Loại bỏ các dấu xuất xứ AI của nhiều nhà cung cấp: Vệ sinh văn bản Unicode, móc viết lại thống kê và C2PA/siêu dữ liệu từ PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "summary_en": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "meta": {
+        "stars": 14401,
+        "forks": 1590,
+        "language": "Python",
+        "stars_per_day": 1800.1
+      }
+    },
+    {
+      "title": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T13:55:31Z",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "score": 1559.34,
+      "title_vi": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "title_en": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "summary_vi": "Danh sách bổ trợ được tuyển chọn dành cho Khai thác DeepSeek (dsh) · Khai thác DeepSeek Danh sách bổ trợ được tuyển chọn cho Khai thác DeepSeek",
+      "summary_en": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness A curated list of plugins for DeepSeek Harness",
+      "meta": {
+        "stars": 8811,
+        "forks": 1287,
+        "language": "Python",
+        "stars_per_day": 1468.5
+      }
+    },
+    {
+      "title": "yetone/cumora",
+      "url": "https://github.com/yetone/cumora",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-17T09:13:52Z",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "score": 1245.57,
+      "title_vi": "yetone/cumora",
+      "title_en": "yetone/cumora",
+      "summary_vi": "Nơi tập hợp các đội đại lý. Trò chuyện nhóm đa nền tảng trong đó các đặc vụ AI là đồng đội hạng nhất — với bộ não đám mây hoặc mang theo (Claude Code / Codex) của riêng bạn.",
+      "summary_en": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "meta": {
+        "stars": 2336,
+        "forks": 258,
+        "language": "TypeScript",
+        "stars_per_day": 1168.0
+      }
+    },
+    {
+      "title": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-12T05:15:20Z",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "score": 735.68,
+      "title_vi": "zhu1090093659/dsh-web-ui",
+      "title_en": "zhu1090093659/dsh-web-ui",
+      "summary_vi": "Bộ sưu tập plugin và giao diện cho giao diện người dùng web DeepSeek Harness (DSH) - bảng tác vụ, biểu đồ git, bảng điều khiển bên phải, giao diện người dùng di động từ xa, thú cưng, số liệu thống kê mã thông báo trực tiếp và trung tâm giao diện.",
+      "summary_en": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "meta": {
+        "stars": 4560,
+        "forks": 272,
+        "language": "TypeScript",
+        "stars_per_day": 651.4
+      }
+    },
+    {
+      "title": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-12T13:48:50Z",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "score": 451.39,
+      "title_vi": "dmmulroy/chống trượt",
+      "title_en": "dmmulroy/anti-slop",
+      "summary_vi": "Các quy tắc Oxlint có ý kiến ​​​​để từ chối các mẫu TypeScript và JavaScript có bằng chứng thấp",
+      "summary_en": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "meta": {
+        "stars": 2609,
+        "forks": 47,
+        "language": "TypeScript",
+        "stars_per_day": 372.7
+      }
+    },
+    {
+      "title": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T12:49:31Z",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "score": 403.34,
+      "title_vi": "ccch1mining/dsh-TUI",
+      "title_en": "ccch1mining/dsh-TUI",
+      "summary_vi": "Các plug-in bổ sung TUI có trong tài khoản công khai chính thức của DSH: Claude Code wind, thanh trên cùng của cá voi/trạng thái thời gian thực/tư duy phát trực tuyến/nhấp đúp vào Esc để quay lại/tiến trình ngữ cảnh + TPS. npm cài đặt bằng một cú nhấp chuột.  WeChat chính thức của DSH có plugin TUI nổi bật - Kiểu mã Claude: thanh cá voi, trạng thái trực tiếp, truyền phát suy nghĩ, khôi phục Esc đôi, thanh ngữ cảnh + TPS. npm chỉ bằng một cú nhấp chuột.",
+      "summary_en": "TUI fill-in plug-ins included in DSH official public account: Claude Code wind, whale top bar/real-time status/streaming thinking/double-click Esc to roll back/context progress + TPS. npm one-click installation.  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "meta": {
+        "stars": 1965,
+        "forks": 85,
+        "language": "TypeScript",
+        "stars_per_day": 327.5
+      }
+    },
+    {
+      "title": "Small-tailqwq/dsh-deep-whale",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T13:02:14Z",
+      "description": "DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0",
+      "score": 300.91,
+      "title_vi": "Cá voi đuôi nhỏqwq/dsh-sâu",
+      "title_en": "Small-tailqwq/dsh-deep-whale",
+      "summary_vi": "DSH Web Whale Girl Skin Series (Deep Sea Maid Workshop Maid-atelier)——CC BY-NC-SA 4.0",
+      "summary_en": "DSH Web Whale Girl Skin Series (Deep Sea Maid Workshop maid-atelier)——CC BY-NC-SA 4.0",
+      "meta": {
+        "stars": 1372,
+        "forks": 45,
+        "language": "TypeScript",
+        "stars_per_day": 228.7
+      }
+    },
+    {
+      "title": "KKKKhazix/human-writing",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-05T01:19:41Z",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "score": 283.05,
+      "title_vi": "KKKKhazix/chữ viết của con người",
+      "title_en": "KKKKhazix/human-writing",
+      "summary_vi": "Làm cho tiếng Trung được viết bởi AI đọc giống như một người cụ thể đang nói. Kỹ năng sáng tạo và sửa đổi phổ quát, có sẵn ngay lập tức.",
+      "summary_en": "Make the Chinese written by AI read like a specific person speaking. Universal creation and revision skills, available right out of the box.",
+      "meta": {
+        "stars": 2849,
+        "forks": 234,
+        "language": "Python",
+        "stars_per_day": 203.5
+      }
+    },
+    {
+      "title": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+      "url": "https://techcrunch.com/2026/08/18/dojs-probe-into-andreessen-horowitz-over-board-seats-baffles-vcs/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 20:36:20 +0000",
+      "description": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+      "score": 0.0,
+      "title_vi": "Cuộc điều tra của DOJ về Andreessen Horowitz về các ghế trong hội đồng quản trị khiến các VC bối rối",
+      "title_en": "DOJ’s probe into Andreessen Horowitz over board seats baffles VCs",
+      "summary_vi": "Vì các công ty trong danh mục đầu tư thường xoay trục và mở rộng sang các thị trường cạnh tranh nên các nhà đầu tư thường coi xung đột lợi ích là điều không thể tránh khỏi đối với các công ty đầu tư mạo hiểm lớn.",
+      "summary_en": "Since portfolio companies often pivot and expand into competing markets, investors view occasional conflicts of interest as unavoidable for large VC firms.",
+      "meta": {}
+    },
+    {
+      "title": "How Much Money Americans Keep in the Bank: Median Balances by Age, Family, and Education Level - Investopedia",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMkJZVVcyMFFOZTQyVWlhTkg2VURJYkZUME5jZmdzYkw4SjNfVGlsUTZ4TWdpVUk5bDZSN3NZQi1qcTRON0Fvd3B3Vl8weW9keVZmZE5veHhOdURTeWZBNWRJVmYtT2xaQVhjcDBFS2kzN0pETzJOempvZHpMVHI1S2VoazZfR2xwUFBWNDl1QjEtU2JLb0pWMWxoVkExdTNRdzJmdFVMbEJQM3JwLWktbFo0VTc3ZzBFSmxQU3JiV0FPN0tmS0JxZw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 20:31:00 GMT",
+      "description": "How Much Money Americans Keep in the Bank: Median Balances by Age, Family, and Education Level Investopedia",
+      "score": 0.0,
+      "title_vi": "Người Mỹ giữ bao nhiêu tiền trong ngân hàng: Số dư trung bình theo độ tuổi, gia đình và trình độ học vấn - Investopedia",
+      "title_en": "How Much Money Americans Keep in the Bank: Median Balances by Age, Family, and Education Level - Investopedia",
+      "summary_vi": "Người Mỹ giữ bao nhiêu tiền trong ngân hàng: Số dư trung bình theo độ tuổi, gia đình và trình độ học vấn Investopedia",
+      "summary_en": "How Much Money Americans Keep in the Bank: Median Balances by Age, Family, and Education Level Investopedia",
+      "meta": {}
+    },
+    {
+      "title": "Donations being accepted for first responders battling Healthcare SC MLily fire - ABC Columbia",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcnZmOXpzaV84UzVyc2ppVldSaHhsSjU5VXhVY0tGZ3hMMlcyZkVLRnljN3FrMWRXWWZuLURkUlR0NmlQRUZ3c09hZ09IV0RyTFdJTF9HcWNHdjl0Z3NEbV9ZVFVtNGdzZ094elk1dW40SE40RGJCbWg2UTZmdWJHdXgwaEVRazhFN0JvTjRHd2oxbGNnUGZqQzI3NnV5UFFRNDBXWFdicDNnSlFBNHhzZzI5cW5Pcm5seTd3?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 20:15:44 GMT",
+      "description": "Donations being accepted for first responders battling Healthcare SC MLily fire ABC Columbia",
+      "score": 0.0,
+      "title_vi": "Các khoản quyên góp được chấp nhận cho những người ứng cứu đầu tiên đang chiến đấu với vụ cháy Healthcare SC MLily - ABC Columbia",
+      "title_en": "Donations being accepted for first responders battling Healthcare SC MLily fire - ABC Columbia",
+      "summary_vi": "Các khoản quyên góp được chấp nhận cho những người ứng phó đầu tiên đang chiến đấu với vụ cháy Healthcare SC MLily ABC Columbia",
+      "summary_en": "Donations being accepted for first responders battling Healthcare SC MLily fire ABC Columbia",
+      "meta": {}
+    },
+    {
+      "title": "See photos as LG Energy Solution battery plant opens in Delta Township - Lansing State Journal",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdlBZaTFWZXB5X0FRbzBiX0o2Rlc0dFY5STE1QXZpX1k3U09CcV9MdjFSRGkwSjhCbUR3NV9tV2c4YmNES0dmMGlkZjNGRm9DS3laMVcyTWExM3dWcXlBSzgyMktxWkxPVHdyZjE3emV3a05FTkpabTZOelZBTDRtWkZMRm9faWprek9mLWpmRDNnbFNaeVZrWHBOR1RpY3ROeFJuS0Z3VFpfSXRKYkd4dGpnNjZZVjdhMVFYd2I1U1ZqTmNfWnNHQl9iVldMX0tyS2Iyc3FrTjdvdlRYYlNQZTNzdlZoVlNGZngxVzNn?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 20:15:00 GMT",
+      "description": "See photos as LG Energy Solution battery plant opens in Delta Township Lansing State Journal",
+      "score": 0.0,
+      "title_vi": "Xem những bức ảnh khi nhà máy pin LG Energy Solution khai trương ở Thị trấn Delta - Tạp chí Bang Lansing",
+      "title_en": "See photos as LG Energy Solution battery plant opens in Delta Township - Lansing State Journal",
+      "summary_vi": "Xem các bức ảnh khi nhà máy pin LG Energy Solution khai trương tại Thị trấn Delta Tạp chí Bang Lansing",
+      "summary_en": "See photos as LG Energy Solution battery plant opens in Delta Township Lansing State Journal",
+      "meta": {}
+    },
+    {
+      "title": "NRG Energy named as potential bidder for West Virginia coal plant in bankruptcy - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWjVYc2RQVF90SV9DVFFqTUxIQXlRSkpFcjktZzJKTjNaU0JNcUNpWGd3ZUNLbnpuRW5Hb1hGeHB3cVhKUWFYM2RJYTBVZy1UN1lBSTNUTmdaX2lDbGNXdEtUY1B6cWpMSTBQU2FIR3Z6RTRmUXh1cV9qOW53MjBwYXE1cWpSY3pGTTd0dVBtTVl1ZGZVcnlmRmhBMUo4NENMZ2ZCS3QzZDFFcmp5OUFrbUpUM3BvSzU4bkpzSWlsbw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 20:13:44 GMT",
+      "description": "NRG Energy named as potential bidder for West Virginia coal plant in bankruptcy Reuters",
+      "score": 0.0,
+      "title_vi": "NRG Energy được coi là nhà thầu tiềm năng cho nhà máy than Tây Virginia đang phá sản - Reuters",
+      "title_en": "NRG Energy named as potential bidder for West Virginia coal plant in bankruptcy - Reuters",
+      "summary_vi": "NRG Energy được coi là nhà thầu tiềm năng cho nhà máy than Tây Virginia đang phá sản",
+      "summary_en": "NRG Energy named as potential bidder for West Virginia coal plant in bankruptcy Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Employment Application - Bartlesville Radio",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeFB3MEFQQXE0eUxIckxfUHpITVd0WVpZemx0THdoUTNiNHBlQWwwY2VMX2RMRlhUU1RjWEQxZ0ctVGF5cmlsdzJueEtTdzNnOUd5ci1fVjlNczEwOVRUTHBrT25HUjhjRXhubWZKZXJsUTJyWURGQXY5RnQ0eUNJZzBjVnNsZ1pwSHlsNnJZdnhWSXB5cmRxQ1F1NWpyblpTdVctTw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 20:09:00 GMT",
+      "description": "Employment Application Bartlesville Radio",
+      "score": 0.0,
+      "title_vi": "Đơn xin việc - Đài phát thanh Bartlesville",
+      "title_en": "Employment Application - Bartlesville Radio",
+      "summary_vi": "Đơn xin việc Bartlesville Radio",
+      "summary_en": "Employment Application Bartlesville Radio",
+      "meta": {}
+    },
+    {
+      "title": "Texas Gov. Abbott to talk schools, taxes during El Paso visit - El Paso Times",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa25Ua2l1N0E1cTNOZ0tvSTN5OFhMNGx3LVo4ckNmaHYtNHQ3X0ZSN281YmpTVnM4cWVjV2pvSkpJVUZpSHVCdElWRFVTVi1pMHBNeWtQYm1lU1ZhV1ZVVkRlcjlLSXIwZGxVLW9lTkdZS2N0WDR3dGR1a2h0SU1KX3czZzFhVHVhdUdTYTU4YUNTSERDSmRJd2lzcng3U0xPNkMyTFNQd3NvZjhmZ0gxSVFGWkdNWXRtZmtDaXV0LVk4bnNnWS1DRkZ6ZHVKQTlqb2pERDdYR1RXSUJhdmJyemtFOA?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 20:07:00 GMT",
+      "description": "Texas Gov. Abbott to talk schools, taxes during El Paso visit El Paso Times",
+      "score": 0.0,
+      "title_vi": "Thống đốc Texas Abbott sẽ nói chuyện về trường học, thuế trong chuyến thăm El Paso - El Paso Times",
+      "title_en": "Texas Gov. Abbott to talk schools, taxes during El Paso visit - El Paso Times",
+      "summary_vi": "Thống đốc Texas Abbott sẽ nói chuyện về trường học, thuế trong chuyến thăm El Paso Times El Paso Times",
+      "summary_en": "Texas Gov. Abbott to talk schools, taxes during El Paso visit El Paso Times",
+      "meta": {}
+    },
+    {
+      "title": "Virginia lawmakers get earful over proposed Dominion Energy merger - WWBT",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNVdJX3hCTmdVTXdsRnl2QS1rNUZSNk1maGk4aE9WVjNTSTFIVUZnSjFiZENhOHAya0xrWEJ6dzFmSEhiczF0ZFZrZmZmaGJoRkRSMDVwemhybWhucnp4X19mS2RhYkI4VWhfRU5TZnA3Q2RKaVF1QmlzZXdNX09SRjBTbC1kYjgwd2NGOHZ4TkozQllPMXQ0ZmVkLWNUaEx3ak5pWnczcDlTT2vSAb8BQVVfeXFMUHFXUC1OU1FuQ2lJY1pZYmVLVW5mRkRIdDRheXpxZmlCX3J0V3E3Yk1lOWQyS1hBMXVpYnJuTVRTZmdiX09ULTVvSWNqZzdDSjJBMDVGM3IwekJRd0JZeFNDODVvRmhuVnlmYWVnZDcyUzU2RUtkMjU2aFhibkFtbHF1dEV0bGlXdnMzX1N0djJoYllvYkpCajlGQXAtRzUwT3ZMTTJnczVIRm9URDFzc0hhTEswRER1LTk2TjYxVEE?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 20:05:00 GMT",
+      "description": "Virginia lawmakers get earful over proposed Dominion Energy merger WWBT",
+      "score": 0.0,
+      "title_vi": "Các nhà lập pháp Virginia quan tâm đến đề xuất sáp nhập Dominion Energy - WWBT",
+      "title_en": "Virginia lawmakers get earful over proposed Dominion Energy merger - WWBT",
+      "summary_vi": "Các nhà lập pháp Virginia quan tâm đến đề xuất sáp nhập Dominion Energy (WWBT)",
+      "summary_en": "Virginia lawmakers get earful over proposed Dominion Energy merger WWBT",
+      "meta": {}
+    },
+    {
+      "title": "TikTok explores peer-to-peer payments via DMs, report says",
+      "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 20:03:56 +0000",
+      "description": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+      "score": 0.0,
+      "title_vi": "Báo cáo cho biết TikTok khám phá các khoản thanh toán ngang hàng thông qua DM",
+      "title_en": "TikTok explores peer-to-peer payments via DMs, report says",
+      "summary_vi": "Nếu được triển khai, tính năng này sẽ sử dụng dịch vụ TikTok Pay của dịch vụ truyền thông xã hội, hiện đã có sẵn ở Đông Nam Á cho các giao dịch mua hàng trên TikTok Shop.",
+      "summary_en": "If rolled out, the feature would use the social media service’s TikTok Pay offering, which is already available in Southeast Asia for TikTok Shop purchases.",
+      "meta": {}
+    },
+    {
+      "title": "“Genocide:” a term heard but seldom understood - Council on Foreign Relations",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMGN6SHh2Z0ZGcTZEX1pXQ1FqNGhPQUdVMWltSlVQR2JuZDUyUFJ6X3otR2FzMnJ0SjlDRVZGUWpaem5ybHJYTlNKLUlrTDJIamhPRVdyQVB6Vl8zRS1sM3hfTXR2Z1lDZUl5Ty0wdDUwczRaVHQ5TXZZZDZZX09yMDVnTkpYSGFIU2c?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 20:03:24 GMT",
+      "description": "“Genocide:” a term heard but seldom understood Council on Foreign Relations",
+      "score": 0.0,
+      "title_vi": "“Diệt chủng:” một thuật ngữ nghe nhưng hiếm khi hiểu - Hội đồng Quan hệ Đối ngoại",
+      "title_en": "“Genocide:” a term heard but seldom understood - Council on Foreign Relations",
+      "summary_vi": "“Diệt chủng:” một thuật ngữ nghe được nhưng hiếm khi được hiểu Hội đồng Quan hệ Đối ngoại",
+      "summary_en": "“Genocide:” a term heard but seldom understood Council on Foreign Relations",
+      "meta": {}
+    },
+    {
+      "title": "Kalshi files for stock index perpetuals in challenge to traditional exchanges - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT1Z5dF9JeldqYkdfMk8xRWJMTGtXVUFwX05qVW9paEJKRWJtRzdZdF9OemprbFRXc1ROc1M1V1NhaTE3Ujk5OTc0ZlBVd1o4aVNEVHZUU3dCRVNuVUlQcWJaNmM3RTRhUVE2N1NLMHFEc1hzZ3dKN0FIZGxGWE15Y05sMWN2LXdLckpQR3FUM2NpR1BDUzhTMlVGUTVpX1ZoTFpZY3V1aU56LWEycVRxa2FyeUU?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 20:02:35 GMT",
+      "description": "Kalshi files for stock index perpetuals in challenge to traditional exchanges Reuters",
+      "score": 0.0,
+      "title_vi": "Kalshi nộp đơn xin chỉ số chứng khoán vĩnh viễn thách thức các sàn giao dịch truyền thống - Reuters",
+      "title_en": "Kalshi files for stock index perpetuals in challenge to traditional exchanges - Reuters",
+      "summary_vi": "Kalshi nộp đơn xin chỉ số chứng khoán vĩnh viễn thách thức các sàn giao dịch truyền thống",
+      "summary_en": "Kalshi files for stock index perpetuals in challenge to traditional exchanges Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Explainer: Treasury yields are rising - why does it matter? - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN2hqY3NCTUdIbGJoZUR6aXVTVXlZUFZPVFNmc3dFcTUwRGkwcG1DRW1rZHlLTGV4WWdaV2xielR5WTZhcUdnNEYyX2pmcTcyRmFZYzQtVThYeDBKb3JHUEJkc1VuamNUbV80ckhHcURLVEMwcmpUSE4yRHJmLUtYMEprWEZhQ1d3cFdyMElEbTdxLVAtMVQ2YjZSVzIxUlU?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 19:36:16 GMT",
+      "description": "Explainer: Treasury yields are rising - why does it matter? Reuters",
+      "score": 0.0,
+      "title_vi": "Người giải thích: Lợi suất trái phiếu kho bạc đang tăng - tại sao nó lại quan trọng? - Reuters",
+      "title_en": "Explainer: Treasury yields are rising - why does it matter? - Reuters",
+      "summary_vi": "Người giải thích: Lợi suất trái phiếu kho bạc đang tăng - tại sao nó lại quan trọng? Reuters",
+      "summary_en": "Explainer: Treasury yields are rising - why does it matter? Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Norway Should Buy OpenAI",
+      "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 19:30:29 +0000",
+      "description": "Article URL: https://www.onethousandmeans.com/p/norway-should-buy-openai Comments URL: https://news.ycombinator.com/item?id=49351330 Points: 122 # Comments: 122",
+      "score": 0.0,
+      "title_vi": "Na Uy nên mua OpenAI",
+      "title_en": "Norway Should Buy OpenAI",
+      "summary_vi": "URL bài viết: https://www.onethousandmeans.com/p/norway- Should-buy-openai URL bình luận: https://news.ycombinator.com/item?id=49351330 Điểm: 122 # Bình luận: 122",
+      "summary_en": "Article URL: https://www.onethousandmeans.com/p/norway-should-buy-openai Comments URL: https://news.ycombinator.com/item?id=49351330 Points: 122 # Comments: 122",
+      "meta": {}
+    },
+    {
+      "title": "Beware Management Consultants",
+      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 19:29:51 +0000",
+      "description": "Article URL: https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/ Comments URL: https://news.ycombinator.com/item?id=49351324 Points: 85 # Comments: 17",
+      "score": 0.0,
+      "title_vi": "Hãy cẩn thận với các nhà tư vấn quản lý",
+      "title_en": "Beware Management Consultants",
+      "summary_vi": "URL bài viết: https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/ URL bình luận: https://news.ycombinator.com/item?id=49351324 Điểm: 85 # Bình luận: 17",
+      "summary_en": "Article URL: https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/ Comments URL: https://news.ycombinator.com/item?id=49351324 Points: 85 # Comments: 17",
+      "meta": {}
+    },
+    {
+      "title": "Brazil's Bolsonaro campaign adds Sachsida, market figures to policy team - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRzNEaXBEcDBaVTk0VFE1YmdON253WUswUUI0RWVteFdWZ28wTGViMFd3cHNYeXhDa2RYd1IybWRKNzlERG9hWU1EcFVCNkVFSTZ1ZTh5NS1MbHJKVUtNUS1FYUwzTWRhMG9DVnFWU04xV09kOGFMeWtzUTROazJ2aHlwS3lpbUMzdW1DVC1McS1KR0VWVk0tNDc2THBfaVk1RjlwcjQzNXZTUm4xNE9YS2ZIWlRHQzN0aEE?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 19:23:45 GMT",
+      "description": "Brazil's Bolsonaro campaign adds Sachsida, market figures to policy team Reuters",
+      "score": 0.0,
+      "title_vi": "Chiến dịch Bolsonaro của Brazil bổ sung Sachsida, số liệu thị trường vào nhóm chính sách - Reuters",
+      "title_en": "Brazil's Bolsonaro campaign adds Sachsida, market figures to policy team - Reuters",
+      "summary_vi": "Chiến dịch Bolsonaro của Brazil bổ sung Sachsida, số liệu thị trường vào nhóm chính sách",
+      "summary_en": "Brazil's Bolsonaro campaign adds Sachsida, market figures to policy team Reuters",
+      "meta": {}
+    },
+    {
+      "title": "IndieWeb Homebrew Website Club Asia Pacific: Reflections",
+      "url": "https://burgeonlab.com/blog/inaugural-hwc-ap-recap/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 19:07:47 +0000",
+      "description": "Article URL: https://burgeonlab.com/blog/inaugural-hwc-ap-recap/ Comments URL: https://news.ycombinator.com/item?id=49350980 Points: 4 # Comments: 0",
+      "score": 0.0,
+      "title_vi": "Câu lạc bộ trang web IndieWeb Homebrew Châu Á Thái Bình Dương: Suy ngẫm",
+      "title_en": "IndieWeb Homebrew Website Club Asia Pacific: Reflections",
+      "summary_vi": "URL bài viết: https://burgeonlab.com/blog/inaugural-hwc-ap-recap/ URL bình luận: https://news.ycombinator.com/item?id=49350980 Điểm: 4 # Bình luận: 0",
+      "summary_en": "Article URL: https://burgeonlab.com/blog/inaugural-hwc-ap-recap/ Comments URL: https://news.ycombinator.com/item?id=49350980 Points: 4 # Comments: 0",
+      "meta": {}
+    },
+    {
+      "title": "Global bond markets put governments on notice over fiscal, inflation risks - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeWxrV2hFeTRkQjZmS2pjcmpEM1VJd2tTc2lkT1NxVjJ3c0Jpa2ZNQzJ3eFlSa1BoV3pQN3VLNzZEUHM0SHZHMURHLUthd21TV0R6TkY5N0lfR1pKRnRGZGpFc1FzamJfT1l2Q1pYQXloZ25LYWdxOHhQcndkZ21xU1lXZFJwc0ZOcnVqWUkyejNUdVcyWWlORW9rdzZORlJCZjZHMWZNX0tKYU44bDJReUpMcVNlOFBNd0E?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 19:01:49 GMT",
+      "description": "Global bond markets put governments on notice over fiscal, inflation risks Reuters",
+      "score": 0.0,
+      "title_vi": "Thị trường trái phiếu toàn cầu khiến các chính phủ phải lưu ý về rủi ro tài chính, lạm phát - Reuters",
+      "title_en": "Global bond markets put governments on notice over fiscal, inflation risks - Reuters",
+      "summary_vi": "Thị trường trái phiếu toàn cầu khiến các chính phủ phải lưu ý về rủi ro tài chính, lạm phát",
+      "summary_en": "Global bond markets put governments on notice over fiscal, inflation risks Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Tech selloff pulls Wall Street to two-week lows as bond yields climb - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUzFvaDFSek1CYmFoSHEzTG9feVA2blNkZE9LMy00ZnpQbnFmVXYwSDJkeDR5OEFNSExNcGdrWWNjdTNLQzlia0V4b0hvV2VaTTcyaXRFdldtaDJUcm9KcDAxQ3NNWV9MaDd2Q2NaVWtHVUEwS0YyU21ia3lJQVpMTjNBMGtlaXp0M0JWaTIxeExpYlpHOEN0b05NN00xRmhHSHc0bERMOG1COGVNYTEzSw?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 18:58:42 GMT",
+      "description": "Tech selloff pulls Wall Street to two-week lows as bond yields climb Reuters",
+      "score": 0.0,
+      "title_vi": "Bán tháo công nghệ kéo Phố Wall xuống mức thấp nhất trong hai tuần khi lãi suất trái phiếu tăng - Reuters",
+      "title_en": "Tech selloff pulls Wall Street to two-week lows as bond yields climb - Reuters",
+      "summary_vi": "Bán tháo công nghệ kéo Phố Wall xuống mức thấp nhất trong hai tuần khi lãi suất trái phiếu tăng",
+      "summary_en": "Tech selloff pulls Wall Street to two-week lows as bond yields climb Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+      "url": "https://pantheongpu.com/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 18:47:51 +0000",
+      "description": "Hi HN, I built PantheonGPU because I wanted a better way to answer a simple question: is this GPU actually healthy and performing the way it should? A GPU can show normal temperatures and utilization and still be underperforming, unstable under certain workloads, or have memory, PCIe, or configuration issues. PantheonGPU actively tests the GPU instead of only monitoring telemetry. It currently includes 45+ tests covering compute, tensor workloads, memory, cache, PCIe, thermals, stability, and AI/LLM inference. It supports both NVIDIA CUDA and AMD ROCm. I’m also exploring a larger use case: running Pantheon across GPU fleets to identify individual GPUs that behave differently from the rest of a server or cluster. I’d especially appreciate feedback from people running AI infrastructure, multi-GPU systems, local LLMs, or GPU clouds. Comments URL: https://news.ycombinator.com/item?id=49350637 Points: 9 # Comments: 0",
+      "score": 0.0,
+      "title_vi": "Hiện HN: PantheonGPU – Kiểm tra sức khỏe GPU và benchmark khối lượng công việc AI",
+      "title_en": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+      "summary_vi": "Xin chào HN, tôi xây dựng PantheonGPU vì tôi muốn có cách tốt hơn để trả lời một câu hỏi đơn giản: GPU này có thực sự hoạt động tốt và hoạt động như bình thường không? GPU có thể hiển thị nhiệt độ và mức sử dụng bình thường nhưng vẫn hoạt động kém, không ổn định trong một số khối lượng công việc nhất định hoặc có vấn đề về bộ nhớ, PCIe hoặc cấu hình. PantheonGPU tích cực kiểm tra GPU thay vì chỉ giám sát đo từ xa. Nó hiện bao gồm hơn 45 bài kiểm tra bao gồm tính toán, khối lượng công việc tensor, bộ nhớ, bộ đệm, PCIe, nhiệt, độ ổn định và suy luận AI/LLM. Nó hỗ trợ cả NVIDIA CUDA và AMD ROCm. Tôi cũng đang khám phá một trường hợp sử dụng lớn hơn: chạy Pantheon trên các nhóm GPU để xác định từng GPU hoạt động khác với phần còn lại của",
+      "summary_en": "Hi HN, I built PantheonGPU because I wanted a better way to answer a simple question: is this GPU actually healthy and performing the way it should? A GPU can show normal temperatures and utilization and still be underperforming, unstable under certain workloads, or have memory, PCIe, or configuration issues. PantheonGPU actively tests the GPU instead of only monitoring telemetry. It currently includes 45+ tests covering compute, tensor workloads, memory, cache, PCIe, thermals, stability, and AI/LLM inference. It supports both NVIDIA CUDA and AMD ROCm. I’m also exploring a larger use case: running Pantheon across GPU fleets to identify individual GPUs that behave differently from the rest of",
+      "meta": {}
+    },
+    {
+      "title": "AI chip startup Etched doubles valuation to $21 billion in under a month - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3NNZlBGNU1FVmtQWnVzMlc1SjFEVmtwYWJLNVJTYUpJS0NEb29iT0NhR1R5bUdKMlhqUWsyMjRJekVtcWFWb3dCX1lHMWlFNHJVLTZCeEoycW1ZdE03VThfZDEzellONHd4ZnJ3RlNEYlA4cGJReEFvaG13bTR0MHItbHlWN3pMWDNMN3JMVkJQNFo2aHFTQUw1QTlrWUt0V0FKamtGSm5rWUVT?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 18:41:39 GMT",
+      "description": "AI chip startup Etched doubles valuation to $21 billion in under a month Reuters",
+      "score": 0.0,
+      "title_vi": "Công ty khởi nghiệp chip AI Etched tăng gấp đôi định giá lên 21 tỷ USD trong vòng chưa đầy một tháng - Reuters",
+      "title_en": "AI chip startup Etched doubles valuation to $21 billion in under a month - Reuters",
+      "summary_vi": "Công ty khởi nghiệp chip AI Etched tăng gấp đôi định giá lên 21 tỷ USD trong vòng chưa đầy một tháng",
+      "summary_en": "AI chip startup Etched doubles valuation to $21 billion in under a month Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Apple changes fees for alternative app stores in EU - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdl9zMEtfWDFoOFY0MXJoU1lMTUlpY3lidGJLNjNWLUxWcDg5aFlMM3JpSWZWS05QN002c3psSC1kc2lhN0xjTFNLYUVsSW9DdnNDMFJKdVJ2bjFJc3A2cVVQS2F1aklMSkFPSWsycmpQWjgtM2djS0JURTVicFZwbVlocUpCQU9uc1lIQzFyQ0x0TFBIc0FzSHJ1a1gxdw?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 18:28:42 GMT",
+      "description": "Apple changes fees for alternative app stores in EU Reuters",
+      "score": 0.0,
+      "title_vi": "Apple thay đổi phí cho các cửa hàng ứng dụng thay thế ở EU - Reuters",
+      "title_en": "Apple changes fees for alternative app stores in EU - Reuters",
+      "summary_vi": "Apple thay đổi phí cho các cửa hàng ứng dụng thay thế ở EU",
+      "summary_en": "Apple changes fees for alternative app stores in EU Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Nhân viên ngân hàng chạy đua tìm khách gửi tiền",
+      "url": "https://vnexpress.net/nhan-vien-ngan-hang-chay-dua-tim-khach-gui-tien-5110600.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Wed, 19 Aug 2026 01:17:13 +0700",
+      "description": "Thu Hằng mỗi ngày phải mời chào vài chục khách gửi tiết kiệm, thậm chí bỏ tiền túi làm quà cảm ơn, nhưng nửa tháng mà chưa đạt 20% chỉ tiêu thử việc.",
+      "score": 0.0,
+      "title_vi": "Nhân viên ngân hàng chạy đua tìm khách gửi tiền",
+      "title_en": "Bank employees race to find customers to deposit money",
+      "summary_vi": "Thu Hằng mỗi ngày phải mời chào vài chục khách gửi tiết kiệm, thậm chí bỏ tiền túi làm quà cảm ơn, nhưng nửa tháng mà chưa đạt 20% chỉ tiêu thử việc.",
+      "summary_en": "Every day, Thu Hang has to invite dozens of customers to deposit savings, even give them money as thank-you gifts, but after half a month, she has not yet reached 20% of the probationary target.",
+      "meta": {}
+    },
+    {
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "url": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 18:14:59 +0000",
+      "description": "Article URL: https://openai.com/index/pacing-model-development-cyber-capabilities/ Comments URL: https://news.ycombinator.com/item?id=49350031 Points: 26 # Comments: 4",
+      "score": 0.0,
+      "title_vi": "Phát triển mô hình nhịp độ trong kỷ nguyên của các khả năng quan trọng trên mạng",
+      "title_en": "Pacing model development in an era of cyber-critical capabilities",
+      "summary_vi": "URL bài viết: https://openai.com/index/pacing-model-development-cyber-capabilities/ URL nhận xét: https://news.ycombinator.com/item?id=49350031 Điểm: 26 # Nhận xét: 4",
+      "summary_en": "Article URL: https://openai.com/index/pacing-model-development-cyber-capabilities/ Comments URL: https://news.ycombinator.com/item?id=49350031 Points: 26 # Comments: 4",
+      "meta": {}
+    },
+    {
+      "title": "How does IKEA come up with names for its products?",
+      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Tue, 18 Aug 2026 18:11:53 +0000",
+      "description": "Article URL: https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html Comments URL: https://news.ycombinator.com/item?id=49349984 Points: 127 # Comments: 82",
+      "score": 0.0,
+      "title_vi": "IKEA đặt tên cho sản phẩm của mình như thế nào?",
+      "title_en": "How does IKEA come up with names for its products?",
+      "summary_vi": "URL bài viết: https://www.ikea.com/se/en/customer-service/know/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html URL bình luận: https://news.ycombinator.com/item?id=49349984 Điểm: 127 # Bình luận: 82",
+      "summary_en": "Article URL: https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html Comments URL: https://news.ycombinator.com/item?id=49349984 Points: 127 # Comments: 82",
+      "meta": {}
+    }
+  ],
+  "insights": {
+    "status": "ready",
+    "model": "z-ai/glm-5.2",
+    "daily_thesis_vi": "Sự bùng nổ hệ sinh thái plugin AI (DeepSeek Harness) và nhu cầu tối ưu hóa hạ tầng GPU cho thấy thị trường đang khát các công cụ quản lý và chuẩn hóa AI. Tại Việt Nam, áp lực huy động vốn ngân hàng tạo ra cơ hội SaaS cho tự động hóa bán hàng.",
+    "daily_thesis_en": "The AI plugin ecosystem (DeepSeek Harness) and GPU optimization needs reveal a market hungry for AI management tools. In Vietnam, banking deposit pressures create SaaS opportunities for sales automation.",
+    "opportunities": [
+      {
+        "name_vi": "Cửa hàng Plugin AI",
+        "name_en": "AI Plugin Marketplace",
+        "pain_vi": "Hệ sinh thái plugin AI phân mảnh khiến người dùng khó tìm, cài đặt và quản lý các plugin an toàn, hiệu quả.",
+        "pain_en": "Fragmented AI plugin ecosystems make it hard for users to find, install, and manage safe, effective plugins.",
+        "audience_vi": "Nhà phát triển và người dùng AI toàn cầu",
+        "audience_en": "Global AI developers and users",
+        "mvp_vi": "Nền tảng tập trung để đăng, đánh giá và cài đặt plugin AI một-click với hệ thống xác minh an toàn cơ bản.",
+        "mvp_en": "A centralized platform to publish, rate, and one-click install AI plugins with basic safety verification.",
+        "scope": "global",
+        "score": 82,
+        "evidence_ids": [
+          1,
+          2,
+          4,
+          6,
+          8
+        ],
+        "risks_vi": "Rủi ro bảo mật từ mã độc; cạnh tranh từ các nền tảng mã nguồn mở chính thức.",
+        "risks_en": "Security risks from malicious code; competition from official open-source platforms.",
+        "sources": [
+          {
+            "title": "deepseek-ai/deepseek-harness",
+            "url": "https://github.com/deepseek-ai/deepseek-harness",
+            "source": "GitHub"
+          },
+          {
+            "title": "anywhere-labs/deepseek-harness-desktop",
+            "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+            "source": "GitHub"
+          },
+          {
+            "title": "awesome-dsh-plugin/awesome-dsh-plugin",
+            "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+            "source": "GitHub"
+          },
+          {
+            "title": "zhu1090093659/dsh-web-ui",
+            "url": "https://github.com/zhu1090093659/dsh-web-ui",
+            "source": "GitHub"
+          },
+          {
+            "title": "ccch1mining/dsh-TUI",
+            "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Kiểm tra sức khỏe GPU",
+        "name_en": "GPU Health Testing",
+        "pain_vi": "GPU có thể hoạt động sai lệch hoặc kém hiệu quả dưới tải trọng AI mà không bị phát hiện qua theo dõi thông thường.",
+        "pain_en": "GPUs can underperform or be unstable under AI workloads without detection via normal monitoring.",
+        "audience_vi": "Trung tâm dữ liệu và nhà phát triển AI",
+        "audience_en": "Data centers and AI developers",
+        "mvp_vi": "Công cụ SaaS kiểm tra sức khỏe GPU chủ động, chạy 45+ bài test tải trọng AI để phát hiện lỗi phần cứng.",
+        "mvp_en": "SaaS tool proactively testing GPU health, running 45+ AI workload tests to detect hardware faults.",
+        "scope": "global",
+        "score": 88,
+        "evidence_ids": [
+          29,
+          30
+        ],
+        "risks_vi": "Chi phí phát triển cao; đòi hỏi chuyên môn sâu về phần cứng GPU.",
+        "risks_en": "High development costs; requires deep GPU hardware expertise.",
+        "sources": [
+          {
+            "title": "Show HN: PantheonGPU – GPU health testing and AI workload benchmarking",
+            "url": "https://pantheongpu.com/",
+            "source": "Hacker News"
+          },
+          {
+            "title": "AI chip startup Etched doubles valuation to $21 billion in under a month - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3NNZlBGNU1FVmtQWnVzMlc1SjFEVmtwYWJLNVJTYUpJS0NEb29iT0NhR1R5bUdKMlhqUWsyMjRJekVtcWFWb3dCX1lHMWlFNHJVLTZCeEoycW1ZdE03VThfZDEzellONHd4ZnJ3RlNEYlA4cGJReEFvaG13bTR0MHItbHlWN3pMWDNMN3JMVkJQNFo2aHFTQUw1QTlrWUt0V0FKamtGSm5rWUVT?oc=5",
+            "source": "Google News Reuters Finance"
+          }
+        ]
+      },
+      {
+        "name_vi": "Quản lý nhóm AI Agent",
+        "name_en": "AI Agent Team Management",
+        "pain_vi": "Thiếu nền tảng chat nơi con người và nhiều AI agent cộng tác liền mạch như một đội ngũ thực thụ.",
+        "pain_en": "Lack of chat platforms where humans and multiple AI agents collaborate seamlessly as a real team.",
+        "audience_vi": "Đội ngũ kỹ sư và nhà phát triển phần mềm",
+        "audience_en": "Engineering and software development teams",
+        "mvp_vi": "Ứng dụng chat đa nền tảng tích hợp AI agent, cho phép gán việc và kết nối API LLM tùy chọn.",
+        "mvp_en": "Cross-platform chat app integrating AI agents, allowing task assignment and custom LLM API connections.",
+        "scope": "global",
+        "score": 75,
+        "evidence_ids": [
+          5
+        ],
+        "risks_vi": "Chi phí API cao; khó duy trì ngữ cảnh dài hạn cho nhiều agent.",
+        "risks_en": "High API costs; hard to maintain long-term context for multiple agents.",
+        "sources": [
+          {
+            "title": "yetone/cumora",
+            "url": "https://github.com/yetone/cumora",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Tối ưu hóa huy động vốn",
+        "name_en": "Deposit Mobilization SaaS",
+        "pain_vi": "Nhân viên ngân hàng Việt Nam chật vật tìm khách gửi tiền, thiếu công cụ tiếp cận và quản lý khách hàng tiềm năng hiệu quả.",
+        "pain_en": "Vietnamese bank staff struggle to find depositors, lacking effective outreach and lead management tools.",
+        "audience_vi": "Nhân viên kinh doanh ngân hàng Việt Nam",
+        "audience_en": "Vietnamese bank sales staff",
+        "mvp_vi": "CRM di động giúp nhân viên ngân hàng quản lý khách hàng, tự động gửi lời chúc và nhắc nhở gửi tiết kiệm.",
+        "mvp_en": "Mobile CRM helping bank staff manage clients, auto-send greetings and deposit reminders.",
+        "scope": "vietnam",
+        "score": 70,
+        "evidence_ids": [
+          32
+        ],
+        "risks_vi": "Rào cản bảo mật dữ liệu ngân hàng; phụ thuộc ngân sách IT nội bộ.",
+        "risks_en": "Bank data security barriers; reliance on internal IT budgets.",
+        "sources": [
+          {
+            "title": "Bank employees race to find customers to deposit money",
+            "url": "https://vnexpress.net/nhan-vien-ngan-hang-chay-dua-tim-khach-gui-tien-5110600.html",
+            "source": "VnExpress Kinh doanh"
+          }
+        ]
+      },
+      {
+        "name_vi": "Kiểm soát chất lượng mã AI",
+        "name_en": "AI Code Quality Linter",
+        "pain_vi": "Mã do AI tạo ra thường chứa các mẫu code TypeScript/JS kém chất lượng, dễ gây lỗi hệ thống.",
+        "pain_en": "AI-generated code often contains low-evidence TypeScript/JS patterns, easily causing system bugs.",
+        "audience_vi": "Nhà phát triển phần mềm sử dụng AI",
+        "audience_en": "Software developers using AI",
+        "mvp_vi": "Bộ quy tắc Oxlint tích hợp vào CI/CD để tự động từ chối và sửa các mẫu code AI rác.",
+        "mvp_en": "Oxlint ruleset integrating into CI/CD to auto-reject and fix sloppy AI code patterns.",
+        "scope": "global",
+        "score": 80,
+        "evidence_ids": [
+          7
+        ],
+        "risks_vi": "Cạnh tranh từ các công cụ linter truyền thống; khó mở rộng cho nhiều ngôn ngữ.",
+        "risks_en": "Competition from traditional linters; hard to scale across multiple languages.",
+        "sources": [
+          {
+            "title": "dmmulroy/anti-slop",
+            "url": "https://github.com/dmmulroy/anti-slop",
+            "source": "GitHub"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": []
+}
