@@ -1,0 +1,647 @@
+{
+  "date": "2026-08-21",
+  "generated_at": "2026-08-20T20:45:22.028589+00:00",
+  "markets": [
+    {
+      "name": "S&P 500",
+      "symbol": "^GSPC",
+      "price": 7641.1602,
+      "change_pct": -0.87,
+      "currency": "USD"
+    },
+    {
+      "name": "NASDAQ",
+      "symbol": "^IXIC",
+      "price": 26067.166,
+      "change_pct": -1.0,
+      "currency": "USD"
+    },
+    {
+      "name": "Gold",
+      "symbol": "GC=F",
+      "price": 4573.7998,
+      "change_pct": 1.88,
+      "currency": "USD"
+    },
+    {
+      "name": "Crude Oil",
+      "symbol": "CL=F",
+      "price": 86.49,
+      "change_pct": 0.77,
+      "currency": "USD"
+    },
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC-USD",
+      "price": 72761.3125,
+      "change_pct": 5.05,
+      "currency": "USD"
+    },
+    {
+      "name": "USD/VND",
+      "symbol": "VND=X",
+      "price": 26099.0,
+      "change_pct": -0.31,
+      "currency": "VND"
+    }
+  ],
+  "items": [
+    {
+      "title": "deepseek-ai/deepseek-harness",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T11:56:32Z",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "score": 21836.53,
+      "title_vi": "deepseek-ai/deepseek-khai thác",
+      "title_en": "deepseek-ai/deepseek-harness",
+      "summary_vi": "Khai thác DeepSeek: Mọi thứ đều là Plugin.",
+      "summary_en": "DeepSeek Harness: Everything is a Plugin.",
+      "meta": {
+        "stars": 173727,
+        "forks": 18776,
+        "language": "TypeScript",
+        "stars_per_day": 21715.9
+      }
+    },
+    {
+      "title": "anywhere-labs/deepseek-harness-desktop",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T16:30:50Z",
+      "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
+      "score": 2149.06,
+      "title_vi": "mọi nơi-phòng thí nghiệm/deepseek-khai thác-máy tính để bàn",
+      "title_en": "anywhere-labs/deepseek-harness-desktop",
+      "summary_vi": "Một giải pháp máy tính để bàn hiện đại được xây dựng cho hệ sinh thái plug-in DeepSeek Harness (DSH). Mọi thứ đều là một \"plug-in\" và bản thân máy tính để bàn cũng là một \"plug-in\".",
+      "summary_en": "A modern desktop solution built for the DeepSeek Harness (DSH) plug-in ecosystem. Everything is a \"plug-in\", and the desktop itself is also a \"plug-in\".",
+      "meta": {
+        "stars": 16416,
+        "forks": 779,
+        "language": "TypeScript",
+        "stars_per_day": 2052.0
+      }
+    },
+    {
+      "title": "guillaumemeyer/watermarks-remover",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-11T16:32:38Z",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "score": 1695.19,
+      "title_vi": "guillaumemeyer/loại bỏ hình mờ",
+      "title_en": "guillaumemeyer/watermarks-remover",
+      "summary_vi": "Loại bỏ các dấu xuất xứ AI của nhiều nhà cung cấp: Vệ sinh văn bản Unicode, móc viết lại thống kê và C2PA/siêu dữ liệu từ PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "summary_en": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "meta": {
+        "stars": 15984,
+        "forks": 1819,
+        "language": "Python",
+        "stars_per_day": 1598.4
+      }
+    },
+    {
+      "title": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T13:55:31Z",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
+      "score": 1419.95,
+      "title_vi": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "title_en": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "summary_vi": "Danh sách các plugin được tuyển chọn dành cho Khai thác DeepSeek (dsh) · Khai thác DeepSeek Danh sách các plugin được tuyển chọn cho Khai thác DeepSeek",
+      "summary_en": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness A curated list of plugins for DeepSeek Harness",
+      "meta": {
+        "stars": 10618,
+        "forks": 1587,
+        "language": "Python",
+        "stars_per_day": 1327.2
+      }
+    },
+    {
+      "title": "yetone/cumora",
+      "url": "https://github.com/yetone/cumora",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-17T09:13:52Z",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "score": 772.02,
+      "title_vi": "yetone/cumora",
+      "title_en": "yetone/cumora",
+      "summary_vi": "Nơi tập hợp các đội đại lý. Trò chuyện nhóm đa nền tảng trong đó các đặc vụ AI là đồng đội hạng nhất — với bộ não đám mây hoặc mang theo (Claude Code / Codex) của riêng bạn.",
+      "summary_en": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "meta": {
+        "stars": 2771,
+        "forks": 327,
+        "language": "TypeScript",
+        "stars_per_day": 692.8
+      }
+    },
+    {
+      "title": "zhu1090093659/dsh-web-ui",
+      "url": "https://github.com/zhu1090093659/dsh-web-ui",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-12T05:15:20Z",
+      "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "score": 657.69,
+      "title_vi": "zhu1090093659/dsh-web-ui",
+      "title_en": "zhu1090093659/dsh-web-ui",
+      "summary_vi": "Bộ sưu tập plugin và giao diện cho giao diện người dùng web DeepSeek Harness (DSH) - bảng tác vụ, biểu đồ git, bảng điều khiển bên phải, giao diện người dùng di động từ xa, thú cưng, số liệu thống kê mã thông báo trực tiếp và trung tâm giao diện.",
+      "summary_en": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
+      "meta": {
+        "stars": 5150,
+        "forks": 313,
+        "language": "TypeScript",
+        "stars_per_day": 572.2
+      }
+    },
+    {
+      "title": "Leutenegger/watermarks-remover",
+      "url": "https://github.com/Leutenegger/watermarks-remover",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-19T15:20:24Z",
+      "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "score": 529.28,
+      "title_vi": "Leutenegger/xóa hình mờ",
+      "title_en": "Leutenegger/watermarks-remover",
+      "summary_vi": "Xóa dấu vết xuất xứ AI của nhiều nhà cung cấp: Làm sạch văn bản Unicode, kỹ thuật viết lại thống kê và loại bỏ C2PA/siêu dữ liệu khỏi các tệp PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "summary_en": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
+      "meta": {
+        "stars": 922,
+        "forks": 95,
+        "language": "Python",
+        "stars_per_day": 461.0
+      }
+    },
+    {
+      "title": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-17T00:44:59Z",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "score": 445.32,
+      "title_vi": "CopilotKit/OpenBot",
+      "title_en": "CopilotKit/OpenBot",
+      "summary_vi": "Các đồng nghiệp AI nguồn mở mỗi người sẽ có một máy tính riêng: trình duyệt, tệp và công cụ, với mọi hành động được quyết định trước khi nó xảy ra và được ghi lại sau đó. Mang theo bất kỳ đại lý AG-UI nào.",
+      "summary_en": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "meta": {
+        "stars": 1489,
+        "forks": 157,
+        "language": "TypeScript",
+        "stars_per_day": 372.2
+      }
+    },
+    {
+      "title": "dmmulroy/anti-slop",
+      "url": "https://github.com/dmmulroy/anti-slop",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-12T13:48:50Z",
+      "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "score": 424.15,
+      "title_vi": "dmmulroy/chống trượt",
+      "title_en": "dmmulroy/anti-slop",
+      "summary_vi": "Các quy tắc Oxlint có ý kiến ​​​​để từ chối các mẫu TypeScript và JavaScript có bằng chứng thấp",
+      "summary_en": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
+      "meta": {
+        "stars": 3094,
+        "forks": 59,
+        "language": "TypeScript",
+        "stars_per_day": 343.8
+      }
+    },
+    {
+      "title": "ccch1mneyyy/dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-08-13T12:49:31Z",
+      "description": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "score": 349.63,
+      "title_vi": "cch1money/dsh-TUI",
+      "title_en": "ccch1money/dsh-TUI",
+      "summary_vi": "Các plug-in bổ sung TUI có trong tài khoản công khai chính thức của DSH: Claude Code wind, thanh trên cùng của cá voi/trạng thái thời gian thực/tư duy phát trực tuyến/nhấp đúp vào Esc để quay lại/tiến trình ngữ cảnh + TPS. npm cài đặt bằng một cú nhấp chuột.  WeChat chính thức của DSH có plugin TUI nổi bật - Kiểu mã Claude: thanh cá voi, trạng thái trực tiếp, truyền phát suy nghĩ, khôi phục Esc đôi, thanh ngữ cảnh + TPS. npm chỉ bằng một cú nhấp chuột.",
+      "summary_en": "TUI fill-in plug-ins included in DSH official public account: Claude Code wind, whale top bar/real-time status/streaming thinking/double-click Esc to roll back/context progress + TPS. npm one-click installation.  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "meta": {
+        "stars": 2182,
+        "forks": 94,
+        "language": "TypeScript",
+        "stars_per_day": 272.8
+      }
+    },
+    {
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 20 Aug 2026 20:07:26 +0000",
+      "description": "Article URL: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/ Comments URL: https://news.ycombinator.com/item?id=49379550 Points: 41 # Comments: 6",
+      "score": 0.0,
+      "title_vi": "Aaron Swartz bị khởi tố vì tội cào cào, trong khi Meta làm điều đó mà không để lại hậu quả",
+      "title_en": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "summary_vi": "URL bài viết: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/ URL bình luận: https://news.ycombinator.com/item?id=49379550 Điểm: 41 # Bình luận: 6",
+      "summary_en": "Article URL: https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/ Comments URL: https://news.ycombinator.com/item?id=49379550 Points: 41 # Comments: 6",
+      "meta": {}
+    },
+    {
+      "title": "Novaland đặt mục tiêu bàn giao gần 2.300 căn nhà trong nửa cuối năm",
+      "url": "https://vnexpress.net/novaland-dat-muc-tieu-ban-giao-gan-2-300-can-nha-trong-nua-cuoi-nam-5111458.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Fri, 21 Aug 2026 03:06:23 +0700",
+      "description": "Với trọng điểm là Victoria Village và Aqua City, Novaland đặt mục tiêu bàn giao 2.265 căn nhà trong những tháng tới, gấp 6,6 lần so với nửa đầu năm.",
+      "score": 0.0,
+      "title_vi": "Novaland đặt mục tiêu bàn giao gần 2.300 căn nhà trong nửa cuối năm",
+      "title_en": "Novaland aims to hand over nearly 2,300 houses in the second half of the year",
+      "summary_vi": "Với trọng điểm là Victoria Village và Aqua City, Novaland đặt mục tiêu bàn giao 2.265 căn nhà trong những tháng tới, gấp 6,6 lần so với nửa đầu năm.",
+      "summary_en": "With a focus on Victoria Village and Aqua City, Novaland aims to hand over 2,265 houses in the coming months, 6.6 times more than the first half of the year.",
+      "meta": {}
+    },
+    {
+      "title": "Someone targeted security researchers using a fake crypto conference as a lure",
+      "url": "https://techcrunch.com/2026/08/20/someone-targeted-security-researchers-using-a-fake-crypto-conference-as-a-lure/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 20 Aug 2026 20:00:00 +0000",
+      "description": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
+      "score": 0.0,
+      "title_vi": "Ai đó đã nhắm mục tiêu vào các nhà nghiên cứu bảo mật bằng cách sử dụng một hội nghị tiền điện tử giả mạo làm mồi nhử",
+      "title_en": "Someone targeted security researchers using a fake crypto conference as a lure",
+      "summary_vi": "Một hacker giả danh làm việc cho một trang web tin tức về tiền điện tử hàng đầu đã nhắm mục tiêu vào một số chuyên gia an ninh mạng đang sử dụng Google Docs như một cách để phát tán phần mềm độc hại.",
+      "summary_en": "A hacker pretending to work for a leading cryptocurrency news website targeted several cybersecurity professionals using Google Docs as a way to deliver malware.",
+      "meta": {}
+    },
+    {
+      "title": "Mark buys a castle",
+      "url": "https://techcrunch.com/2026/08/20/mark-buys-a-castle/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 20 Aug 2026 19:55:40 +0000",
+      "description": "Mark Zuckerberg just bought a cozy abode somewhat close to Meta’s international headquarters in Ireland.",
+      "score": 0.0,
+      "title_vi": "Mark mua một lâu đài",
+      "title_en": "Mark buys a castle",
+      "summary_vi": "Mark Zuckerberg vừa mua một nơi ở ấm cúng gần trụ sở quốc tế của Meta ở Ireland.",
+      "summary_en": "Mark Zuckerberg just bought a cozy abode somewhat close to Meta’s international headquarters in Ireland.",
+      "meta": {}
+    },
+    {
+      "title": "Em trai ông Nguyễn Duy Hưng dự chi gần 100 tỷ đồng mua cổ phiếu SSI",
+      "url": "https://vnexpress.net/em-trai-ong-nguyen-duy-hung-du-chi-gan-100-ty-dong-mua-co-phieu-ssi-5111496.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Fri, 21 Aug 2026 02:55:38 +0700",
+      "description": "Ông Nguyễn Hồng Nam, em trai ông Nguyễn Duy Hưng, đăng ký mua 5 triệu cổ phiếu SSI, với tổng giá trị khoảng 97 tỷ đồng.",
+      "score": 0.0,
+      "title_vi": "Em trai ông Nguyễn Duy Hưng dự chi gần 100 tỷ đồng mua cổ phiếu SSI",
+      "title_en": "Mr. Nguyen Duy Hung's younger brother plans to spend nearly 100 billion VND to buy SSI shares",
+      "summary_vi": "Ông Nguyễn Hồng Nam, em trai ông Nguyễn Duy Hưng, đăng ký mua 5 triệu cổ phiếu SSI, với tổng giá trị khoảng 97 tỷ đồng.",
+      "summary_en": "Mr. Nguyen Hong Nam, Mr. Nguyen Duy Hung's younger brother, registered to buy 5 million SSI shares, with a total value of about 97 billion VND.",
+      "meta": {}
+    },
+    {
+      "title": "Stop eating Lady Gaga's Oreos",
+      "url": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 20 Aug 2026 19:46:06 +0000",
+      "description": "Article URL: https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos Comments URL: https://news.ycombinator.com/item?id=49379253 Points: 76 # Comments: 21",
+      "score": 0.0,
+      "title_vi": "Đừng ăn bánh Oreo của Lady Gaga",
+      "title_en": "Stop eating Lady Gaga's Oreos",
+      "summary_vi": "URL bài viết: https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos URL bình luận: https://news.ycombinator.com/item?id=49379253 Điểm: 76 # Bình luận: 21",
+      "summary_en": "Article URL: https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos Comments URL: https://news.ycombinator.com/item?id=49379253 Points: 76 # Comments: 21",
+      "meta": {}
+    },
+    {
+      "title": "GitHub, autoscaling, and the component substitution fallacy",
+      "url": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 20 Aug 2026 19:28:18 +0000",
+      "description": "Article URL: https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/ Comments URL: https://news.ycombinator.com/item?id=49379026 Points: 13 # Comments: 0",
+      "score": 0.0,
+      "title_vi": "GitHub, tự động điều chỉnh tỷ lệ và sai lầm thay thế thành phần",
+      "title_en": "GitHub, autoscaling, and the component substitution fallacy",
+      "summary_vi": "URL bài viết: https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-comComponent-substitution-fallacy/ URL bình luận: https://news.ycombinator.com/item?id=49379026 Điểm: 13 # Bình luận: 0",
+      "summary_en": "Article URL: https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/ Comments URL: https://news.ycombinator.com/item?id=49379026 Points: 13 # Comments: 0",
+      "meta": {}
+    },
+    {
+      "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
+      "url": "https://tidalcycles.org/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 20 Aug 2026 19:21:45 +0000",
+      "description": "Article URL: https://tidalcycles.org/ Comments URL: https://news.ycombinator.com/item?id=49378950 Points: 17 # Comments: 4",
+      "score": 0.0,
+      "title_vi": "Tidal Cycles – Nhạc mã hóa trực tiếp với các mẫu thuật toán",
+      "title_en": "Tidal Cycles – Live coding music with Algorithmic patterns",
+      "summary_vi": "URL bài viết: https://tidalcycles.org/ URL bình luận: https://news.ycombinator.com/item?id=49378950 Điểm: 17 # Bình luận: 4",
+      "summary_en": "Article URL: https://tidalcycles.org/ Comments URL: https://news.ycombinator.com/item?id=49378950 Points: 17 # Comments: 4",
+      "meta": {}
+    },
+    {
+      "title": "SpacetimeDB: A Short Technical Review",
+      "url": "https://strn.cat/posts/spacetime/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 20 Aug 2026 19:19:53 +0000",
+      "description": "Article URL: https://strn.cat/posts/spacetime/ Comments URL: https://news.ycombinator.com/item?id=49378933 Points: 14 # Comments: 4",
+      "score": 0.0,
+      "title_vi": "SpacetimeDB: Đánh giá kỹ thuật ngắn",
+      "title_en": "SpacetimeDB: A Short Technical Review",
+      "summary_vi": "URL bài viết: https://strn.cat/posts/spacetime/ URL bình luận: https://news.ycombinator.com/item?id=49378933 Điểm: 14 # Bình luận: 4",
+      "summary_en": "Article URL: https://strn.cat/posts/spacetime/ Comments URL: https://news.ycombinator.com/item?id=49378933 Points: 14 # Comments: 4",
+      "meta": {}
+    },
+    {
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 20 Aug 2026 19:18:21 +0000",
+      "description": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+      "score": 0.0,
+      "title_vi": "Google cung cấp cho các nhà xuất bản một cách mới để chống lại tình trạng mất lưu lượng truy cập do AI gây ra",
+      "title_en": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "summary_vi": "Google đang cung cấp cho các nhà xuất bản một nút mới cho phép người đọc biến họ thành nguồn ưa thích trên Tìm kiếm, Khám phá và Google Tin tức, có khả năng tăng lưu lượng truy cập của họ khi tìm kiếm AI gửi ít nhấp chuột hơn lên web.",
+      "summary_en": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+      "meta": {}
+    },
+    {
+      "title": "Loạt sáng kiến giúp 750 tấn rác nhựa không phải chôn lấp",
+      "url": "https://vnexpress.net/loat-sang-kien-giup-750-tan-rac-nhua-khong-phai-chon-lap-5111417.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Fri, 21 Aug 2026 00:00:00 +0700",
+      "description": "Loạt 11 sáng kiến từ màng phủ làm bằng vỏ tôm, AI truy xuất nguồn gốc đến bản đồ tái chế, giúp 750 tấn rác nhựa tránh phải chôn lấp.",
+      "score": 0.0,
+      "title_vi": "Loạt sáng kiến giúp 750 tấn rác nhựa không phải chôn lấp",
+      "title_en": "A series of initiatives helps 750 tons of plastic waste not go to landfill",
+      "summary_vi": "Loạt 11 sáng kiến từ màng phủ làm bằng vỏ tôm, AI truy xuất nguồn gốc đến bản đồ tái chế, giúp 750 tấn rác nhựa tránh phải chôn lấp.",
+      "summary_en": "A series of 11 initiatives from mulch films made of shrimp shells, AI traceability to recycling maps, helped 750 tons of plastic waste avoid going to landfill.",
+      "meta": {}
+    },
+    {
+      "title": "Đề xuất giảm 30% thuế cho cá nhân, doanh nghiệp doanh thu không quá 10 tỷ",
+      "url": "https://vnexpress.net/de-xuat-giam-30-thue-cho-ca-nhan-doanh-nghiep-doanh-thu-khong-qua-10-ty-5111385.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Thu, 20 Aug 2026 17:25:43 +0700",
+      "description": "Chính phủ đề xuất giảm 30% thuế cho cá nhân kinh doanh, doanh nghiệp có doanh thu không quá 10 tỷ đồng mỗi năm trong kỳ tính thuế 2026, 2027.",
+      "score": 0.0,
+      "title_vi": "Đề xuất giảm 30% thuế cho cá nhân, doanh nghiệp doanh thu không quá 10 tỷ",
+      "title_en": "Proposed 30% tax reduction for individuals and businesses with revenue not exceeding 10 billion",
+      "summary_vi": "Chính phủ đề xuất giảm 30% thuế cho cá nhân kinh doanh, doanh nghiệp có doanh thu không quá 10 tỷ đồng mỗi năm trong kỳ tính thuế 2026, 2027.",
+      "summary_en": "The Government proposes a 30% tax reduction for business individuals and businesses with revenue not exceeding 10 billion VND per year in the 2026 and 2027 tax periods.",
+      "meta": {}
+    },
+    {
+      "title": "LPBank vào top 6 ngân hàng tư nhân đóng thuế nhiều nhất",
+      "url": "https://vnexpress.net/lpbank-vao-top-6-ngan-hang-tu-nhan-dong-thue-nhieu-nhat-5111413.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Thu, 20 Aug 2026 16:45:00 +0700",
+      "description": "LPBank được VNTAX ghi nhận trong Top 6 ngân hàng tư nhân nộp ngân sách lớn nhất Việt Nam, sau khi đóng góp 3.298 tỷ đồng năm 2025, gấp hơn ba lần năm 2021.",
+      "score": 0.0,
+      "title_vi": "LPBank vào top 6 ngân hàng tư nhân đóng thuế nhiều nhất",
+      "title_en": "LPBank is in the top 6 private banks that pay the most taxes",
+      "summary_vi": "LPBank được VNTAX ghi nhận trong Top 6 ngân hàng tư nhân nộp ngân sách lớn nhất Việt Nam, sau khi đóng góp 3.298 tỷ đồng năm 2025, gấp hơn ba lần năm 2021.",
+      "summary_en": "LPBank was recognized by VNTAX in the Top 6 private banks contributing the largest budget in Vietnam, after contributing VND 3,298 billion in 2025, more than three times more than in 2021.",
+      "meta": {}
+    },
+    {
+      "title": "CEO hãng robot hình người hàng đầu Trung Quốc thành tỷ phú",
+      "url": "https://vnexpress.net/ceo-hang-robot-hinh-nguoi-hang-dau-trung-quoc-thanh-ty-phu-5111262.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Thu, 20 Aug 2026 15:48:33 +0700",
+      "description": "Tài sản của Wang Xingxing, Chủ tịch kiêm CEO nhà sản xuất robot hình người Unitree, vọt lên hàng chục tỷ USD khi công ty chào sàn Thượng Hải.",
+      "score": 0.0,
+      "title_vi": "CEO hãng robot hình người hàng đầu Trung Quốc thành tỷ phú",
+      "title_en": "The CEO of China's leading humanoid robot company became a billionaire",
+      "summary_vi": "Tài sản của Wang Xingxing, Chủ tịch kiêm CEO nhà sản xuất robot hình người Unitree, vọt lên hàng chục tỷ USD khi công ty chào sàn Thượng Hải.",
+      "summary_en": "The fortune of Wang Xingxing, Chairman and CEO of humanoid robot manufacturer Unitree, soared to tens of billions of dollars when the company listed on the Shanghai stock exchange.",
+      "meta": {}
+    },
+    {
+      "title": "Cổ phiếu Vingroup dẫn dắt chứng khoán tăng điểm trở lại",
+      "url": "https://vnexpress.net/co-phieu-vingroup-dan-dat-chung-khoan-tang-diem-tro-lai-5111366.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Thu, 20 Aug 2026 15:36:06 +0700",
+      "description": "Mã VIC của Vingroup đóng góp hơn 3 điểm vào VN-Index, trong phiên chứng khoán tăng điểm trở lại.",
+      "score": 0.0,
+      "title_vi": "Cổ phiếu Vingroup dẫn dắt chứng khoán tăng điểm trở lại",
+      "title_en": "Vingroup shares led stocks to increase again",
+      "summary_vi": "Mã VIC của Vingroup đóng góp hơn 3 điểm vào VN-Index, trong phiên chứng khoán tăng điểm trở lại.",
+      "summary_en": "Vingroup's code VIC contributed more than 3 points to the VN-Index, during the session the stock market increased again.",
+      "meta": {}
+    },
+    {
+      "title": "Ngân hàng, ví điện tử thu phí liên kết tài khoản giao thông thế nào?",
+      "url": "https://vnexpress.net/ngan-hang-vi-dien-tu-thu-phi-lien-ket-tai-khoan-giao-thong-the-nao-5111028.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Thu, 20 Aug 2026 15:00:00 +0700",
+      "description": "Sau khi VETC và Viettel Money dừng thu phí dịch vụ ví điện tử, người dùng tài khoản giao thông nếu liên kết các kênh khác vẫn có thể chịu phí 1.000-3.000 đồng mỗi lượt qua trạm.",
+      "score": 0.0,
+      "title_vi": "Ngân hàng, ví điện tử thu phí liên kết tài khoản giao thông thế nào?",
+      "title_en": "How do banks and e-wallets collect fees for linking traffic accounts?",
+      "summary_vi": "Sau khi VETC và Viettel Money dừng thu phí dịch vụ ví điện tử, người dùng tài khoản giao thông nếu liên kết các kênh khác vẫn có thể chịu phí 1.000-3.000 đồng mỗi lượt qua trạm.",
+      "summary_en": "After VETC and Viettel Money stop collecting fees for e-wallet services, traffic account users who link to other channels can still pay a fee of 1,000-3,000 VND per trip through the station.",
+      "meta": {}
+    }
+  ],
+  "insights": {
+    "status": "ready",
+    "model": "z-ai/glm-5.2",
+    "daily_thesis_vi": "Sự bùng nổ của hệ sinh thái DeepSeek Harness cho thấy nhu cầu quản lý plugin AI. Đồng thời, các doanh nghiệp vừa và nhỏ tại Việt Nam đang đối mặt với cơ hội giảm 30% thuế, đòi hỏi phần mềm kế toán thích ứng nhanh.",
+    "daily_thesis_en": "The DeepSeek Harness ecosystem boom highlights a need for AI plugin management. Concurrently, global publishers face AI-driven traffic loss, and Vietnamese SMEs face urgent tax optimization needs due to new 30% tax cuts.",
+    "opportunities": [
+      {
+        "name_vi": "Quản lý Plugin AI Doanh nghiệp",
+        "name_en": "Enterprise AI Plugin Manager",
+        "pain_vi": "Quản lý vòng đời plugin AI lộn xộn gây tốn kém và rủi ro bảo mật cho doanh nghiệp.",
+        "pain_en": "Managing chaotic AI plugin lifecycles creates cost and security risks for enterprises.",
+        "audience_vi": "Các công ty phát triển phần mềm sử dụng DeepSeek Harness.",
+        "audience_en": "Software development firms using DeepSeek Harness.",
+        "mvp_vi": "Bảng điều khiển tập trung để cài đặt, cập nhật và kiểm soát quyền truy cập plugin.",
+        "mvp_en": "A centralized dashboard to install, update, and govern plugin access.",
+        "scope": "global",
+        "score": 78,
+        "evidence_ids": [
+          1,
+          2,
+          4,
+          6,
+          10
+        ],
+        "risks_vi": "Nền tảng nguồn mở có thể tích hợp tính năng này, làm giảm nhu cầu trả phí.",
+        "risks_en": "Open-source platforms may integrate this natively, reducing paid demand.",
+        "sources": [
+          {
+            "title": "deepseek-ai/deepseek-harness",
+            "url": "https://github.com/deepseek-ai/deepseek-harness",
+            "source": "GitHub"
+          },
+          {
+            "title": "anywhere-labs/deepseek-harness-desktop",
+            "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+            "source": "GitHub"
+          },
+          {
+            "title": "awesome-dsh-plugin/awesome-dsh-plugin",
+            "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+            "source": "GitHub"
+          },
+          {
+            "title": "zhu1090093659/dsh-web-ui",
+            "url": "https://github.com/zhu1090093659/dsh-web-ui",
+            "source": "GitHub"
+          },
+          {
+            "title": "ccch1money/dsh-TUI",
+            "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+            "source": "GitHub"
+          }
+        ]
+      },
+      {
+        "name_vi": "Tối ưu hóa Thuế & Dòng tiền cho SME",
+        "name_en": "SME Tax & Cashflow Optimizer",
+        "pain_vi": "Doanh nghiệp nhỏ khó nắm bắt và áp dụng kịp thời chính sách giảm 30% thuế mới.",
+        "pain_en": "Small businesses struggle to track and apply the new 30% tax reduction policy.",
+        "audience_vi": "Doanh nghiệp và cá nhân kinh doanh tại Việt Nam.",
+        "audience_en": "Business individuals and SMEs in Vietnam.",
+        "mvp_vi": "Công cụ SaaS tự động tính toán và lập kế hoạch giảm thuế dựa trên doanh thu.",
+        "mvp_en": "A SaaS tool to automatically calculate and plan tax reductions based on revenue.",
+        "scope": "vietnam",
+        "score": 85,
+        "evidence_ids": [
+          22
+        ],
+        "risks_vi": "Thay đổi luật thuế liên tục đòi hỏi cập nhật phần mềm thường xuyên và tốn kém.",
+        "risks_en": "Frequent tax law changes require costly and continuous software updates.",
+        "sources": [
+          {
+            "title": "Proposed 30% tax reduction for individuals and businesses with revenue not exceeding 10 billion",
+            "url": "https://vnexpress.net/de-xuat-giam-30-thue-cho-ca-nhan-doanh-nghiep-doanh-thu-khong-qua-10-ty-5111385.html",
+            "source": "VnExpress Kinh doanh"
+          }
+        ]
+      },
+      {
+        "name_vi": "Bảo vệ và Khôi phục Traffic cho Publisher",
+        "name_en": "Publisher Traffic Protection",
+        "pain_vi": "Nhà xuất bản mất lượng truy cập nghiêm trọng do các công cụ tìm kiếm AI.",
+        "pain_en": "Publishers suffer severe traffic loss due to AI search engines.",
+        "audience_vi": "Các trang tin tức và blog toàn cầu.",
+        "audience_en": "Global news websites and blogs.",
+        "mvp_vi": "Phân tích nội dung để tối ưu hóa cho nút 'preferred source' của Google.",
+        "mvp_en": "Content analyzer to optimize for Google's preferred source button.",
+        "scope": "global",
+        "score": 72,
+        "evidence_ids": [
+          20
+        ],
+        "risks_vi": "Thuật toán tìm kiếm thay đổi liên tục có thể làm giảm hiệu quả của công cụ.",
+        "risks_en": "Constant search algorithm changes may reduce tool effectiveness.",
+        "sources": [
+          {
+            "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+            "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+            "source": "TechCrunch"
+          }
+        ]
+      },
+      {
+        "name_vi": "Quản lý Rủi ro Tài xế Tự động",
+        "name_en": "Automated Driver Risk Manager",
+        "pain_vi": "Tài xế bị thu phí giao thông không rõ ràng qua các ví điện tử khác nhau.",
+        "pain_en": "Drivers face unclear toll fees across various e-wallets and bank links.",
+        "audience_vi": "Tài xế và chủ xe tại Việt Nam.",
+        "audience_en": "Drivers and vehicle owners in Vietnam.",
+        "mvp_vi": "Ứng dụng theo dõi và cảnh báo phí trạm thu tiền theo từng chuyến đi.",
+        "mvp_en": "App to track and alert on toll station fees per trip.",
+        "scope": "vietnam",
+        "score": 65,
+        "evidence_ids": [
+          26
+        ],
+        "risks_vi": "Sự hợp nhất của các hệ thống thu phí có thể làm giảm sự phân mảnh phí.",
+        "risks_en": "Consolidation of toll systems may reduce fee fragmentation.",
+        "sources": [
+          {
+            "title": "How do banks and e-wallets collect fees for linking traffic accounts?",
+            "url": "https://vnexpress.net/ngan-hang-vi-dien-tu-thu-phi-lien-ket-tai-khoan-giao-thong-the-nao-5111028.html",
+            "source": "VnExpress Kinh doanh"
+          }
+        ]
+      },
+      {
+        "name_vi": "Nền tảng Quản lý Chất thải Nhựa",
+        "name_en": "Plastic Waste Management Platform",
+        "pain_vi": "Doanh nghiệp thiếu giải pháp truy xuất nguồn gốc rác thải nhựa để tuân thủ ESG.",
+        "pain_en": "Businesses lack plastic waste traceability solutions for ESG compliance.",
+        "audience_vi": "Các nhà máy và doanh nghiệp tái chế tại Việt Nam.",
+        "audience_en": "Factories and recycling businesses in Vietnam.",
+        "mvp_vi": "Hệ thống SaaS theo dõi vòng đời rác thải nhựa bằng AI và blockchain.",
+        "mvp_en": "SaaS system tracking plastic waste lifecycle using AI and blockchain.",
+        "scope": "vietnam",
+        "score": 68,
+        "evidence_ids": [
+          21
+        ],
+        "risks_vi": "Chi phí triển khai cao và khó tích hợp với chuỗi cung ứng hiện tại.",
+        "risks_en": "High deployment costs and difficult integration with current supply chains.",
+        "sources": [
+          {
+            "title": "A series of initiatives helps 750 tons of plastic waste not go to landfill",
+            "url": "https://vnexpress.net/loat-sang-kien-giup-750-tan-rac-nhua-khong-phai-chon-lap-5111417.html",
+            "source": "VnExpress Kinh doanh"
+          }
+        ]
+      }
+    ]
+  },
+  "warnings": [
+    "Feed Google News Reuters Finance failed: HTTPError",
+    "Feed Google News Social Needs failed: HTTPError",
+    "Feed Google News Nhu cầu Việt Nam failed: HTTPError"
+  ]
+}
