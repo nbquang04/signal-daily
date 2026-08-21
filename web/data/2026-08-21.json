@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T01:57:03.674881+00:00",
+  "generated_at": "2026-08-21T05:47:39.067325+00:00",
   "markets": [
     {
       "name": "S&P 500",
@@ -12,29 +12,29 @@
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 26067.166,
+      "price": 26067.1699,
       "change_pct": -1.0,
       "currency": "USD"
     },
     {
       "name": "Gold",
       "symbol": "GC=F",
-      "price": 4583.2998,
-      "change_pct": 2.09,
+      "price": 4596.3999,
+      "change_pct": 1.77,
       "currency": "USD"
     },
     {
       "name": "Crude Oil",
       "symbol": "CL=F",
-      "price": 86.89,
-      "change_pct": 1.23,
+      "price": 86.38,
+      "change_pct": -1.65,
       "currency": "USD"
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 75352.4375,
-      "change_pct": 8.79,
+      "price": 75216.7109,
+      "change_pct": 8.59,
       "currency": "USD"
     },
     {
@@ -54,16 +54,16 @@
       "market": "global",
       "published": "2026-08-13T11:56:32Z",
       "description": "DeepSeek Harness: Everything is a Plugin.",
-      "score": 21991.35,
+      "score": 22160.8,
       "title_vi": "deepseek-ai/deepseek-khai thác",
       "title_en": "deepseek-ai/deepseek-harness",
       "summary_vi": "Khai thác DeepSeek: Mọi thứ đều là Plugin.",
       "summary_en": "DeepSeek Harness: Everything is a Plugin.",
       "meta": {
-        "stars": 174965,
-        "forks": 18921,
+        "stars": 176320,
+        "forks": 19124,
         "language": "TypeScript",
-        "stars_per_day": 21870.6
+        "stars_per_day": 22040.0
       }
     },
     {
@@ -74,16 +74,16 @@
       "market": "global",
       "published": "2026-08-13T16:30:50Z",
       "description": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-      "score": 2166.65,
+      "score": 2197.42,
       "title_vi": "mọi nơi-phòng thí nghiệm/deepseek-khai thác-máy tính để bàn",
       "title_en": "anywhere-labs/deepseek-harness-desktop",
       "summary_vi": "Một giải pháp máy tính để bàn hiện đại được xây dựng cho hệ sinh thái plug-in DeepSeek Harness (DSH). Mọi thứ đều là một \"plug-in\" và bản thân máy tính để bàn cũng là một \"plug-in\".",
       "summary_en": "A modern desktop solution built for the DeepSeek Harness (DSH) plug-in ecosystem. Everything is a \"plug-in\", and the desktop itself is also a \"plug-in\".",
       "meta": {
-        "stars": 16556,
-        "forks": 787,
+        "stars": 16801,
+        "forks": 801,
         "language": "TypeScript",
-        "stars_per_day": 2069.5
+        "stars_per_day": 2100.1
       }
     },
     {
@@ -94,16 +94,16 @@
       "market": "global",
       "published": "2026-08-11T16:32:38Z",
       "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
-      "score": 1706.06,
+      "score": 1713.51,
       "title_vi": "guillaumemeyer/loại bỏ hình mờ",
       "title_en": "guillaumemeyer/watermarks-remover",
       "summary_vi": "Loại bỏ các dấu xuất xứ AI của nhiều nhà cung cấp: Vệ sinh văn bản Unicode, móc viết lại thống kê và C2PA/siêu dữ liệu từ PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "summary_en": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "meta": {
-        "stars": 16092,
-        "forks": 1833,
+        "stars": 16166,
+        "forks": 1840,
         "language": "Python",
-        "stars_per_day": 1609.2
+        "stars_per_day": 1616.6
       }
     },
     {
@@ -114,16 +114,16 @@
       "market": "global",
       "published": "2026-08-13T13:55:31Z",
       "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-      "score": 1427.26,
+      "score": 1442.37,
       "title_vi": "awesome-dsh-plugin/awesome-dsh-plugin",
       "title_en": "awesome-dsh-plugin/awesome-dsh-plugin",
       "summary_vi": "Danh sách các plugin được tuyển chọn dành cho Khai thác DeepSeek (dsh) · Khai thác DeepSeek Danh sách các plugin được tuyển chọn cho Khai thác DeepSeek",
       "summary_en": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness A curated list of plugins for DeepSeek Harness",
       "meta": {
-        "stars": 10676,
-        "forks": 1594,
+        "stars": 10796,
+        "forks": 1623,
         "language": "Python",
-        "stars_per_day": 1334.5
+        "stars_per_day": 1349.5
       }
     },
     {
@@ -154,16 +154,16 @@
       "market": "global",
       "published": "2026-08-17T09:13:52Z",
       "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
-      "score": 774.05,
+      "score": 777.1,
       "title_vi": "yetone/cumora",
       "title_en": "yetone/cumora",
       "summary_vi": "Nơi tập hợp các đội đại lý. Trò chuyện nhóm đa nền tảng trong đó các đặc vụ AI là đồng đội hạng nhất — với bộ não đám mây hoặc mang theo (Claude Code / Codex) của riêng bạn.",
       "summary_en": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
       "meta": {
-        "stars": 2779,
-        "forks": 328,
+        "stars": 2791,
+        "forks": 333,
         "language": "TypeScript",
-        "stars_per_day": 694.8
+        "stars_per_day": 697.8
       }
     },
     {
@@ -174,16 +174,16 @@
       "market": "global",
       "published": "2026-08-12T05:15:20Z",
       "description": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
-      "score": 660.29,
+      "score": 666.4,
       "title_vi": "zhu1090093659/dsh-web-ui",
       "title_en": "zhu1090093659/dsh-web-ui",
       "summary_vi": "Bộ sưu tập plugin và giao diện cho giao diện người dùng web DeepSeek Harness (DSH) - bảng tác vụ, biểu đồ git, bảng điều khiển bên phải, giao diện người dùng di động từ xa, thú cưng, số liệu thống kê mã thông báo trực tiếp và trung tâm giao diện.",
       "summary_en": "Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git graph, right-side panel, remote mobile UI, pet, live token stats, and skin center.",
       "meta": {
-        "stars": 5173,
-        "forks": 314,
+        "stars": 5227,
+        "forks": 321,
         "language": "TypeScript",
-        "stars_per_day": 574.8
+        "stars_per_day": 580.8
       }
     },
     {
@@ -194,16 +194,16 @@
       "market": "global",
       "published": "2026-08-19T15:20:24Z",
       "description": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
-      "score": 530.3,
+      "score": 531.32,
       "title_vi": "Leutenegger/xóa hình mờ",
       "title_en": "Leutenegger/watermarks-remover",
       "summary_vi": "Xóa dấu vết xuất xứ AI của nhiều nhà cung cấp: Làm sạch văn bản Unicode, kỹ thuật viết lại thống kê và loại bỏ C2PA/siêu dữ liệu khỏi các tệp PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "summary_en": "Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical rewriting techniques, and C2PA/metadata stripping from PNG/JPEG/SVG/PDF/DOCX/HTML/MD files",
       "meta": {
-        "stars": 924,
+        "stars": 926,
         "forks": 95,
         "language": "Python",
-        "stars_per_day": 462.0
+        "stars_per_day": 463.0
       }
     },
     {
@@ -214,16 +214,16 @@
       "market": "global",
       "published": "2026-08-17T00:44:59Z",
       "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
-      "score": 490.69,
+      "score": 516.53,
       "title_vi": "CopilotKit/OpenBot",
       "title_en": "CopilotKit/OpenBot",
       "summary_vi": "Các đồng nghiệp AI nguồn mở mỗi người sẽ có một máy tính riêng: trình duyệt, tệp và công cụ, với mọi hành động được quyết định trước khi nó xảy ra và được ghi lại sau đó. Mang theo bất kỳ đại lý AG-UI nào.",
       "summary_en": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
       "meta": {
-        "stars": 1666,
-        "forks": 173,
+        "stars": 1767,
+        "forks": 184,
         "language": "TypeScript",
-        "stars_per_day": 416.5
+        "stars_per_day": 441.8
       }
     },
     {
@@ -234,181 +234,331 @@
       "market": "global",
       "published": "2026-08-12T13:48:50Z",
       "description": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
-      "score": 430.44,
+      "score": 433.98,
       "title_vi": "dmmulroy/chống trượt",
       "title_en": "dmmulroy/anti-slop",
       "summary_vi": "Các quy tắc Oxlint có ý kiến ​​​​để từ chối các mẫu TypeScript và JavaScript có bằng chứng thấp",
       "summary_en": "Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns",
       "meta": {
-        "stars": 3149,
-        "forks": 59,
+        "stars": 3180,
+        "forks": 60,
         "language": "TypeScript",
-        "stars_per_day": 349.9
+        "stars_per_day": 353.3
       }
     },
     {
-      "title": "Our Education System By The Numbers - Gothenburg Leader",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aVkpwLUU4YW9tUVFWRlh5NnNRVWxHM0RhRDJLb1hYRmViaEVSUVFhY2VmQ293VENWOU5tTkRIeTloWmNFaGhCNk1xUUktOEZzb1AtUXphdXRoMld5WWlCUUJUYkxSY05iejRxWElQRy11WEw1?oc=5",
+      "title": "Commentary: Jim Cowen: Governors put math back at the center of education - Jacksonville Journal-Courier",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVXpsVnFUd042bUl4d3VaVkZCbGZpTWd5WHU1SFhwaTJHOUkxaHpOQ1laakFLNWlSQTVmcG42ZnY3SVhCSWowdTRuMzNXdlAwcFdZdi01QkRKcXNTcnJXdzBsdkEwMjFhOEh5S053WHFrQlRZeXJGTjY3Vks1cUk2LTcyQWhVdHZid2taOHc3MWZicHJnOE9waEQzZGpuRGI2WEtuQg?oc=5",
       "source": "Google News Social Needs",
       "category": "society",
       "market": "global",
-      "published": "Fri, 21 Aug 2026 01:39:47 GMT",
-      "description": "Our Education System By The Numbers Gothenburg Leader",
+      "published": "Fri, 21 Aug 2026 05:23:28 GMT",
+      "description": "Commentary: Jim Cowen: Governors put math back at the center of education Jacksonville Journal-Courier",
       "score": 0.0,
-      "title_vi": "Hệ thống giáo dục của chúng ta theo những con số - Lãnh đạo Gothenburg",
-      "title_en": "Our Education System By The Numbers - Gothenburg Leader",
-      "summary_vi": "Hệ thống giáo dục của chúng tôi theo những con số Lãnh đạo Gothenburg",
-      "summary_en": "Our Education System By The Numbers Gothenburg Leader",
+      "title_vi": "Bình luận: Jim Cowen: Các thống đốc đưa toán trở lại làm trọng tâm của giáo dục - Jacksonville Journal-Courier",
+      "title_en": "Commentary: Jim Cowen: Governors put math back at the center of education - Jacksonville Journal-Courier",
+      "summary_vi": "Bình luận: Jim Cowen: Các thống đốc đưa toán trở lại làm trọng tâm của giáo dục Jacksonville Journal-Courier",
+      "summary_en": "Commentary: Jim Cowen: Governors put math back at the center of education Jacksonville Journal-Courier",
       "meta": {}
     },
     {
-      "title": "College applications are up, despite questions about higher education - The Washington Post",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVkNoTUctRmVpQVBoVjBaTUg2NThPbXBRcFBtaFFIckp0WGJsZ0lVM01xUW5VTTFkZDNYLWVnRGJwbWgybnN5dk5iYUctVG5SOWVmbG9zMndVTWNhUDRPS2w4d0NVdkxQaHRHSlIzS005aTB6emt3bDVfTmlZOF9vSEpYQzloVTJuZmVVUU00b20xbkU5cmNoeEgtN3gydXNoakEtSkdqRkdUcUF3ZDEzMThlQ1VqWHJFdExWWjZ3?oc=5",
+      "title": "Payne seeking re-election to DCPS Board of Education - The Owensboro Times",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVlk3NXNac1o0U25keGg2RGtmejdPMDROcWswanItMHFldHY0Q29UMUVMWFlGNng3LUdabVpqb2hnYWJMblJuOTM0OE03ZWpmcV9pa21WLXFoNm96bWxkUzhZN095S3RzTHhYeVltUG1QSW9CUlVtZ1ZBTVU1eGpYWmxNT09WOU5TbG5YcmhKLV9uMjlUV3c3Rk5IVDI0NUtES0I4dkFOVGFhOXQ5aXV3cw?oc=5",
       "source": "Google News Social Needs",
       "category": "society",
       "market": "global",
-      "published": "Fri, 21 Aug 2026 01:38:39 GMT",
-      "description": "College applications are up, despite questions about higher education The Washington Post",
+      "published": "Fri, 21 Aug 2026 05:19:34 GMT",
+      "description": "Payne seeking re-election to DCPS Board of Education The Owensboro Times",
       "score": 0.0,
-      "title_vi": "Số đơn đăng ký vào đại học tăng lên bất chấp những thắc mắc về giáo dục đại học - The Washington Post",
-      "title_en": "College applications are up, despite questions about higher education - The Washington Post",
-      "summary_vi": "Số đơn đăng ký vào đại học tăng lên, bất chấp những câu hỏi về giáo dục đại học",
-      "summary_en": "College applications are up, despite questions about higher education The Washington Post",
+      "title_vi": "Payne đang tìm cách tái tranh cử vào Hội đồng Giáo dục DCPS - The Owensboro Times",
+      "title_en": "Payne seeking re-election to DCPS Board of Education - The Owensboro Times",
+      "summary_vi": "Payne đang tìm cách tái tranh cử vào Hội đồng Giáo dục DCPS The Owensboro Times",
+      "summary_en": "Payne seeking re-election to DCPS Board of Education The Owensboro Times",
       "meta": {}
     },
     {
-      "title": "Chuyển đổi số ở Yên Thủy: Lấy người dân làm trung tâm - Báo Phú Thọ",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMGNlWVc1X1Q5RkdUd0dhTklUQXY2eS1zLTF5YlAySVphUkZraFpVR3QyR05BTk5pVjhxQzFscmM0aVNQMXFUdlRLVkFTdGtNSDhqdlRJbTc3WVRkOExSXzlETlBJOU0ybGstR0NRY0F1TjBlYzVhYzYzWHVBc2tfMG1GR2NWSUNDeF94VA?oc=5",
-      "source": "Google News Nhu cầu Việt Nam",
-      "category": "society",
-      "market": "vietnam",
-      "published": "Fri, 21 Aug 2026 01:35:45 GMT",
-      "description": "Chuyển đổi số ở Yên Thủy: Lấy người dân làm trung tâm Báo Phú Thọ",
-      "score": 0.0,
-      "title_vi": "Chuyển đổi số ở Yên Thủy: Lấy người dân làm trung tâm - Báo Phú Thọ",
-      "title_en": "Digital transformation in Yen Thuy: People-centered - Phu Tho Newspaper",
-      "summary_vi": "Chuyển đổi số ở Yên Thủy: Lấy người dân làm trung tâm Báo Phú Thọ",
-      "summary_en": "Digital transformation in Yen Thuy: Putting people at the center Phu Tho Newspaper",
-      "meta": {}
-    },
-    {
-      "title": "Tibetan medicine remains part of healthcare in the high-altitude region, in photos - Alton Telegraph",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbUd3RHhxUVNmUmRHQ1NzMlUxSjI1NzV2Q09PM2ZrSVVhMThMYU80V2I0eUl4TVZDN0dWeGpqRGstb2pjclFJQW5ZVFRQRDFuVXBpMENqTXNZRl8tSXZlN3F1dEdHTy1oaW5oZzRadjh6T3QzanhUZ053ZUFPaFNWc3FNOFVLLU82bnpreFlmbnV4eXQzRC1VSmd0UDczUnRQbTZCQ18tTG1XQjg?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Fri, 21 Aug 2026 01:33:13 GMT",
-      "description": "Tibetan medicine remains part of healthcare in the high-altitude region, in photos Alton Telegraph",
-      "score": 0.0,
-      "title_vi": "Trong ảnh, y học Tây Tạng vẫn là một phần của dịch vụ chăm sóc sức khỏe ở vùng cao",
-      "title_en": "Tibetan medicine remains part of healthcare in the high-altitude region, in photos - Alton Telegraph",
-      "summary_vi": "Y học Tây Tạng vẫn là một phần của dịch vụ chăm sóc sức khỏe ở vùng cao, trong ảnh Alton Telegraph",
-      "summary_en": "Tibetan medicine remains part of healthcare in the high-altitude region, in photos Alton Telegraph",
-      "meta": {}
-    },
-    {
-      "title": "Asia shares downbeat on the week as bond yields, oil stay high - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Fri, 21 Aug 2026 01:23:00 GMT",
-      "description": "Asia shares downbeat on the week as bond yields, oil stay high Reuters",
-      "score": 0.0,
-      "title_vi": "Cổ phiếu châu Á giảm trong tuần do lợi suất trái phiếu, dầu vẫn ở mức cao - Reuters",
-      "title_en": "Asia shares downbeat on the week as bond yields, oil stay high - Reuters",
-      "summary_vi": "Cổ phiếu châu Á giảm trong tuần do lợi suất trái phiếu, dầu vẫn ở mức cao",
-      "summary_en": "Asia shares downbeat on the week as bond yields, oil stay high Reuters",
-      "meta": {}
-    },
-    {
-      "title": "Groundbreaking ceremony held for new Allegan County early education campus - WWMT",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY05nWkxILVVScFpSVlJCbFhQWlljcUZNOTZhWTlmZDN3OFlURVhlYXpTNi1uWjRjQTk3eXVZcUVaVGRuVnJGYi05czhsY2N5cTI5RjdPbkdlRW9kTmxWSTU4S1psbnJTemNuem1xVlNaSVpvNnNwUUxWSXlOSUtmcVhHRTVhRkZUZDY3VFpqQmcyYlhGekE1aENBTjBzM3JQNTlNTy05MXpaYjE3M2g5WGN6WWtuN3J2akZ3T0hyckk1WkJ6dFZuUEJRWHRjM3lQMDlZWg?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Fri, 21 Aug 2026 01:16:20 GMT",
-      "description": "Groundbreaking ceremony held for new Allegan County early education campus WWMT",
-      "score": 0.0,
-      "title_vi": "Lễ động thổ được tổ chức cho cơ sở giáo dục sớm mới của Quận Allegan - WWMT",
-      "title_en": "Groundbreaking ceremony held for new Allegan County early education campus - WWMT",
-      "summary_vi": "Lễ động thổ được tổ chức cho cơ sở giáo dục sớm mới của Quận Allegan WWMT",
-      "summary_en": "Groundbreaking ceremony held for new Allegan County early education campus WWMT",
-      "meta": {}
-    },
-    {
-      "title": "\"The Power of Humanitarianism\" on Morning Energy - WMNF 88.5 FM",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBQU1BwUTkxd2dBSmFUdWh0UnJ6LTBCZVEzaG82Wi12bVNLeEJPR21YTFVnZVp5WmNNNGJWZFBOODZmOUxVXzVTRC1BbUVOZkU5d0JLQXF0T2xnUzVCczdyMDFESUdYV1J3OFRhckQwNTVQSXotNkszazBB?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Fri, 21 Aug 2026 01:12:41 GMT",
-      "description": "\"The Power of Humanitarianism\" on Morning Energy WMNF 88.5 FM",
-      "score": 0.0,
-      "title_vi": "\"Sức mạnh của chủ nghĩa nhân đạo\" trên Năng lượng buổi sáng - WMNF 88.5 FM",
-      "title_en": "\"The Power of Humanitarianism\" on Morning Energy - WMNF 88.5 FM",
-      "summary_vi": "\"Sức mạnh của chủ nghĩa nhân đạo\" trên Morning Energy WMNF 88.5 FM",
-      "summary_en": "\"The Power of Humanitarianism\" on Morning Energy WMNF 88.5 FM",
-      "meta": {}
-    },
-    {
-      "title": "Texas Education - Columbia Missourian",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQXlBWmdBZlA3dXBvQmZzQjZRWFY5eHVrSWpORlFKWTBxRVBPbFpTOEVGRzJoSEdTRDk2TlktNV9BUTJYTjM5UUxzb3hFQ2xKVUJTNHcyOUZlR0ZVM29fUkNlek5ocmlVTXZZRzRvclZhTUF6ZlZKMGhna2lFM09ldXYwX3JSZGtfSTRfSFhjb24yazduWFFVSDMwOTZLUnRNUkp2eTgtSUxjZ1hkUXVaMHJpX3daSnc?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Fri, 21 Aug 2026 01:11:35 GMT",
-      "description": "Texas Education Columbia Missourian",
-      "score": 0.0,
-      "title_vi": "Giáo dục Texas - Columbia Missourian",
-      "title_en": "Texas Education - Columbia Missourian",
-      "summary_vi": "Giáo dục Texas Columbia Missourian",
-      "summary_en": "Texas Education Columbia Missourian",
-      "meta": {}
-    },
-    {
-      "title": "11 năm Ahamove chuyển mình với công nghệ AI trong điều phối vận tải",
-      "url": "https://vnexpress.net/11-nam-ahamove-chuyen-minh-voi-cong-nghe-ai-trong-dieu-phoi-van-tai-5111352.html",
+      "title": "'Vua tiền mặt' bình quân mỗi ngày thu 27 tỷ đồng lãi ngân hàng",
+      "url": "https://vnexpress.net/vua-tien-mat-binh-quan-moi-ngay-thu-27-ty-dong-lai-ngan-hang-5111644.html",
       "source": "VnExpress Kinh doanh",
       "category": "finance",
       "market": "vietnam",
-      "published": "Fri, 21 Aug 2026 08:00:00 +0700",
-      "description": "Từ tự động điều phối đến hỗ trợ tạo đơn, AI đang giúp Ahamove tối ưu nguồn lực, nâng hiệu quả vận hành và mở rộng năng lực phục vụ khách hàng doanh nghiệp.",
+      "published": "Fri, 21 Aug 2026 12:15:25 +0700",
+      "description": "Tập đoàn Bảo Việt thu gần 4.930 tỷ đồng lãi tiền gửi ngân hàng trong nửa đầu năm, tương ứng mỗi ngày khoảng 27 tỷ đồng.",
       "score": 0.0,
-      "title_vi": "11 năm Ahamove chuyển mình với công nghệ AI trong điều phối vận tải",
-      "title_en": "11 years Ahamove has transformed itself with AI technology in transport coordination",
-      "summary_vi": "Từ tự động điều phối đến hỗ trợ tạo đơn, AI đang giúp Ahamove tối ưu nguồn lực, nâng hiệu quả vận hành và mở rộng năng lực phục vụ khách hàng doanh nghiệp.",
-      "summary_en": "From automatic dispatching to supporting order creation, AI is helping Ahamove optimize resources, improve operational efficiency and expand capacity to serve business customers.",
+      "title_vi": "'Vua tiền mặt' bình quân mỗi ngày thu 27 tỷ đồng lãi ngân hàng",
+      "title_en": "The 'Cash King' collects 27 billion VND in bank interest on average every day",
+      "summary_vi": "Tập đoàn Bảo Việt thu gần 4.930 tỷ đồng lãi tiền gửi ngân hàng trong nửa đầu năm, tương ứng mỗi ngày khoảng 27 tỷ đồng.",
+      "summary_en": "Bao Viet Group collected nearly 4,930 billion VND in bank deposit interest in the first half of the year, equivalent to about 27 billion VND per day.",
       "meta": {}
     },
     {
-      "title": "Luria unveils healthcare plan aimed at lowering costs, saving rural providers - WAVY.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa05PeXBzdUVkNV82X0FGWjRZQlBkTFBiQTk2ZnFFeGsyQ2pXOFN5TURFblZyVEY2aHp5NFJ6VTA4Rl9YMi1WUk9mMjV0eVBWTlBNY0thRUtXcTBiLXVINlZQSDVUMmpMVTNSZHlDSDNhM1ZKa2JlQTd5VlpHdTNNZ25WaWNLemtQYUpRazZTcTg3dFhVZXZIUnN0d0FteU96RlFSZHg4aw?oc=5",
+      "title": "Does Aveanna Healthcare Holdings (AVAH) Still Look Cheap After New Growth Targets? - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd3llbHlnNTRBcnpqQURoTTlKbEZZVTlNdHlXUVRfaDhNUmdDRjN0czNxRVIxaWp1WktwOTNPcE41azRuVmFYZU1aQk1lX3JJMFdWYjBidXY2Mm9XRlQxN2F6Z1d3YzVSRl9MUkl6RjlKSUlFTWFNZHNEQVd3Zm5NVlhIeTZ0b3dGdHZGTUtKMkxKMnpwbW9EaFZYeGxMTDQ?oc=5",
       "source": "Google News Social Needs",
       "category": "society",
       "market": "global",
-      "published": "Fri, 21 Aug 2026 00:50:41 GMT",
-      "description": "Luria unveils healthcare plan aimed at lowering costs, saving rural providers WAVY.com",
+      "published": "Fri, 21 Aug 2026 05:10:00 GMT",
+      "description": "Does Aveanna Healthcare Holdings (AVAH) Still Look Cheap After New Growth Targets? Yahoo Finance",
       "score": 0.0,
-      "title_vi": "Luria công bố kế hoạch chăm sóc sức khỏe nhằm giảm chi phí, tiết kiệm cho các nhà cung cấp ở nông thôn - WAVY.com",
-      "title_en": "Luria unveils healthcare plan aimed at lowering costs, saving rural providers - WAVY.com",
-      "summary_vi": "Luria tiết lộ kế hoạch chăm sóc sức khỏe nhằm giảm chi phí, tiết kiệm cho các nhà cung cấp nông thôn WAVY.com",
-      "summary_en": "Luria unveils healthcare plan aimed at lowering costs, saving rural providers WAVY.com",
+      "title_vi": "Liệu Aveanna Healthcare Holdings (AVAH) có còn rẻ sau các mục tiêu tăng trưởng mới? - Tài chính Yahoo",
+      "title_en": "Does Aveanna Healthcare Holdings (AVAH) Still Look Cheap After New Growth Targets? - Yahoo Finance",
+      "summary_vi": "Liệu Aveanna Healthcare Holdings (AVAH) có còn rẻ sau các mục tiêu tăng trưởng mới? Tài chính Yahoo",
+      "summary_en": "Does Aveanna Healthcare Holdings (AVAH) Still Look Cheap After New Growth Targets? Yahoo Finance",
       "meta": {}
     },
     {
-      "title": "It is a sign of the times that Amazon gets to call this fair use",
-      "url": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
+      "title": "The science behind how cells produce energy and what disrupts it - ABC17NEWS",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZk9aSVJseFZaUGdhSGZ3NE5nalBTQnRhektYTUh3UjFPN3BFSVpab3RjeWVHOGFBRl9TNWlmT1BBNFhoYWlwbEZkYzF1ZXpEREJEZnFqUUtKaXdoeHc3bnk0TGVoTWZkRmJIbXNiTjRsZDFvMHQ3bUw1TFRlUTVtUldDVTRQTTQyTDFUVXFWM2ZnM0xJYXJSRnNvRmxyblhJTVRpcUpmNmdrNWUwU2I1TnEwajJldw?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 21 Aug 2026 05:08:50 GMT",
+      "description": "The science behind how cells produce energy and what disrupts it ABC17NEWS",
+      "score": 0.0,
+      "title_vi": "Khoa học đằng sau cách tế bào tạo ra năng lượng và điều gì phá vỡ nó - ABC17NEWS",
+      "title_en": "The science behind how cells produce energy and what disrupts it - ABC17NEWS",
+      "summary_vi": "Khoa học đằng sau cách tế bào tạo ra năng lượng và điều gì làm gián đoạn nó ABC17NEWS",
+      "summary_en": "The science behind how cells produce energy and what disrupts it ABC17NEWS",
+      "meta": {}
+    },
+    {
+      "title": "Spanberger outlines education agenda - WFXRtv",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZmVYU2tMaXgxLWpMZXZBZGZRYkN5YVZ0aDVuX1ZaZEo4aWpJeHhjNHYtaUgyQUFWWWUyWE9WR29MVE5WcWJSRV9keERmNEVnY3F1VktVd2l6d2YtbjlUcTA4LXAwcFBrTXZJNm5pUVRVendibzAxMGNJemdta05YWg?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 21 Aug 2026 05:06:22 GMT",
+      "description": "Spanberger outlines education agenda WFXRtv",
+      "score": 0.0,
+      "title_vi": "Spanberger phác thảo chương trình giáo dục - WFXRtv",
+      "title_en": "Spanberger outlines education agenda - WFXRtv",
+      "summary_vi": "Spanberger phác thảo chương trình giáo dục WFXRtv",
+      "summary_en": "Spanberger outlines education agenda WFXRtv",
+      "meta": {}
+    },
+    {
+      "title": "Radar Healthcare makes Kiwi acquisition - Healthcare Today",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3ZscWZveFNkYnpxcDQyNm9LS3k3M2RoTk5ZOEE1NGt6RS16WHZrdGhxVXFGTWtIMk5WY3AxOVI5eEp6T3RoY1FYT01qdUNrMldxLTlxeGRacHlKRUNjX2NFZXJRNC16Q29ISldHbkNZclNPUlEyM3RVVWxibXZwLQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 21 Aug 2026 05:03:10 GMT",
+      "description": "Radar Healthcare makes Kiwi acquisition Healthcare Today",
+      "score": 0.0,
+      "title_vi": "Radar Healthcare thực hiện việc mua lại Kiwi - Healthcare Today",
+      "title_en": "Radar Healthcare makes Kiwi acquisition - Healthcare Today",
+      "summary_vi": "Radar Healthcare thực hiện việc mua lại Kiwi Healthcare Today",
+      "summary_en": "Radar Healthcare makes Kiwi acquisition Healthcare Today",
+      "meta": {}
+    },
+    {
+      "title": "Thường trực HĐND tỉnh khảo sát, làm việc với UBND các địa phương - Báo và phát thanh, truyền hình Quảng Trị",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkRIUk9wNFdGMVp4dU42OFhjUDRDTHJMOWtVSGlISXJPZmZYRXZkamZQNWI3UVpzdU5jUEMwaEdaUElPb0dOUUl2WmF0SG1hOFJDbE5yVUtqSW9qa0I1QWdZRDQ0cXMxaEJ4SmVNZXdmeVlMMkd5aTBFSFZOZkh2Zi1MOUJzcHlMODM4WWgxQk40UjdrWUZDRVNhRFJOemh3U3JfQkV2YlZsLWhxZm5UaFln?oc=5",
+      "source": "Google News Nhu cầu Việt Nam",
+      "category": "society",
+      "market": "vietnam",
+      "published": "Fri, 21 Aug 2026 05:02:00 GMT",
+      "description": "Thường trực HĐND tỉnh khảo sát, làm việc với UBND các địa phương Báo và phát thanh, truyền hình Quảng Trị",
+      "score": 0.0,
+      "title_vi": "Thường trực HĐND tỉnh khảo sát, làm việc với UBND các địa phương - Báo và phát thanh, truyền hình Quảng Trị",
+      "title_en": "The Standing Committee of the Provincial People's Council surveys and works with local People's Committees - Quang Tri Newspaper and Radio and Television",
+      "summary_vi": "Thường trực HĐND tỉnh khảo sát, làm việc với UBND các địa phương Báo và phát thanh, truyền hình Quảng Trị",
+      "summary_en": "The Standing Committee of the Provincial People's Council surveys and works with the People's Committees of localities Quang Tri Newspaper and Radio and Television",
+      "meta": {}
+    },
+    {
+      "title": "‘We do have a problem’: Lawmakers consider immediate steps to solve encroaching energy shortages - Alaska's News Source",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQ1RvWWNadFhQWVBvd0tzX0o4LVVSQUZnaVlkXzNJeXBWcFZiTUUtbWtkUGRZOWpDZmNiRzltLUdhaTJsbWJpUmt1WlJhcnNUckd1YWNqTW03QkI4MmRabEVUbW1sWGNPZDRkTkp4YkdHSm1wa2JUVER4WHY3ZjZNTTVPazRzWUtWSjFLeGpudDhFTWJ1T2xnNzkxbHVxS2N4WTdFRDN2X3BKLVFiWHMxdmxmZmg0ejBKZzJrRl9ZM0RGeDNpdFpxczN6a0tXM0E?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Fri, 21 Aug 2026 05:01:00 GMT",
+      "description": "‘We do have a problem’: Lawmakers consider immediate steps to solve encroaching energy shortages Alaska's News Source",
+      "score": 0.0,
+      "title_vi": "'Chúng tôi thực sự có một vấn đề': Các nhà lập pháp xem xét các bước ngay lập tức để giải quyết tình trạng thiếu năng lượng ngày càng lan rộng - Nguồn tin tức của Alaska",
+      "title_en": "‘We do have a problem’: Lawmakers consider immediate steps to solve encroaching energy shortages - Alaska's News Source",
+      "summary_vi": "'Chúng tôi thực sự có vấn đề': Các nhà lập pháp xem xét các bước ngay lập tức để giải quyết tình trạng thiếu năng lượng ngày càng trầm trọng Nguồn tin tức của Alaska",
+      "summary_en": "‘We do have a problem’: Lawmakers consider immediate steps to solve encroaching energy shortages Alaska's News Source",
+      "meta": {}
+    },
+    {
+      "title": "Giá vàng trong nước thấp hơn thế giới",
+      "url": "https://vnexpress.net/gia-vang-trong-nuoc-thap-hon-the-gioi-5111618.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Fri, 21 Aug 2026 11:24:58 +0700",
+      "description": "Các thương hiệu lớn mua vào vàng miếng và nhẫn trơn quanh 143 triệu đồng, thấp hơn giá quốc tế quy đổi tới 800.000 đồng mỗi lượng.",
+      "score": 0.0,
+      "title_vi": "Giá vàng trong nước thấp hơn thế giới",
+      "title_en": "Domestic gold price is lower than the world",
+      "summary_vi": "Các thương hiệu lớn mua vào vàng miếng và nhẫn trơn quanh 143 triệu đồng, thấp hơn giá quốc tế quy đổi tới 800.000 đồng mỗi lượng.",
+      "summary_en": "Big brands bought gold bars and plain rings for around 143 million VND, lower than the international equivalent price of up to 800,000 VND per tael.",
+      "meta": {}
+    },
+    {
+      "title": "Lập trình viên đua tạo công cụ 'tẩy' nhãn AI",
+      "url": "https://vnexpress.net/lap-trinh-vien-dua-tao-cong-cu-tay-nhan-ai-5111494.html",
+      "source": "VnExpress Số hóa",
+      "category": "technology",
+      "market": "vietnam",
+      "published": "Fri, 21 Aug 2026 11:15:23 +0700",
+      "description": "Nhiều lập trình viên đang tạo công cụ gỡ dấu chìm sau khi công ty Anthropic triển khai tính năng đánh dấu văn bản đầu ra của Claude.",
+      "score": 0.0,
+      "title_vi": "Lập trình viên đua tạo công cụ 'tẩy' nhãn AI",
+      "title_en": "Programmers race to create AI label 'eraser' tool",
+      "summary_vi": "Nhiều lập trình viên đang tạo công cụ gỡ dấu chìm sau khi công ty Anthropic triển khai tính năng đánh dấu văn bản đầu ra của Claude.",
+      "summary_en": "Many programmers are creating watermark removal tools after Anthropic rolled out Claude's text output watermarking feature.",
+      "meta": {}
+    },
+    {
+      "title": "Shein targets Hong Kong market debut on September 1, sources say - The Standard (HK)",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeTUySlR3eGFxajg1dkdpT1BKbGZmcVdZQ1lOdTNhbWN1THdlZWJVTUpXZm8wNEZxT0xrdkhINTNsNW5zUXo0V05PZm9ZVTRwTUd0OW1ZTWF1RmRvXzVlSExYYlJZTG85VlNNWFdvcHIyYTZja0ZnbkxoNFdCOHlVc005djJyeEhDVUltaUlWZ2Y5WXNRQmVETThBNmtobDdiWk5uckNGMG5qT3lleVZRd0VmbFBIZw?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 21 Aug 2026 04:15:04 GMT",
+      "description": "Shein targets Hong Kong market debut on September 1, sources say The Standard (HK)",
+      "score": 0.0,
+      "title_vi": "Các nguồn tin cho biết Shein nhắm mục tiêu ra mắt thị trường Hồng Kông vào ngày 1 tháng 9 - The Standard (HK)",
+      "title_en": "Shein targets Hong Kong market debut on September 1, sources say - The Standard (HK)",
+      "summary_vi": "Shein nhắm mục tiêu ra mắt thị trường Hồng Kông vào ngày 1 tháng 9, các nguồn tin cho biết The Standard (HK)",
+      "summary_en": "Shein targets Hong Kong market debut on September 1, sources say The Standard (HK)",
+      "meta": {}
+    },
+    {
+      "title": "War-hit European markets are far from down and out - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdnhLRk44Z05ZeGw4cWhLcEtkTVRNMnRuSDd0cTYwa2xJdWM0WEsxQS1MeG8yM0lnenM2QVpxc0pKVHdIaHI1TXhzMk40Z25WTDlzdkVTT2tmNlRORlc2eW9FRGpsWng3MEJ1OUZJVVpkUm1QTzV6Z2dkeTd2YjRtREtPdGZXTXAzeUdNaUNuaw?oc=5",
+      "source": "Google News Reuters Finance",
+      "category": "finance",
+      "market": "global",
+      "published": "Fri, 21 Aug 2026 04:01:00 GMT",
+      "description": "War-hit European markets are far from down and out Reuters",
+      "score": 0.0,
+      "title_vi": "Thị trường châu Âu bị ảnh hưởng bởi chiến tranh còn lâu mới đi xuống - Reuters",
+      "title_en": "War-hit European markets are far from down and out - Reuters",
+      "summary_vi": "Thị trường châu Âu bị ảnh hưởng bởi chiến tranh còn lâu mới đi xuống",
+      "summary_en": "War-hit European markets are far from down and out Reuters",
+      "meta": {}
+    },
+    {
+      "title": "Đại biểu Quốc hội: Cơ sở dữ liệu giá đất cần sát giao dịch thực tế",
+      "url": "https://vnexpress.net/dai-bieu-quoc-hoi-co-so-du-lieu-gia-dat-can-sat-giao-dich-thuc-te-5111568.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Fri, 21 Aug 2026 10:49:19 +0700",
+      "description": "Nhiều đại biểu đề nghị xây dựng cơ sở dữ liệu giá đất dựa trên giao dịch thực tế, tránh nguy cơ quay lại giá hành chính nhằm bảo vệ quyền lợi cho người dân.",
+      "score": 0.0,
+      "title_vi": "Đại biểu Quốc hội: Cơ sở dữ liệu giá đất cần sát giao dịch thực tế",
+      "title_en": "National Assembly delegate: The land price database needs to be close to actual transactions",
+      "summary_vi": "Nhiều đại biểu đề nghị xây dựng cơ sở dữ liệu giá đất dựa trên giao dịch thực tế, tránh nguy cơ quay lại giá hành chính nhằm bảo vệ quyền lợi cho người dân.",
+      "summary_en": "Many delegates proposed building a land price database based on actual transactions, avoiding the risk of returning to administrative prices to protect people's rights.",
+      "meta": {}
+    },
+    {
+      "title": "Robot hình người Unitree ngã 'tóe lửa' khi tập chạy",
+      "url": "https://vnexpress.net/robot-hinh-nguoi-unitree-nga-toe-lua-khi-tap-chay-5111555.html",
+      "source": "VnExpress Số hóa",
+      "category": "technology",
+      "market": "vietnam",
+      "published": "Fri, 21 Aug 2026 10:19:25 +0700",
+      "description": "Mẫu Unitree H1 chạy nước rút ấn tượng nhưng bất ngờ mất kiểm soát tốc độ, lao vào thành bảo vệ và bị hỏng nặng.",
+      "score": 0.0,
+      "title_vi": "Robot hình người Unitree ngã 'tóe lửa' khi tập chạy",
+      "title_en": "Humanoid robot Unitree falls with 'sparks' while practicing running",
+      "summary_vi": "Mẫu Unitree H1 chạy nước rút ấn tượng nhưng bất ngờ mất kiểm soát tốc độ, lao vào thành bảo vệ và bị hỏng nặng.",
+      "summary_en": "The Unitree H1 model sprinted impressively but suddenly lost control of its speed, crashed into the guard wall and was seriously damaged.",
+      "meta": {}
+    },
+    {
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "url": "https://github.com/openai/codex/issues/37674",
       "source": "Hacker News",
       "category": "technology",
       "market": "global",
-      "published": "Fri, 21 Aug 2026 00:34:32 +0000",
-      "description": "Article URL: http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html Comments URL: https://news.ycombinator.com/item?id=49382200 Points: 12 # Comments: 3",
+      "published": "Fri, 21 Aug 2026 03:17:43 +0000",
+      "description": "Article URL: https://github.com/openai/codex/issues/37674 Comments URL: https://news.ycombinator.com/item?id=49383326 Points: 57 # Comments: 16",
       "score": 0.0,
-      "title_vi": "Đó là dấu hiệu của thời đại Amazon gọi đây là sử dụng hợp lý",
-      "title_en": "It is a sign of the times that Amazon gets to call this fair use",
-      "summary_vi": "URL bài viết: http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html URL bình luận: https://news.ycombinator.com/item?id=49382200 Điểm: 12 # Bình luận: 3",
-      "summary_en": "Article URL: http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html Comments URL: https://news.ycombinator.com/item?id=49382200 Points: 12 # Comments: 3",
+      "title_vi": "Codex trên lỗi nền tảng AWS gây ra khoản phí gấp 10 lần",
+      "title_en": "Codex on AWS bedrock bug causing 10x charges",
+      "summary_vi": "URL bài viết: https://github.com/openai/codex/issues/37674 URL bình luận: https://news.ycombinator.com/item?id=49383326 Điểm: 57 # Bình luận: 16",
+      "summary_en": "Article URL: https://github.com/openai/codex/issues/37674 Comments URL: https://news.ycombinator.com/item?id=49383326 Points: 57 # Comments: 16",
+      "meta": {}
+    },
+    {
+      "title": "Cổ phiếu PNJ tăng trần sau kết luận không liên quan vụ buôn lậu kim cương",
+      "url": "https://vnexpress.net/co-phieu-pnj-tang-tran-sau-ket-luan-khong-lien-quan-vu-buon-lau-kim-cuong-5111575.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Fri, 21 Aug 2026 10:12:32 +0700",
+      "description": "Sau kết luận của cơ quan điều tra \"không liên quan vụ buôn lậu kim cương\", cổ phiếu PNJ tăng hết biên độ lên 39.900 đồng từ lúc mở cửa với thanh khoản cao.",
+      "score": 0.0,
+      "title_vi": "Cổ phiếu PNJ tăng trần sau kết luận không liên quan vụ buôn lậu kim cương",
+      "title_en": "PNJ shares increased to the ceiling after the conclusion that it was not related to the diamond smuggling case",
+      "summary_vi": "Sau kết luận của cơ quan điều tra \"không liên quan vụ buôn lậu kim cương\", cổ phiếu PNJ tăng hết biên độ lên 39.900 đồng từ lúc mở cửa với thanh khoản cao.",
+      "summary_en": "After the conclusion of the investigation agency \"not related to the diamond smuggling case\", PNJ shares increased to 39,900 VND from the opening with high liquidity.",
+      "meta": {}
+    },
+    {
+      "title": "Vinamilk nhận Huân chương Độc lập hạng Nhất",
+      "url": "https://vnexpress.net/vinamilk-nhan-huan-chuong-doc-lap-hang-nhat-5111551.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Fri, 21 Aug 2026 10:00:00 +0700",
+      "description": "Vinamilk nhận Huân chương Độc lập hạng Nhất, ghi nhận những đóng góp trong sản xuất, kinh doanh với hơn 71.000 tỷ đồng nộp ngân sách nhà nước suốt 50 năm qua, vào tối 20/8.",
+      "score": 0.0,
+      "title_vi": "Vinamilk nhận Huân chương Độc lập hạng Nhất",
+      "title_en": "Vinamilk received the First Class Independence Medal",
+      "summary_vi": "Vinamilk nhận Huân chương Độc lập hạng Nhất, ghi nhận những đóng góp trong sản xuất, kinh doanh với hơn 71.000 tỷ đồng nộp ngân sách nhà nước suốt 50 năm qua, vào tối 20/8.",
+      "summary_en": "Vinamilk received the First Class Independence Medal, recognizing its contributions in production and business with more than 71,000 billion VND paid to the state budget over the past 50 years, on the evening of August 20.",
+      "meta": {}
+    },
+    {
+      "title": "Xây dựng Hòa Bình dự tính dồn lực trả nợ trong năm nay",
+      "url": "https://vnexpress.net/xay-dung-hoa-binh-du-tinh-don-luc-tra-no-trong-nam-nay-5111563.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Fri, 21 Aug 2026 09:51:43 +0700",
+      "description": "Đẩy nhanh thu hồi công nợ và nguồn công việc phục hồi, Xây dựng Hòa Bình cho biết sẽ trả nợ thuế, bảo hiểm xã hội và các khoản khác trong năm nay.",
+      "score": 0.0,
+      "title_vi": "Xây dựng Hòa Bình dự tính dồn lực trả nợ trong năm nay",
+      "title_en": "Hoa Binh Construction plans to focus efforts on debt repayment this year",
+      "summary_vi": "Đẩy nhanh thu hồi công nợ và nguồn công việc phục hồi, Xây dựng Hòa Bình cho biết sẽ trả nợ thuế, bảo hiểm xã hội và các khoản khác trong năm nay.",
+      "summary_en": "Accelerating debt collection and job recovery, Hoa Binh Construction said it will pay tax debt, social insurance and other amounts this year.",
+      "meta": {}
+    },
+    {
+      "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "url": "https://annas-archive.gl/blog/physical-destruction.html",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Fri, 21 Aug 2026 02:37:47 +0000",
+      "description": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 201 # Comments: 129",
+      "score": 0.0,
+      "title_vi": "Các công ty AI tiêu hủy sách giấy - hãy quét sách hiếm trước khi quá muộn",
+      "title_en": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "summary_vi": "URL bài viết: https://annas-archive.gl/blog/physical-destruction.html URL bình luận: https://news.ycombinator.com/item?id=49383026 Điểm: 201 # Bình luận: 129",
+      "summary_en": "Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 201 # Comments: 129",
+      "meta": {}
+    },
+    {
+      "title": "Việt Nam sẽ đầu tư hạ tầng nghiên cứu chung 10.000 tỷ đồng",
+      "url": "https://vnexpress.net/viet-nam-se-dau-tu-ha-tang-nghien-cuu-chung-10-000-ty-dong-5111407.html",
+      "source": "VnExpress Số hóa",
+      "category": "technology",
+      "market": "vietnam",
+      "published": "Fri, 21 Aug 2026 07:53:32 +0700",
+      "description": "Việt Nam dự kiến đầu tư khoảng 10.000 tỷ đồng đến năm 2030 cho 8 phòng thí nghiệm trọng điểm và 4 trung tâm thử nghiệm theo hướng hạ tầng nghiên cứu dùng chung, phát triển công nghệ chiến lược.",
+      "score": 0.0,
+      "title_vi": "Việt Nam sẽ đầu tư hạ tầng nghiên cứu chung 10.000 tỷ đồng",
+      "title_en": "Vietnam will invest 10,000 billion VND in general research infrastructure",
+      "summary_vi": "Việt Nam dự kiến đầu tư khoảng 10.000 tỷ đồng đến năm 2030 cho 8 phòng thí nghiệm trọng điểm và 4 trung tâm thử nghiệm theo hướng hạ tầng nghiên cứu dùng chung, phát triển công nghệ chiến lược.",
+      "summary_en": "Vietnam plans to invest about 10,000 billion VND by 2030 in 8 key laboratories and 4 testing centers towards shared research infrastructure and strategic technology development.",
       "meta": {}
     },
     {
@@ -418,12 +568,12 @@
       "category": "technology",
       "market": "global",
       "published": "Fri, 21 Aug 2026 00:28:37 +0000",
-      "description": "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ Comments URL: https://news.ycombinator.com/item?id=49382152 Points: 19 # Comments: 13",
+      "description": "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ Comments URL: https://news.ycombinator.com/item?id=49382152 Points: 54 # Comments: 92",
       "score": 0.0,
       "title_vi": "Không còn cái gọi là nhóm phần mềm nhỏ nữa",
       "title_en": "There's no such thing as a small software team anymore",
-      "summary_vi": "URL bài viết: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ URL bình luận: https://news.ycombinator.com/item?id=49382152 Điểm: 19 # Bình luận: 13",
-      "summary_en": "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ Comments URL: https://news.ycombinator.com/item?id=49382152 Points: 19 # Comments: 13",
+      "summary_vi": "URL bài viết: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ URL bình luận: https://news.ycombinator.com/item?id=49382152 Điểm: 54 # Bình luận: 92",
+      "summary_en": "Article URL: https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/ Comments URL: https://news.ycombinator.com/item?id=49382152 Points: 54 # Comments: 92",
       "meta": {}
     },
     {
@@ -442,21 +592,6 @@
       "meta": {}
     },
     {
-      "title": "Copyright does not protect AI-generated content in EU",
-      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Fri, 21 Aug 2026 00:15:12 +0000",
-      "description": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 83 # Comments: 71",
-      "score": 0.0,
-      "title_vi": "Bản quyền không bảo vệ nội dung do AI tạo ra ở EU",
-      "title_en": "Copyright does not protect AI-generated content in EU",
-      "summary_vi": "URL bài viết: https://mathstodon.xyz/@maxpool/117128107757895678 URL bình luận: https://news.ycombinator.com/item?id=49382041 Điểm: 83 # Bình luận: 71",
-      "summary_en": "Article URL: https://mathstodon.xyz/@maxpool/117128107757895678 Comments URL: https://news.ycombinator.com/item?id=49382041 Points: 83 # Comments: 71",
-      "meta": {}
-    },
-    {
       "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
       "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "source": "TechCrunch",
@@ -470,158 +605,89 @@
       "summary_vi": "Nhu cầu ngày càng tăng về dữ liệu đào tạo AI đang thúc đẩy sự tăng trưởng nhanh chóng của công ty khởi nghiệp và các đối thủ của nó.",
       "summary_en": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
       "meta": {}
-    },
-    {
-      "title": "Stealth Model",
-      "url": "https://openrouter.ai/stealth/ox-alpha",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Thu, 20 Aug 2026 23:56:35 +0000",
-      "description": "Article URL: https://openrouter.ai/stealth/ox-alpha Comments URL: https://news.ycombinator.com/item?id=49381896 Points: 26 # Comments: 10",
-      "score": 0.0,
-      "title_vi": "Người mẫu tàng hình",
-      "title_en": "Stealth Model",
-      "summary_vi": "URL bài viết: https://openrouter.ai/stealth/ox-alpha URL bình luận: https://news.ycombinator.com/item?id=49381896 Điểm: 26 # Bình luận: 10",
-      "summary_en": "Article URL: https://openrouter.ai/stealth/ox-alpha Comments URL: https://news.ycombinator.com/item?id=49381896 Points: 26 # Comments: 10",
-      "meta": {}
-    },
-    {
-      "title": "Fed officials tread carefully after Treasury's bond market intervention - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNExUX05vcVRoMGFiSkhtemgyTmhlSVpPd25ldTV2d0NXQWpvTzJLdTJSOUFnTjBPN2JKVU1oWXA2STYzNHBlVVdoa1V3a25ka1NVbkdSQXo5N2VhQU1DSFIwbjEtM0ZIN1ZPd2tNMDJPR1NTcWpNaWxUSzhsRmw0VHRtenJtc2N6bU9aREw1bnp0d1lMdkU5Y29xSHhZb3paQjRfeGRER1drWEc5aXc?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Thu, 20 Aug 2026 23:44:04 GMT",
-      "description": "Fed officials tread carefully after Treasury's bond market intervention Reuters",
-      "score": 0.0,
-      "title_vi": "Các quan chức Fed bước đi thận trọng sau sự can thiệp vào thị trường trái phiếu của Kho bạc - Reuters",
-      "title_en": "Fed officials tread carefully after Treasury's bond market intervention - Reuters",
-      "summary_vi": "Các quan chức Fed bước đi thận trọng sau sự can thiệp vào thị trường trái phiếu của Kho bạc",
-      "summary_en": "Fed officials tread carefully after Treasury's bond market intervention Reuters",
-      "meta": {}
-    },
-    {
-      "title": "Learn what VCs actually want, from a founder who’s raised $1B",
-      "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-      "source": "TechCrunch",
-      "category": "technology",
-      "market": "global",
-      "published": "Thu, 20 Aug 2026 23:32:27 +0000",
-      "description": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen sits down with Sasha Orloff, founder and CEO of Puzzle […]",
-      "score": 0.0,
-      "title_vi": "Tìm hiểu xem các nhà đầu tư mạo hiểm thực sự muốn gì từ người sáng lập đã huy động được 1 tỷ USD",
-      "title_en": "Learn what VCs actually want, from a founder who’s raised $1B",
-      "summary_vi": "Các nhà đầu tư muốn những người sáng lập hiểu được thực tế tài chính của doanh nghiệp họ. Dữ liệu lộn xộn, số liệu bị hiểu sai hoặc chờ đợi cho đến khi bạn gần hết tiền mới bắt đầu gây quỹ có thể khiến người sáng lập phải trả giá bằng đòn bẩy, định giá và thậm chí là bảng điều khoản. Trong tập này của Chế độ xây dựng, người dẫn chương trình Isabelle Johannessen ngồi cùng Sasha Orleansoff, người sáng lập và Giám đốc điều hành của Puzzle […]",
-      "summary_en": "Investors want founders who understand the financial reality of their business. Messy data, misunderstood metrics, or waiting until you’re nearly out of cash to start fundraising can cost founders leverage, valuation, and even a term sheet. In this episode of Build Mode, host Isabelle Johannessen sits down with Sasha Orloff, founder and CEO of Puzzle […]",
-      "meta": {}
-    },
-    {
-      "title": "Fed minutes show September rate hike still on the table - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSVRUSV8yamU0TV9KS0l6VjdObHdFelZjd2QxY2ZhWXBJTjN5b3hRbzZGekxuNWVQUHFVSXNHdFFscG1LTTVMX2xKZkx2Nk1GNzRBY3E4RGlGcXpUSkVxUnRaQllXeFlrT2lFd0UycUpVV1Q2MHpYQzU2TFBaM3JYTW50dHFKTlJtd2Y3QzViUWpRRklDSU13VzlHUjRHMmRrSlFibHM3Rzlsa0NNcHh1Tm9XdG1qRTdZ?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Thu, 20 Aug 2026 23:31:30 GMT",
-      "description": "Fed minutes show September rate hike still on the table Reuters",
-      "score": 0.0,
-      "title_vi": "Biên bản của Fed cho thấy việc tăng lãi suất vào tháng 9 vẫn còn trên bàn - Reuters",
-      "title_en": "Fed minutes show September rate hike still on the table - Reuters",
-      "summary_vi": "Biên bản của Fed cho thấy việc tăng lãi suất vào tháng 9 vẫn còn trên bàn",
-      "summary_en": "Fed minutes show September rate hike still on the table Reuters",
-      "meta": {}
-    },
-    {
-      "title": "BHP Shares Shift Focus to Copper, Analysts See Potential 9% Downside - TechStock²",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15RzJtUGdtUTB0amNpMDJOVmxNSzZaOC1pelpqTlljTjVKWmJhUEtKc1ZfMkZaTFAxenZuTy1pb1NKX0VjaW9rN2tuSkRid2JjWUVmd0lyZ3FsVUpObGxPR2VrTUwzaXpFNEs3cW5wUHBiaWJ6WmFfaGoxYVQ?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Thu, 20 Aug 2026 23:16:38 GMT",
-      "description": "BHP Shares Shift Focus to Copper, Analysts See Potential 9% Downside TechStock²",
-      "score": 0.0,
-      "title_vi": "Cổ phiếu BHP chuyển trọng tâm sang đồng, các nhà phân tích nhận thấy khả năng giảm 9% - TechStock²",
-      "title_en": "BHP Shares Shift Focus to Copper, Analysts See Potential 9% Downside - TechStock²",
-      "summary_vi": "Cổ phiếu BHP chuyển trọng tâm sang đồng, các nhà phân tích nhận thấy tiềm năng giảm 9% TechStock²",
-      "summary_en": "BHP Shares Shift Focus to Copper, Analysts See Potential 9% Downside TechStock²",
-      "meta": {}
-    },
-    {
-      "title": "EXCLUSIVE: Fidelity International plans to pull out of wholly owned China fund unit, sources say - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZlJfMUpiRGxtdWNmNG55NXBkVmxBTEp6QVI0SVEyLW9zOGdTSlozS2Z0RkdLSmR3UEVIcUJpVHBlM1NjSjM3RDdCR1JESUtwY2llN25DOGh4bFY0Yk0zdkRHZGN0SnEwRXJqS1lGZmtob1N5NkZwOV8xckJMbVJ1N0RGd2pUMHRNOFBtSDFoT2NSQ0ExZmF1cDdXOXB0Y2JrM0s4b2dkUWxTaUloc0E4QnA1VnNQM0FwTllSd1RrVnRkMll3?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Thu, 20 Aug 2026 23:00:17 GMT",
-      "description": "EXCLUSIVE: Fidelity International plans to pull out of wholly owned China fund unit, sources say Reuters",
-      "score": 0.0,
-      "title_vi": "ĐỘC QUYỀN: Fidelity International có kế hoạch rút khỏi đơn vị quỹ Trung Quốc thuộc sở hữu hoàn toàn, các nguồn tin cho biết - Reuters",
-      "title_en": "EXCLUSIVE: Fidelity International plans to pull out of wholly owned China fund unit, sources say - Reuters",
-      "summary_vi": "ĐỘC QUYỀN: Fidelity International có kế hoạch rút khỏi đơn vị quỹ Trung Quốc thuộc sở hữu hoàn toàn, các nguồn tin cho biết Reuters",
-      "summary_en": "EXCLUSIVE: Fidelity International plans to pull out of wholly owned China fund unit, sources say Reuters",
-      "meta": {}
-    },
-    {
-      "title": "Nhiều ngân hàng trả lãi suất tiết kiệm trên 9% một năm",
-      "url": "https://vnexpress.net/nhieu-ngan-hang-tra-lai-suat-tiet-kiem-tren-9-mot-nam-5111481.html",
-      "source": "VnExpress Kinh doanh",
-      "category": "finance",
-      "market": "vietnam",
-      "published": "Fri, 21 Aug 2026 06:00:00 +0700",
-      "description": "Chỉ từ khoản tiền vài chục đến vài trăm triệu đồng, người gửi tiền được nhân viên ngân hàng chào lãi suất 9-9,5% một năm, cao hơn biểu niêm yết 3 điểm phần trăm.",
-      "score": 0.0,
-      "title_vi": "Nhiều ngân hàng trả lãi suất tiết kiệm trên 9% một năm",
-      "title_en": "Many banks pay savings interest rates of over 9% per year",
-      "summary_vi": "Chỉ từ khoản tiền vài chục đến vài trăm triệu đồng, người gửi tiền được nhân viên ngân hàng chào lãi suất 9-9,5% một năm, cao hơn biểu niêm yết 3 điểm phần trăm.",
-      "summary_en": "From just a few dozen to a few hundred million dong, depositors are offered interest rates by bank staff of 9-9.5% per year, 3 percentage points higher than the listed rate.",
-      "meta": {}
-    },
-    {
-      "title": "Detecting scraper bots through scroll behaviour",
-      "url": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Thu, 20 Aug 2026 22:47:52 +0000",
-      "description": "Article URL: https://niki.cat/detecting-scraper-bots-through-scroll-behaviour Comments URL: https://news.ycombinator.com/item?id=49381311 Points: 26 # Comments: 9",
-      "score": 0.0,
-      "title_vi": "Phát hiện bot cạp thông qua hành vi cuộn",
-      "title_en": "Detecting scraper bots through scroll behaviour",
-      "summary_vi": "URL bài viết: https://niki.cat/Detecting-scraper-bots-through-scroll-behaviour URL bình luận: https://news.ycombinator.com/item?id=49381311 Điểm: 26 # Bình luận: 9",
-      "summary_en": "Article URL: https://niki.cat/detecting-scraper-bots-through-scroll-behaviour Comments URL: https://news.ycombinator.com/item?id=49381311 Points: 26 # Comments: 9",
-      "meta": {}
-    },
-    {
-      "title": "The new kingmakers: Crypto, AI and betting firms fuel record spending on the 2026 midterms - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeENQNnM1RGoxMUFwdGJ2c19GUDRnTUhiWVdieDZNZG1qX2QzN29SYVBqU0NBcnVaMjRISjB3ZFc5WTlRbXYwQ1FkallpcmdLeEcwWk1wcS1pbG9TbTB6WFQ4VENCa25wMTE1TmJMeGJ1dEFtY0xrX0hOb0ZURkZJWlRmM3lFcHFZaXpqTWFCYVhHdDc0UXJzNEpPTUo5LXdBYzlCcXppZklKbkN5cnc4NGFsU3p5U0xPNnJ1dGUxYWEzQVI0Y3ZqcA?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Thu, 20 Aug 2026 22:46:25 GMT",
-      "description": "The new kingmakers: Crypto, AI and betting firms fuel record spending on the 2026 midterms Reuters",
-      "score": 0.0,
-      "title_vi": "Các nhà sản xuất vua mới: Tiền điện tử, AI và các công ty cá cược thúc đẩy chi tiêu kỷ lục cho cuộc bầu cử giữa kỳ năm 2026 - Reuters",
-      "title_en": "The new kingmakers: Crypto, AI and betting firms fuel record spending on the 2026 midterms - Reuters",
-      "summary_vi": "Các nhà sản xuất vua mới: Tiền điện tử, AI và các công ty cá cược thúc đẩy chi tiêu kỷ lục cho cuộc bầu cử giữa kỳ năm 2026 Reuters",
-      "summary_en": "The new kingmakers: Crypto, AI and betting firms fuel record spending on the 2026 midterms Reuters",
-      "meta": {}
     }
   ],
   "insights": {
     "status": "ready",
     "model": "z-ai/glm-5.2",
-    "daily_thesis_vi": "Sự bùng nổ của hệ sinh thái plugin AI và dữ liệu đào tạo cho thấy nhu cầu gắn kết agent. Đồng thời, lãi suất tiết kiệm VN cao và dữ liệu lộn xộn đang thúc đẩy các giải pháp tài chính và công cụ làm sạch dữ liệu.",
-    "daily_thesis_en": "AI plugin ecosystems and training data booms reveal urgent needs for agent orchestration and data hygiene. Concurrently, high Vietnamese savings rates and messy founder metrics drive demand for financial and data management SaaS.",
+    "daily_thesis_vi": "Sự bùng nổ của hệ sinh thái AI agent và công cụ xử lý watermark cho thấy nhu cầu cấp thiết về quản lý chi phí AI, tự động hóa và minh bạch dữ liệu.",
+    "daily_thesis_en": "The boom in AI agent ecosystems and watermark tools highlights urgent needs for AI cost management, automation, and data transparency.",
     "opportunities": [
       {
-        "name_vi": "Nền tảng quản lý plugin AI",
-        "name_en": "AI Plugin Management Platform",
-        "pain_vi": "Hệ sinh thái plugin AI phân tán khiến việc quản lý và triển khai agent trên desktop/web trở nên rời rạc và phức tạp.",
-        "pain_en": "Fragmented AI plugin ecosystems make deploying and managing agents across desktop and web interfaces complex and disjointed.",
-        "audience_vi": "Nhà phát triển phần mềm và nhóm vận hành AI toàn cầu.",
-        "audience_en": "Global software developers and AI operations teams.",
-        "mvp_vi": "Bảng điều khiển tập trung để cài đặt, theo dõi và đồng bộ hóa plugin AI trên nhiều môi trường.",
-        "mvp_en": "A centralized dashboard to install, monitor, and sync AI plugins across multiple environments.",
+        "name_vi": "Quản lý chi phí AI Agent",
+        "name_en": "AI Agent Cost Manager",
+        "pain_vi": "Lỗi cấu hình AI gây chi phí 10 lần, đe dọa doanh thu các đội nhỏ.",
+        "pain_en": "AI config bugs cause 10x charges, threatening margins for small teams.",
+        "audience_vi": "Công ty SaaS, nhà phát triển sử dụng AI API",
+        "audience_en": "SaaS companies, developers using AI APIs",
+        "mvp_vi": "Tường lửa API giám sát và chặn các yêu cầu gây lãng phí token.",
+        "mvp_en": "API gateway monitoring and blocking wasteful token requests.",
+        "scope": "global",
+        "score": 88,
+        "evidence_ids": [
+          26,
+          32
+        ],
+        "risks_vi": "Nhà cung cấp AI có thể tích hợp tính năng này vào nền tảng.",
+        "risks_en": "AI providers may integrate this feature natively.",
+        "sources": [
+          {
+            "title": "Codex on AWS bedrock bug causing 10x charges",
+            "url": "https://github.com/openai/codex/issues/37674",
+            "source": "Hacker News"
+          },
+          {
+            "title": "There's no such thing as a small software team anymore",
+            "url": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
+            "source": "Hacker News"
+          }
+        ]
+      },
+      {
+        "name_vi": "Công cụ tẩy dấu vết AI",
+        "name_en": "AI Trace Remover",
+        "pain_vi": "Nhiều người muốn xóa watermark AI để xuất bản nội dung không bị phát hiện.",
+        "pain_en": "Many want to remove AI watermarks to publish undetected content.",
+        "audience_vi": "Nhà sáng tạo nội dung, sinh viên, văn phòng",
+        "audience_en": "Content creators, students, office workers",
+        "mvp_vi": "Web app xử lý văn bản và hình ảnh để loại bỏ C2PA và metadata.",
+        "mvp_en": "Web app processing text and images to strip C2PA and metadata.",
+        "scope": "both",
+        "score": 75,
+        "evidence_ids": [
+          3,
+          8,
+          21
+        ],
+        "risks_vi": "Rủi ro pháp lý và vi phạm chính sách của nhà cung cấp AI.",
+        "risks_en": "Legal risks and violation of AI provider policies.",
+        "sources": [
+          {
+            "title": "guillaumemeyer/watermarks-remover",
+            "url": "https://github.com/guillaumemeyer/watermarks-remover",
+            "source": "GitHub"
+          },
+          {
+            "title": "Leutenegger/watermarks-remover",
+            "url": "https://github.com/Leutenegger/watermarks-remover",
+            "source": "GitHub"
+          },
+          {
+            "title": "Programmers race to create AI label 'eraser' tool",
+            "url": "https://vnexpress.net/lap-trinh-vien-dua-tao-cong-cu-tay-nhan-ai-5111494.html",
+            "source": "VnExpress Số hóa"
+          }
+        ]
+      },
+      {
+        "name_vi": "Nền tảng quản lý Plugin AI",
+        "name_en": "AI Plugin Manager",
+        "pain_vi": "Hệ sinh thái plugin AI phân mảnh gây khó khăn trong việc khám phá và quản lý.",
+        "pain_en": "Fragmented AI plugin ecosystems make discovery and management difficult.",
+        "audience_vi": "Người dùng AI, doanh nghiệp áp dụng tự động hóa",
+        "audience_en": "AI users, businesses adopting automation",
+        "mvp_vi": "Kho ứng dụng tập trung để cài đặt và cập nhật plugin AI.",
+        "mvp_en": "Centralized app store to install and update AI plugins.",
         "scope": "global",
         "score": 82,
         "evidence_ids": [
@@ -630,8 +696,8 @@
           4,
           7
         ],
-        "risks_vi": "Cạnh tranh gay gắt từ các nền tảng mã nguồn mở hiện có.",
-        "risks_en": "Intense competition from existing open-source platforms.",
+        "risks_vi": "Sự cạnh tranh từ các nền tảng lớn hoặc thay đổi API cốt lõi.",
+        "risks_en": "Competition from major platforms or core API changes.",
         "sources": [
           {
             "title": "deepseek-ai/deepseek-harness",
@@ -656,116 +722,50 @@
         ]
       },
       {
-        "name_vi": "Công cụ tẩy dấu gốc AI",
-        "name_en": "AI Provenance Scrubber",
-        "pain_vi": "Nhu cầu loại bỏ dấu vết AI và metadata C2PA khỏi nội dung để tái sử dụng thương mại đang tăng cao.",
-        "pain_en": "Growing need to remove AI provenance traces and C2PA metadata from content for commercial reuse.",
-        "audience_vi": "Thương hiệu nội dung và nhà tiếp thị kỹ thuật số.",
-        "audience_en": "Content brands and digital marketers.",
-        "mvp_vi": "API và giao diện web tự động làm sạch metadata và văn bản Unicode trên nhiều định dạng tệp.",
-        "mvp_en": "An API and web UI to automatically sanitize metadata and Unicode text across multiple file formats.",
-        "scope": "global",
-        "score": 75,
-        "evidence_ids": [
-          3,
-          8,
-          24
-        ],
-        "risks_vi": "Rủi ro pháp lý về bản quyền và vi phạm quyền riêng tư.",
-        "risks_en": "Legal risks regarding copyright and privacy violations.",
-        "sources": [
-          {
-            "title": "guillaumemeyer/watermarks-remover",
-            "url": "https://github.com/guillaumemeyer/watermarks-remover",
-            "source": "GitHub"
-          },
-          {
-            "title": "Leutenegger/watermarks-remover",
-            "url": "https://github.com/Leutenegger/watermarks-remover",
-            "source": "GitHub"
-          },
-          {
-            "title": "Copyright does not protect AI-generated content in EU",
-            "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-            "source": "Hacker News"
-          }
-        ]
-      },
-      {
-        "name_vi": "Trợ lý tài chính cho founder",
-        "name_en": "Founder Financial Assistant",
-        "pain_vi": "Founder startup thường rối với dữ liệu tài chính lộn xộn, làm mất đòn bẩy khi gọi vốn.",
-        "pain_en": "Startup founders struggle with messy financial data, losing leverage during fundraising.",
-        "audience_vi": "Founder startup đang gọi vốn giai đoạn đầu.",
-        "audience_en": "Early-stage fundraising startup founders.",
-        "mvp_vi": "Công cụ tự động chuẩn hóa số liệu tài chính và tạo báo cáo cho nhà đầu tư.",
-        "mvp_en": "A tool to automatically standardize financial metrics and generate investor reports.",
-        "scope": "global",
+        "name_vi": "Cơ sở dữ liệu giá đất thực tế",
+        "name_en": "Real Estate Price DB",
+        "pain_vi": "Thiếu dữ liệu giá đất giao dịch thực tế gây rủi ro quyền lợi cho người dân.",
+        "pain_en": "Lack of actual transaction land price data risks citizens' rights.",
+        "audience_vi": "Nhà đầu tư bất động sản, cơ quan nhà nước",
+        "audience_en": "Real estate investors, state agencies",
+        "mvp_vi": "Hệ thống thu thập và phân tích dữ liệu giao dịch đất đai thực tế.",
+        "mvp_en": "System collecting and analyzing actual land transaction data.",
+        "scope": "vietnam",
         "score": 78,
         "evidence_ids": [
-          28
+          24
         ],
-        "risks_vi": "Khó tích hợp với đa dạng hệ thống kế toán nội bộ.",
-        "risks_en": "Difficulty integrating with diverse internal accounting systems.",
+        "risks_vi": "Khó tiếp cận dữ liệu thực tế do tính nhạy cảm và bảo mật.",
+        "risks_en": "Difficulty accessing actual data due to sensitivity and privacy.",
         "sources": [
           {
-            "title": "Learn what VCs actually want, from a founder who’s raised $1B",
-            "url": "https://techcrunch.com/video/learn-what-vcs-actually-want-from-a-founder-whos-raised-1b/",
-            "source": "TechCrunch"
-          }
-        ]
-      },
-      {
-        "name_vi": "Bộ lọc chất lượng dữ liệu AI",
-        "name_en": "AI Data Quality Filter",
-        "pain_vi": "Nhu cầu dữ liệu đào tạo AI tăng vọt nhưng thiếu công cụ kiểm tra chất lượng và loại bỏ slop.",
-        "pain_en": "AI training data demand is surging but lacks tools to verify quality and filter out slop.",
-        "audience_vi": "Công ty AI và nhóm phát triển mô hình ngôn ngữ.",
-        "audience_en": "AI companies and LLM development teams.",
-        "mvp_vi": "Bộ quy tắc linter và API để phát hiện và loại bỏ mẫu dữ liệu TypeScript/JS kém chất lượng.",
-        "mvp_en": "Linter rules and an API to detect and reject low-quality TypeScript/JS data patterns.",
-        "scope": "global",
-        "score": 80,
-        "evidence_ids": [
-          10,
-          25
-        ],
-        "risks_vi": "Tiêu chuẩn chất lượng dữ liệu thay đổi nhanh chóng.",
-        "risks_en": "Data quality standards change rapidly.",
-        "sources": [
-          {
-            "title": "dmmulroy/anti-slop",
-            "url": "https://github.com/dmmulroy/anti-slop",
-            "source": "GitHub"
-          },
-          {
-            "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-            "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-            "source": "TechCrunch"
-          }
-        ]
-      },
-      {
-        "name_vi": "Trình so sánh lãi suất tiết kiệm VN",
-        "name_en": "VN Savings Rate Comparator",
-        "pain_vi": "Người gửi tiền VN gặp khó khi lãi suất ngầm lên tới 9-9.5% nhưng thiếu thông tin minh bạch.",
-        "pain_en": "Vietnamese depositors face hidden rates up to 9-9.5% but lack transparent market information.",
-        "audience_vi": "Người có tiền nhàn rỗi tại Việt Nam.",
-        "audience_en": "Individuals with idle funds in Vietnam.",
-        "mvp_vi": "Ứng dụng tổng hợp và so sánh lãi suất thực tế từ các ngân hàng.",
-        "mvp_en": "An app aggregating and comparing actual interest rates across banks.",
-        "scope": "vietnam",
-        "score": 72,
-        "evidence_ids": [
-          32
-        ],
-        "risks_vi": "Ngân hàng có thể chặn truy cập dữ liệu hoặc thay đổi chính sách thường xuyên.",
-        "risks_en": "Banks may block data access or change policies frequently.",
-        "sources": [
-          {
-            "title": "Many banks pay savings interest rates of over 9% per year",
-            "url": "https://vnexpress.net/nhieu-ngan-hang-tra-lai-suat-tiet-kiem-tren-9-mot-nam-5111481.html",
+            "title": "National Assembly delegate: The land price database needs to be close to actual transactions",
+            "url": "https://vnexpress.net/dai-bieu-quoc-hoi-co-so-du-lieu-gia-dat-can-sat-giao-dich-thuc-te-5111568.html",
             "source": "VnExpress Kinh doanh"
+          }
+        ]
+      },
+      {
+        "name_vi": "Dịch vụ số hóa sách quý",
+        "name_en": "Rare Book Digitization",
+        "pain_vi": "Sự phát triển của AI đang hủy hoại sách vật lý, cần số hóa gấp.",
+        "pain_en": "AI growth is destroying physical books, needing urgent digitization.",
+        "audience_vi": "Thư viện, viện nghiên cứu, nhà sưu tầm",
+        "audience_en": "Libraries, research institutes, collectors",
+        "mvp_vi": "Dịch vụ quét và lưu trữ kỹ thuật số an toàn cho sách quý hiếm.",
+        "mvp_en": "Secure scanning and digital archiving service for rare books.",
+        "scope": "global",
+        "score": 65,
+        "evidence_ids": [
+          30
+        ],
+        "risks_vi": "Chi phí phần cứng cao và vi phạm bản quyền có thể xảy ra.",
+        "risks_en": "High hardware costs and potential copyright infringement.",
+        "sources": [
+          {
+            "title": "AI companies destroy physical books – let's scan rare books before it's too late",
+            "url": "https://annas-archive.gl/blog/physical-destruction.html",
+            "source": "Hacker News"
           }
         ]
       }
