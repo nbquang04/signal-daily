@@ -1,51 +1,71 @@
 {
   "date": "2026-09-17",
-  "generated_at": "2026-09-17T09:58:07.307349+00:00",
+  "generated_at": "2026-09-17T14:59:18.238240+00:00",
   "markets": [
     {
       "name": "S&P 500",
       "symbol": "^GSPC",
-      "price": 7551.8101,
-      "change_pct": -0.45,
+      "price": 7619.5298,
+      "change_pct": 0.9,
       "currency": "USD"
     },
     {
       "name": "NASDAQ",
       "symbol": "^IXIC",
-      "price": 25978.4297,
-      "change_pct": -0.01,
+      "price": 26362.2031,
+      "change_pct": 1.48,
       "currency": "USD"
     },
     {
       "name": "Gold",
       "symbol": "GC=F",
-      "price": 4347.2002,
-      "change_pct": -0.92,
+      "price": 4399.2002,
+      "change_pct": 0.27,
       "currency": "USD"
     },
     {
       "name": "Crude Oil",
       "symbol": "CL=F",
-      "price": 101.3,
-      "change_pct": -1.1,
+      "price": 100.97,
+      "change_pct": -1.43,
       "currency": "USD"
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 76433.9531,
-      "change_pct": 0.37,
+      "price": 76442.7266,
+      "change_pct": 0.38,
       "currency": "USD"
     },
     {
       "name": "USD/VND",
       "symbol": "VND=X",
-      "price": 25997.0,
-      "change_pct": 0.15,
+      "price": 26009.0,
+      "change_pct": 0.2,
       "currency": "VND"
     }
   ],
   "items": [
+    {
+      "title": "browser-use/jev-ultrafast",
+      "url": "https://github.com/browser-use/jev-ultrafast",
+      "source": "GitHub",
+      "category": "github",
+      "market": "global",
+      "published": "2026-09-16T21:30:12Z",
+      "description": "",
+      "score": 1189.21,
+      "title_vi": "trình duyệt-sử dụng/jev-cực nhanh",
+      "title_en": "browser-use/jev-ultrafast",
+      "summary_vi": "trình duyệt-sử dụng/jev-cực nhanh",
+      "summary_en": "browser-use/jev-ultrafast",
+      "meta": {
+        "stars": 1119,
+        "forks": 59,
+        "language": "Python",
+        "stars_per_day": 1119.0
+      }
+    },
     {
       "title": "ai-sucks-butt/ai-sucks-butt",
       "url": "https://github.com/ai-sucks-butt/ai-sucks-butt",
@@ -54,16 +74,16 @@
       "market": "global",
       "published": "2026-09-14T04:02:58Z",
       "description": "If you think AI sucks, star the repo.",
-      "score": 842.05,
+      "score": 943.95,
       "title_vi": "ai-suck-mông/ai-sucks-mông",
       "title_en": "ai-sucks-butt/ai-sucks-butt",
       "summary_vi": "Nếu bạn cho rằng AI tệ, hãy gắn dấu sao cho repo.",
       "summary_en": "If you think AI sucks, star the repo.",
       "meta": {
-        "stars": 2294,
+        "stars": 2596,
         "forks": 0,
         "language": "Python",
-        "stars_per_day": 764.7
+        "stars_per_day": 865.3
       }
     },
     {
@@ -74,16 +94,16 @@
       "market": "global",
       "published": "2026-09-05T00:24:43Z",
       "description": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
-      "score": 380.94,
+      "score": 381.46,
       "title_vi": "ashemag/con người-atlas",
       "title_en": "ashemag/human-atlas",
       "summary_vi": "Trình khám phá giải phẫu 3D mã nguồn mở: 2.234 lưới BodyParts3D có thể lựa chọn, các lớp hệ thống, tìm kiếm và các chế độ xem được giải mã.",
       "summary_en": "Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system layers, search, and exploded views.",
       "meta": {
-        "stars": 3589,
-        "forks": 863,
+        "stars": 3595,
+        "forks": 867,
         "language": "TypeScript",
-        "stars_per_day": 299.1
+        "stars_per_day": 299.6
       }
     },
     {
@@ -94,16 +114,16 @@
       "market": "global",
       "published": "2026-09-08T13:41:47Z",
       "description": "",
-      "score": 281.26,
+      "score": 285.45,
       "title_vi": "Edge0-AI/Edge0",
       "title_en": "Edge0-AI/Edge0",
       "summary_vi": "Edge0-AI/Edge0",
       "summary_en": "Edge0-AI/Edge0",
       "meta": {
-        "stars": 1854,
-        "forks": 156,
+        "stars": 1890,
+        "forks": 157,
         "language": "Python",
-        "stars_per_day": 206.0
+        "stars_per_day": 210.0
       }
     },
     {
@@ -114,16 +134,16 @@
       "market": "global",
       "published": "2026-09-04T15:00:53Z",
       "description": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
-      "score": 261.32,
+      "score": 261.97,
       "title_vi": "Rion-Wu-tech/wechat-intelligence-hub",
       "title_en": "Rion-Wu-tech/wechat-intelligence-hub",
       "summary_vi": "Hệ thống thông minh WeChat ưu tiên địa phương với CLI chỉ đọc, kỹ năng Codex, lịch sử trò chuyện có thể tìm kiếm, cuộc họp giao ban hàng ngày, theo dõi và theo dõi cơ hội.",
       "summary_en": "Local-first WeChat intelligence system with a read-only CLI, Codex skills, searchable chat history, daily briefings, follow-ups and opportunity tracking.",
       "meta": {
-        "stars": 2386,
-        "forks": 2680,
+        "stars": 2394,
+        "forks": 2688,
         "language": "Python",
-        "stars_per_day": 183.5
+        "stars_per_day": 184.2
       }
     },
     {
@@ -134,13 +154,13 @@
       "market": "global",
       "published": "2026-09-03T15:55:54Z",
       "description": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
-      "score": 257.34,
+      "score": 257.42,
       "title_vi": "Albert-Weasker/niubigeo",
       "title_en": "Albert-Weasker/niubigeo",
       "summary_vi": "Báo cáo về khả năng hiển thị thương hiệu AI nguồn mở và báo cáo của đối thủ cạnh tranh. Trang web chính thức: https://niubigeo.ai/ | Dịch vụ trả phí: Thử nghiệm AI bởi người thực và tối ưu hóa GEO. Giá cả: https://niubigeo.ai/pricing",
       "summary_en": "Open-source AI brand visibility and competitor reports. Official website: https://niubigeo.ai/ | Paid services: AI testing by real people and GEO optimization. Pricing: https://niubigeo.ai/pricing",
       "meta": {
-        "stars": 2507,
+        "stars": 2508,
         "forks": 99,
         "language": "TypeScript",
         "stars_per_day": 179.1
@@ -154,16 +174,16 @@
       "market": "global",
       "published": "2026-09-08T17:19:54Z",
       "description": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
-      "score": 244.87,
+      "score": 246.98,
       "title_vi": "Vincentwei1021/anything2explainer",
       "title_en": "Vincentwei1021/anything2explainer",
       "summary_vi": "Chủ đề vào, tường thuật video giải thích ra. Kỹ năng Claude Code / Codex biến bất kỳ chủ đề nào thành video giải thích đồ họa chuyển động trên canvas màu đen với lồng tiếng TTS, phụ đề và thanh tiến trình chương. Tiếng Trung hoặc tiếng Anh; mọi khung hình được vẽ bằng mã bằng Remotion.",
       "summary_en": "Topic in, narrated explainer video out. A Claude Code / Codex skill that turns any topic into a black-canvas motion-graphics explainer video with TTS voiceover, subtitles and a chapter progress bar. Chinese or English; every frame drawn in code with Remotion.",
       "meta": {
-        "stars": 1543,
-        "forks": 249,
+        "stars": 1561,
+        "forks": 252,
         "language": "TypeScript",
-        "stars_per_day": 171.4
+        "stars_per_day": 173.4
       }
     },
     {
@@ -174,16 +194,16 @@
       "market": "global",
       "published": "2026-09-07T00:41:18Z",
       "description": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
-      "score": 230.38,
+      "score": 231.34,
       "title_vi": "EverettFish/holo-card-studio",
       "title_en": "EverettFish/holo-card-studio",
       "summary_vi": "Biến mô tả của người dùng hoặc tài liệu tham khảo đã tải lên thành thẻ Blender hoàn chỉnh, có thể chỉnh sửa và trang Three.js tương tác. Giữ nguyên chủ đề, phong cách, kiểu chữ và đích đến được yêu cầu. Kỹ năng này chỉ chứa mã và văn bản; tác phẩm nghệ thuật được tạo ra thuộc về dự án đầu ra của người dùng.",
       "summary_en": "Turn the user's description or uploaded reference into a finished, editable Blender card and an interactive Three.js page. Preserve the requested subject, style, typography and destination. This skill contains code and text only; generated artwork belongs in the user's output project.",
       "meta": {
-        "stars": 1568,
-        "forks": 221,
+        "stars": 1577,
+        "forks": 220,
         "language": "Python",
-        "stars_per_day": 156.8
+        "stars_per_day": 157.7
       }
     },
     {
@@ -194,16 +214,16 @@
       "market": "global",
       "published": "2026-09-04T06:20:19Z",
       "description": "",
-      "score": 215.07,
+      "score": 216.72,
       "title_vi": "Mantitup-Org/xem",
       "title_en": "Mantitup-Org/view",
       "summary_vi": "Mantitup-Org/xem",
       "summary_en": "Mantitup-Org/view",
       "meta": {
-        "stars": 1820,
-        "forks": 18,
+        "stars": 1840,
+        "forks": 19,
         "language": "TypeScript",
-        "stars_per_day": 140.0
+        "stars_per_day": 141.5
       }
     },
     {
@@ -214,201 +234,151 @@
       "market": "global",
       "published": "2026-09-12T18:20:00Z",
       "description": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
-      "score": 205.95,
+      "score": 209.59,
       "title_vi": "Agentverse-os/AgentVerse-OS",
       "title_en": "agentverse-os/AgentVerse-OS",
       "summary_vi": "Hệ điều hành đám mây cá nhân dành cho nhà phát triển và các tác nhân AI của họ trên một máy chủ. Cài đặt bằng một lệnh trên Ubuntu, sau đó là mọi thứ trong trình duyệt: máy tính để bàn có cửa sổ, không gian làm việc riêng biệt với VS Code, Claude Code và Codex, một cửa hàng gồm 944 ứng dụng, bản sao lưu và cập nhật tự lưu trữ. Chỉ truy cập qua Tailscale, không có gì tiếp xúc với internet. Lõi rỉ sét, giao diện người dùng mảnh dẻ.",
       "summary_en": "Personal cloud OS for a developer and their AI agents on a single server. One-command install on Ubuntu, then everything in the browser: a windowed desktop, isolated workspaces with VS Code, Claude Code and Codex, a store of 944 self-hosted apps, backups and updates. Access only via Tailscale, nothing exposed to the internet. Rust core, Svelte UI.",
       "meta": {
-        "stars": 702,
-        "forks": 19,
+        "stars": 719,
+        "forks": 20,
         "language": "Rust",
-        "stars_per_day": 140.4
+        "stars_per_day": 143.8
       }
     },
     {
-      "title": "qingjian-team/qingjian",
-      "url": "https://github.com/qingjian-team/qingjian",
-      "source": "GitHub",
-      "category": "github",
-      "market": "global",
-      "published": "2026-09-07T08:25:30Z",
-      "description": "青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词",
-      "score": 203.11,
-      "title_vi": "qingjian-team/qingjian",
-      "title_en": "qingjian-team/qingjian",
-      "summary_vi": "Qingjian: Phương thức nhập bính âm được viết bằng Rust, với bản dịch ngôn ngữ bạn đang học bên cạnh từ ứng viên",
-      "summary_en": "Qingjian: Pinyin input method written in Rust, with a translation of the language you are learning next to the candidate word",
-      "meta": {
-        "stars": 1313,
-        "forks": 115,
-        "language": "Rust",
-        "stars_per_day": 131.3
-      }
-    },
-    {
-      "title": "Đẩy nhanh tiến độ triển khai các dự án và mua sắm thiết bị lĩnh vực y tế giai đoạn 2026 – 2030 - Báo Sơn La",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeS0wTVh0c09HQ3FpU1d2Q25Nc2xVbDVlZW1CYVNMX0NCRURncUlwODR1Mm1RV0tuYlZ3MWNld3pEV1lxYm5HYm14bWhFbGpGUTlzMk5NaGFzSEUxVGIxUVZrMWZIazBRT3BFRUoxV196azlXVG91dFUwdTUyUENxV0lWMFkyYzNnaWRKNUUzbHdfc2wyTDAwLWdHNGZrVmxJSU5qS3FyY3NsSEQ0Um41RkJyTTgxSlpkQzJjbXZBdG5GWTJBRUtsWkhubFlERGllbUdSTkJ5QmRPMVJSSUE?oc=5",
-      "source": "Google News Nhu cầu Việt Nam",
-      "category": "society",
-      "market": "vietnam",
-      "published": "Thu, 17 Sep 2026 09:57:10 GMT",
-      "description": "Đẩy nhanh tiến độ triển khai các dự án và mua sắm thiết bị lĩnh vực y tế giai đoạn 2026 – 2030 Báo Sơn La",
-      "score": 0.0,
-      "title_vi": "Đẩy nhanh tiến độ triển khai các dự án và mua sắm thiết bị lĩnh vực y tế giai đoạn 2026 – 2030 - Báo Sơn La",
-      "title_en": "Speed ​​up the implementation of projects and procurement of medical equipment for the period 2026 - 2030 - Son La Newspaper",
-      "summary_vi": "Đẩy nhanh tiến độ triển khai các dự án và mua sắm thiết bị lĩnh vực y tế giai đoạn 2026 – 2030 Báo Sơn La",
-      "summary_en": "Accelerate the implementation of projects and procurement of medical equipment in the period 2026 - 2030 Son La Newspaper",
-      "meta": {}
-    },
-    {
-      "title": "Europe's low gas stocks pile on the economic and political pressure - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT3ZaaXBVeVNMSm9TdlAzaWhnMDdTRTZIdENoSHBiVW1QQUx3eGxlOFk5cWJtcl91VVBud284a2N4OVM5dXJmMWZlb2NfLXdvMkswNVFmR0lmX3NzaUEzdmp1aWYtVjAxangtdGoxM2dXUUFZcm96NnMyVW0xOVY0NTB1aDVMbUdSTDlpVG9jSDhtcGZMUC02cTNVNGRhWnlmNktCR3dCZ0F4eE0?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Thu, 17 Sep 2026 09:53:52 GMT",
-      "description": "Europe's low gas stocks pile on the economic and political pressure Reuters",
-      "score": 0.0,
-      "title_vi": "Dự trữ khí đốt thấp của châu Âu gây áp lực kinh tế và chính trị - Reuters",
-      "title_en": "Europe's low gas stocks pile on the economic and political pressure - Reuters",
-      "summary_vi": "Dự trữ khí đốt thấp của châu Âu gây áp lực kinh tế và chính trị",
-      "summary_en": "Europe's low gas stocks pile on the economic and political pressure Reuters",
-      "meta": {}
-    },
-    {
-      "title": "Indonesia parliament discusses changes to fiscal deficit limit - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFZtVTlrLXNEV2g3TDlqZ0ZVVmF5eXFBOW1NcUdSVUY4akFhRHR5dWI1a0NTbXFSR3RQdkY1TjRLUmN1UzQ5M3l4ajVZYnA5VG80aVVKckFFYXo2RTFmY0ZhR0FzYkYyU0ZNNDBadXpZR0pnX05ZYWJiXzlTdzBrWllld28yZU43dE45UDIxbl9UcGFSMlJTUHpXb0txVVlrSnNCVFI4SDQtODVPYk85LUxKUWk?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Thu, 17 Sep 2026 09:53:43 GMT",
-      "description": "Indonesia parliament discusses changes to fiscal deficit limit Reuters",
-      "score": 0.0,
-      "title_vi": "Quốc hội Indonesia thảo luận về thay đổi giới hạn thâm hụt tài khóa - Reuters",
-      "title_en": "Indonesia parliament discusses changes to fiscal deficit limit - Reuters",
-      "summary_vi": "Quốc hội Indonesia thảo luận về thay đổi giới hạn thâm hụt tài chính",
-      "summary_en": "Indonesia parliament discusses changes to fiscal deficit limit Reuters",
-      "meta": {}
-    },
-    {
-      "title": "Compressed Air Energy Storage Market Gains Momentum as - GlobeNewswire",
-      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNR194Rm1ZRXdHRXZjYUJMQUwxLU8yZVptWHNibXBuTktmYWswa3VPTm1Bb1VSOUpuck1RV0R5ZF80alg1V0NwTkY5VTZsVWxFSVlZclNTVnQzOEEwT2Ffc2R2VEt6ZTFIeGNZdXVTT3dxdUdXczlqQUtSajNUSTZxUWxMUkVZb3JnUEcxb1hkYWd2ekpjNGttV1dKOTZ4UEItdFE3eXB3VXA1cUNnNWVIMUJPX05vUUdmYTQ4MlY4SDN5cURUUUZCOHJVU1BCcGtVaTF1aHNlUGZGdzVqZ2M1T1BxaVRWM1ppY3l2MHZPZENjcGprWVRpeGlLd0s1b1NkN2hnazJ1TmFNOXkxaDlQR2pZWXpMZw?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Thu, 17 Sep 2026 09:49:02 GMT",
-      "description": "Compressed Air Energy Storage Market Gains Momentum as GlobeNewswire",
-      "score": 0.0,
-      "title_vi": "Thị trường lưu trữ năng lượng khí nén tăng trưởng - GlobeNewswire",
-      "title_en": "Compressed Air Energy Storage Market Gains Momentum as - GlobeNewswire",
-      "summary_vi": "Thị trường lưu trữ năng lượng khí nén tăng trưởng theo GlobeNewswire",
-      "summary_en": "Compressed Air Energy Storage Market Gains Momentum as GlobeNewswire",
-      "meta": {}
-    },
-    {
-      "title": "DelTech to cut prison education program after final graduates | Exclusive - Delawareonline.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1M5dmQ2NWtIZjJGMElBWGVQbHpKV1ZRV0VFWTFscXl6OHZ2Z0I0U1JLamRubzJvaXI3RWJJZmJMRnJDVUJrZDg1TUNBVnZBVm9qM3dvcXZsbkx3SHdCcTN0SzJGZzE3WktTQW9hRDVvNkk5cjZVc0o4SnFobEZHQlFsSE5naXhJTEJabG52QXdWeS1HZ21oc04yRWtleU43bll1N2VLZHZGYVBweW1LN3BHM0V5a0xuVHRiYXlR?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Thu, 17 Sep 2026 09:47:00 GMT",
-      "description": "DelTech to cut prison education program after final graduates | Exclusive Delawareonline.com",
-      "score": 0.0,
-      "title_vi": "DelTech cắt giảm chương trình giáo dục trong tù sau khi tốt nghiệp | Độc quyền - Delawareonline.com",
-      "title_en": "DelTech to cut prison education program after final graduates | Exclusive - Delawareonline.com",
-      "summary_vi": "DelTech cắt giảm chương trình giáo dục trong tù sau khi tốt nghiệp | Delawareonline.com độc quyền",
-      "summary_en": "DelTech to cut prison education program after final graduates | Exclusive Delawareonline.com",
-      "meta": {}
-    },
-    {
-      "title": "Delaware's largest prison offers education and job training - Delawareonline.com",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcmNHaWx6SEtBWUVZbnhBZF9rWnhzZmp3aWpEeUwxenVBUkRJQWlNWUt0cFlxSVVuQmNLX0ZnekExQ25lWDdpMkc4VGZJeFFyVklyMVhUMzVTWG9LUmwtUnpuZmc3bV9sMV9PQkN5eWlxbkpDbWdmaUZNdDJfamxJZjAycmJRN2ltbGJQOW9yNmkyck00VXRIWEdRN2sxMFE2bTdVajRwd3JHM0FEQWVXamVTZWg0b19yTVE2VUUweXd0REhtVWtqVkxQeDVsbDFQRzJjT1ZOQQ?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Thu, 17 Sep 2026 09:47:00 GMT",
-      "description": "Delaware's largest prison offers education and job training Delawareonline.com",
-      "score": 0.0,
-      "title_vi": "Nhà tù lớn nhất Delaware cung cấp giáo dục và đào tạo nghề - Delawareonline.com",
-      "title_en": "Delaware's largest prison offers education and job training - Delawareonline.com",
-      "summary_vi": "Nhà tù lớn nhất Delaware cung cấp giáo dục và đào tạo nghề Delawareonline.com",
-      "summary_en": "Delaware's largest prison offers education and job training Delawareonline.com",
-      "meta": {}
-    },
-    {
-      "title": "WV especially prone to health, energy bill harm from EPA power plant rule repeal moves - Charleston Gazette-Mail",
-      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPSTNTNURDcGdPZERhUkEwdDdSbDhCLWtIcGZ0TnljLTlJcFJMb2NYVzNEd1JsY0EyM09yWkVFUDhNQUFPV1dxdDNuYk5PTmEzMG5XZGpHWDdRaHdIQ2M1T05wa2RWQXBHa2tVZTZDVGpxOEdyUXZRTXlNZTh5RllEeTdSak9yMllpc09kVjJzcVhub3RZS2NPbTU5NnRMWEVoNGIzdDgxT2w3Si13XzBENUo1TndtSll3M2RTdGF4QkdTOGQ5U0lCVnM0MGVZZU1DUXVjTHdNdUxhSUpqc2wteVJ5VjR1bEpnZEVqVTdHODhLYTQ0NkJMZGdRS2ticDhWcHJsRzVJRmZCMUxGWEdzeHdpRk01TTUzUWUzbGV3?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Thu, 17 Sep 2026 09:45:00 GMT",
-      "description": "WV especially prone to health, energy bill harm from EPA power plant rule repeal moves Charleston Gazette-Mail",
-      "score": 0.0,
-      "title_vi": "WV đặc biệt dễ bị tổn hại về sức khỏe, hóa đơn năng lượng do các động thái bãi bỏ quy tắc nhà máy điện của EPA - Charleston Gazette-Mail",
-      "title_en": "WV especially prone to health, energy bill harm from EPA power plant rule repeal moves - Charleston Gazette-Mail",
-      "summary_vi": "WV đặc biệt dễ bị ảnh hưởng đến sức khỏe, hóa đơn năng lượng bị tổn hại do quy định bãi bỏ quy định của nhà máy điện EPA Charleston Gazette-Mail",
-      "summary_en": "WV especially prone to health, energy bill harm from EPA power plant rule repeal moves Charleston Gazette-Mail",
-      "meta": {}
-    },
-    {
-      "title": "Europe’s CEOs are ready to turn its energy challenge into a competitive edge - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNS1ibUFRVVYtcnlMemg5V1hkaHNYdXZpdGt5al9OMXptUWRHSlJucXNpcTU3TFh6X1l0RlYyYUNSdmNYU3RyRG9iQzhDZjF0Qm5JbHZxM0ZTTmtrR0swYU9lemlNdDVqWkdPSmt0eHpZTnpnNnZLM213dXgxaXllenI3OE5ad0IwUXVvbENsVnVKczg?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Thu, 17 Sep 2026 09:45:00 GMT",
-      "description": "Europe’s CEOs are ready to turn its energy challenge into a competitive edge Fortune",
-      "score": 0.0,
-      "title_vi": "Các CEO Châu Âu sẵn sàng biến thách thức năng lượng thành lợi thế cạnh tranh - Fortune",
-      "title_en": "Europe’s CEOs are ready to turn its energy challenge into a competitive edge - Fortune",
-      "summary_vi": "Các CEO châu Âu sẵn sàng biến thách thức năng lượng thành lợi thế cạnh tranh",
-      "summary_en": "Europe’s CEOs are ready to turn its energy challenge into a competitive edge Fortune",
-      "meta": {}
-    },
-    {
-      "title": "AD1230: West and Central Africans support women’s autonomy and sexuality education, but are divided on contraceptive access and abortion - afrobarometer.org",
-      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdzFSTTNJME11Tmd5dWRZVUZ3T1ByV2FDcnctMFdCMHN4bGpiSnp1WGlsMFE3dTN1QUx0QzN5VHJ4YWNlU3pNUFpTc2F6bjNiU2o5a0FBQ0dvNWlMdjNEZm1IVk9XbmtSQm5DRXVJSGdWU1dTVEsxdWVfMThNM0FUZklEU3ctVDNSLWw0UTV4OVRHLVJ4dWo1a2FyRGNSUDZ2RUF5R3Q4Y0Z1Qkc2UlltVkZxWS02UHVkMmo5ZURZSTRNYU9OTE5QTkFRTkczRkZTR1FDUVJvNnlIU0V5ZndoQ2FTY3ozbFF5UEdLUm1pa210TjJwWFNfcUdncUNwX19TTVNUcUt6MA?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Thu, 17 Sep 2026 09:36:34 GMT",
-      "description": "AD1230: West and Central Africans support women’s autonomy and sexuality education, but are divided on contraceptive access and abortion afrobarometer.org",
-      "score": 0.0,
-      "title_vi": "AD1230: Người Tây và Trung Phi ủng hộ quyền tự chủ và giáo dục giới tính của phụ nữ, nhưng bị chia rẽ về khả năng tiếp cận các biện pháp tránh thai và phá thai - afrobarometer.org",
-      "title_en": "AD1230: West and Central Africans support women’s autonomy and sexuality education, but are divided on contraceptive access and abortion - afrobarometer.org",
-      "summary_vi": "AD1230: Người Tây và Trung Phi ủng hộ quyền tự chủ và giáo dục giới tính của phụ nữ, nhưng bị chia rẽ về khả năng tiếp cận các biện pháp tránh thai và phá thai afrobarometer.org",
-      "summary_en": "AD1230: West and Central Africans support women’s autonomy and sexuality education, but are divided on contraceptive access and abortion afrobarometer.org",
-      "meta": {}
-    },
-    {
-      "title": "Is DOE Loan Advance Altering The Investment Case For Eos Energy Enterprises (EOSE)? - simplywall.st",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPT0hmT1FKMXVxLUZ4OFIzQlQyT28tdThVUWozVWRRVXVIRUw3TGMxMUJGZHozaTEtVVZXYnczOEVMRTF3Zm56bm11c0tlYnlkdktjUlRfVTd4MmZMaExQN1ZGMUtjalp4SHZ3cFVFWUJrYmM3MlJIRlhTa3NzNHNONlFIWXBxZmFwV3ZzRVFwYzQtV1ZOdmlOczVzemxRSUxrSWlxVU1ZVEZ2aGYxNlpvWVBFdVE0QUxtQkFQNG5zcnVZN2p1bXIxLTlTeEl0d1BrcFYwQkpWYWtxaFhBVk930gHkAUFVX3lxTE11X3g4ZjZvb18tRy1WXzFQUHlXVXRYUlhTOTduYTlHdWFfVEFXMHNRQTc0XzRKMmlaaDJGV0VJQTJfS2g4VzFQRGtFX0l2QzgxUzBFTFpISHVEMEtQLTRqVjU5bE9wU0R5NnRwdHhkeThoRG5XNjlVZDR0WG5DRGNjTmVGYy1wWEtmNHN3dzNzZzRHbElCV3Zoc0NicWV3TTktMk5jck9GbWhEbmxFbEpSbTFzb2dLNTJuTWRsYVVMZjF3S2dLVFBYaElZdlpNYlFGUURya2Y2V2NHTERtbEl1VWZzYQ?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Thu, 17 Sep 2026 09:35:28 GMT",
-      "description": "Is DOE Loan Advance Altering The Investment Case For Eos Energy Enterprises (EOSE)? simplywall.st",
-      "score": 0.0,
-      "title_vi": "Khoản vay tạm ứng của DOE có làm thay đổi trường hợp đầu tư cho các doanh nghiệp năng lượng Eos (EOSE) không? - đơn giảnwall.st",
-      "title_en": "Is DOE Loan Advance Altering The Investment Case For Eos Energy Enterprises (EOSE)? - simplywall.st",
-      "summary_vi": "Khoản vay tạm ứng của DOE có làm thay đổi trường hợp đầu tư cho các doanh nghiệp năng lượng Eos (EOSE) không? đơn giảnwall.st",
-      "summary_en": "Is DOE Loan Advance Altering The Investment Case For Eos Energy Enterprises (EOSE)? simplywall.st",
-      "meta": {}
-    },
-    {
-      "title": "Phát hiện mới về 'kết nối khí hậu từ xa' giúp dự báo thời tiết cực đoan",
-      "url": "https://vnexpress.net/phat-hien-moi-ve-ket-noi-khi-hau-tu-xa-giup-du-bao-thoi-tiet-cuc-doan-5121066.html",
-      "source": "VnExpress Số hóa",
+      "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+      "source": "TechCrunch",
       "category": "technology",
-      "market": "vietnam",
-      "published": "Thu, 17 Sep 2026 16:00:00 +0700",
-      "description": "Các nhà nghiên cứu lần đầu tiên phát hiện mối liên hệ giữa mùa đông ấm bất thường trên cao nguyên Tây Tạng và mưa bão tàn phá California và nhiều bang khác.",
+      "market": "global",
+      "published": "Thu, 17 Sep 2026 14:06:14 +0000",
+      "description": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
       "score": 0.0,
-      "title_vi": "Phát hiện mới về 'kết nối khí hậu từ xa' giúp dự báo thời tiết cực đoan",
-      "title_en": "New discovery of 'tele-climate connectivity' helps forecast extreme weather",
-      "summary_vi": "Các nhà nghiên cứu lần đầu tiên phát hiện mối liên hệ giữa mùa đông ấm bất thường trên cao nguyên Tây Tạng và mưa bão tàn phá California và nhiều bang khác.",
-      "summary_en": "Researchers have for the first time discovered a link between an unusually warm winter on the Tibetan plateau and rainstorms that devastated California and many other states.",
+      "title_vi": "Huawei có kế hoạch ra mắt chip AI mới vào quý 1 năm 2027 khi cạnh tranh với Nvidia",
+      "title_en": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+      "summary_vi": "Huawei đang đẩy nhanh việc ra mắt chip AI Ascend 960DT thế hệ tiếp theo khi hãng này nỗ lực cạnh tranh với Nvidia và thu hẹp khoảng cách về điện toán AI của Trung Quốc với Mỹ.",
+      "summary_en": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+      "meta": {}
+    },
+    {
+      "title": "2 days left to exhibit at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/09/17/2-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 17 Sep 2026 14:00:00 +0000",
+      "description": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "score": 0.0,
+      "title_vi": "Còn 2 ngày để triển lãm tại TechCrunch Disrupt 2026",
+      "title_en": "2 days left to exhibit at TechCrunch Disrupt 2026",
+      "summary_vi": "Ngày cuối cùng để đặt bàn triển lãm của bạn tại Disrupt là ngày 18 tháng 9. Còn hai ngày. Giới thiệu công ty khởi nghiệp của bạn trước hơn 10.000 nhà sáng lập, nhà đầu tư, nhà điều hành và lãnh đạo công nghệ vào ngày 13–15 tháng 10.",
+      "summary_en": "Last day to book your exhibit table at Disrupt is September 18. Two days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+      "meta": {}
+    },
+    {
+      "title": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "url": "https://techcrunch.com/2026/09/17/rival-ai-agents-instinct-and-metas-muse-both-add-the-ability-to-make-calls/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 17 Sep 2026 13:46:16 +0000",
+      "description": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+      "score": 0.0,
+      "title_vi": "Các tác nhân AI đối thủ, Bản năng và Muse của Meta, đều bổ sung khả năng thực hiện cuộc gọi",
+      "title_en": "Rival AI agents, Instinct and Meta’s Muse, both add the ability to make calls",
+      "summary_vi": "Mọi người có thể sử dụng những trợ lý này để đặt chỗ nhà hàng và hủy đăng ký.",
+      "summary_en": "People can use these assistants to make restaurant reservations and cancel subscriptions.",
+      "meta": {}
+    },
+    {
+      "title": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "url": "https://techcrunch.com/2026/09/17/google-nvidia-and-anthropic-want-emerald-ai-to-find-space-on-the-grid-for-more-data-centers/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 17 Sep 2026 13:38:33 +0000",
+      "description": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+      "score": 0.0,
+      "title_vi": "Google, Nvidia và Anthropic muốn Emerald AI tìm không gian trên mạng cho nhiều trung tâm dữ liệu hơn",
+      "title_en": "Google, Nvidia, and Anthropic want Emerald AI to find space on the grid for more data centers",
+      "summary_vi": "Một liên minh mới bao gồm Google, Nvidia, Anthropic và Emerald AI muốn tìm ra công suất lưới 100 GW cho các trung tâm dữ liệu mới.",
+      "summary_en": "A new coalition that includes Google, Nvidia, Anthropic, and Emerald AI wants to find 100 GW of grid capacity for new data centers.",
+      "meta": {}
+    },
+    {
+      "title": "Canada welcomes EU proposal to become 'associate member'",
+      "url": "https://www.bbc.com/news/articles/cwly7vkke4jxo",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 17 Sep 2026 13:30:37 +0000",
+      "description": "Article URL: https://www.bbc.com/news/articles/cwly7vkke4jxo Comments URL: https://news.ycombinator.com/item?id=49740507 Points: 195 # Comments: 193",
+      "score": 0.0,
+      "title_vi": "Canada hoan nghênh đề xuất của EU trở thành 'thành viên liên kết'",
+      "title_en": "Canada welcomes EU proposal to become 'associate member'",
+      "summary_vi": "URL bài viết: https://www.bbc.com/news/articles/cwly7vkke4jxo URL bình luận: https://news.ycombinator.com/item?id=49740507 Điểm: 195 # Bình luận: 193",
+      "summary_en": "Article URL: https://www.bbc.com/news/articles/cwly7vkke4jxo Comments URL: https://news.ycombinator.com/item?id=49740507 Points: 195 # Comments: 193",
+      "meta": {}
+    },
+    {
+      "title": "Lucid Motors has a potential robotaxi partner for Europe",
+      "url": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
+      "source": "TechCrunch",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 17 Sep 2026 13:26:32 +0000",
+      "description": "The company is partnering with mobility platform Bolt -- but no vehicle orders have been placed just yet.",
+      "score": 0.0,
+      "title_vi": "Lucid Motors có đối tác robotaxi tiềm năng cho Châu Âu",
+      "title_en": "Lucid Motors has a potential robotaxi partner for Europe",
+      "summary_vi": "Công ty đang hợp tác với nền tảng di động Bolt - nhưng chưa có đơn đặt hàng xe nào được đặt.",
+      "summary_en": "The company is partnering with mobility platform Bolt -- but no vehicle orders have been placed just yet.",
+      "meta": {}
+    },
+    {
+      "title": "I had Gemini train its own replacement for $9",
+      "url": "https://www.petervijeh.com/projects/reddit-ner",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 17 Sep 2026 13:17:16 +0000",
+      "description": "Article URL: https://www.petervijeh.com/projects/reddit-ner Comments URL: https://news.ycombinator.com/item?id=49740330 Points: 53 # Comments: 18",
+      "score": 0.0,
+      "title_vi": "Tôi đã nhờ Gemini đào tạo người thay thế riêng với giá 9 đô la",
+      "title_en": "I had Gemini train its own replacement for $9",
+      "summary_vi": "URL bài viết: https://www.petervijeh.com/projects/reddit-ner URL bình luận: https://news.ycombinator.com/item?id=49740330 Điểm: 53 # Bình luận: 18",
+      "summary_en": "Article URL: https://www.petervijeh.com/projects/reddit-ner Comments URL: https://news.ycombinator.com/item?id=49740330 Points: 53 # Comments: 18",
+      "meta": {}
+    },
+    {
+      "title": "Show HN: Share your AI Setup, Learn from others",
+      "url": "https://mysetup.ai/",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Thu, 17 Sep 2026 13:01:44 +0000",
+      "description": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks? So I built this with the hope we could have a dedicated space to share and be open about our setups. Comments URL: https://news.ycombinator.com/item?id=49740105 Points: 10 # Comments: 2",
+      "score": 0.0,
+      "title_vi": "Show HN: Chia sẻ thiết lập AI của bạn, Học hỏi từ người khác",
+      "title_en": "Show HN: Share your AI Setup, Learn from others",
+      "summary_vi": "Tôi liên tục thấy các kỹ sư chia sẻ những gì họ đang xây dựng bằng AI; tuy nhiên, tôi luôn tò mò hơn về cách chúng hoạt động. Họ đã sử dụng những đại lý nào? Những kỹ năng và công cụ nào đã bị mắc kẹt hoặc bị ném ra ngoài cửa sổ? Họ đã quản lý các nhiệm vụ chạy dài hơn như thế nào? Vì vậy, tôi đã xây dựng nó với hy vọng chúng ta có thể có một không gian riêng để chia sẻ và cởi mở về các thiết lập của mình. URL nhận xét: https://news.ycombinator.com/item?id=49740105 Điểm: 10 # Nhận xét: 2",
+      "summary_en": "I kept seeing engineers share what they were building with AI; however, I was always more curious about how they worked. Which agents did they use? What skills and tools had stuck or been thrown out the window? How did they manage longer-running tasks? So I built this with the hope we could have a dedicated space to share and be open about our setups. Comments URL: https://news.ycombinator.com/item?id=49740105 Points: 10 # Comments: 2",
+      "meta": {}
+    },
+    {
+      "title": "Cao tốc Bảo Lộc - Liên Khương thêm gần 3.000 tỷ đồng vốn tín dụng",
+      "url": "https://vnexpress.net/cao-toc-bao-loc-lien-khuong-them-gan-3-000-ty-dong-von-tin-dung-5121435.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Thu, 17 Sep 2026 19:00:00 +0700",
+      "description": "Dự án cao tốc do liên doanh T&T - FUTA - Phương Thành là nhà đầu tư vừa được Agribank cấp khoản vay tối đa 2.987 tỷ đồng, nâng tổng vốn tín dụng dự án lên gần 8.000 tỷ đồng.",
+      "score": 0.0,
+      "title_vi": "Cao tốc Bảo Lộc - Liên Khương thêm gần 3.000 tỷ đồng vốn tín dụng",
+      "title_en": "Bao Loc - Lien Khuong Expressway added nearly 3,000 billion VND in credit capital",
+      "summary_vi": "Dự án cao tốc do liên doanh T&T - FUTA - Phương Thành là nhà đầu tư vừa được Agribank cấp khoản vay tối đa 2.987 tỷ đồng, nâng tổng vốn tín dụng dự án lên gần 8.000 tỷ đồng.",
+      "summary_en": "The expressway project invested by the joint venture T&T - FUTA - Phuong Thanh has just been granted a maximum loan of VND 2,987 billion by Agribank, bringing the total project credit capital to nearly VND 8,000 billion.",
       "meta": {}
     },
     {
@@ -427,36 +397,6 @@
       "meta": {}
     },
     {
-      "title": "I didn't sign the Fields medallists' letter",
-      "url": "https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Thu, 17 Sep 2026 08:51:51 +0000",
-      "description": "Article URL: https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/ Comments URL: https://news.ycombinator.com/item?id=49738091 Points: 18 # Comments: 22",
-      "score": 0.0,
-      "title_vi": "Tôi đã không ký vào thư của người đoạt huy chương Fields",
-      "title_en": "I didn't sign the Fields medallists' letter",
-      "summary_vi": "URL bài viết: https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/ URL bình luận: https://news.ycombinator.com/item?id=49738091 Điểm: 18 # Bình luận: 22",
-      "summary_en": "Article URL: https://gowers.wordpress.com/2026/09/17/why-i-didnt-sign-the-fields-medallists-letter/ Comments URL: https://news.ycombinator.com/item?id=49738091 Points: 18 # Comments: 22",
-      "meta": {}
-    },
-    {
-      "title": "AI Safety Is Mostly a Sex Cult",
-      "url": "https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Thu, 17 Sep 2026 08:36:37 +0000",
-      "description": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 66 # Comments: 19",
-      "score": 0.0,
-      "title_vi": "An toàn AI chủ yếu là một giáo phái tình dục",
-      "title_en": "AI Safety Is Mostly a Sex Cult",
-      "summary_vi": "URL bài viết: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q URL bình luận: https://news.ycombinator.com/item?id=49737985 Điểm: 66 # Bình luận: 19",
-      "summary_en": "Article URL: https://skywriter.blue/@segyges.bsky.social/3mvom4b4dn22q Comments URL: https://news.ycombinator.com/item?id=49737985 Points: 66 # Comments: 19",
-      "meta": {}
-    },
-    {
       "title": "LPBank được vinh danh trong nhóm đóng góp ngân sách lớn nhất",
       "url": "https://vnexpress.net/lpbank-duoc-vinh-danh-trong-nhom-dong-gop-ngan-sach-lon-nhat-5121414.html",
       "source": "VnExpress Kinh doanh",
@@ -472,36 +412,6 @@
       "meta": {}
     },
     {
-      "title": "GLM Built Its Own Inference Infrastructure",
-      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Thu, 17 Sep 2026 08:27:09 +0000",
-      "description": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 10 # Comments: 0",
-      "score": 0.0,
-      "title_vi": "GLM xây dựng cơ sở hạ tầng suy luận của riêng mình",
-      "title_en": "GLM Built Its Own Inference Infrastructure",
-      "summary_vi": "URL bài viết: https://z.ai/blog/glm-build-its-inference-infrastructure URL bình luận: https://news.ycombinator.com/item?id=49737922 Điểm: 10 # Bình luận: 0",
-      "summary_en": "Article URL: https://z.ai/blog/glm-built-its-inference-infrastructure Comments URL: https://news.ycombinator.com/item?id=49737922 Points: 10 # Comments: 0",
-      "meta": {}
-    },
-    {
-      "title": "One Year of Sponsored Servo Development",
-      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Thu, 17 Sep 2026 08:13:54 +0000",
-      "description": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ Comments URL: https://news.ycombinator.com/item?id=49737849 Points: 57 # Comments: 22",
-      "score": 0.0,
-      "title_vi": "Một năm phát triển servo được tài trợ",
-      "title_en": "One Year of Sponsored Servo Development",
-      "summary_vi": "URL bài viết: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ URL bình luận: https://news.ycombinator.com/item?id=49737849 Điểm: 57 # Bình luận: 22",
-      "summary_en": "Article URL: https://servo.org/blog/2026/09/15/one-year-of-sponsorship/ Comments URL: https://news.ycombinator.com/item?id=49737849 Points: 57 # Comments: 22",
-      "meta": {}
-    },
-    {
       "title": "Cá linh từ 250.000 đồng xuống còn vài chục nghìn một kg",
       "url": "https://vnexpress.net/ca-linh-tu-250-000-dong-xuong-con-vai-chuc-nghin-mot-kg-5121291.html",
       "source": "VnExpress Kinh doanh",
@@ -514,21 +424,6 @@
       "title_en": "Linh fish from 250,000 VND down to several tens of thousands per kg",
       "summary_vi": "Từ mức 250.000 đồng một kg đầu mùa, nay cá linh còn khoảng 60.000-70.000 ở Đồng Tháp, khi nước lũ về nhiều và sản lượng tăng mạnh.",
       "summary_en": "From 250,000 VND per kg at the beginning of the season, now Linh fish is about 60,000-70,000 VND in Dong Thap, when the floodwaters are abundant and production increases sharply.",
-      "meta": {}
-    },
-    {
-      "title": "Hôm nay đóng cổng bình chọn máy lọc không khí thông minh",
-      "url": "https://vnexpress.net/hom-nay-dong-cong-binh-chon-may-loc-khong-khi-thong-minh-5121140.html",
-      "source": "VnExpress Số hóa",
-      "category": "technology",
-      "market": "vietnam",
-      "published": "Thu, 17 Sep 2026 15:00:00 +0700",
-      "description": "Số bình chọn thứ ba của Sản phẩm tôi yêu 2026, với chủ đề Máy lọc không khí thông minh được yêu thích nhất, sẽ đóng vào 23h59 ngày 17/9.",
-      "score": 0.0,
-      "title_vi": "Hôm nay đóng cổng bình chọn máy lọc không khí thông minh",
-      "title_en": "Today, the voting portal for smart air purifiers is closed",
-      "summary_vi": "Số bình chọn thứ ba của Sản phẩm tôi yêu 2026, với chủ đề Máy lọc không khí thông minh được yêu thích nhất, sẽ đóng vào 23h59 ngày 17/9.",
-      "summary_en": "The third number of votes for Products I Love 2026, with the topic Most Popular Smart Air Purifiers, will close at 11:59 p.m. on September 17.",
       "meta": {}
     },
     {
@@ -577,33 +472,18 @@
       "meta": {}
     },
     {
-      "title": "Máy đào hầm dạng khiên lớn nhất Trung Quốc xuất xưởng",
-      "url": "https://vnexpress.net/may-dao-ham-dang-khien-lon-nhat-trung-quoc-xuat-xuong-5121007.html",
-      "source": "VnExpress Số hóa",
-      "category": "technology",
+      "title": "Meey Global Corp nộp hồ sơ đăng ký chứng khoán lên SEC",
+      "url": "https://vnexpress.net/meey-global-corp-nop-ho-so-dang-ky-chung-khoan-len-sec-5121356.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
       "market": "vietnam",
-      "published": "Thu, 17 Sep 2026 13:00:00 +0700",
-      "description": "Máy khoan hầm dạng khiên có đường kính lớn nhất từ trước đến nay, nặng 4.800 tấn trang bị nhiều hệ thống tiên tiến giúp hoạt động dưới áp suất cao và đảm bảo an toàn khi vận hành.",
+      "published": "Thu, 17 Sep 2026 13:30:00 +0700",
+      "description": "Meey Global Corp cho biết đã nộp hồ sơ đăng ký chứng khoán theo mẫu F-1 lên Ủy ban Chứng khoán và Giao dịch Mỹ (SEC) để chuẩn bị cho đợt chào bán cổ phiếu lần đầu ra công chúng.",
       "score": 0.0,
-      "title_vi": "Máy đào hầm dạng khiên lớn nhất Trung Quốc xuất xưởng",
-      "title_en": "China's largest shield tunneling machine shipped",
-      "summary_vi": "Máy khoan hầm dạng khiên có đường kính lớn nhất từ trước đến nay, nặng 4.800 tấn trang bị nhiều hệ thống tiên tiến giúp hoạt động dưới áp suất cao và đảm bảo an toàn khi vận hành.",
-      "summary_en": "The shield tunnel boring machine has the largest diameter ever, weighing 4,800 tons and equipped with many advanced systems to help operate under high pressure and ensure operational safety.",
-      "meta": {}
-    },
-    {
-      "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "url": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-      "source": "TechCrunch",
-      "category": "technology",
-      "market": "global",
-      "published": "Thu, 17 Sep 2026 05:00:00 +0000",
-      "description": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
-      "score": 0.0,
-      "title_vi": "Treble có trụ sở tại Iceland huy động được 18 triệu USD cho nền tảng mô phỏng giọng nói của mình",
-      "title_en": "Iceland-based Treble raises $18 million for its voice simulation platform",
-      "summary_vi": "Nền tảng mô phỏng giọng nói của Treble được sử dụng bởi các nhà phát triển mô hình AI giọng nói, thiết bị đeo AI và các công ty chế tạo robot",
-      "summary_en": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
+      "title_vi": "Meey Global Corp nộp hồ sơ đăng ký chứng khoán lên SEC",
+      "title_en": "Meey Global Corp filed securities registration documents with the SEC",
+      "summary_vi": "Meey Global Corp cho biết đã nộp hồ sơ đăng ký chứng khoán theo mẫu F-1 lên Ủy ban Chứng khoán và Giao dịch Mỹ (SEC) để chuẩn bị cho đợt chào bán cổ phiếu lần đầu ra công chúng.",
+      "summary_en": "Meey Global Corp said it has filed a stock registration application form F-1 with the US Securities and Exchange Commission (SEC) to prepare for its initial public offering.",
       "meta": {}
     }
   ],
@@ -612,6 +492,9 @@
     "opportunities": []
   },
   "warnings": [
+    "Feed Google News Reuters Finance failed: HTTPError",
+    "Feed Google News Social Needs failed: HTTPError",
+    "Feed Google News Nhu cầu Việt Nam failed: HTTPError",
     "Gemini opportunity analysis failed: HTTP 410"
   ]
 }
