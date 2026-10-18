@@ -1,6 +1,6 @@
 {
   "date": "2026-10-18",
-  "generated_at": "2026-10-17T22:16:19.460092+00:00",
+  "generated_at": "2026-10-18T04:27:12.766015+00:00",
   "markets": [
     {
       "name": "S&P 500",
@@ -26,15 +26,15 @@
     {
       "name": "Crude Oil",
       "symbol": "CL=F",
-      "price": 101.41,
-      "change_pct": 3.51,
+      "price": 99.02,
+      "change_pct": 1.07,
       "currency": "USD"
     },
     {
       "name": "Bitcoin",
       "symbol": "BTC-USD",
-      "price": 81145.9922,
-      "change_pct": -0.44,
+      "price": 81811.7188,
+      "change_pct": 0.38,
       "currency": "USD"
     },
     {
@@ -54,16 +54,16 @@
       "market": "global",
       "published": "2026-10-07T08:34:24Z",
       "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "score": 1371.22,
+      "score": 1376.9,
       "title_vi": "kể chuyện/ngôn ngữ",
       "title_en": "storytold/wordcraft",
       "summary_vi": "Một bản triển khai lại Microsoft Word trong phòng sạch, mã nguồn mở trong Rust thuần túy",
       "summary_en": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
       "meta": {
-        "stars": 14033,
-        "forks": 3675,
+        "stars": 14095,
+        "forks": 3703,
         "language": "Rust",
-        "stars_per_day": 1275.7
+        "stars_per_day": 1281.4
       }
     },
     {
@@ -74,16 +74,16 @@
       "market": "global",
       "published": "2026-10-15T02:15:09Z",
       "description": "Turn your regular JavaScript code into a neural net.",
-      "score": 631.56,
+      "score": 635.63,
       "title_vi": "chenlou/handwired",
       "title_en": "chenglou/handwired",
       "summary_vi": "Biến mã JavaScript thông thường của bạn thành mạng lưới thần kinh.",
       "summary_en": "Turn your regular JavaScript code into a neural net.",
       "meta": {
-        "stars": 1672,
+        "stars": 1684,
         "forks": 135,
         "language": "TypeScript",
-        "stars_per_day": 557.3
+        "stars_per_day": 561.3
       }
     },
     {
@@ -94,16 +94,16 @@
       "market": "global",
       "published": "2026-10-13T03:09:42Z",
       "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw",
-      "score": 604.55,
+      "score": 610.86,
       "title_vi": "Arekejoker/qwen21-nsfw-pose-skill",
       "title_en": "Arekejoker/qwen21-nsfw-pose-skill",
       "summary_vi": "Qwen-Image 2.1 NSFW/kỹ năng kết xuất tư thế: công thức từ gợi ý cấp độ tác giả + NSFW LoRA + 136 tư thế điều khiển rối VNCCS; áp dụng cho Mã Claude / Codex / Con trỏ / OpenClaw",
       "summary_en": "Qwen-Image 2.1 NSFW/pose rendering skill: author-level prompt word recipe + NSFW LoRA + 136 poses VNCCS puppet control; applicable to Claude Code / Codex / Cursor / OpenClaw",
       "meta": {
-        "stars": 2629,
-        "forks": 505,
+        "stars": 2660,
+        "forks": 511,
         "language": "Python",
-        "stars_per_day": 525.8
+        "stars_per_day": 532.0
       }
     },
     {
@@ -114,16 +114,16 @@
       "market": "global",
       "published": "2026-10-07T05:18:16Z",
       "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-      "score": 594.75,
+      "score": 597.62,
       "title_vi": "kể chuyện/kỹ thuật lưới",
       "title_en": "storytold/gridcraft",
-      "summary_vi": "GridCraft: một bảng tính nguồn mở, phòng sạch (kiểu Microsoft Excel) bằng Rust thuần túy. của ArtCraft.",
+      "summary_vi": "GridCraft: một bảng tính phòng sạch, mã nguồn mở (kiểu Microsoft Excel) bằng Rust thuần túy. của ArtCraft.",
       "summary_en": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
       "meta": {
-        "stars": 5593,
-        "forks": 2556,
+        "stars": 5624,
+        "forks": 2580,
         "language": "Rust",
-        "stars_per_day": 508.5
+        "stars_per_day": 511.3
       }
     },
     {
@@ -134,16 +134,16 @@
       "market": "global",
       "published": "2026-10-07T05:22:31Z",
       "description": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
-      "score": 592.9,
+      "score": 597.44,
       "title_vi": "kể chuyện/cadcraft",
       "title_en": "storytold/cadcraft",
       "summary_vi": "CADCraft: thiết kế và soạn thảo với sự hỗ trợ của máy tính - một ứng dụng kiểu AutoCAD phòng sạch, mã nguồn mở ở dạng Rust thuần túy",
       "summary_en": "CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust",
       "meta": {
-        "stars": 5573,
-        "forks": 2477,
+        "stars": 5622,
+        "forks": 2510,
         "language": "Rust",
-        "stars_per_day": 506.6
+        "stars_per_day": 511.1
       }
     },
     {
@@ -154,16 +154,16 @@
       "market": "global",
       "published": "2026-10-07T18:57:48Z",
       "description": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
-      "score": 465.25,
+      "score": 485.57,
       "title_vi": "phòng thí nghiệm tiếp tuyến/solidcraft",
       "title_en": "tangency-labs/solidcraft",
       "summary_vi": "SolidCraft: một ứng dụng CAD 3D tham số mã nguồn mở được xây dựng bằng Rust thuần túy. Máy tính để bàn, web và tự động hóa thông qua MCP.",
       "summary_en": "SolidCraft: an open-source parametric 3D CAD application built in pure Rust. Desktop, web, and automation through MCP.",
       "meta": {
-        "stars": 4200,
-        "forks": 478,
+        "stars": 4418,
+        "forks": 518,
         "language": "Rust",
-        "stars_per_day": 381.8
+        "stars_per_day": 401.6
       }
     },
     {
@@ -174,16 +174,16 @@
       "market": "global",
       "published": "2026-10-15T13:12:02Z",
       "description": "Git designed for AI agents.",
-      "score": 447.66,
+      "score": 452.45,
       "title_vi": "feder-cr/git-ai",
       "title_en": "feder-cr/git-ai",
       "summary_vi": "Git được thiết kế cho các tác nhân AI.",
       "summary_en": "Git designed for AI agents.",
       "meta": {
-        "stars": 1132,
-        "forks": 122,
+        "stars": 1146,
+        "forks": 124,
         "language": "Go",
-        "stars_per_day": 377.3
+        "stars_per_day": 382.0
       }
     },
     {
@@ -194,16 +194,16 @@
       "market": "global",
       "published": "2026-10-11T03:47:06Z",
       "description": "",
-      "score": 445.08,
+      "score": 449.18,
       "title_vi": "với trường trung học/CCBa",
       "title_en": "with high school/CCBa",
       "summary_vi": "với trường trung học/CCBa",
       "summary_en": "with high school/CCBa",
       "meta": {
-        "stars": 2566,
-        "forks": 257,
+        "stars": 2594,
+        "forks": 263,
         "language": "Rust",
-        "stars_per_day": 366.6
+        "stars_per_day": 370.6
       }
     },
     {
@@ -214,16 +214,16 @@
       "market": "global",
       "published": "2026-10-09T23:21:59Z",
       "description": "The Craft App Launcher",
-      "score": 431.24,
+      "score": 435.13,
       "title_vi": "kể chuyện/craft-launcher",
       "title_en": "storytold/craft-launcher",
       "summary_vi": "Trình khởi chạy ứng dụng thủ công",
       "summary_en": "The Craft App Launcher",
       "meta": {
-        "stars": 3156,
-        "forks": 1056,
+        "stars": 3190,
+        "forks": 1074,
         "language": "Rust",
-        "stars_per_day": 350.7
+        "stars_per_day": 354.4
       }
     },
     {
@@ -234,31 +234,226 @@
       "market": "global",
       "published": "2026-10-06T15:09:33Z",
       "description": "让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。",
-      "score": 421.77,
+      "score": 424.17,
       "title_vi": "zhongerxin/sử dụng iPhone",
       "title_en": "zhongerxin/iPhone-use",
       "summary_vi": "Hãy để Codex vận hành iPhone thật qua USB: cài đặt có hướng dẫn, tự động hóa ứng dụng, dự phòng màn hình trực tiếp và ảnh chụp màn hình.",
       "summary_en": "Let Codex operate a real iPhone via USB: guided installation, app automation, live screen and screenshot fallback.",
       "meta": {
-        "stars": 4064,
-        "forks": 407,
+        "stars": 4092,
+        "forks": 410,
         "language": "Python",
-        "stars_per_day": 338.7
+        "stars_per_day": 341.0
       }
     },
     {
-      "title": "Is Gulfport Energy (GPOR) Undervalued After Renewed Interest In Its Growth And 7x P/E? - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMVJuRHg4cWFsd1JaZWZEek9wNUhfWTlKVlZyYlhhZzdHTHVQOVFVN3dzdF9TTkhXRUdKVGdIU3AyZGZpLTEwd0dBTFJCWm1LaWlvcEZIclc4Z012RWNqVWhUOXJHVUwwQ09Fbk1DZ2YzQWd6YVBFVGRNR2NUbkZNTUxOSmZ3dXNZWUdmbHZrSnBQaFZ3cUR1U0Vld0wwRHFkTERZNEYyRGROV1pQMHd1YzJyMTBPeWRKUTJXTmtOT0lMcHA1TUtvRHRn0gHPAUFVX3lxTE9WdEQyMkZCLXJJeWg5bFpyWjlqaDZnRGNpU3Y2THBOdFNnclAxQ0ZCNUd1YXEyYnhTc3V2Qy1GSy16bTZHWmxUVmZkSjJVS0FzTU44UWd0a25uLVhlTEpYa0JuTm9xUmM5WHZob21IdGQ3czhDSVZHX3lnQzhrR0xDMmFPcURrbWtkck5EYzdZX2k1RmNIVldKblljc3ZkQzlNaXRjQU1ZR3pMUTRRZTNrQ0hTR1ZOU1RTaHBLMGVXV0xBWDVQVTFxbUx3aHRrRQ?oc=5",
+      "title": "Omosigho: Defense brought 'energy' in second half - NBC Sports",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVdodmF3U0ZUYXRSYXlIT2ZKMVJjUTdLRVF1dXRkd2hXUDZUTWQxb01xeUFSWkhGUFpRekdSbjVsZzZTOXZtWXF1a3NPcnA1QmFHN2pJYW5SbG5haUluZWNQZk9DOExmd0hYSnVCMldRQkUwQnZRdWlDakxVSlJ6aDBLb01kb1lDd3pYYzVYeVRwSFg0M2c4X1lfbUlHUzUwMGt6dG40dzluQWtnNEhoU1N3THg?oc=5",
       "source": "Google News Social Needs",
       "category": "society",
       "market": "global",
-      "published": "Sat, 17 Oct 2026 21:43:50 GMT",
-      "description": "Is Gulfport Energy (GPOR) Undervalued After Renewed Interest In Its Growth And 7x P/E? Simply Wall Street",
+      "published": "Sun, 18 Oct 2026 04:23:09 GMT",
+      "description": "Omosigho: Defense brought 'energy' in second half NBC Sports",
       "score": 0.0,
-      "title_vi": "Liệu Gulfport Energy (GPOR) có bị định giá thấp sau khi thu hút sự quan tâm đến mức tăng trưởng và P/E 7 lần của công ty này không? - Phố Wall đơn giản",
-      "title_en": "Is Gulfport Energy (GPOR) Undervalued After Renewed Interest In Its Growth And 7x P/E? - Simply Wall Street",
-      "summary_vi": "Liệu Gulfport Energy (GPOR) có bị định giá thấp sau khi thu hút sự quan tâm đến mức tăng trưởng và P/E 7 lần của công ty này không? Phố Wall đơn giản",
-      "summary_en": "Is Gulfport Energy (GPOR) Undervalued After Renewed Interest In Its Growth And 7x P/E? Simply Wall Street",
+      "title_vi": "Omosigho: Hàng phòng ngự mang lại 'năng lượng' trong hiệp hai - NBC Sports",
+      "title_en": "Omosigho: Defense brought 'energy' in second half - NBC Sports",
+      "summary_vi": "Omosigho: Hàng phòng ngự mang lại 'năng lượng' trong hiệp hai NBC Sports",
+      "summary_en": "Omosigho: Defense brought 'energy' in second half NBC Sports",
+      "meta": {}
+    },
+    {
+      "title": "Hợp tác Việt - Đức: Làm sao để tăng hiệu quả thu hút vốn ngoại? - Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd3I5SkNyMnJObkJNdjdoMWVfdVVLNF9pcFNOT0Nnb2NoNVo4MnVLVVF6OUQxZDNOYVRlZE8wUGYxb0Nkdk9qVzhZWHoyYkl2blRSOFhjNktmXzVjQ2FlN2puZUU1MmdCTlhPVlF0Um1zcFRnQ2xZMnRYR3ZGNzV1MGpjdHZkX0FOVXc?oc=5",
+      "source": "Google News Nhu cầu Việt Nam",
+      "category": "society",
+      "market": "vietnam",
+      "published": "Sun, 18 Oct 2026 04:12:39 GMT",
+      "description": "Hợp tác Việt - Đức: Làm sao để tăng hiệu quả thu hút vốn ngoại? Vietnam.vn",
+      "score": 0.0,
+      "title_vi": "Hợp tác Việt - Đức: Làm sao để tăng hiệu quả thu hút vốn ngoại? - Vietnam.vn",
+      "title_en": "Vietnam - Germany cooperation: How to increase efficiency in attracting foreign capital? - Vietnam.vn",
+      "summary_vi": "Hợp tác Việt - Đức: Làm sao để tăng hiệu quả thu hút vốn ngoại? Vietnam.vn",
+      "summary_en": "Vietnam - Germany cooperation: How to increase efficiency in attracting foreign capital? Vietnam.vn",
+      "meta": {}
+    },
+    {
+      "title": "Chủ tịch Quốc hội Trần Thanh Mẫn: Giữ vững ổn định kinh tế vĩ mô là vấn đề tiên quyết - Báo Đại biểu Nhân dân",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQVk5RG9SQnUzdW51N2JiODJsSXNhUXJGZndKQ1RxUmJDbWNEWTYwNUE5dC0tMy1ha2phSm1QX2ZuM3hScjBXR0wyUkJyMUtvNzRBd1RlNmd4aWlNa2JCRm4xTzlwelU5aDlhbXlGaWE1VlBCZDJ6Z3hELWxUclZYcXhfU05qVFRUQ0pXRDk5d2lTUVZ5b1A4NlFiWUd2aUMzTC1MYjdGdGdncThRaG5uZ3JOZXlUaWZONnZSYkZXZXhyUQ?oc=5",
+      "source": "Google News Nhu cầu Việt Nam",
+      "category": "society",
+      "market": "vietnam",
+      "published": "Sun, 18 Oct 2026 04:10:01 GMT",
+      "description": "Chủ tịch Quốc hội Trần Thanh Mẫn: Giữ vững ổn định kinh tế vĩ mô là vấn đề tiên quyết Báo Đại biểu Nhân dân",
+      "score": 0.0,
+      "title_vi": "Chủ tịch Quốc hội Trần Thanh Mẫn: Giữ vững ổn định kinh tế vĩ mô là vấn đề tiên quyết - Báo Đại biểu Nhân dân",
+      "title_en": "National Assembly Chairman Tran Thanh Man: Maintaining macroeconomic stability is a prerequisite - People's Deputies Newspaper",
+      "summary_vi": "Chủ tịch Quốc hội Trần Thanh Mẫn: Giữ vững ổn định kinh tế vĩ mô là vấn đề tiên quyết Báo Đại biểu Nhân dân",
+      "summary_en": "National Assembly Chairman Tran Thanh Man: Maintaining macroeconomic stability is a prerequisite issue People's Representative Newspaper",
+      "meta": {}
+    },
+    {
+      "title": "Bên trong nhà máy sản xuất robot hình người của Boston Dynamics",
+      "url": "https://vnexpress.net/ben-trong-nha-may-san-xuat-robot-hinh-nguoi-cua-boston-dynamics-5133358.html",
+      "source": "VnExpress Số hóa",
+      "category": "technology",
+      "market": "vietnam",
+      "published": "Sun, 18 Oct 2026 11:00:00 +0700",
+      "description": "Công ty Boston Dynamics đang hướng tới mục tiêu tạo ra một robot mỗi giờ thông qua tích hợp các quy trình thiết kế, gia công và thử nghiệm ở nhà máy.",
+      "score": 0.0,
+      "title_vi": "Bên trong nhà máy sản xuất robot hình người của Boston Dynamics",
+      "title_en": "Inside Boston Dynamics' humanoid robot factory",
+      "summary_vi": "Công ty Boston Dynamics đang hướng tới mục tiêu tạo ra một robot mỗi giờ thông qua tích hợp các quy trình thiết kế, gia công và thử nghiệm ở nhà máy.",
+      "summary_en": "Boston Dynamics is aiming to create one robot every hour through integrating design, machining and factory testing processes.",
+      "meta": {}
+    },
+    {
+      "title": "Dynamo give up stoppage-time goal, forced to settle for draw with FC Dallas - Houston Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb1FpTWM5RkdVZzNYM0JNb2RFd2dnMVRWUFNvcmpUcTZ3Zk05clNwaGlwSFVuZnNKYzlzTWtqcEJQN0d5cDFBX3BveWxZVko0dURyUkZxdktrbU4yQ0xLOFFRNXhoRGNCR3hJN0c3UUFUYlFOQUJ3WVlIbWVsdzlNN0ZIWE5RWlJOOXFYWHNnWHJqX1VMVmc?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 18 Oct 2026 03:55:21 GMT",
+      "description": "Dynamo give up stoppage-time goal, forced to settle for draw with FC Dallas Houston Chronicle",
+      "score": 0.0,
+      "title_vi": "Dynamo từ bỏ bàn thắng ở phút bù giờ, buộc phải cầm hòa FC Dallas - Houston Chronicle",
+      "title_en": "Dynamo give up stoppage-time goal, forced to settle for draw with FC Dallas - Houston Chronicle",
+      "summary_vi": "Dynamo từ bỏ bàn thắng ở phút bù giờ, buộc phải chấp nhận trận hòa với FC Dallas Houston Chronicle",
+      "summary_en": "Dynamo give up stoppage-time goal, forced to settle for draw with FC Dallas Houston Chronicle",
+      "meta": {}
+    },
+    {
+      "title": "Đặt chất lượng thực chất làm thước đo đổi mới giáo dục phổ thông - Báo Tin tức và Dân tộc",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcmZxc2NMdzEzaU1qUHh4dGtIckVTb09NdDNBbGJEVDFCSXFQWmNQV3p2UlRDZ0JnbHBhS2ZCTkh5TXF5NTIzWlgzeXJ3NmxXZHJCYjFuZDNZV0dxVkdFc2ZjUGdRQzN4bFRBbFpFQm1mSThwbGRpV1V1ZE5PcXU0dTFpNEs5WWdfMk5ZZFhQNEE2eHFuOUQtSHJqV0R0eHlOZVZObg?oc=5",
+      "source": "Google News Nhu cầu Việt Nam",
+      "category": "society",
+      "market": "vietnam",
+      "published": "Sun, 18 Oct 2026 03:54:27 GMT",
+      "description": "Đặt chất lượng thực chất làm thước đo đổi mới giáo dục phổ thông Báo Tin tức và Dân tộc",
+      "score": 0.0,
+      "title_vi": "Đặt chất lượng thực chất làm thước đo đổi mới giáo dục phổ thông - Báo Tin tức và Dân tộc",
+      "title_en": "Setting substantive quality as a measure of general education innovation - News and Ethnic Newspaper",
+      "summary_vi": "Đặt chất lượng thực chất làm thước đo đổi mới giáo dục phổ thông Báo Tin tức và Dân tộc",
+      "summary_en": "Placing substantive quality as a measure for reforming general education News and Ethnic Newspaper",
+      "meta": {}
+    },
+    {
+      "title": "Trump Waives Russia Sanctions, Rubio Announces 60‑Day Review Amid Energy Concerns - Forth.News",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1SbGxHQk1tUVc1OW52NHRydHRKS0ZMWU1XbWE1empNSzZIcElFVEJaamN1X0t2dDBkY0lkZS05aHlUS2lSYXpPUHJtUk9GVDN4UGZzdXA0c3JQTlVNTm16a1hR?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 18 Oct 2026 03:43:43 GMT",
+      "description": "Trump Waives Russia Sanctions, Rubio Announces 60‑Day Review Amid Energy Concerns Forth.News",
+      "score": 0.0,
+      "title_vi": "Trump miễn trừ các lệnh trừng phạt Nga, Rubio công bố đánh giá 60 ngày trong bối cảnh lo ngại về năng lượng - Forth.News",
+      "title_en": "Trump Waives Russia Sanctions, Rubio Announces 60‑Day Review Amid Energy Concerns - Forth.News",
+      "summary_vi": "Trump miễn trừ các lệnh trừng phạt Nga, Rubio công bố đánh giá 60 ngày trong bối cảnh lo ngại về năng lượng",
+      "summary_en": "Trump Waives Russia Sanctions, Rubio Announces 60‑Day Review Amid Energy Concerns Forth.News",
+      "meta": {}
+    },
+    {
+      "title": "Spooky energy in full force at Broadway Halloween Parade - 9News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOXUtYWo2eV9fX2RjeEtEVnk4ZlpPUFJ2emhtRFB4UmVoQ3ZzYzRWT09WY3pwWGRRM3lLRkZXTTAweExaeVhGYXRlNXduZjkybFotMHVEcC13Y1lSQjJrcEhXZDJVX1JsOXlSeThyM25DaFgxUzlFSkRqTlBTSTIyM00yRzFsem9zV1BuQklrTDlvYlVwU0lUMTc4WjA2cXJRWGhpa1poNXV2WGVjd29RT2dQYUpfYldXZnlPLVpVY0g5UXFxc0J6cU1LemRlaGNMTUxOTk5n?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 18 Oct 2026 03:43:00 GMT",
+      "description": "Spooky energy in full force at Broadway Halloween Parade 9News",
+      "score": 0.0,
+      "title_vi": "Năng lượng ma quái tràn ngập tại cuộc diễu hành Halloween ở Broadway - 9News",
+      "title_en": "Spooky energy in full force at Broadway Halloween Parade - 9News",
+      "summary_vi": "Năng lượng ma quái tràn đầy sức mạnh tại Cuộc diễu hành Halloween ở Broadway",
+      "summary_en": "Spooky energy in full force at Broadway Halloween Parade 9News",
+      "meta": {}
+    },
+    {
+      "title": "3 Energy Stocks To Watch If Inflation Keeps Fuel Prices High - Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPLXFNdzNVVG9DdUcyQUJncURJNVQyeTdoV3ZhOTFvUXRDWlluSGhTZWVwYmNDNjg4d21OX0xjam4zeEswc05MV015TW9pN2o1UUNFMFhqbzktbHF6YXp3Z3RhZFkzMzJEY2tDQ2FYSWd1N1lKZi1ZeVZvSDhpMldsazNwWFE5YTZxbUNBYXlEOHVvTERJbTlaX1FmY0VqTVRDblgtMzI3WkJQY0JOYmctUDFBX3FjYk45RXNjLVJkdG84Z1g2bmlV0gHMAUFVX3lxTE9STU5HSWlEME10QW9KOU9YWDVuX3Fsdy01TG9MVXBkSkl2a3VubmZUZjFWSjRhZG1JcDVMbHpQQ05SVzlhTW1iY2tDZ2pNRWJZck1PRzE5MS1RUnowTkdhZWNjNmRPamc2WE8zSDg5LVRxVVBjN0pXdmVoaGV0SmlZcHNLNHV0TGRLRDE4TUdBOC1UTDZWYTN5dUVadGt2UlFUaF9qcjVZNkxub0p5ZnVQVTQwa3lLODhlVHhQcjVwRFZxekNvRVdWUDVRTQ?oc=5",
+      "source": "Google News Social Needs",
+      "category": "society",
+      "market": "global",
+      "published": "Sun, 18 Oct 2026 03:41:22 GMT",
+      "description": "3 Energy Stocks To Watch If Inflation Keeps Fuel Prices High Simply Wall Street",
+      "score": 0.0,
+      "title_vi": "3 cổ phiếu năng lượng cần theo dõi nếu lạm phát giữ giá nhiên liệu cao - Phố Wall đơn giản",
+      "title_en": "3 Energy Stocks To Watch If Inflation Keeps Fuel Prices High - Simply Wall Street",
+      "summary_vi": "3 cổ phiếu năng lượng cần theo dõi nếu lạm phát khiến giá nhiên liệu tăng cao Đơn giản là Phố Wall",
+      "summary_en": "3 Energy Stocks To Watch If Inflation Keeps Fuel Prices High Simply Wall Street",
+      "meta": {}
+    },
+    {
+      "title": "Châu Âu muốn hạn chế thêm hàng nhập khẩu từ Trung Quốc",
+      "url": "https://vnexpress.net/chau-au-muon-han-che-them-hang-nhap-khau-tu-trung-quoc-5133749.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sun, 18 Oct 2026 09:39:30 +0700",
+      "description": "EU sẽ đề xuất thêm nhiều biện pháp để giảm mức thâm hụt hàng hóa lên tới hơn 1 tỷ USD một ngày với Trung Quốc, theo Chủ tịch EC Ursula von der Leyen.",
+      "score": 0.0,
+      "title_vi": "Châu Âu muốn hạn chế thêm hàng nhập khẩu từ Trung Quốc",
+      "title_en": "Europe wants to further restrict imports from China",
+      "summary_vi": "EU sẽ đề xuất thêm nhiều biện pháp để giảm mức thâm hụt hàng hóa lên tới hơn 1 tỷ USD một ngày với Trung Quốc, theo Chủ tịch EC Ursula von der Leyen.",
+      "summary_en": "The EU will propose more measures to reduce the goods deficit of more than $1 billion a day with China, according to EC President Ursula von der Leyen.",
+      "meta": {}
+    },
+    {
+      "title": "Nhà máy giúp Subcom thống trị thị trường cáp quang biển",
+      "url": "https://vnexpress.net/nha-may-giup-subcom-thong-tri-thi-truong-cap-quang-bien-5132375.html",
+      "source": "VnExpress Số hóa",
+      "category": "technology",
+      "market": "vietnam",
+      "published": "Sun, 18 Oct 2026 08:58:57 +0700",
+      "description": "Nhà máy Newington tại bang New Hampshire chuyên sản xuất hệ thống cáp quang biển để truyền dữ liệu qua hàng nghìn km đại dương với công suất 58.000 km cáp mỗi năm.",
+      "score": 0.0,
+      "title_vi": "Nhà máy giúp Subcom thống trị thị trường cáp quang biển",
+      "title_en": "The factory helps Subcom dominate the undersea fiber optic cable market",
+      "summary_vi": "Nhà máy Newington tại bang New Hampshire chuyên sản xuất hệ thống cáp quang biển để truyền dữ liệu qua hàng nghìn km đại dương với công suất 58.000 km cáp mỗi năm.",
+      "summary_en": "The Newington factory in New Hampshire specializes in manufacturing submarine fiber optic cable systems to transmit data across thousands of kilometers of ocean with a capacity of 58,000 km of cable per year.",
+      "meta": {}
+    },
+    {
+      "title": "Khối ngoại có thể ngừng bán ròng chứng khoán từ giữa 2027",
+      "url": "https://vnexpress.net/khoi-ngoai-co-the-ngung-ban-rong-chung-khoan-tu-giua-2027-5133643.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sun, 18 Oct 2026 07:34:10 +0700",
+      "description": "Chuyên gia dự báo khối ngoại khó quay lại mua ròng trong năm nay, nhưng có thể đảo chiều từ giữa 2027 nhờ dòng vốn theo lộ trình nâng hạng tăng lên, còn dư địa bán giảm dần.",
+      "score": 0.0,
+      "title_vi": "Khối ngoại có thể ngừng bán ròng chứng khoán từ giữa 2027",
+      "title_en": "Foreign investors may stop net selling stocks from mid-2027",
+      "summary_vi": "Chuyên gia dự báo khối ngoại khó quay lại mua ròng trong năm nay, nhưng có thể đảo chiều từ giữa 2027 nhờ dòng vốn theo lộ trình nâng hạng tăng lên, còn dư địa bán giảm dần.",
+      "summary_en": "Experts predict that it will be difficult for foreign investors to return to net buying this year, but it may reverse from mid-2027 thanks to the increased capital flow following the upgrade roadmap, while the selling space gradually decreases.",
+      "meta": {}
+    },
+    {
+      "title": "Thụy Sĩ đề xuất kết nối Crypto Valley với hệ sinh thái đổi mới sáng tạo Việt Nam",
+      "url": "https://vnexpress.net/thuy-si-de-xuat-ket-noi-crypto-valley-voi-he-sinh-thai-doi-moi-sang-tao-viet-nam-5133708.html",
+      "source": "VnExpress Kinh doanh",
+      "category": "finance",
+      "market": "vietnam",
+      "published": "Sun, 18 Oct 2026 07:17:16 +0700",
+      "description": "Tổng thống Thụy Sĩ Guy Parmelin đề xuất kết nối Trung tâm Crypto Valley với hệ sinh thái đổi mới sáng tạo Việt Nam, hợp tác về blockchain, trí tuệ nhân tạo và công nghệ lượng tử.",
+      "score": 0.0,
+      "title_vi": "Thụy Sĩ đề xuất kết nối Crypto Valley với hệ sinh thái đổi mới sáng tạo Việt Nam",
+      "title_en": "Switzerland proposes to connect Crypto Valley with Vietnam's innovation ecosystem",
+      "summary_vi": "Tổng thống Thụy Sĩ Guy Parmelin đề xuất kết nối Trung tâm Crypto Valley với hệ sinh thái đổi mới sáng tạo Việt Nam, hợp tác về blockchain, trí tuệ nhân tạo và công nghệ lượng tử.",
+      "summary_en": "Swiss President Guy Parmelin proposed connecting the Crypto Valley Center with the Vietnamese innovation ecosystem, collaborating on blockchain, artificial intelligence and quantum technology.",
+      "meta": {}
+    },
+    {
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "source": "Hacker News",
+      "category": "technology",
+      "market": "global",
+      "published": "Sun, 18 Oct 2026 00:14:22 +0000",
+      "description": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends Comments URL: https://news.ycombinator.com/item?id=50136536 Points: 146 # Comments: 37",
+      "score": 0.0,
+      "title_vi": "NY công bố dự luật sở hữu trò chơi yêu cầu quyền sở hữu thay vì cấp phép",
+      "title_en": "NY announces game ownership bill requiring ownership rather than licensing",
+      "summary_vi": "URL bài viết: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-function-after-support-ends URL Nhận xét: https://news.ycombinator.com/item?id=50136536 Điểm: 146 # Bình luận: 37",
+      "summary_en": "Article URL: https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends Comments URL: https://news.ycombinator.com/item?id=50136536 Points: 146 # Comments: 37",
       "meta": {}
     },
     {
@@ -270,25 +465,10 @@
       "published": "Sat, 17 Oct 2026 21:31:32 +0000",
       "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
       "score": 0.0,
-      "title_vi": "Meta loại bỏ ngôn ngữ gây lo ngại về việc đào tạo và đào tạo AI",
+      "title_vi": "Meta loại bỏ ngôn ngữ gây lo ngại về việc quét và đào tạo AI",
       "title_en": "Meta removes language that raised scraping and AI training concerns",
       "summary_vi": "Người phát ngôn của Meta nhấn mạnh rằng các điều khoản cập nhật không phản ánh sự thay đổi trong cách Meta thu thập dữ liệu trên web.",
       "summary_en": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-      "meta": {}
-    },
-    {
-      "title": "3 AI Healthcare Stocks To Own In October 2026 - Yahoo Finance",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQzNNbTcycG5SWjdtOV9DTllGSVYxMGVKZTJhMjBnRmQ1UG15LTdpMEhLOG53aGpsaW9LbDR6YkR0S3QzNjNwNXFMUWxINk9ZVDE5WUowMDJUa0gxekNDWVNfQWllV1h3RUdVaURScVNFdmROaUJFNjg3VWx4ak50LXJEblNxTGZhbTlZd3h6TXM?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Sat, 17 Oct 2026 21:09:03 GMT",
-      "description": "3 AI Healthcare Stocks To Own In October 2026 Yahoo Finance",
-      "score": 0.0,
-      "title_vi": "3 cổ phiếu chăm sóc sức khỏe AI nên sở hữu vào tháng 10 năm 2026 - Yahoo Finance",
-      "title_en": "3 AI Healthcare Stocks To Own In October 2026 - Yahoo Finance",
-      "summary_vi": "3 cổ phiếu chăm sóc sức khỏe AI nên sở hữu vào tháng 10 năm 2026 Yahoo Finance",
-      "summary_en": "3 AI Healthcare Stocks To Own In October 2026 Yahoo Finance",
       "meta": {}
     },
     {
@@ -307,36 +487,6 @@
       "meta": {}
     },
     {
-      "title": "Spotlighting Mouth Painter & Author Peter Soby for National Disability Employment Awareness Month - KTLA",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb1FuLVlPaDJVWlZrMTBEMzJiaXA3WVc3bXhvN0pUOF9SY0gwOEpXaHF2am9fdDEwNHYzRmhNd213ZDVSZFFRWDdQel9lQk5MeTE1UWpSbFNENlVWbzRObW84ZHY2Ry15eXFMZDUyWTZGVjVSVVFiYjVmRExNamNxVk5rN1I4V0NfcnFuSmlGNUVMcjUxVmw3cWJBY2hIN18tc3oxTnNOakdvbnhkRU1OeGJkWTFtYzl0blM3UnBPNUpnYzVDTG9v?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Sat, 17 Oct 2026 21:01:25 GMT",
-      "description": "Spotlighting Mouth Painter & Author Peter Soby for National Disability Employment Awareness Month KTLA",
-      "score": 0.0,
-      "title_vi": "Họa sĩ & Tác giả nổi bật về miệng Peter Soby cho Tháng Nhận thức về Việc làm dành cho Người khuyết tật Quốc gia - KTLA",
-      "title_en": "Spotlighting Mouth Painter & Author Peter Soby for National Disability Employment Awareness Month - KTLA",
-      "summary_vi": "Họa sĩ & Tác giả nổi bật về miệng Peter Soby cho Tháng Nhận thức về Việc làm dành cho Người khuyết tật Quốc gia KTLA",
-      "summary_en": "Spotlighting Mouth Painter & Author Peter Soby for National Disability Employment Awareness Month KTLA",
-      "meta": {}
-    },
-    {
-      "title": "Murmil Education Center holds second STEM night in El Dorado - El Dorado News-Times",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU2pqOC1ETUdVNXNUWmNxVXcwSWFibVpDQnJNc1VpUVNHVkhsZVVSLTQ5QVlxTUVoUnlSNHQ1ME1WRklwamxtU3dxODFLMDdvV21la2UzUUdFTTNzeC1CRlJTMTlWRGtReWVNcm5RazBNb1A3OXNOX2E2S0dxOGNhR2xkdmpfUWY4cl9IWERpcnIwSUhVOFlsZ1JB?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Sat, 17 Oct 2026 21:00:00 GMT",
-      "description": "Murmil Education Center holds second STEM night in El Dorado El Dorado News-Times",
-      "score": 0.0,
-      "title_vi": "Trung tâm Giáo dục Murmil tổ chức đêm STEM thứ hai tại El Dorado - El Dorado News-Times",
-      "title_en": "Murmil Education Center holds second STEM night in El Dorado - El Dorado News-Times",
-      "summary_vi": "Trung tâm Giáo dục Murmil tổ chức đêm STEM thứ hai tại El Dorado El Dorado News-Times",
-      "summary_en": "Murmil Education Center holds second STEM night in El Dorado El Dorado News-Times",
-      "meta": {}
-    },
-    {
       "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
       "url": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
       "source": "TechCrunch",
@@ -347,68 +497,8 @@
       "score": 0.0,
       "title_vi": "TikTok cấm vĩnh viễn tài khoản quảng cáo phim tài liệu 'Musk'",
       "title_en": "TikTok permanently bans ‘Musk’ documentary advertising account",
-      "summary_vi": "Bộ phim tài liệu dài 4 tiếng về Elon Musk tiếp tục vấp phải sự phản đối từ các nền tảng truyền thông xã hội.",
+      "summary_vi": "Bộ phim tài liệu dài 4 tiếng về Elon Musk tiếp tục gặp phải sự phản đối từ các nền tảng truyền thông xã hội.",
       "summary_en": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
-      "meta": {}
-    },
-    {
-      "title": "Sat Out Siemens Energy's Rally? Here Is What Holders Saw - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNWg1eHdwS2JnUkZ1bDZtd1N5NkxqejN0VHh5d29XOTB4UWRmUEZyN1Rxdi1MaWpwY1FVZjRCRktVOTc0RUd6LUlDV0NMei1mdzduQzctVFFEX01IY2R4SERmNW9Xdnkxd3hob2c2blV1UTJ2WmtEWnRlOURoaFJORlhqaUxKRlRMN3NDVjlQdUxMXzl3cDBzNE1GX01PbTY3Mk9xeVhhaHJBSE9tcEpoTXRMeDJLeVBJWEIwVy05THd0ZFZCZ0FSdVZuS1V1MG1p0gHWAUFVX3lxTE4yNFFtZzNaTHFOMk03aVloUm9fWEh1SGhFQm9mSTVFOEtrbnRMRUpESUJFd0VZNnZYMzNSM3R5dmJTMEZlUThwdWJwZHRfNlBMTlhfVWFfWWpUTVhmaEVlb2FyWkZqWWJlWmYxaVplN1RVWVU0Y1NaejNlYXN2eEN1allsbENhUGxtNThDVW1yaUI0S3VoUXNfVVdha3FMcUNCcUNIbEtyZXZHQnh6MGRVUHN3NjY0cUdFbFhNWHhFc0NLOW8zZ0cxcHV2bTBjV2tiQWYzNlE?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Sat, 17 Oct 2026 20:49:09 GMT",
-      "description": "Sat Out Siemens Energy's Rally? Here Is What Holders Saw Simply Wall Street",
-      "score": 0.0,
-      "title_vi": "Cuộc biểu tình của Năng lượng Siemens đã kết thúc? Đây là những gì người nắm giữ đã thấy - Simply Wall Street",
-      "title_en": "Sat Out Siemens Energy's Rally? Here Is What Holders Saw - Simply Wall Street",
-      "summary_vi": "Cuộc biểu tình của Năng lượng Siemens đã kết thúc? Đây là những gì những người nắm giữ đã nhìn thấy ở Phố Wall",
-      "summary_en": "Sat Out Siemens Energy's Rally? Here Is What Holders Saw Simply Wall Street",
-      "meta": {}
-    },
-    {
-      "title": "Energy regulators speed up approvals for gas export facility expansions - NewsNation",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaHBjNkJuOUk4LXR2ellERERiVWdmak9CbGhkS3dHNjE1VTdlNGhudVhmd0pIaldMNE1laFBZa001QmdLdnRVWl8wM2h1VkZQcXJIMElJdmhMTE1pV1RiRDdiaV9pTDNKTzVpVk96NThFMkwzWXY2MnctOFRXYW5zV2ZSUUduRF9LNzdEak9kcW8xNVkzeHNHTm5FVHZxRlUtb2VnT0Foa1B5bEx1cDdNQtIBtgFBVV95cUxPUmJqYi0wc3M0bnFNLUFSQTRPQ0dBRU5McUdCMkszQjdPWUxYSTNJQUw1a0UwMzNjbm5ybmF3VTZTbTZUOWFtUXF2VnRHc3VzelE2dWtLYjI3TjJkdnF4MmJxb0RwaDU2V2tTUS1xTkpZRWlkRDhHY2VqVTVOaTVJUmwzQUZwX3hKOTItdGo5emd2ekF5XzdaUWZ5aEhadXdIc1JjVmZrVEhGYXhURHhsWkpMb3pIQQ?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Sat, 17 Oct 2026 20:27:31 GMT",
-      "description": "Energy regulators speed up approvals for gas export facility expansions NewsNation",
-      "score": 0.0,
-      "title_vi": "Cơ quan quản lý năng lượng tăng tốc phê duyệt mở rộng cơ sở xuất khẩu khí đốt - NewsNation",
-      "title_en": "Energy regulators speed up approvals for gas export facility expansions - NewsNation",
-      "summary_vi": "Cơ quan quản lý năng lượng tăng tốc phê duyệt mở rộng cơ sở xuất khẩu khí đốt",
-      "summary_en": "Energy regulators speed up approvals for gas export facility expansions NewsNation",
-      "meta": {}
-    },
-    {
-      "title": "GB Grid, Heat Pumps & EVs: This Week's Top Energy Stories - Energy Digital",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeEFDNFotelRTeGppN0dweFlaS0toMThoOEJCbmNPQ2p5QUxWVDVVV1lNMXFfTld2QlZybFZpcmxYVjc0VGphVFdjUE95MzdjY2ZHY1k3dHp4aVJsU256dW9WZjkzNVB3NmZQUFpUb0cyTmdVaF93c0xsWjhqcnNnRXV3QVhSeHB2ZXNF?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Sat, 17 Oct 2026 20:24:57 GMT",
-      "description": "GB Grid, Heat Pumps & EVs: This Week's Top Energy Stories Energy Digital",
-      "score": 0.0,
-      "title_vi": "GB Grid, Máy bơm nhiệt & xe điện: Những câu chuyện năng lượng hàng đầu trong tuần này - Energy Digital",
-      "title_en": "GB Grid, Heat Pumps & EVs: This Week's Top Energy Stories - Energy Digital",
-      "summary_vi": "GB Grid, Máy bơm nhiệt & xe điện: Câu chuyện năng lượng hàng đầu trong tuần này Năng lượng kỹ thuật số",
-      "summary_en": "GB Grid, Heat Pumps & EVs: This Week's Top Energy Stories Energy Digital",
-      "meta": {}
-    },
-    {
-      "title": "Energy transition reshapes Oman's hydrocarbons sector as producers focus on efficiency and emissions - The National Law Review",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTjJWSERkaXFOSGwwR0ZlN1MxLVdVZjJpQWtjTFI4aG93eFpxenYwVkR4cVJtREVkU0dweE83bGJsRFA4allBaWllV2VqVHB3ajB3eHNuaHFWUlFNZ1ZQSGVYeExUQ2JfZ0dNMUpvNkNVdWdvQzRiZjc1aVhmTjhzckR3VGtyZkdweVlLMHF1aF9kQ1NsNVV3SnJXdXpYSXZoNTd1SFlhX0NHcWNi?oc=5",
-      "source": "Google News Social Needs",
-      "category": "society",
-      "market": "global",
-      "published": "Sat, 17 Oct 2026 20:22:08 GMT",
-      "description": "Energy transition reshapes Oman's hydrocarbons sector as producers focus on efficiency and emissions The National Law Review",
-      "score": 0.0,
-      "title_vi": "Quá trình chuyển đổi năng lượng định hình lại ngành hydrocarbon của Ô-man khi các nhà sản xuất tập trung vào hiệu quả và lượng khí thải - Tạp chí Luật Quốc gia",
-      "title_en": "Energy transition reshapes Oman's hydrocarbons sector as producers focus on efficiency and emissions - The National Law Review",
-      "summary_vi": "Quá trình chuyển đổi năng lượng định hình lại ngành hydrocarbon của Ô-man khi các nhà sản xuất tập trung vào hiệu quả và khí thải Tạp chí Luật Quốc gia",
-      "summary_en": "Energy transition reshapes Oman's hydrocarbons sector as producers focus on efficiency and emissions The National Law Review",
       "meta": {}
     },
     {
@@ -433,12 +523,12 @@
       "category": "technology",
       "market": "global",
       "published": "Sat, 17 Oct 2026 20:07:33 +0000",
-      "description": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 46 # Comments: 46",
+      "description": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 103 # Comments: 112",
       "score": 0.0,
       "title_vi": "Chrome và Edge đang loại bỏ XSLT: cái gì bị hỏng và cái gì không",
       "title_en": "Chrome and Edge are removing XSLT: what breaks and what does not",
-      "summary_vi": "URL bài viết: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ URL bình luận: https://news.ycombinator.com/item?id=50134617 Điểm: 46 # Bình luận: 46",
-      "summary_en": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 46 # Comments: 46",
+      "summary_vi": "URL bài viết: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ URL bình luận: https://news.ycombinator.com/item?id=50134617 Điểm: 103 # Bình luận: 112",
+      "summary_en": "Article URL: https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/ Comments URL: https://news.ycombinator.com/item?id=50134617 Points: 103 # Comments: 112",
       "meta": {}
     },
     {
@@ -457,51 +547,6 @@
       "meta": {}
     },
     {
-      "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
-      "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Sat, 17 Oct 2026 18:45:07 +0000",
-      "description": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 34 # Comments: 35",
-      "score": 0.0,
-      "title_vi": "Microsoft và CMU hợp tác đào tạo kỹ sư phần mềm khởi nghiệp",
-      "title_en": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
-      "summary_vi": "URL bài viết: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise URL bình luận: https://news.ycombinator.com/item?id=50133830 Điểm: 34 # Bình luận: 35",
-      "summary_en": "Article URL: https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise Comments URL: https://news.ycombinator.com/item?id=50133830 Points: 34 # Comments: 35",
-      "meta": {}
-    },
-    {
-      "title": "Pattern Matching Beats Narrative Reasoning",
-      "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Sat, 17 Oct 2026 18:34:13 +0000",
-      "description": "Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative Comments URL: https://news.ycombinator.com/item?id=50133736 Points: 30 # Comments: 15",
-      "score": 0.0,
-      "title_vi": "Nhịp điệu phù hợp với khuôn mẫu Lý luận tường thuật",
-      "title_en": "Pattern Matching Beats Narrative Reasoning",
-      "summary_vi": "URL bài viết: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative URL bình luận: https://news.ycombinator.com/item?id=50133736 Điểm: 30 # Bình luận: 15",
-      "summary_en": "Article URL: https://blog.scottstevenson.net/p/pattern-matching-beats-narrative Comments URL: https://news.ycombinator.com/item?id=50133736 Points: 30 # Comments: 15",
-      "meta": {}
-    },
-    {
-      "title": "OpenCode Hacked: User credentials leaked",
-      "url": "https://twitter.com/opencode/status/2111516673953935833",
-      "source": "Hacker News",
-      "category": "technology",
-      "market": "global",
-      "published": "Sat, 17 Oct 2026 18:01:41 +0000",
-      "description": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 561 # Comments: 91",
-      "score": 0.0,
-      "title_vi": "OpenCode bị hack: Thông tin đăng nhập của người dùng bị rò rỉ",
-      "title_en": "OpenCode Hacked: User credentials leaked",
-      "summary_vi": "URL bài viết: https://twitter.com/opencode/status/2111516673953935833 URL bình luận: https://news.ycombinator.com/item?id=50133401 Điểm: 561 # Bình luận: 91",
-      "summary_en": "Article URL: https://twitter.com/opencode/status/2111516673953935833 Comments URL: https://news.ycombinator.com/item?id=50133401 Points: 561 # Comments: 91",
-      "meta": {}
-    },
-    {
       "title": "Chủ tịch Vietcombank cam kết giảm tối thiểu 2% lãi suất cho vay",
       "url": "https://vnexpress.net/chu-tich-vietcombank-cam-ket-giam-toi-thieu-2-lai-suat-cho-vay-5133686.html",
       "source": "VnExpress Kinh doanh",
@@ -513,7 +558,7 @@
       "title_vi": "Chủ tịch Vietcombank cam kết giảm tối thiểu 2% lãi suất cho vay",
       "title_en": "Vietcombank Chairman pledged to reduce lending interest rates by at least 2%.",
       "summary_vi": "Chủ tịch Vietcombank Nguyễn Thanh Tùng cho biết ngân hàng này cam kết từ nay đến cuối năm giảm tối thiểu 2% lãi suất cho vay để hỗ trợ doanh nghiệp.",
-      "summary_en": "Vietcombank Chairman Nguyen Thanh Tung said the bank is committed to reducing lending interest rates by at least 2% from now until the end of the year to support businesses.",
+      "summary_en": "Vietcombank Chairman Nguyen Thanh Tung said the bank is committed to reducing lending interest rates by at least 2% from now to the end of the year to support businesses.",
       "meta": {}
     },
     {
@@ -529,21 +574,6 @@
       "title_en": "The government wants to loosen IPO conditions",
       "summary_vi": "Chính phủ đề xuất giảm một số điều kiện chào bán cổ phiếu lần đầu ra công chúng (IPO) khi sửa đổi Luật Chứng khoán.",
       "summary_en": "The Government proposes to reduce some initial public offering (IPO) conditions when amending the Securities Law.",
-      "meta": {}
-    },
-    {
-      "title": "Trash for cash: Israel enters the plastic credit market, but will it reduce pollution? - Ynetnews",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XSjkwRmxXNC1oWXdkTGNQREZsMDd6WkxINHZxeC0zT2xvQjh1VGo0VThjZVlJbFZneldFU3BaajhJYUdvMHAzUVlIdDNaclJrWDlYVTV0eFdfR3NHb3Y1d014NGxwYUk?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Sat, 17 Oct 2026 16:23:10 GMT",
-      "description": "Trash for cash: Israel enters the plastic credit market, but will it reduce pollution? Ynetnews",
-      "score": 0.0,
-      "title_vi": "Rác lấy tiền mặt: Israel tham gia thị trường tín dụng nhựa, nhưng liệu có giảm được ô nhiễm? - Ynetnews",
-      "title_en": "Trash for cash: Israel enters the plastic credit market, but will it reduce pollution? - Ynetnews",
-      "summary_vi": "Rác lấy tiền mặt: Israel tham gia thị trường tín dụng nhựa, nhưng liệu có giảm được ô nhiễm? Ynetnews",
-      "summary_en": "Trash for cash: Israel enters the plastic credit market, but will it reduce pollution? Ynetnews",
       "meta": {}
     },
     {
@@ -574,36 +604,6 @@
       "title_en": "High debt, growing strains put focus on need for new development approaches - Reuters",
       "summary_vi": "Nợ cao, căng thẳng ngày càng tăng đặt trọng tâm vào nhu cầu về các phương pháp phát triển mới",
       "summary_en": "High debt, growing strains put focus on need for new development approaches Reuters",
-      "meta": {}
-    },
-    {
-      "title": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWDItdnNRZ1I5TEEtX25aZUpXbENWdE9HZkZKYzJTbVVPcVNWNE9QVjdyajdQOFhiUnd1LXJrSFdjaUdsMi04cGZIVE9sSzNHWnRNcU44Vk1semFiR0ZMcUp5c25xSlU0VFpoSVVuMkNKaDJ5VW5TQ2s5Z0UwODBLcWt6TUZJRGZtdnRlam05LWI2c3JDVXFDUHkwcTRZNjZDR3FONmI0RlRfN2xEcUYxX3FnMkxPckVlUFBERHFwdzFLUQ?oc=5",
-      "source": "Google News Reuters Finance",
-      "category": "finance",
-      "market": "global",
-      "published": "Sat, 17 Oct 2026 14:03:43 GMT",
-      "description": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says Reuters",
-      "score": 0.0,
-      "title_vi": "Ngân hàng Canada dự đoán triển vọng lạm phát cao hơn khi dầu tăng, Macklem nói - Reuters",
-      "title_en": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says - Reuters",
-      "summary_vi": "Ngân hàng Canada dự đoán triển vọng lạm phát cao hơn khi giá dầu tăng, Macklem nói",
-      "summary_en": "Bank of Canada sees sharply higher inflation outlook as oil surges, Macklem says Reuters",
-      "meta": {}
-    },
-    {
-      "title": "Mua bán vàng từ 5 triệu đồng một ngày phải thanh toán không tiền mặt",
-      "url": "https://vnexpress.net/mua-ban-vang-tu-5-trieu-dong-mot-ngay-phai-thanh-toan-khong-tien-mat-5133676.html",
-      "source": "VnExpress Kinh doanh",
-      "category": "finance",
-      "market": "vietnam",
-      "published": "Sat, 17 Oct 2026 21:00:57 +0700",
-      "description": "Từ 16/10, khách hàng mua, bán vàng có giá trị từ 5 triệu đồng trong ngày phải thanh toán không dùng tiền mặt, thay vì ngưỡng 20 triệu đồng như trước.",
-      "score": 0.0,
-      "title_vi": "Mua bán vàng từ 5 triệu đồng một ngày phải thanh toán không tiền mặt",
-      "title_en": "Buying and selling gold from 5 million VND a day must be paid without cash",
-      "summary_vi": "Từ 16/10, khách hàng mua, bán vàng có giá trị từ 5 triệu đồng trong ngày phải thanh toán không dùng tiền mặt, thay vì ngưỡng 20 triệu đồng như trước.",
-      "summary_en": "From October 16, customers buying and selling gold worth from 5 million VND per day must pay non-cash, instead of the previous threshold of 20 million VND.",
       "meta": {}
     }
   ],
